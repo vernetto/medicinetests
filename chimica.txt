@@ -1,0 +1,122 @@
+=== Massa atomica
+
+La massa atomica (ma) di un dato elemento è la media ponderata della massa degli isotopi presenti in natura. Trattandosi di una massa può essere espressa in grammi o kilogrammi. Tuttavia, poiché può assumere valori compresi tra i 10−25 kg e i 10−27 kg, è solitamente espressa in unità di massa atomica unificata (u) definita per convenzione come 1/12 della massa di un singolo atomo di carbonio-12 (isotopo stabile, non radioattivo e il più abbondante del carbonio) a riposo. Il maggiore contributo alla massa atomica è dato da protoni e neutroni del nucleo e per questo motivo il suo valore è quasi lo stesso del numero di massa[1][2].
+
+Tenendo presente che 1 Dalton è stato calcolato essere equivalente a 8-98 10−23 g[3], qualora si dividesse il valore della massa atomica per l'unità di massa atomica unificata o daltons per ottenere un rapporto, questa assumerebbe il valore di un numero adimensionale, chiamato “massa isotopica relativa”.
+
+La massa atomica di un elemento non va confusa con il numero di massa. La massa atomica (M:A), che si riferisce ad una media ponderata dei pesi atomici dei suoi naturali isotopi. Il numero di massa invece,si riferisce ai singoli atomi e varia solo al variare del numero di neutroni della specie considerata. Comunque, se uno degli isotopi di un elemento è presente in quantità prevalente rispetto agli altri, il valore della massa atomica di tale elemento espressa in u è quasi uguale al valore del numero di massa di tale isotopo.
+
+La massa atomica o massa isotopica relativa si riferisce infatti alla massa di una singola particella, ed è fondamentalmente diversa dalle quantità di peso atomico elementare (chiamato anche massa atomica relativa) e peso atomico standard. Entrambe le diciture si riferiscono a medie matematiche di valori di massa atomica relative a campioni di elementi presenti in natura. La maggior parte degli elementi possiede più di un nuclide stabile; per questi, tale media dipende dalla miscela dei nuclidi presenti, che può variare limitatamente ad una certa misura a seconda della fonte del campione, in quanto ogni nuclide possiede una massa caratteristica. I dati relativi alla massa atomica sono quindi comunemente riportati con molte più cifre significative rispetto alle misure del peso atomico, il quale è solitamente riferito a quel valore della massa atomica dell'isotopo più abbondante in natura dell'elemento considerato.
+
+La massa atomica degli atomi, ioni, o dei nuclei atomici è leggermente inferiore alla somma delle masse dei loro protoni costituenti, dei loro neutroni e dei loro elettroni, a causa della perdita di massa dovuta all'energia di legame (come da E = mc2).[4]
+Indice
+
+    1 La massa isotopica relativa
+    2 Termini simili per quantità differenti
+    3 Difetti di massa nelle masse atomiche
+    4 Misurazione delle masse atomiche
+    5 Conversione delle misure rilevate da u.m.a. a grammi
+    6 Relazione tra massa atomica, molecolare e molare
+    7 Storia
+    8 Note
+    9 Voci correlate
+    10 Collegamenti esterni
+
+La massa isotopica relativa
+
+La massa isotopica relativa, una proprietà di ogni singolo atomo, non deve essere confusa con la quantità media di "massa atomica relativa", equivalente a quella del peso atomico (vedi sopra), ed è una media di valori per più atomi di un determinato campione di un elemento chimico. È simile alla massa atomica, ed ha esattamente lo stesso valore numerico della massa atomica quando è espressa in u.m.a.. La massa isotopica relativa si differenzia però perché è un numero puro, senza unità di misura. Ciò è dovuto all'uso del rapporto in scala rispetto allo standard carbonio-12, e la parola “relativa” all'interno del termine “massa isotopica relativa” si riferisce appunto alla scala relativa al C-12. La massa isotopica relativa è quindi la massa di un dato isotopo quando questo valore è scalato dalla massa del carbonio-12.
+
+Nel caso relativo alla massa atomica, i non nuclidi diversi dal carbonio-12 possiedono dei valori esattamente interi di massa isotopica relativa. Per quanto invece riguarda la massa atomica relativa quando espresso in unità di massa atomiche unificata o Dalton, i relativi numeri di massa isotopica dei nuclidi diversi dal carbonio-12 non sono numeri interi, ma ci si avvicinano. Ciò è discusso nel seguito.
+Termini simili per quantità differenti
+
+La massa atomica e massa isotopica relativa sono talvolta confuse, oppure scorrettamente utilizzati come sinonimi della massa atomica relativa (anche nota come peso atomico). Tuttavia, il peso atomico rappresenta i termini di masse atomiche di media in campioni elementari, non per i singoli nuclidi. Detto questo, peso atomico e peso atomico standard spesso differiscono numericamente dalla massa isotopica relativa e dalla massa atomica, e possono anche avere differenti unità di misura. La massa atomica (massa isotopica relativa) è definita come la massa di un singolo atomo, che può essere solo un isotopo (nuclide) alla volta, e non è una media un'abbondanza ponderata, come nel caso della massa atomica relativa / peso atomico. La massa atomica o massa isotopica relativa di ogni isotopo e nuclide di un elemento chimico è quindi un numero che può essere misurato con grande precisione, dal momento che ogni esemplare di tale nuclide si pensa che sia esattamente identico a tutti gli altri campioni, come tutti gli atomi di un dato tipo allo stesso stato di energia, e ogni esemplare di un particolare nuclide, dovrebbero essere esattamente identici per massa ad ogni altro esemplare di tale nuclide. Nel caso di molti elementi che hanno un isotopo naturale (elementi mononuclidi) o un isotopo dominante, la di somiglianza / differenza numerica tra la massa atomica dell'isotopo più comune, e la massa atomica relativa (standard) o il peso atomico (standard) può essere di piccole dimensioni o addirittura pari a zero, e non influisce nella maggior parte dei calcoli di massa. Tuttavia, un tale errore può esistere e anche essere importante se si considera atomi individuali per gli elementi che non sono mononuclidi. Per gli elementi non mononuclidi che hanno più di un isotopo comune, la differenza numerica della massa atomica relativa (peso atomico), anche dalla massa isotopica relativa più comune, può essere mezza unità di massa o più. La massa atomica (massa isotopica relativa) di un isotopo non comune può differire dalla massa atomica relativa, peso atomico, o peso atomico standard di più unità di massa. Le masse atomiche espresse in unità di massa atomica (masse isotopiche relative) sono sempre vicino a valori di numeri interi, ma non hanno mai (tranne nel caso di carbonio-12) esattamente un numero intero come valore, per due motivi:
+
+    Protoni e neutroni hanno masse diverse, e diversi nuclidi hanno differenti rapporti di protoni e neutroni.
+    Le masse atomiche sono ridotte, in diversa misura, da parte delle loro energie di legame.
+
+Il rapporto tra massa atomica e numero di massa (numero di nucleoni) varia da circa 0,99884 per 56Fe a 1,00782505 milioni per 1H. Qualsiasi difetto di massa dovuto all'energia nucleare di legame è sperimentalmente una piccola frazione della massa dell'uguale numero di nucleoni liberi. Se comparato alla massa media per nucleone in carbonio-12, che è moderatamente fortemente legato rispetto ad altri atomi, il difetto di massa di legame per la maggior parte degli atomi è una frazione ancora più piccola di un Dalton (unità di massa atomica unificata, basata sul carbonio 12). Dal momento che protoni liberi e neutroni differiscono tra di loro in massa per una piccola frazione di Dalton (circa 0,0014 u), arrotondando la massa isotopica relativa, o la massa atomica di un qualunque nuclide data in Dalton al numero intero più vicino dà sempre il numero di nucleoni, o il numero di massa. Inoltre, il conteggio dei neutroni (numero di neutroni) può allora essere ricavato sottraendo il numero di protoni (numero atomico) dal numero di massa (conteggio nucleoni).
+Difetti di massa nelle masse atomiche
+
+La quantità del rapporto tra la massa atomica e il numero di massa che si discosta da 1 è il seguente: la deviazione positiva inizia all'idrogeno-1, poi diminuisce fino a raggiungere un minimo locale in elio-4. Gli isotopi del litio, berillio e boro sono meno fortemente legati dell'elio, come mostrato dai loro crescenti rapporti numerici massa a massa. Nel carbonio, il rapporto tra la massa (in dalton) e il numero di massa è definito come 1, e dopo il carbonio diventa meno di 1 fino a raggiungere un minimo in corrispondenza di ferro-56 (con valori di poco superiori a ghisa-58 e nichel-62), poi aumenta a valori positivi in isotopi pesanti, con un aumento del numero atomico. Ciò corrisponde al fatto che la fissione nucleare in un elemento più pesante dello zirconio produce energia, mentre la fissione in ogni elemento più leggero del niobio richiede energia. D'altra parte, la fusione nucleare di due atomi di un elemento più leggero dello scandio (eccetto l'elio) produce energia, mentre la fusione in elementi più pesanti del calcio richiede energia. La fusione di due atomi di elio-4 può dare berillio-8 e richiederebbe energia, ed il berillio cadrebbe rapidamente a pezzi di nuovo. Elio-4 può fondersi con trizio (H-3) o con elio-3, e questi processi si verificarono durante la nucleosintesi del Big Bang. La formazione di elementi con più di sette nucleoni richiede la fusione di tre atomi di elio-4 nel cosiddetto processo tre alfa, saltando litio, berillio, boro per produrre carbonio.
+Misurazione delle masse atomiche
+
+Un modo per misurare le masse degli atomi e un relativo confronto diretto si possono ottenere con l'uso della spettrometria di massa.
+Conversione delle misure rilevate da u.m.a. a grammi
+
+L'unità scientifica standard utilizzata per quantificare il peso di una sostanza in quantità macroscopiche è la mole (il cui simbolo è mol), definita arbitrariamente come la quantità di sostanza che possiede tanti atomi o molecole quanti atomi presenti in 12 grammi di carbonio-12. Il numero di atomi all'interno di una mole è stato definito come Costante di Avogadro, valore approssimativamente equivalente a 6,022 x 1023 . Una mole di una determinata sostanza pesa grossomodo tanto quanto la massa molecolare relativa caratteristica della sostanza (vedi sotto). Diversamente accade per la massa atomica, per la quale l'affermazione non sempre è veritiera, in quanto potrebbero esistere più isotopi di un determinato elemento. Ad esempio, la massa atomica relativa del ferro è 55,847 g/mol, ed una mole di metallo prelevato in natura ha appunto questa massa. Tuttavia la massa atomica dell'isotopo 56 Fe è 55,953 u. Tale quantità di 56 Fe allo stato puro però non è mai stata reperita (o ricavata) sulla Terra. Ci sono 22 elementi mononucleici dei quali si trova in natura soltanto un isotopo (esempi comuni sono fluoro, sodio, alluminio e fosforo) e per questi elementi i valori assunti dalla massa atomica relativa e dalla massa atomica sono equivalenti. Tali campioni possono quindi servire come standard di riferimento relativamente ad alcuni valori di massa atomica.
+Relazione tra massa atomica, molecolare e molare
+
+Definizione simile si può applicare anche alle molecole: si può calcolare la massa molecolare di un composto sommando via via i pesi atomici degli atomi costituenti, indicati nella formula chimica. Nel caso in cui lo stesso atomo si presenti più volte, la sua molteplicità (il numero di volte in cui compare) deve essere tenuto in considerazione, solitamente moltiplicando ogni singola massa per la sua ricorrenza. La massa molare, invece, è la massa in grammi di una sostanza che corrisponde a una mole ed è espressa in g/mol. Mentre la massa molare di un elemento è numericamente equivalente alla sua massa atomica relativa, quella di un composto corrisponde alla massa molecolare.[3]
+Storia
+
+Articoli principali: storia della chimica e unità di massa atomica I primi scienziati a determinare le masse atomiche relative furono John Dalton e Thomas Thomson tra il 1803 e il 1805 e Jöns Jakob Berzelius tra il 1808 e il 1826. La massa atomica relativa (peso atomico) è stata originariamente definito rispetto a quella dell'elemento più leggero, l'idrogeno, che è stato preso come 1,00, e nel 1820 le ipotesi di Proust dichiararono che i pesi atomici di tutti gli elementi sarebbero stati multipli esatti di quello dell'idrogeno. Berzelius, tuttavia, ben presto dimostrò che questo non era neppure approssimativamente vero, e per alcuni elementi, come il cloro, la massa atomica relativa, a circa 35,5, cade quasi esattamente a metà tra due multipli interi di quella dell'idrogeno. Ancora più tardi, questo fu dimostrato essere in gran parte a causa di una miscela di isotopi, e che i pesi atomici di isotopi puri o nuclidi, sono multipli della massa di idrogeno, entro circa 1%. Nel 1860 Stanislao Cannizzaro ridefinì le masse atomiche relative applicando il principio di Avogadro. Formulò una legge per determinare le relative masse atomiche di elementi: diverse quantità dello stesso elemento contenute in diverse molecole sono tutte multipli interi del peso atomico e determinano le masse atomiche relative e le masse molecolari confrontando la densità del vapore di una raccolta di gas con molecole contenenti una o più molecole dell'elemento chimico in questione. Nel XX secolo, fino al 1960, chimici e fisici hanno usato due diverse scale atomiche di massa. I chimici usavano una scala chiamata "unità di massa atomica" (uma) tale che il miscuglio naturale di isotopi di ossigeno abbia una massa atomica 16, mentre i fisici assegnarono lo stesso numero 16 solo alla massa atomica dell'isotopo più comune di ossigeno (ossigeno-16, contenente otto protoni e otto neutroni). Tuttavia, l'ossigeno-17 e ossigeno-18 sono presenti in ossigeno naturale anche. Questo ha portato a due diverse tabelle di massa atomica. La scala unificata a base di carbonio-12, 12C, ha incontrato 'necessità di basare la bilancia su un isotopo puro, pur essendo numericamente vicino alla scala usata dai chimici. Il termine “peso atomico” venne sostituito dal termine “massa atomica relativa”, nella maggior parte dei casi. Questo cambiamento di nomenclatura risale al 1960 ed è stata la fonte di molte discussioni nella comunità scientifica, che è stata innescata con l'adozione della unità di massa atomica e la realizzazione che “peso” era in qualche modo un termine inappropriato. L'argomento per mantenere il termine "peso atomico" era soprattutto che era un termine ben compreso, che il termine "massa atomica" era già in uso (come è attualmente definito) e che il termine "massa atomica relativa" poteva facilmente essere confusa con massa isotopica relativa (la massa di un singolo atomo di un dato nuclide, espresso senza dimensione relativa a 1/12 della massa del carbonio-12). Nel 1979, come compromesso, il termine "massa atomica relativa" è stato introdotto come sinonimo secondario per peso atomico. Venti anni dopo il primato di questi sinonimi si è invertita, e il termine " massa atomica relativa" è ora il termine più usato.
+Note
+
+    ^ La massa di neutroni e protoni, infatti, è pari a circa 1 836 volte quella degli elettroni, cosicché la massa di questi ultimi è trascurabile.
+    ^ Paolo Silvestroni, Fondamenti di Chimica, Roma, 1968.
+
+    Alberto Bargellini, Chimica Società Ambiente, Milano, Carlo Signorelli Editore, 1998.
+    ^ Atomic mass, Encyclopædia Britannica on-line
+
+
+
+=== Numero atomico
+
+Il numero atomico (indicato solitamente con Z, dal termine tedesco Zahl, che significa numero, e detto anche numero protonico) corrisponde al numero di protoni contenuti in un nucleo atomico[1]. In un atomo neutro il numero atomico è pari anche al numero di elettroni; in caso contrario si è in presenza di uno ione. Si usa scrivere questo numero come pedice sinistro del simbolo dell'elemento chimico in questione: per esempio 6C, poiché il carbonio ha sei protoni.
+
+A ogni numero atomico corrisponde un diverso elemento chimico, il quale viene collocato nella tavola periodica proprio in funzione del relativo valore di Z. La legge di Moseley permette di ricavare il numero atomico di un dato elemento misurando la frequenza della riga caratteristica corrispondente all'emissione di raggi X.
+
+Atomi aventi stesso numero atomico ma diverso numero di neutroni sono detti isotopi e differiscono fra loro per il diverso numero di massa, indicato con A e dato dalla somma del numero di protoni e neutroni totali (nucleoni). 
+
+La costruzione di una tabella periodica degli elementi crea un ordinamento degli elementi, che quindi possono essere numerati in un certo ordine.
+
+Dmitri Mendeleev affermò di aver organizzato le sue prime tavole periodiche in ordine di peso atomico (Atomgewicht). Tuttavia, considerando le proprietà chimiche osservate degli elementi, egli cambiò leggermente l'ordine e pose il tellurio (peso atomico 127,6) davanti allo iodio (peso atomico 126,9)[2]. Questa sua intuizione risulterà coerente con la prassi moderna di ordinare gli elementi in base al numero di protoni, Z, seppure il concetto di numero atomico non fosse ancora noto a quell'epoca. 
+
+Ad ogni modo, una semplice numerazione in base alla posizione nella tavola periodica non fu mai del tutto soddisfacente. Oltre al caso dello iodio e del tellurio, successivamente diverse altre coppie di elementi (come argon e potassio, cobalto e nichel) presentarono lo stesso problema necessitando, sulla base delle proprietà chimiche osservate, di invertire la loro posizione nella tavola periodica basata sui pesi atomici[3].
+Il modello atomico di Rutherford e l'ipotesi di van den Broek
+
+Nel 1911 Ernest Rutherford, dopo avere effettuato il suo noto esperimento della lamina d'oro, formulò un nuovo modello atomico in cui la massa era concentrata in un nucleo caricato positivamente e avente un valore di carica approssimativamente uguale alla metà della massa atomica dell'atomo. A distanza di un mese in cui Rutherford pubblicò i risultati dei suoi esperimenti, il fisico olandese Antonius van den Broek divenne il primo a comprendere l'esistenza di una relazione tra il numero associato a un elemento nella tavola periodica e la carica del suo nucleo atomico[4].
+L'esperimento di Moseley
+
+Henry Moseley, nel 1913, si propose di verificare sperimentalmente quanto asserito da van den Broek basandosi sul modello atomico di Bohr. Egli bombardò con un flusso di elettroni una serie di elementi disposti consecutivamente nella tavola periodica misurando la frequenza dei raggi X da essi emessi. Trovò che la radice quadrata della frequenza aumentava, progredendo nell'ordine stabilito dalla tavola periodica, all'aumentare della carica del nucleo atomico che corrispondeva proprio al numero atomico. Ordinando quindi gli elementi in ordine crescente di numero atomico, piuttosto che basandosi sul peso atomico, fu possibile superare anche le incongruenze notate da Mendeleev con la sua classificazione periodica.
+
+Si dovette comunque attendere la scoperta del neutrone, avvenuta nel 1932 grazie a James Chadwick, per chiarire definitivamente la struttura atomica in modo corretto. 
+
+
+
+=== Numero di massa
+
+
+
+
+Il numero di massa (solitamente indicato con A) è pari al numero di nucleoni (cioè protoni e neutroni) presenti in un atomo.[1][2]
+
+Quando di un elemento si vuole specificare il numero di massa, lo si scrive in alto (in posizione apice), a sinistra del simbolo chimico.[2] Ad esempio, per l'atomo del carbonio, con numero di massa 12 si rappresenta la somma dei suoi 6 protoni e dei rispettivi neutroni: 12C.
+
+Nuclidi diversi con lo stesso numero di massa vengono detti isobari. 
+
+Numero di massa e massa dei nucleoni
+Poiché le masse di neutroni e protoni non legati sono circa pari a 1 uma, in prima approssimazione il valore del numero di massa può essere considerato uguale in termini numerici al valore della somma delle masse in uma dei neutroni e dei protoni. Sebbene tali valori siano quasi identici numericamente, non è però corretto esprimere il numero di massa in termini di massa in uma di neutroni + protoni, in quanto il numero di massa è un numero adimensionale, mentre la massa di neutroni e protoni non è un numero adimensionale (infatti ha le dimensioni di una massa).
+
+Inoltre, il numero di massa è sempre identificato da un numero naturale (cioè un numero intero positivo), mentre la massa dei nucleoni in uma, che possiamo approssimare alla massa atomica (essendo la massa degli elettroni trascurabile rispetto alla massa dei nucleoni), è rappresentata da un numero reale. Ad esempio la massa atomica del 24Mg è pari a circa 23,985 uma, mentre il suo numero di massa è pari a 24.[2] 
+
+
+
+
+=== pH
+
+Il pH è una scala di misura dell'acidità o della basicità di una soluzione acquosa.
+
+Il termine "pH" fu introdotto nel 1909 dal chimico danese Søren Sørensen.[1]
+
+Il termine p (operatore) simboleggia due operazioni matematiche da effettuare sull'attività dello ione ossonio (idrossonio) in soluzione acquosa, ovvero il logaritmo in base 10 dell'attività e quindi il cambio di segno del risultato (moltiplicazione per -1). Naturalmente, per le proprietà dei logaritmi, si ottiene il medesimo risultato anche calcolando il logaritmo del reciproco dell'attività degli ioni ossonio.
+
+Pertanto, si definisce in maniera rigorosa come:[2] 
+
+
+
+Convenzionalmente, il pH di soluzioni acquose assume valori compresi fra 0 (massima acidità) e 14 (massima basicità). Al valore intermedio di 7 corrisponde la condizione di neutralità, tipica dell'acqua pura a 25 °C.
+
+Il pH può essere misurato per via elettrica, sfruttando il potenziale creato dalla differenza di concentrazione di ioni idrogeno su due lati di una membrana di vetro (si veda piaccametro), o per via chimica, sfruttando la capacità di alcune sostanze (dette indicatori) di modificare il loro colore in funzione del pH dell'ambiente in cui si trovano. Normalmente, sono sostanze usate in soluzione, come per esempio la fenolftaleina e il blu di bromotimolo.
+
+Molto spesso gli indicatori si usano anche supportati su strisce di carta (le cosiddette "cartine indicatrici universali"), le quali cambiano colore quando vengono immerse in sostanze acide o basiche. L'esempio più comune è quello delle "cartine di tornasole", di colore rosa in ambiente acido e azzurro in ambiente alcalino. 
