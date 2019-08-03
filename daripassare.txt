@@ -576,3 +576,29 @@ E) si ossida, quindi è l'agente ossidante perché ossida l'altra specie chimica
 
 cos(A + B) = cos A cos B − sin A sin B
 
+57. L'energia interna di un gas perfetto è:
+A) la somma delle energie cinetiche delle diverse molecole
+B) la somma delle energie cinetiche e potenziali delle diverse molecole
+C) inversamente proporzionale alla temperatura
+D) la temperatura del gas
+E) nessuna delle altre risposte è corretta
+
+
+=== 2014-2015
+
+28. Nelle cellule eucariotiche animali, il DNA è contenuto:
+A) nel nucleo e nei mitocondri
+B) nel nucleo e nei ribosomi
+C) in tutti i compartimenti cellulari
+D) solo nel nucleo
+E) nel nucleo e nei perossisomi
+
+
+sistema nervoso autonomo -> funzioni vegetative, omeostasi
+simpatico -> fight or flight
+parasimpatico -> viscero-sensitive e somato-sensitive
+
+sistole atriale, che corrisponde alla contrazione dei soli atri e serve a travasare il sangue nei ventricoli
+sistole ventricolare, che corrisponde alla contrazione dei soli ventricoli e serve a pompare il sangue nei vasi sanguigni
+
+
