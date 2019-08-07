@@ -593,6 +593,163 @@ C) in tutti i compartimenti cellulari
 D) solo nel nucleo
 E) nel nucleo e nei perossisomi
 
+43. Il solfito acido di sodio corrisponde a:
+A) NaHSO3
+B) NaSO3
+C) NaHSO4
+D) Na2SO3
+E) NaHS
+
+45. L'ossido di potassio, posto in acqua, forma:
+A) una soluzione basica
+B) un sale
+C) una soluzione acida
+D) potassio libero
+E) idruro di potassio
+
+
+49. Il calcio è un:
+A) metallo alcalino terroso
+B) metallo di transizione
+C) metallo alcalino
+D) metallo terroso
+E) non metallo
+
+=== 2015-2016
+
+24. Un processo patologico che alteri il controllo della concentrazione di proteine ed
+elettroliti fra l’interno e l’esterno della cellula verosimilmente potrebbe essere localizzato:
+A) nella membrana cellulare
+B) nell’apparato di Golgi
+C) nei lisosomi
+D) nei mitocondri
+E) nel tubulo renale
+
+25. Gli esoni sono:
+A) sequenze di DNA codificanti
+B) RNA non codificanti
+C) sequenze di DNA non codificanti
+D) regioni specializzate di proteine
+E) organelli citoplasmatici
+
+26. I prodotti della digestione sono assorbiti principalmente a livello:
+A) dell’intestino tenue e immessi in parte nei capillari e in parte nei vasi linfatici
+B) dell’intestino crasso e immessi nella circolazione linfatica ed ematica
+C) dello stomaco le proteine, dell’intestino tenue i lipidi e del crasso i glucidi
+D) del colon e immessi in parte nei capillari e in parte nei vasi linfatici
+E) del colon e selezionati secondo la funzione
+
+
+27. A seguito del riconoscimento dell’antigene, un linfocita T helper:
+A) prolifera
+B) degranula
+C) extravasa
+D) dedifferenzia
+E) produce anticorpi
+
+
+28. La cellulosa è:
+A) un polimero del β-glucosio
+B) un polimero dell’α-glucosio
+C) un monosaccaride con funzione strutturale
+D) una catena di peptidi
+E) un polisaccaride con funzione di riserva energetica
+
+29. Nel corso della gametogenesi, i cromosomi vanno incontro a:
+A) una replicazione e due divisioni
+B) due replicazioni e due divisioni
+C) due replicazioni e una divisione
+D) una divisione e due interfasi
+E) due divisioni senza nessuna replicazione
+
+30. Il lisosoma è un vacuolo citoplasmatico:
+A) contenente enzimi idrolitici
+B) in cui si svolge la sintesi proteica
+C) contenente enzimi ossidativi che demoliscono il perossido di idrogeno
+D) contenente sostanze di riserva
+E) in cui si svolge la maggior parte delle reazioni cataboliche del metabolismo cellulare
+
+31. Le fasi del ciclo cellulare sono, nell’ordine:
+A) G1 – S – G2 – M
+B) M – S – G1 – G2
+C) G1 – G2 – S – M
+D) G1 – M – S – G2
+E) S – G1 – G2 – M
+
+
+35. Dove avviene lo splicing dell’RNA?
+A) Nel nucleo cellulare
+B) Nei virus a RNA
+C) Nei cloroplasti
+D) Nelle cellule procariotiche
+E) Nei ribosomi
+
+
+=== 2016-2017
+
+32. Come si dividono le cellule procariote?
+A) Per fissione binaria
+B) Per scissione semplice
+C) Per mitosi
+D) Per meiosi
+E) Nessuna delle altre alternative è corretta
+
+33. Le elicasi nella duplicazione del DNA:
+A) rompono i legami a idrogeno che mantengono unite le due emieliche
+B) rompono i legami fosfodiesterici tra i nucleotidi dello stesso filamento
+C) rompono i legami covalenti che mantengono unite le due emieliche
+D) mantengono distese le due emieliche del DNA
+E) rompono i legami a idrogeno tra i nucleotidi dello stesso filamento
+
+
+34. Quale delle seguenti affermazioni sulla RNA polimerasi è corretta?
+A) Trascrive sia gli esoni sia gli introni
+B) Può produrre molte catene polipeptidiche contemporaneamente tramite la formazione di
+poliribosomi
+C) Produce solo mRNA
+D) Ha una funzione nella traduzione
+E) Crea legami covalenti tra i nucleotidi del DNA e i nucleotidi complementari dell'RNA
+
+35. Che cos'è il peptidoglicano?
+A) Il componente fondamentale della parete cellulare batterica
+B) Una glicoproteina che viene sintetizzata dai batteri
+C) Il componente fondamentale della parete cellulare delle cellule vegetali
+D) Il componente fondamentale della parete cellulare dei soli batteri gram-negativi
+E) Il componente fondamentale della parete cellulare delle cellule animali
+
+40. Cosa sono i vertebrati terrestri, e quindi l'uomo?
+A) Ureotelici
+B) Ammoniotelici
+C) Uricotelici
+D) Ureotelici, ammoniotelici e uricotelici
+E) Nessuna delle altre alternative è corretta
+
+
+44. Se la soluzione acquosa 0,1 M di una sostanza ha un pH uguale 4,5, la sostanza in
+soluzione è:
+A) un acido debole
+B) un acido forte
+C) una sostanza neutra
+D) una base di Lewis
+E) acido cloridrico
+
+48. Quale dei seguenti composti organici presenta nella sua molecola un triplo legame C-C?
+A) C2H2
+B) CH4
+C) C2H5NH2
+D) HCOOH
+E) CH3NH2
+
+52. La somma algebrica dei numeri di ossidazione degli atomi di NH4+ è:
+A) +1
+B) 0
+C) –1
+D) –4
+E) +4
+
+
+
+
 
 sistema nervoso autonomo -> funzioni vegetative, omeostasi
 simpatico -> fight or flight
