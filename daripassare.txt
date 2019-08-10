@@ -748,6 +748,47 @@ D) –4
 E) +4
 
 
+====== 2017-2018
+
+28. Da una cellula nervosa viene prelevato materiale patogeno infettante. In esso viene
+isolata una proteina con una sequenza di amminoacidi uguale a quella di una proteina
+presente nella cellula ospite, ma non viene riscontrata la presenza di acidi nucleici.
+Cosa si può dedurre?
+A) Il materiale infettante è costituito da un prione
+B) Il materiale infettante è costituito da un viroide
+C) Si può escludere che il materiale infettante sia un virus, un batterio, un fungo o un prione
+perchè in ogni caso si sarebbe dovuta riscontrare la presenza di acidi nucleici
+D) Il materiale infettante è costituito dal residuo di un chemioterapico, probabilmente un
+anticorpo monoclonale
+E) Non si può mai riscontrare una situazione come quella descritta perché non esistono
+organismi privi di acidi nucleici
+
+
+37. Solo una delle seguenti classi di sequenze nucleotidiche è comune alle librerie
+genomiche e di cDNA:
+A) esoni
+B) introni
+C) sequenze ripetute in tandem
+D) sequenze intergeniche
+E) promotori
+
+
+43. Quale tra le seguenti reazioni NON è tipica degli alcani?
+A) Addizione elettrofila
+B) Sostituzione
+C) Deidrogenazione
+D) Alogenazione
+E) Combustione
+
+
+44. Il composto HCOOH è:
+A) un acido carbossilico
+B) un fenolo
+C) un alcool
+D) un'ammina
+E) l'acido carbonico
+
+
 
 
 
@@ -758,4 +799,8 @@ parasimpatico -> viscero-sensitive e somato-sensitive
 sistole atriale, che corrisponde alla contrazione dei soli atri e serve a travasare il sangue nei ventricoli
 sistole ventricolare, che corrisponde alla contrazione dei soli ventricoli e serve a pompare il sangue nei vasi sanguigni
 
+gamete= spermatozoo o ovulo (23 cromosomi)
 
+numero atomico= numero di protoni
+numero di massa= protoni + neutroni
+idrocarburi= solo C e H
