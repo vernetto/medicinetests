@@ -96,13 +96,13 @@ L'acqua è un **solvente polare**: scioglie bene le sostanze polari e ioniche (d
 I carboidrati (o glucidi) hanno formula generale **(CH₂O)ₙ**. Si dividono in:
 
 **Monosaccaridi** (zuccheri semplici):
-- **Glucosio** (C₆H₁₂O₆): principale fonte di energia per le cellule
-- **Fruttosio**: zucchero della frutta, isomero del glucosio
-- **Galattosio**: componente del lattosio
-- **Ribosio** (C₅H₁₀O₅): componente dell'RNA
-- **Desossiribosio**: componente del DNA
+- **Glucosio** C₆H₁₂O₆ principale fonte di energia per le cellule
+- **Fruttosio**: C₆H₁₂O₆ zucchero della frutta, isomero del glucosio
+- **Galattosio**: C₆H₁₂O₆ componente del lattosio
+- **Ribosio** C₅H₁₀O₅ componente dell'RNA
+- **Desossiribosio**: C₅H₁₀O₄ componente del DNA
 
-**Disaccaridi** (formati da due monosaccaridi con legame glicosidico):
+**Disaccaridi** C₁₂H₂₂O₁₁ (formati da due monosaccaridi con legame glicosidico):
 - **Saccarosio** = glucosio + fruttosio (zucchero da cucina)
 - **Maltosio** = glucosio + glucosio (prodotto della digestione dell'amido)
 - **Lattosio** = glucosio + galattosio (zucchero del latte)
