@@ -1,0 +1,1744 @@
+CORSO AUDIO APPROFONDITO PER IL TEST DI AMMISSIONE ALLE PROFESSIONI SANITARIE
+Biologia, Anatomia e Fisiologia, Chimica, Fisica
+Volume 1 - Fondamenti spiegati con metodo
+
+Pensato per essere trasformato in audiolibro.
+Stile: spiegazione lenta, progressiva, con ripetizioni utili all’ascolto.
+Obiettivo: non solo ricordare, ma capire i meccanismi.
+
+======================================================================
+COME USARE QUESTO AUDIOCORSO
+======================================================================
+
+Questo corso non è una lista di definizioni. È un percorso.
+
+Per il test di professioni sanitarie servono tre abilità:
+primo, riconoscere rapidamente i concetti;
+secondo, collegare concetti diversi;
+terzo, non cadere nei tranelli delle domande a risposta multipla.
+
+Mentre ascolti in bici, non devi fermarti a memorizzare ogni dettaglio.
+Devi creare familiarità.
+
+Quando senti una parola come mitocondrio, devi associare subito:
+energia, ATP, respirazione cellulare, ossigeno, catena di trasporto degli elettroni.
+
+Quando senti una parola come rene, devi associare:
+nefrone, filtrazione, riassorbimento, secrezione, equilibrio idrico, pressione, pH.
+
+Quando senti una parola come pH, devi associare:
+ioni idrogeno, acidità, scala logaritmica, tamponi, sangue, respirazione, bicarbonato.
+
+Questo è il modo giusto di studiare per i test: costruire reti, non mucchi di nozioni.
+
+======================================================================
+PARTE PRIMA - BIOLOGIA GENERALE E CELLULARE
+======================================================================
+
+LEZIONE 1 - LA LOGICA DELLA VITA
+
+La vita non è caos. La vita è ordine mantenuto consumando energia.
+
+Questa frase è importantissima.
+
+Un organismo vivente è un sistema ordinato. Ma l’ordine non si mantiene da solo.
+Una casa lasciata a sé stessa si rovina. Una macchina lasciata ferma arrugginisce.
+Anche una cellula, se non consuma energia, perde il proprio equilibrio e muore.
+
+Per questo in biologia troviamo sempre tre idee fondamentali:
+struttura, funzione, energia.
+
+La struttura è come una cosa è fatta.
+La funzione è che cosa fa.
+L’energia è ciò che permette alla funzione di avvenire.
+
+Esempio.
+Il mitocondrio ha una struttura fatta di membrane.
+Queste membrane non sono decorative.
+Servono a creare compartimenti, gradienti e superfici.
+La funzione del mitocondrio è produrre ATP.
+L’energia viene ricavata dalla demolizione controllata delle molecole nutritive.
+
+Altro esempio.
+Il polmone ha milioni di alveoli.
+Questa struttura aumenta enormemente la superficie.
+La funzione è scambiare ossigeno e anidride carbonica.
+L’energia non è prodotta dal polmone direttamente, ma il polmone fornisce l’ossigeno necessario ai mitocondri.
+
+La vita dipende anche dall’omeostasi.
+Omeostasi significa mantenere condizioni interne compatibili con la vita.
+
+Non significa che tutto resta immobile.
+Significa che molti valori oscillano entro limiti stretti.
+
+La temperatura corporea deve restare vicina a un valore compatibile con il funzionamento degli enzimi.
+Il pH del sangue deve restare tra circa 7,35 e 7,45.
+La glicemia deve restare in un intervallo controllato.
+La quantità di acqua e sali deve essere regolata.
+
+Il corpo umano è quindi una macchina dinamica, non statica.
+Mangia, respira, elimina, regola, ripara, difende, si adatta.
+
+Domanda da test:
+Se un organismo mantiene stabile la propria temperatura interna nonostante variazioni dell’ambiente, quale proprietà mostra?
+Risposta: omeostasi.
+
+Attenzione al tranello:
+omeostasi non significa assenza di cambiamento. Significa regolazione.
+
+
+LEZIONE 2 - ATOMI, MOLECOLE E VITA
+
+Prima di parlare di cellule, bisogna parlare di molecole.
+
+La vita è fatta di materia.
+La materia è fatta di atomi.
+Gli atomi si legano formando molecole.
+Le molecole biologiche formano cellule.
+Le cellule formano tessuti.
+I tessuti formano organi.
+Gli organi formano apparati.
+Gli apparati formano l’organismo.
+
+Questa gerarchia è fondamentale.
+
+Gli elementi più importanti per la vita sono carbonio, idrogeno, ossigeno, azoto, fosforo e zolfo.
+Una sigla utile è CHNOPS:
+carbonio, idrogeno, azoto, ossigeno, fosforo, zolfo.
+
+Il carbonio è centrale perché può formare quattro legami covalenti.
+Questo gli permette di costruire catene, anelli e strutture ramificate.
+Le grandi molecole biologiche sono basate su scheletri di carbonio.
+
+L’acqua è la molecola più abbondante negli organismi.
+L’acqua è polare.
+Questo significa che ha una distribuzione asimmetrica delle cariche.
+L’ossigeno attira gli elettroni più dell’idrogeno.
+La zona dell’ossigeno è parzialmente negativa.
+Le zone degli idrogeni sono parzialmente positive.
+
+Questa polarità permette all’acqua di formare legami a idrogeno.
+I legami a idrogeno sono più deboli dei legami covalenti, ma sono numerosissimi e molto importanti.
+
+Grazie ai legami a idrogeno, l’acqua ha proprietà speciali:
+è un ottimo solvente per molte sostanze polari e ioniche;
+ha alto calore specifico;
+ha coesione e adesione;
+partecipa a molte reazioni biologiche.
+
+Perché l’alto calore specifico è importante?
+Perché l’acqua cambia temperatura lentamente.
+Un organismo ricco di acqua resiste meglio agli sbalzi termici.
+
+Domanda da test:
+Perché l’acqua è un buon solvente per il sale?
+Risposta: perché è polare e può interagire con gli ioni sodio e cloruro.
+
+Attenzione:
+l’acqua non scioglie bene tutte le sostanze. Scioglie bene molte sostanze polari e ioniche, ma non scioglie bene i grassi, che sono apolari.
+
+
+LEZIONE 3 - LE BIOMOLECOLE: CARBOIDRATI, LIPIDI, PROTEINE, ACIDI NUCLEICI
+
+Le principali biomolecole sono quattro:
+carboidrati, lipidi, proteine e acidi nucleici.
+
+I carboidrati sono molecole formate da carbonio, idrogeno e ossigeno.
+Spesso hanno formula approssimativa CH2O ripetuta.
+Servono soprattutto come fonte energetica e, in alcuni casi, come materiale strutturale.
+
+Il glucosio è un monosaccaride.
+È una delle principali fonti di energia per le cellule.
+L’amido è un polisaccaride di riserva delle piante.
+Il glicogeno è un polisaccaride di riserva degli animali.
+La cellulosa è un polisaccaride strutturale delle piante.
+
+Attenzione:
+amido, glicogeno e cellulosa sono tutti formati da glucosio, ma hanno legami e strutture diverse.
+Per questo hanno funzioni diverse.
+Il nostro corpo digerisce l’amido, ma non digerisce la cellulosa.
+
+I lipidi sono molecole poco solubili in acqua.
+Comprendono trigliceridi, fosfolipidi, steroidi e cere.
+I trigliceridi sono riserve energetiche molto concentrate.
+I fosfolipidi formano le membrane cellulari.
+Gli steroidi comprendono colesterolo e molti ormoni.
+
+I grassi contengono molta energia perché sono molto ridotti, cioè ricchi di elettroni e legami carbonio-idrogeno.
+Quando vengono ossidati, liberano molta energia.
+
+Le proteine sono polimeri di amminoacidi.
+Gli amminoacidi sono uniti da legami peptidici.
+Una proteina non è solo una catena: è una catena ripiegata in una forma precisa.
+La forma determina la funzione.
+
+Le proteine possono essere:
+enzimi,
+trasportatori,
+recettori,
+strutture,
+ormoni,
+anticorpi,
+componenti contrattili.
+
+Gli enzimi sono proteine che accelerano le reazioni chimiche.
+L’emoglobina è una proteina di trasporto.
+Gli anticorpi sono proteine di difesa.
+Actina e miosina sono proteine contrattili.
+
+Gli acidi nucleici sono DNA e RNA.
+Sono polimeri di nucleotidi.
+Ogni nucleotide contiene:
+uno zucchero,
+un gruppo fosfato,
+una base azotata.
+
+Il DNA conserva l’informazione genetica.
+L’RNA partecipa all’espressione dell’informazione genetica.
+
+Domanda da test:
+Quale biomolecola ha funzione principale di catalizzatore biologico?
+Risposta: le proteine, in particolare gli enzimi.
+
+Domanda da test:
+Quale classe di molecole forma il doppio strato della membrana cellulare?
+Risposta: i fosfolipidi.
+
+
+LEZIONE 4 - LA CELLULA PROCARIOTICA ED EUCARIOTICA
+
+La cellula è l’unità fondamentale della vita.
+Tutti gli organismi viventi sono formati da cellule.
+
+Le cellule possono essere procariotiche o eucariotiche.
+
+Le cellule procariotiche sono più semplici.
+Non hanno un nucleo delimitato da membrana.
+Il DNA si trova in una regione chiamata nucleoide.
+Non hanno organelli delimitati da membrana.
+Hanno ribosomi.
+Hanno membrana plasmatica.
+Spesso hanno parete cellulare.
+
+I batteri sono procarioti.
+
+Le cellule eucariotiche sono più complesse.
+Hanno un nucleo delimitato da membrana.
+Hanno organelli specializzati.
+Sono più grandi in media delle procariotiche.
+Le cellule animali, vegetali, dei funghi e dei protisti sono eucariotiche.
+
+La differenza principale non è “avere DNA oppure no”.
+Tutte le cellule hanno DNA.
+La differenza principale è dove si trova il DNA e come è organizzata la cellula.
+
+Le cellule eucariotiche hanno compartimenti.
+Un compartimento permette di separare funzioni diverse.
+Il nucleo protegge e organizza il DNA.
+Il reticolo endoplasmatico produce e trasporta molecole.
+L’apparato di Golgi modifica e smista.
+I mitocondri producono ATP.
+I lisosomi digeriscono.
+I perossisomi ossidano sostanze e neutralizzano composti tossici.
+
+La cellula vegetale ha alcune strutture caratteristiche:
+parete cellulare di cellulosa,
+cloroplasti,
+grande vacuolo centrale.
+
+La cellula animale non ha parete di cellulosa e non ha cloroplasti.
+Ha centrioli, importanti nella divisione cellulare.
+
+Domanda da test:
+I ribosomi sono presenti nei procarioti?
+Risposta: sì. I ribosomi sono presenti sia nei procarioti sia negli eucarioti.
+
+Tranello:
+dire che i procarioti non hanno organelli non significa che non hanno ribosomi. I ribosomi non sono delimitati da membrana.
+
+
+LEZIONE 5 - LA MEMBRANA PLASMATICA
+
+La membrana plasmatica non è un sacchetto passivo.
+È una struttura dinamica, selettiva e intelligente.
+
+La membrana delimita la cellula.
+Controlla gli scambi.
+Riceve segnali.
+Permette il riconoscimento cellulare.
+Mantiene differenze tra interno ed esterno.
+
+È formata da un doppio strato di fosfolipidi.
+Ogni fosfolipide ha una testa idrofila e due code idrofobe.
+Le teste guardano verso l’acqua.
+Le code si nascondono all’interno, lontano dall’acqua.
+
+Nella membrana ci sono proteine.
+Alcune proteine formano canali.
+Altre funzionano da trasportatori.
+Altre sono recettori.
+Altre servono all’adesione tra cellule.
+Altre sono enzimi.
+
+Il modello della membrana si chiama mosaico fluido.
+Mosaico perché contiene molti componenti diversi.
+Fluido perché i componenti possono muoversi lateralmente.
+
+Il colesterolo, nelle membrane animali, regola la fluidità.
+Se la membrana è troppo rigida, funziona male.
+Se è troppo fluida, perde stabilità.
+
+Il trasporto attraverso la membrana può essere passivo o attivo.
+
+Il trasporto passivo non consuma ATP.
+Segue il gradiente di concentrazione.
+Comprende diffusione semplice, diffusione facilitata e osmosi.
+
+La diffusione semplice riguarda molecole piccole e apolari, come ossigeno e anidride carbonica.
+
+La diffusione facilitata usa proteine di membrana, ma non consuma ATP.
+Serve per molecole che non attraversano facilmente il doppio strato lipidico, come ioni o glucosio.
+
+L’osmosi è il movimento dell’acqua attraverso una membrana semipermeabile.
+L’acqua si sposta verso la zona con più soluti.
+
+Il trasporto attivo consuma energia.
+Sposta sostanze contro gradiente.
+Un esempio è la pompa sodio-potassio.
+Questa pompa espelle sodio e introduce potassio, consumando ATP.
+È fondamentale per le cellule nervose e muscolari.
+
+Domanda da test:
+Una sostanza si muove contro gradiente usando ATP. Che tipo di trasporto è?
+Risposta: trasporto attivo.
+
+
+LEZIONE 6 - OSMOSI, TONICITÀ E TRANELLI
+
+L’osmosi è uno degli argomenti più frequenti nei test.
+
+Ripetiamo la regola:
+l’acqua si sposta verso la soluzione più concentrata di soluti.
+
+Ma bisogna stare attenti.
+Quando diciamo “più concentrata”, intendiamo più concentrata di soluti che non attraversano liberamente la membrana.
+
+Una soluzione ipotonica ha meno soluti rispetto alla cellula.
+Una soluzione ipertonica ha più soluti rispetto alla cellula.
+Una soluzione isotonica ha concentrazione efficace simile alla cellula.
+
+Se una cellula animale è immersa in soluzione ipotonica, l’acqua entra.
+La cellula si gonfia.
+Può rompersi. Questo fenomeno si chiama lisi.
+
+Se una cellula animale è immersa in soluzione ipertonica, l’acqua esce.
+La cellula si raggrinzisce.
+
+Se una cellula animale è immersa in soluzione isotonica, il volume resta stabile.
+
+Nelle cellule vegetali la parete cellulare cambia la situazione.
+In soluzione ipotonica, l’acqua entra e la cellula diventa turgida.
+La parete impedisce lo scoppio.
+La turgidità è utile alla pianta.
+
+In soluzione ipertonica, l’acqua esce e la membrana si stacca parzialmente dalla parete.
+Questo fenomeno si chiama plasmolisi.
+
+Esempio da test:
+Una cellula con concentrazione interna maggiore rispetto all’ambiente esterno viene immersa in quell’ambiente. Che cosa accade?
+L’ambiente esterno è ipotonico rispetto alla cellula.
+L’acqua entra nella cellula.
+
+Altro esempio:
+Perché una flebo deve avere una tonicità compatibile con il sangue?
+Per evitare che i globuli rossi si gonfino e scoppino oppure perdano acqua e si raggrinziscano.
+
+Da ricordare:
+ipertonico tira acqua.
+Ipotonico cede acqua alla cellula.
+
+
+LEZIONE 7 - ENZIMI: COME RAGIONARE
+
+Un enzima è un catalizzatore biologico.
+La parola catalizzatore significa che accelera una reazione senza essere consumato.
+
+Le reazioni chimiche hanno bisogno di superare una barriera energetica.
+Questa barriera si chiama energia di attivazione.
+L’enzima abbassa l’energia di attivazione.
+
+Attenzione:
+l’enzima non cambia il bilancio energetico finale della reazione.
+Non rende possibile una reazione termodinamicamente impossibile.
+Rende più veloce una reazione che può avvenire.
+
+L’enzima ha un sito attivo.
+Il substrato si lega al sito attivo.
+Si forma un complesso enzima-substrato.
+Poi il substrato viene trasformato in prodotto.
+
+Gli enzimi sono specifici perché la loro forma è specifica.
+Forma e funzione sono collegate.
+
+Due modelli aiutano a capire:
+modello chiave-serratura,
+modello adattamento indotto.
+
+Nel modello chiave-serratura, sito attivo e substrato sono già complementari.
+Nel modello adattamento indotto, l’enzima cambia leggermente forma quando lega il substrato.
+
+Gli enzimi dipendono da temperatura e pH.
+A bassa temperatura lavorano lentamente.
+A temperatura ottimale lavorano bene.
+A temperatura troppo alta si denaturano.
+
+Denaturazione significa perdita della forma tridimensionale.
+Se perde la forma, l’enzima perde la funzione.
+
+Il pH modifica le cariche delle proteine.
+Se il pH è troppo diverso da quello ottimale, l’enzima funziona male o si denatura.
+
+Esempio:
+La pepsina lavora nello stomaco, dove il pH è acido.
+Gli enzimi pancreatici lavorano nell’intestino tenue, dove il pH è più vicino alla neutralità o leggermente basico.
+
+Domanda da test:
+Un enzima viene portato a temperatura molto elevata e smette di funzionare. Perché?
+Risposta: perché si denatura e perde la struttura del sito attivo.
+
+
+LEZIONE 8 - DNA: STRUTTURA E FUNZIONE
+
+Il DNA è la molecola dell’informazione ereditaria.
+Non è semplicemente una sostanza chimica: è un archivio biologico.
+
+DNA significa acido desossiribonucleico.
+È formato da nucleotidi.
+Ogni nucleotide contiene:
+desossiribosio,
+fosfato,
+base azotata.
+
+Le basi del DNA sono:
+adenina,
+timina,
+citosina,
+guanina.
+
+Adenina si appaia con timina.
+Citosina si appaia con guanina.
+
+Questi appaiamenti sono complementari.
+La complementarità è essenziale per duplicazione e trascrizione.
+
+Il DNA ha una doppia elica.
+I due filamenti sono antiparalleli.
+Questo significa che hanno orientamento opposto.
+
+Il DNA deve fare due cose:
+conservare informazione;
+permettere la copia dell’informazione.
+
+Quando una cellula si divide, deve duplicare il DNA.
+La duplicazione del DNA è semiconservativa.
+Questo significa che ogni nuova molecola di DNA contiene un filamento vecchio e un filamento nuovo.
+
+Gli enzimi principali della duplicazione includono:
+elicasi, che apre la doppia elica;
+DNA polimerasi, che costruisce il nuovo filamento;
+ligasi, che unisce frammenti.
+
+La DNA polimerasi aggiunge nucleotidi seguendo la complementarità.
+Se sul filamento stampo c’è A, mette T.
+Se c’è C, mette G.
+
+Domanda da test:
+Se un filamento di DNA ha sequenza A T C G, qual è la sequenza complementare?
+Risposta: T A G C.
+
+Attenzione:
+nell’RNA al posto della timina c’è uracile.
+
+
+LEZIONE 9 - DAL DNA ALLA PROTEINA
+
+Il dogma centrale della biologia molecolare dice:
+DNA produce RNA, RNA produce proteina.
+
+Più precisamente:
+il DNA viene trascritto in RNA;
+l’RNA viene tradotto in proteina.
+
+La trascrizione avviene nel nucleo delle cellule eucariotiche.
+Un gene viene copiato in RNA messaggero.
+L’enzima principale è la RNA polimerasi.
+
+L’RNA messaggero esce dal nucleo e raggiunge i ribosomi.
+I ribosomi traducono l’informazione.
+
+La traduzione usa il codice genetico.
+Il codice genetico legge triplette di basi, chiamate codoni.
+Ogni codone corrisponde a un amminoacido o a un segnale di stop.
+
+Esempio:
+AUG è spesso il codone di inizio e codifica per metionina.
+
+Il tRNA, RNA transfer, porta gli amminoacidi al ribosoma.
+Ogni tRNA ha un anticodone complementare al codone dell’mRNA.
+
+La proteina nasce come catena di amminoacidi.
+Poi si ripiega.
+Il ripiegamento è essenziale.
+Una proteina sbagliata nella sequenza o nel ripiegamento può non funzionare.
+
+Le mutazioni sono cambiamenti nella sequenza del DNA.
+Possono essere:
+silenti,
+missenso,
+nonsenso,
+frameshift.
+
+Una mutazione silente non cambia l’amminoacido.
+Una mutazione missenso cambia un amminoacido.
+Una mutazione nonsenso introduce uno stop prematuro.
+Una mutazione frameshift sposta la cornice di lettura, spesso con effetti gravi.
+
+Domanda da test:
+Una mutazione che trasforma un codone per un amminoacido in un codone di stop si chiama?
+Risposta: mutazione nonsenso.
+
+
+LEZIONE 10 - MITOSI E CICLO CELLULARE
+
+La cellula non si divide a caso.
+Segue un ciclo cellulare.
+
+Il ciclo cellulare comprende interfase e fase M.
+
+L’interfase comprende:
+G1,
+S,
+G2.
+
+In G1 la cellula cresce e svolge funzioni normali.
+In S avviene la duplicazione del DNA.
+In G2 la cellula si prepara alla divisione.
+
+La fase M comprende mitosi e citodieresi.
+La mitosi divide il nucleo.
+La citodieresi divide il citoplasma.
+
+La mitosi serve a produrre due cellule geneticamente uguali.
+È importante per crescita, riparazione e sostituzione cellulare.
+
+Le fasi della mitosi sono:
+profase,
+metafase,
+anafase,
+telofase.
+
+In profase la cromatina si condensa in cromosomi.
+La membrana nucleare si disorganizza.
+Si forma il fuso mitotico.
+
+In metafase i cromosomi si allineano sul piano equatoriale.
+
+In anafase i cromatidi fratelli si separano e migrano verso poli opposti.
+
+In telofase si formano due nuclei.
+
+Poi la citodieresi separa il citoplasma.
+
+Attenzione ai termini:
+prima della duplicazione, un cromosoma ha un cromatidio.
+Dopo la duplicazione, un cromosoma ha due cromatidi fratelli.
+Quando i cromatidi si separano, diventano cromosomi indipendenti.
+
+Domanda da test:
+In quale fase della mitosi i cromosomi si allineano al centro?
+Risposta: metafase.
+
+Domanda da test:
+In quale fase i cromatidi fratelli si separano?
+Risposta: anafase.
+
+
+LEZIONE 11 - MEIOSI E VARIABILITÀ GENETICA
+
+La meiosi produce gameti.
+I gameti sono spermatozoi e cellule uovo.
+
+Nell’uomo, le cellule somatiche hanno 46 cromosomi.
+Sono diploidi.
+Diploide significa due copie di ogni cromosoma, una materna e una paterna.
+
+I gameti hanno 23 cromosomi.
+Sono aploidi.
+Aploide significa una sola copia di ogni cromosoma.
+
+La meiosi comprende due divisioni:
+meiosi I e meiosi II.
+
+Prima della meiosi, il DNA si duplica una sola volta.
+Poi avvengono due divisioni.
+
+Nella meiosi I si separano i cromosomi omologhi.
+Nella meiosi II si separano i cromatidi fratelli.
+
+Questo è molto importante:
+mitosi separa cromatidi fratelli;
+meiosi I separa omologhi;
+meiosi II separa cromatidi fratelli.
+
+La meiosi produce quattro cellule aploidi geneticamente diverse.
+
+Perché diverse?
+Per due motivi principali:
+crossing-over;
+assortimento indipendente.
+
+Il crossing-over avviene in profase I.
+Cromosomi omologhi si appaiano e scambiano segmenti.
+Questo rimescola geni materni e paterni.
+
+L’assortimento indipendente avviene perché le coppie di cromosomi omologhi si dispongono casualmente.
+Ogni gamete riceve una combinazione diversa.
+
+La fecondazione unisce due gameti aploidi.
+Si forma uno zigote diploide.
+
+Domanda da test:
+Quale processo produce cellule geneticamente diverse con metà del numero di cromosomi?
+Risposta: meiosi.
+
+Domanda da test:
+Dove avviene il crossing-over?
+Risposta: nella profase I della meiosi.
+
+
+LEZIONE 12 - GENETICA MENDELIANA SENZA PAURA
+
+Mendel studiò la trasmissione dei caratteri.
+Per capire la genetica mendeliana bisogna distinguere parole simili.
+
+Gene: tratto di DNA che influenza un carattere.
+Allele: variante di un gene.
+Locus: posizione del gene sul cromosoma.
+Genotipo: combinazione di alleli.
+Fenotipo: carattere osservabile.
+Omozigote: due alleli uguali.
+Eterozigote: due alleli diversi.
+Dominante: allele che si manifesta anche in singola copia.
+Recessivo: allele che si manifesta solo in doppia copia.
+
+Esempio:
+A è dominante.
+a è recessivo.
+
+AA: omozigote dominante.
+Aa: eterozigote.
+aa: omozigote recessivo.
+
+Se A dà colore viola e a dà colore bianco:
+AA è viola.
+Aa è viola.
+aa è bianco.
+
+Incrocio Aa per Aa.
+Possibili gameti del primo genitore: A oppure a.
+Possibili gameti del secondo genitore: A oppure a.
+
+Combinazioni:
+AA,
+Aa,
+Aa,
+aa.
+
+Rapporto genotipico: 1 AA, 2 Aa, 1 aa.
+Rapporto fenotipico: 3 dominanti, 1 recessivo.
+
+Attenzione:
+il rapporto 3 a 1 vale solo in caso di dominanza completa e singolo gene con due alleli.
+
+Esistono anche casi diversi:
+dominanza incompleta,
+codominanza,
+caratteri poligenici,
+geni legati al sesso.
+
+Nella codominanza, entrambi gli alleli si manifestano.
+Esempio classico: gruppo sanguigno AB.
+L’allele A e l’allele B sono codominanti.
+
+Nel sistema ABO:
+A e B sono codominanti.
+0 è recessivo.
+
+Genotipo AA o A0 dà gruppo A.
+Genotipo BB o B0 dà gruppo B.
+Genotipo AB dà gruppo AB.
+Genotipo 00 dà gruppo 0.
+
+Domanda da test:
+Due genitori, uno gruppo A eterozigote e uno gruppo B eterozigote, possono avere figlio gruppo 0?
+A eterozigote è A0.
+B eterozigote è B0.
+Possibili figli: AB, A0, B0, 00.
+Risposta: sì.
+
+======================================================================
+PARTE SECONDA - ANATOMIA E FISIOLOGIA
+======================================================================
+
+LEZIONE 13 - TESSUTI DEL CORPO UMANO
+
+Il corpo umano è formato da quattro tipi fondamentali di tessuto:
+epiteliale,
+connettivo,
+muscolare,
+nervoso.
+
+Il tessuto epiteliale riveste superfici e cavità.
+Può proteggere, assorbire, secernere, filtrare.
+La pelle ha epitelio di rivestimento.
+L’intestino ha epitelio assorbente.
+Le ghiandole derivano da tessuto epiteliale secernente.
+
+Le cellule epiteliali sono molto vicine tra loro.
+Hanno poca matrice extracellulare.
+Spesso poggiano su una membrana basale.
+
+Il tessuto connettivo sostiene, collega, protegge e nutre.
+Ha cellule più distanziate e molta matrice extracellulare.
+Comprende:
+tessuto osseo,
+cartilagine,
+sangue,
+tessuto adiposo,
+tessuto connettivo propriamente detto.
+
+Il sangue è un tessuto connettivo perché ha cellule immerse in una matrice extracellulare liquida: il plasma.
+
+Il tessuto muscolare si contrae.
+Ci sono tre tipi di muscolo:
+scheletrico,
+cardiaco,
+liscio.
+
+Il muscolo scheletrico è volontario e striato.
+Il muscolo cardiaco è involontario e striato.
+Il muscolo liscio è involontario e non striato.
+
+Il tessuto nervoso riceve e trasmette segnali.
+È formato da neuroni e cellule gliali.
+I neuroni trasmettono impulsi.
+Le cellule gliali sostengono, nutrono, proteggono e isolano.
+
+Domanda da test:
+Quale tessuto ha molta matrice extracellulare?
+Risposta: il tessuto connettivo.
+
+
+LEZIONE 14 - APPARATO CARDIOVASCOLARE: IL PERCORSO DEL SANGUE
+
+Il cuore è una doppia pompa.
+La parte destra pompa sangue ai polmoni.
+La parte sinistra pompa sangue al corpo.
+
+Seguiamo il sangue.
+
+Il sangue povero di ossigeno arriva dal corpo attraverso vena cava superiore e vena cava inferiore.
+Entra nell’atrio destro.
+Passa attraverso la valvola tricuspide.
+Entra nel ventricolo destro.
+Esce attraverso la valvola polmonare.
+Va nell’arteria polmonare.
+Raggiunge i polmoni.
+Nei polmoni elimina anidride carbonica e prende ossigeno.
+
+Il sangue ossigenato torna al cuore attraverso le vene polmonari.
+Entra nell’atrio sinistro.
+Passa attraverso la valvola mitrale.
+Entra nel ventricolo sinistro.
+Esce attraverso la valvola aortica.
+Entra nell’aorta.
+Va a tutto il corpo.
+
+Quindi:
+atrio destro,
+ventricolo destro,
+polmoni,
+atrio sinistro,
+ventricolo sinistro,
+corpo.
+
+Le valvole impediscono il reflusso.
+La funzione delle valvole è mantenere il flusso in una sola direzione.
+
+Il ventricolo sinistro ha parete più spessa del destro.
+Perché?
+Perché deve pompare sangue in tutta la circolazione sistemica, dove la resistenza è maggiore.
+Il ventricolo destro pompa solo verso i polmoni, a pressione più bassa.
+
+Le arterie portano sangue via dal cuore.
+Le vene portano sangue verso il cuore.
+Questa definizione è basata sulla direzione, non sul contenuto di ossigeno.
+
+Domanda da test:
+Quale vaso porta sangue povero di ossigeno ma è un’arteria?
+Risposta: arteria polmonare.
+
+Domanda da test:
+Quali vasi portano sangue ossigenato ma sono vene?
+Risposta: vene polmonari.
+
+
+LEZIONE 15 - SANGUE, EMOGLOBINA E COAGULAZIONE
+
+Il sangue è un tessuto connettivo liquido.
+È formato da plasma e elementi corpuscolati.
+
+Il plasma contiene acqua, sali, proteine, nutrienti, ormoni, gas disciolti e sostanze di rifiuto.
+
+Gli elementi corpuscolati sono:
+globuli rossi,
+globuli bianchi,
+piastrine.
+
+I globuli rossi, o eritrociti, trasportano ossigeno.
+Contengono emoglobina.
+L’emoglobina contiene ferro.
+Il ferro lega l’ossigeno.
+
+I globuli rossi maturi non hanno nucleo.
+Questo lascia più spazio per l’emoglobina.
+
+I globuli bianchi, o leucociti, difendono l’organismo.
+Comprendono neutrofili, linfociti, monociti, eosinofili, basofili.
+
+Le piastrine partecipano alla coagulazione.
+Quando un vaso si rompe, le piastrine aderiscono alla lesione e contribuiscono a formare un tappo.
+Poi si attiva una cascata di coagulazione che porta alla formazione di fibrina.
+La fibrina stabilizza il coagulo.
+
+L’emostasi è il processo che ferma il sanguinamento.
+Comprende:
+vasocostrizione,
+tappo piastrinico,
+coagulazione.
+
+Domanda da test:
+Quale componente del sangue trasporta principalmente ossigeno?
+Risposta: globuli rossi, grazie all’emoglobina.
+
+Domanda da test:
+Quale componente è più direttamente coinvolto nella coagulazione?
+Risposta: piastrine e fattori della coagulazione.
+
+
+LEZIONE 16 - RESPIRAZIONE: VENTILAZIONE E SCAMBIO GASSOSO
+
+Respirare non significa solo muovere aria.
+Ci sono diversi livelli:
+ventilazione polmonare,
+scambio gassoso,
+trasporto dei gas,
+respirazione cellulare.
+
+La ventilazione è ingresso e uscita di aria dai polmoni.
+Lo scambio gassoso avviene negli alveoli.
+Il trasporto dei gas avviene nel sangue.
+La respirazione cellulare avviene nei mitocondri.
+
+Durante l’inspirazione, il diaframma si contrae e si abbassa.
+I muscoli intercostali esterni aiutano ad espandere la gabbia toracica.
+Il volume toracico aumenta.
+La pressione dentro i polmoni diminuisce.
+L’aria entra.
+
+Durante l’espirazione tranquilla, il diaframma si rilassa.
+Il volume toracico diminuisce.
+La pressione aumenta.
+L’aria esce.
+
+Gli alveoli sono adatti allo scambio perché:
+sono numerosissimi,
+hanno parete sottile,
+sono circondati da capillari,
+hanno grande superficie,
+sono umidi.
+
+L’ossigeno diffonde dagli alveoli al sangue perché la sua pressione parziale è maggiore negli alveoli.
+L’anidride carbonica diffonde dal sangue agli alveoli perché la sua pressione parziale è maggiore nel sangue venoso.
+
+L’ossigeno viaggia soprattutto legato all’emoglobina.
+L’anidride carbonica viaggia soprattutto come bicarbonato nel plasma.
+
+Il legame tra respirazione e pH è importante.
+Se trattieni CO2, aumenta l’acidità.
+Perché la CO2 in acqua contribuisce a formare acido carbonico.
+Il sistema bicarbonato collega respirazione, sangue e pH.
+
+Domanda da test:
+Se aumenta la CO2 nel sangue, il pH tende a diminuire o aumentare?
+Risposta: tende a diminuire, quindi il sangue diventa più acido.
+
+
+LEZIONE 17 - APPARATO DIGERENTE: DALLA BOCCA ALL’ASSORBIMENTO
+
+La digestione serve a trasformare grandi molecole alimentari in molecole piccole assorbibili.
+
+Le proteine diventano amminoacidi.
+I carboidrati complessi diventano monosaccaridi.
+I grassi diventano acidi grassi e monogliceridi.
+
+La digestione può essere meccanica e chimica.
+La digestione meccanica spezza fisicamente il cibo.
+La digestione chimica rompe legami molecolari grazie agli enzimi.
+
+In bocca avviene masticazione.
+La saliva lubrifica e contiene amilasi salivare.
+L’amilasi inizia la digestione dell’amido.
+
+Il bolo passa nell’esofago grazie alla deglutizione e alla peristalsi.
+La peristalsi è una serie di contrazioni coordinate che spingono il contenuto lungo il tubo digerente.
+
+Nello stomaco il cibo diventa chimo.
+Il succo gastrico contiene acido cloridrico e pepsina.
+L’acido denatura le proteine e attiva il pepsinogeno in pepsina.
+La pepsina inizia la digestione proteica.
+
+Lo stomaco non assorbe la maggior parte dei nutrienti.
+Il principale luogo di assorbimento è l’intestino tenue.
+
+Nel duodeno arrivano bile e succo pancreatico.
+La bile emulsiona i grassi.
+Il pancreas fornisce enzimi per carboidrati, proteine, lipidi e acidi nucleici.
+Il bicarbonato pancreatico neutralizza l’acidità del chimo.
+
+L’intestino tenue ha villi e microvilli.
+Questi aumentano la superficie di assorbimento.
+Il sangue assorbe glucosio e amminoacidi.
+I lipidi entrano soprattutto nei vasi linfatici dei villi.
+
+L’intestino crasso assorbe acqua e sali.
+Contiene microbiota.
+Forma le feci.
+
+Domanda da test:
+Dove avviene la maggior parte dell’assorbimento dei nutrienti?
+Risposta: intestino tenue.
+
+Domanda da test:
+La bile è un enzima?
+Risposta: no. Emulsiona i grassi, ma non è un enzima.
+
+
+LEZIONE 18 - FEGATO, PANCREAS E CONTROLLO DELLA GLICEMIA
+
+Il fegato è un centro metabolico.
+Riceve sangue ricco di nutrienti dall’intestino attraverso la vena porta.
+Questo è importante: il fegato controlla ciò che arriva dall’assorbimento intestinale.
+
+Funzioni del fegato:
+produce bile;
+immagazzina glicogeno;
+regola glucosio, lipidi e proteine;
+detossifica sostanze;
+produce proteine plasmatiche;
+trasforma ammoniaca in urea;
+immagazzina vitamine e ferro.
+
+Il fegato regola la glicemia.
+Dopo un pasto, il glucosio nel sangue aumenta.
+Il pancreas produce insulina.
+L’insulina favorisce ingresso del glucosio nelle cellule e deposito come glicogeno.
+Il fegato immagazzina glucosio come glicogeno.
+
+Durante il digiuno, la glicemia tende a scendere.
+Il pancreas produce glucagone.
+Il glucagone stimola il fegato a demolire glicogeno e liberare glucosio.
+
+Insulina e glucagone sono antagonisti.
+Insulina abbassa la glicemia.
+Glucagone aumenta la glicemia.
+
+Il pancreas ha due funzioni:
+esocrina ed endocrina.
+
+Esocrina significa secrezione verso un dotto.
+Il pancreas esocrino secerne enzimi digestivi nel duodeno.
+
+Endocrina significa secrezione nel sangue.
+Il pancreas endocrino produce ormoni come insulina e glucagone.
+
+Domanda da test:
+Quale ormone aumenta la glicemia?
+Risposta: glucagone.
+
+Domanda da test:
+Quale organo trasforma ammoniaca in urea?
+Risposta: fegato.
+
+
+LEZIONE 19 - RENE E NEFRONE
+
+Il rene non è un semplice filtro.
+È un organo regolatore.
+
+Regola:
+volume di acqua,
+concentrazione di sali,
+pH,
+pressione arteriosa,
+eliminazione di scorie,
+produzione di eritropoietina.
+
+L’unità funzionale del rene è il nefrone.
+
+Il nefrone comprende:
+glomerulo,
+capsula di Bowman,
+tubulo prossimale,
+ansa di Henle,
+tubulo distale,
+dotto collettore.
+
+Nel glomerulo avviene la filtrazione.
+La pressione del sangue spinge acqua e piccole molecole nella capsula di Bowman.
+Cellule e grandi proteine normalmente non passano.
+
+Nel tubulo prossimale avviene molto riassorbimento.
+Si recuperano glucosio, amminoacidi, acqua e ioni.
+
+L’ansa di Henle crea un gradiente osmotico nella midollare renale.
+Questo permette di concentrare l’urina.
+
+Il tubulo distale e il dotto collettore regolano ulteriormente acqua e sali.
+L’ormone ADH aumenta il riassorbimento di acqua nel dotto collettore.
+L’aldosterone aumenta il riassorbimento di sodio e la secrezione di potassio.
+
+Se il corpo è disidratato, aumenta ADH.
+Si riassorbe più acqua.
+L’urina diventa più concentrata.
+
+Se c’è troppa acqua, ADH diminuisce.
+Si riassorbe meno acqua.
+L’urina diventa più diluita.
+
+Domanda da test:
+Quale ormone aumenta il riassorbimento di acqua nel rene?
+Risposta: ADH, ormone antidiuretico.
+
+Domanda da test:
+Dove avviene la filtrazione iniziale del sangue?
+Risposta: nel glomerulo.
+
+
+LEZIONE 20 - SISTEMA NERVOSO: NEURONI E IMPULSO
+
+Il sistema nervoso comunica rapidamente.
+La sua unità funzionale è il neurone.
+
+Un neurone ha:
+dendriti,
+corpo cellulare,
+assone,
+terminazioni sinaptiche.
+
+I dendriti ricevono segnali.
+Il corpo cellulare integra.
+L’assone conduce l’impulso.
+Le terminazioni comunicano con altre cellule.
+
+L’impulso nervoso è un potenziale d’azione.
+Dipende da movimenti di ioni attraverso la membrana.
+
+A riposo, il neurone ha una differenza di potenziale tra interno ed esterno.
+L’interno è relativamente negativo.
+Questo si chiama potenziale di riposo.
+
+La pompa sodio-potassio contribuisce a mantenere i gradienti.
+Espelle sodio e introduce potassio consumando ATP.
+
+Quando uno stimolo supera una soglia, si apre una serie di canali ionici.
+Il sodio entra.
+La membrana si depolarizza.
+Poi il potassio esce.
+La membrana si ripolarizza.
+
+Il potenziale d’azione è tutto-o-nulla.
+Se la soglia non viene raggiunta, non parte.
+Se viene raggiunta, parte con ampiezza completa.
+
+La mielina aumenta la velocità di conduzione.
+La conduzione salta tra i nodi di Ranvier.
+Si parla di conduzione saltatoria.
+
+La sinapsi chimica usa neurotrasmettitori.
+Il neurotrasmettitore viene liberato dalla terminazione presinaptica.
+Attraversa la fessura sinaptica.
+Si lega a recettori postsinaptici.
+
+Domanda da test:
+Che cosa permette la mielina?
+Risposta: aumenta la velocità di conduzione dell’impulso nervoso.
+
+
+LEZIONE 21 - SISTEMA NERVOSO AUTONOMO
+
+Il sistema nervoso autonomo controlla funzioni involontarie.
+Regola cuore, vasi, bronchi, digestione, pupille, ghiandole.
+
+Si divide in:
+simpatico,
+parasimpatico.
+
+Il simpatico è associato a emergenza, azione, stress.
+Non significa “simpatico” nel senso comune.
+Prepara alla risposta lotta o fuga.
+
+Effetti del simpatico:
+aumenta frequenza cardiaca;
+dilata bronchi;
+dilata pupille;
+riduce attività digestiva;
+mobilizza glucosio;
+favorisce sudorazione.
+
+Il parasimpatico è associato a riposo, digestione e recupero.
+
+Effetti del parasimpatico:
+riduce frequenza cardiaca;
+stimola digestione;
+favorisce secrezioni digestive;
+favorisce svuotamento vescicale;
+restringe pupille.
+
+I due sistemi spesso hanno azioni antagoniste.
+Il cuore riceve sia simpatico sia parasimpatico.
+Il simpatico accelera.
+Il parasimpatico rallenta.
+
+Domanda da test:
+Quale sistema aumenta frequenza cardiaca e dilata bronchi?
+Risposta: simpatico.
+
+Domanda da test:
+Quale sistema favorisce digestione?
+Risposta: parasimpatico.
+
+
+LEZIONE 22 - MUSCOLI, SARCOMERO, ACTINA E MIOSINA
+
+Il muscolo scheletrico è formato da fibre muscolari.
+Le fibre contengono miofibrille.
+Le miofibrille contengono sarcomeri.
+Il sarcomero è l’unità contrattile.
+
+Nel sarcomero ci sono filamenti sottili di actina e filamenti spessi di miosina.
+
+La contrazione non avviene perché i filamenti si accorciano.
+Avviene perché scorrono l’uno sull’altro.
+Si chiama teoria dello scorrimento dei filamenti.
+
+La miosina ha teste che si legano all’actina.
+Le teste di miosina fanno un movimento di trazione.
+Questo tira i filamenti di actina verso il centro del sarcomero.
+Il sarcomero si accorcia.
+
+Servono calcio e ATP.
+
+Il calcio si lega alla troponina.
+Questo sposta la tropomiosina.
+I siti di legame sull’actina diventano disponibili.
+La miosina può legarsi.
+
+L’ATP serve per staccare la miosina dall’actina e ricaricare la testa di miosina.
+Senza ATP, la miosina resta attaccata.
+Questo spiega anche il rigor mortis dopo la morte.
+
+Il segnale parte dal motoneurone.
+Alla giunzione neuromuscolare viene liberata acetilcolina.
+L’acetilcolina stimola la fibra muscolare.
+Si libera calcio dal reticolo sarcoplasmatico.
+Parte la contrazione.
+
+Domanda da test:
+Quale ione è essenziale per permettere l’interazione actina-miosina?
+Risposta: calcio.
+
+Domanda da test:
+Quale molecola fornisce energia alla contrazione muscolare?
+Risposta: ATP.
+
+
+======================================================================
+PARTE TERZA - CHIMICA PER IL TEST
+======================================================================
+
+LEZIONE 23 - ATOMO, NUMERO ATOMICO, MASSA, ISOTOPI
+
+Un atomo è formato da protoni, neutroni ed elettroni.
+
+Protoni: carica positiva, nel nucleo.
+Neutroni: carica neutra, nel nucleo.
+Elettroni: carica negativa, attorno al nucleo.
+
+Il numero atomico, indicato con Z, è il numero di protoni.
+Il numero atomico identifica l’elemento.
+Se un atomo ha 6 protoni, è carbonio.
+Se ha 8 protoni, è ossigeno.
+
+Il numero di massa, indicato con A, è protoni più neutroni.
+Quindi:
+A = Z + N.
+Dove N è il numero di neutroni.
+
+Se conosci A e Z, puoi calcolare i neutroni:
+N = A - Z.
+
+Esempio:
+Carbonio-14.
+Il carbonio ha Z = 6.
+Il numero di massa è 14.
+Neutroni = 14 - 6 = 8.
+
+Gli isotopi sono atomi dello stesso elemento con diverso numero di neutroni.
+Hanno stesso numero atomico, ma diverso numero di massa.
+
+Il carbonio-12 e il carbonio-14 sono isotopi.
+Entrambi hanno 6 protoni.
+Il carbonio-12 ha 6 neutroni.
+Il carbonio-14 ha 8 neutroni.
+
+Uno ione è un atomo o gruppo di atomi con carica elettrica.
+Se perde elettroni, diventa positivo: catione.
+Se acquista elettroni, diventa negativo: anione.
+
+Attenzione:
+il numero di protoni non cambia quando si forma uno ione.
+Cambiano gli elettroni.
+
+Domanda da test:
+Un atomo ha numero atomico 11 e numero di massa 23. Quanti neutroni ha?
+Risposta: 23 meno 11, quindi 12.
+
+
+LEZIONE 24 - TAVOLA PERIODICA E PROPRIETÀ
+
+La tavola periodica organizza gli elementi in base al numero atomico.
+Le righe si chiamano periodi.
+Le colonne si chiamano gruppi.
+
+Gli elementi dello stesso gruppo hanno proprietà simili.
+Questo accade perché hanno configurazioni elettroniche esterne simili.
+
+Gli elettroni più esterni si chiamano elettroni di valenza.
+Sono quelli più coinvolti nei legami chimici.
+
+I metalli si trovano soprattutto a sinistra e al centro.
+Tendono a perdere elettroni.
+Formano cationi.
+Sono buoni conduttori.
+
+I non metalli si trovano soprattutto a destra.
+Tendono ad acquistare o condividere elettroni.
+Formano anioni o legami covalenti.
+
+I gas nobili sono nell’ultima colonna.
+Sono poco reattivi perché hanno il guscio di valenza completo.
+
+L’elettronegatività è la tendenza di un atomo ad attirare elettroni in un legame.
+Aumenta in generale andando verso destra e verso l’alto nella tavola periodica.
+Il fluoro è l’elemento più elettronegativo.
+
+La differenza di elettronegatività aiuta a capire il tipo di legame.
+Differenza grande: legame ionico.
+Differenza media: covalente polare.
+Differenza piccola: covalente apolare.
+
+Domanda da test:
+Perché i gas nobili sono poco reattivi?
+Risposta: perché hanno il guscio elettronico esterno completo.
+
+
+LEZIONE 25 - LEGAMI CHIMICI E POLARITÀ
+
+Gli atomi formano legami per raggiungere maggiore stabilità.
+
+Nel legame ionico, uno o più elettroni vengono trasferiti.
+Un atomo diventa catione.
+L’altro diventa anione.
+L’attrazione elettrostatica tiene insieme gli ioni.
+
+Esempio: cloruro di sodio.
+Il sodio perde un elettrone e diventa Na più.
+Il cloro acquista un elettrone e diventa Cl meno.
+
+Nel legame covalente, gli elettroni vengono condivisi.
+Se la condivisione è equilibrata, il legame è apolare.
+Se la condivisione è sbilanciata, il legame è polare.
+
+La molecola d’acqua ha legami covalenti polari.
+Ma è importante anche la geometria.
+L’acqua è piegata, non lineare.
+Per questo le polarità dei legami non si annullano.
+La molecola è polare.
+
+L’anidride carbonica ha legami polari tra carbonio e ossigeno.
+Ma la molecola è lineare.
+Le polarità si annullano.
+La CO2 è complessivamente apolare.
+
+Questo è un classico tranello:
+legami polari non significano sempre molecola polare.
+Bisogna considerare la geometria.
+
+Le interazioni intermolecolari sono attrazioni tra molecole.
+Comprendono:
+forze di London,
+dipolo-dipolo,
+legami a idrogeno.
+
+Il legame a idrogeno avviene quando idrogeno è legato a ossigeno, azoto o fluoro e interagisce con un’altra molecola.
+
+Domanda da test:
+Perché l’acqua è polare?
+Risposta: perché ha legami polari e geometria piegata.
+
+
+LEZIONE 26 - MOLE, MASSA MOLARE E MOLARITÀ
+
+La mole è una quantità di sostanza.
+Una mole contiene 6,022 per 10 alla 23 particelle.
+Questo numero è il numero di Avogadro.
+
+La massa molare è la massa di una mole.
+Si esprime in grammi per mole.
+
+Per calcolare le moli:
+moli = massa / massa molare.
+
+Esempio:
+Quante moli sono 18 grammi di acqua?
+La massa molare dell’acqua è 18 grammi per mole.
+Moli = 18 / 18 = 1 mole.
+
+La molarità è una concentrazione.
+M = moli di soluto / litri di soluzione.
+
+Esempio:
+Sciolgo 1 mole di NaCl in acqua fino a ottenere 1 litro di soluzione.
+La molarità è 1 M.
+
+Se sciolgo 0,5 moli in 1 litro, la molarità è 0,5 M.
+Se sciolgo 1 mole in 2 litri, la molarità è 0,5 M.
+
+Diluizione:
+quando diluisci, le moli di soluto restano uguali, ma il volume aumenta.
+Quindi la concentrazione diminuisce.
+
+Formula utile:
+M1 V1 = M2 V2.
+
+Domanda da test:
+Hai 1 litro di soluzione 2 M. La diluisci a 2 litri. Qual è la nuova molarità?
+Risposta: 1 M.
+
+
+LEZIONE 27 - pH, ACIDI, BASI, TAMPONI
+
+Il pH misura la concentrazione di ioni idrogeno.
+Più ioni H più ci sono, più la soluzione è acida, più basso è il pH.
+
+pH 7 è neutro.
+pH minore di 7 è acido.
+pH maggiore di 7 è basico.
+
+La scala del pH è logaritmica.
+Una differenza di 1 unità significa differenza di 10 volte.
+pH 3 è dieci volte più acido di pH 4.
+pH 3 è cento volte più acido di pH 5.
+
+Secondo Arrhenius:
+un acido libera H più;
+una base libera OH meno.
+
+Secondo Brønsted-Lowry:
+un acido dona protoni;
+una base accetta protoni.
+
+Questa seconda definizione è più generale.
+
+Un tampone resiste alle variazioni di pH.
+È formato da un acido debole e dalla sua base coniugata, oppure da una base debole e dal suo acido coniugato.
+
+Nel sangue è fondamentale il sistema bicarbonato:
+CO2, acido carbonico, bicarbonato.
+
+Se aumenta CO2, aumenta acidità.
+Se si elimina CO2 respirando di più, il pH tende ad aumentare.
+
+Per questo respirazione e pH sono collegati.
+
+Domanda da test:
+Una soluzione passa da pH 5 a pH 3. Quanto aumenta l’acidità?
+Risposta: cento volte.
+
+
+======================================================================
+PARTE QUARTA - FISICA PER IL TEST
+======================================================================
+
+LEZIONE 28 - GRANDEZZE, VETTORI E UNITÀ
+
+Una grandezza fisica è qualcosa che può essere misurato.
+Ogni misura ha un numero e un’unità.
+
+Grandezza scalare: ha solo valore.
+Esempi: massa, tempo, temperatura, energia.
+
+Grandezza vettoriale: ha valore, direzione e verso.
+Esempi: forza, velocità, accelerazione.
+
+Le unità fondamentali più importanti:
+metro per lunghezza,
+chilogrammo per massa,
+secondo per tempo,
+ampere per corrente,
+kelvin per temperatura.
+
+Unità derivate:
+newton per forza,
+joule per energia,
+watt per potenza,
+pascal per pressione.
+
+Il newton è kg metro al secondo quadrato.
+Perché F = m a.
+
+Il joule è newton per metro.
+Perché lavoro = forza per spostamento.
+
+Il watt è joule per secondo.
+Perché potenza = lavoro diviso tempo.
+
+Il pascal è newton per metro quadrato.
+Perché pressione = forza diviso superficie.
+
+Domanda da test:
+Qual è l’unità della pressione?
+Risposta: pascal.
+
+
+LEZIONE 29 - CINEMATICA: MOTO, VELOCITÀ, ACCELERAZIONE
+
+La velocità media è spazio diviso tempo.
+v = s / t.
+
+Se percorri 30 km in 1 ora, la velocità media è 30 km/h.
+Se percorri 100 metri in 20 secondi, è 5 m/s.
+
+L’accelerazione è variazione di velocità diviso tempo.
+a = Δv / Δt.
+
+Se un corpo passa da 0 a 20 m/s in 10 secondi, l’accelerazione è 2 m/s².
+
+Nel moto rettilineo uniforme, la velocità è costante.
+Accelerazione zero.
+
+Nel moto uniformemente accelerato, l’accelerazione è costante.
+La velocità cambia in modo regolare.
+
+La caduta libera, trascurando l’aria, ha accelerazione g = 9,8 m/s².
+Spesso nei test si usa 10 m/s².
+
+Attenzione:
+velocità e accelerazione non sono la stessa cosa.
+Un corpo può avere velocità alta e accelerazione zero, se mantiene la stessa velocità.
+Un corpo può avere velocità zero per un istante e accelerazione non zero, come una palla nel punto più alto della traiettoria.
+
+Domanda da test:
+Un’auto viaggia a velocità costante. Qual è la sua accelerazione?
+Risposta: zero.
+
+
+LEZIONE 30 - DINAMICA: FORZE E NEWTON
+
+Una forza può cambiare lo stato di moto di un corpo.
+
+Prima legge di Newton:
+se la risultante delle forze è zero, un corpo resta fermo o si muove di moto rettilineo uniforme.
+Questa è l’inerzia.
+
+Seconda legge:
+F = m a.
+La forza risultante produce accelerazione.
+
+Terza legge:
+a ogni azione corrisponde una reazione uguale e contraria.
+
+Il peso è una forza.
+P = m g.
+La massa si misura in kg.
+Il peso si misura in newton.
+
+Esempio:
+Una massa di 70 kg sulla Terra pesa circa 70 per 9,8 = 686 newton.
+Approssimando g a 10, pesa circa 700 newton.
+
+L’attrito è una forza che si oppone al moto relativo o alla tendenza al moto.
+Può essere utile o dannoso.
+Camminare è possibile grazie all’attrito.
+Una ruota che rotola senza slittare usa attrito statico.
+
+La forza normale è la forza perpendicolare esercitata da una superficie.
+Su un piano orizzontale, se non ci sono altre forze verticali, la normale uguaglia il peso.
+
+Domanda da test:
+Se raddoppio la forza su una stessa massa, che cosa succede all’accelerazione?
+Risposta: raddoppia.
+
+
+LEZIONE 31 - LAVORO, ENERGIA, POTENZA
+
+Il lavoro è forza per spostamento nella direzione della forza.
+L = F s.
+
+Se spingi un oggetto ma non si sposta, in fisica il lavoro meccanico è zero.
+Questo è controintuitivo ma importante.
+
+Energia cinetica:
+Ec = 1/2 m v².
+Dipende dal quadrato della velocità.
+Se raddoppi la velocità, l’energia cinetica quadruplica.
+
+Energia potenziale gravitazionale:
+Ep = m g h.
+Dipende da massa, gravità e altezza.
+
+La conservazione dell’energia dice che l’energia non si crea e non si distrugge, ma si trasforma.
+In presenza di attrito, parte dell’energia meccanica diventa calore.
+
+La potenza è lavoro diviso tempo.
+P = L / t.
+Unità: watt.
+
+In bici, i watt misurano la potenza.
+Se produci 200 watt, stai producendo 200 joule al secondo.
+
+Domanda da test:
+Se una forza compie 600 joule in 3 secondi, qual è la potenza?
+Risposta: 200 watt.
+
+
+LEZIONE 32 - PRESSIONE, FLUIDI, SANGUE
+
+La pressione è forza divisa per superficie.
+p = F / A.
+
+Se la stessa forza agisce su superficie più piccola, la pressione aumenta.
+Questo spiega perché un ago penetra nella pelle.
+
+Nei fluidi, la pressione aumenta con la profondità:
+p = ρ g h.
+Dove ρ è la densità, g la gravità, h la profondità.
+
+Nel corpo umano la pressione è importantissima.
+La pressione arteriosa è la forza con cui il sangue preme sulle pareti delle arterie.
+Dipende da gittata cardiaca e resistenze vascolari.
+
+Il principio di Pascal dice che la pressione applicata a un fluido incomprimibile si trasmette in tutte le direzioni.
+Questo spiega molti sistemi idraulici.
+
+Il principio di Archimede dice che un corpo immerso in un fluido riceve una spinta verso l’alto uguale al peso del fluido spostato.
+
+La portata è volume di fluido che passa in un certo tempo.
+Nel sistema circolatorio, la portata del sangue dipende da pressione e resistenza.
+
+Se un vaso si restringe, la resistenza aumenta.
+A parità di pressione, il flusso diminuisce.
+Questo è rilevante per capire stenosi, pressione e circolazione.
+
+Domanda da test:
+Perché uno sci affonda meno di una scarpa nella neve?
+Risposta: perché distribuisce il peso su una superficie maggiore, riducendo la pressione.
+
+
+LEZIONE 33 - CALORE, TEMPERATURA, CAMBIAMENTI DI STATO
+
+Temperatura e calore sono diversi.
+
+La temperatura misura l’agitazione media delle particelle.
+Il calore è energia trasferita a causa di una differenza di temperatura.
+
+Il calore passa spontaneamente dal corpo più caldo al corpo più freddo.
+
+Tre modalità di trasferimento:
+conduzione,
+convezione,
+irraggiamento.
+
+La conduzione avviene per contatto.
+La convezione avviene con movimento di fluidi.
+L’irraggiamento avviene tramite onde elettromagnetiche.
+
+Il calore specifico è la quantità di calore necessaria per aumentare di un grado la temperatura di una certa massa di sostanza.
+L’acqua ha alto calore specifico.
+Per questo il corpo umano, ricco di acqua, resiste agli sbalzi termici.
+
+I cambiamenti di stato:
+fusione: solido a liquido;
+solidificazione: liquido a solido;
+evaporazione o vaporizzazione: liquido a gas;
+condensazione: gas a liquido;
+sublimazione: solido a gas.
+
+Durante un cambiamento di stato, la temperatura può restare costante mentre viene assorbito o ceduto calore.
+Quel calore serve a cambiare lo stato, non ad aumentare la temperatura.
+
+Domanda da test:
+Durante l’ebollizione di acqua pura a pressione costante, la temperatura aumenta?
+Risposta: no, resta costante finché il cambiamento di stato è in corso.
+
+
+LEZIONE 34 - ELETTRICITÀ E CIRCUITI
+
+La corrente elettrica è movimento ordinato di cariche.
+Si misura in ampere.
+
+La tensione, o differenza di potenziale, è l’energia per unità di carica.
+Si misura in volt.
+
+La resistenza ostacola il passaggio della corrente.
+Si misura in ohm.
+
+Legge di Ohm:
+V = R I.
+
+Se V aumenta e R resta uguale, I aumenta.
+Se R aumenta e V resta uguale, I diminuisce.
+
+La potenza elettrica è:
+P = V I.
+
+Nei circuiti in serie, la corrente è la stessa in tutti gli elementi.
+Le resistenze si sommano:
+R totale = R1 + R2 + R3.
+
+Nei circuiti in parallelo, la tensione è la stessa su ogni ramo.
+La resistenza equivalente diminuisce.
+Aggiungere rami in parallelo facilita il passaggio della corrente.
+
+Il corpo umano conduce elettricità perché contiene acqua e ioni.
+La pericolosità della corrente dipende da intensità, percorso, durata, condizioni della pelle e frequenza.
+
+Domanda da test:
+In un circuito con V = 12 volt e R = 4 ohm, qual è la corrente?
+I = V / R = 12 / 4 = 3 ampere.
+
+
+======================================================================
+PARTE QUINTA - RIPASSO ATTIVO A DOMANDE
+======================================================================
+
+Domanda:
+Perché la membrana cellulare è selettiva?
+Risposta:
+Perché il doppio strato fosfolipidico lascia passare facilmente alcune molecole, come gas piccoli e apolari, ma ostacola ioni e molecole polari, che richiedono canali o trasportatori.
+
+Domanda:
+Perché il mitocondrio ha molte pieghe interne?
+Risposta:
+Per aumentare la superficie della membrana interna, dove avviene la catena di trasporto degli elettroni e la produzione di ATP.
+
+Domanda:
+Perché la meiosi genera variabilità genetica?
+Risposta:
+Per crossing-over e assortimento indipendente dei cromosomi omologhi.
+
+Domanda:
+Perché l’intestino tenue ha villi e microvilli?
+Risposta:
+Per aumentare enormemente la superficie di assorbimento.
+
+Domanda:
+Perché il ventricolo sinistro ha parete più spessa?
+Risposta:
+Perché deve generare una pressione maggiore per spingere il sangue in tutta la circolazione sistemica.
+
+Domanda:
+Perché l’arteria polmonare è un tranello frequente?
+Risposta:
+Perché è un’arteria, quindi esce dal cuore, ma porta sangue povero di ossigeno.
+
+Domanda:
+Che cosa succede se aumenta la CO2 nel sangue?
+Risposta:
+Il pH tende a diminuire, perché aumenta la componente acida legata al sistema CO2-acido carbonico-bicarbonato.
+
+Domanda:
+Perché il pH è una scala logaritmica?
+Risposta:
+Perché ogni unità di pH corrisponde a una variazione di dieci volte nella concentrazione di ioni idrogeno.
+
+Domanda:
+Perché un enzima perde funzione se si denatura?
+Risposta:
+Perché perde la forma tridimensionale, compresa la forma del sito attivo.
+
+Domanda:
+Che differenza c’è tra massa e peso?
+Risposta:
+La massa è quantità di materia e si misura in chilogrammi; il peso è una forza e si misura in newton.
+
+Domanda:
+Perché a parità di forza una superficie minore produce più pressione?
+Risposta:
+Perché la pressione è forza divisa per superficie.
+
+Domanda:
+Perché raddoppiare la velocità quadruplica l’energia cinetica?
+Risposta:
+Perché l’energia cinetica dipende dal quadrato della velocità.
+
+======================================================================
+CONCLUSIONE DEL VOLUME 1
+======================================================================
+
+Questo volume ha costruito le basi.
+
+I concetti fondamentali da portare nella memoria sono questi:
+
+La vita è ordine mantenuto con energia.
+La cellula è l’unità della vita.
+La membrana separa e regola.
+Il DNA conserva informazione.
+RNA e ribosomi producono proteine.
+Gli enzimi accelerano reazioni.
+La mitosi conserva il numero cromosomico.
+La meiosi dimezza il numero cromosomico e crea variabilità.
+Il cuore è una doppia pompa.
+I polmoni scambiano gas.
+L’intestino tenue assorbe.
+Fegato e pancreas regolano metabolismo e glicemia.
+Il rene regola acqua, sali, pH e pressione.
+Il neurone comunica con impulsi elettrici e sinapsi chimiche.
+Il muscolo si contrae con actina, miosina, calcio e ATP.
+La chimica spiega legami, pH, moli e soluzioni.
+La fisica spiega forze, pressione, energia, calore ed elettricità.
+
+Per il test, la domanda spesso non chiede solo “che cos’è”.
+Chiede “che cosa succede se”.
+Quindi devi sempre ragionare in termini di causa ed effetto.
+
+Se aumenta la CO2, cosa succede al pH?
+Se una cellula entra in soluzione ipertonica, cosa succede all’acqua?
+Se raddoppia la velocità, cosa succede all’energia cinetica?
+Se manca ATP, cosa succede al muscolo?
+Se il ventricolo sinistro deve pompare più lontano, come sarà la sua parete?
+
+Questa è la logica del test.
+
+Fine del Volume 1.

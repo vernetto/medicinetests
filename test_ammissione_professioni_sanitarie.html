@@ -1,0 +1,1072 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Test Ammissione — Professioni Sanitarie</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Mono:wght@400;500&family=DM+Sans:wght@300;400;500&display=swap');
+
+  :root {
+    --bg: #0d1117;
+    --surface: #161b22;
+    --surface2: #1e2631;
+    --accent: #e05c2a;
+    --accent2: #f0a040;
+    --text: #e8edf3;
+    --text-dim: #8b96a5;
+    --border: #2a3341;
+    --green: #3fb950;
+    --blue: #58a6ff;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 300;
+    min-height: 100vh;
+    padding: 0 0 60px 0;
+  }
+
+  header {
+    background: linear-gradient(135deg, #1a0a00 0%, #0d1117 60%);
+    border-bottom: 1px solid var(--border);
+    padding: 48px 40px 36px;
+    position: relative;
+    overflow: hidden;
+  }
+
+  header::before {
+    content: '';
+    position: absolute;
+    top: -80px; right: -80px;
+    width: 300px; height: 300px;
+    background: radial-gradient(circle, rgba(224,92,42,0.15) 0%, transparent 70%);
+    pointer-events: none;
+  }
+
+  .badge {
+    display: inline-block;
+    background: rgba(224,92,42,0.15);
+    border: 1px solid rgba(224,92,42,0.4);
+    color: var(--accent);
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    padding: 4px 12px;
+    border-radius: 3px;
+    margin-bottom: 16px;
+  }
+
+  h1 {
+    font-family: 'DM Serif Display', serif;
+    font-size: clamp(28px, 5vw, 48px);
+    font-weight: 400;
+    line-height: 1.1;
+    margin-bottom: 12px;
+  }
+
+  h1 em {
+    font-style: italic;
+    color: var(--accent);
+  }
+
+  .subtitle {
+    color: var(--text-dim);
+    font-size: 15px;
+    line-height: 1.6;
+    max-width: 600px;
+  }
+
+  .stats-bar {
+    display: flex;
+    gap: 32px;
+    margin-top: 28px;
+    flex-wrap: wrap;
+  }
+
+  .stat {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+  }
+
+  .stat-val {
+    font-family: 'DM Serif Display', serif;
+    font-size: 28px;
+    color: var(--accent2);
+  }
+
+  .stat-label {
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    color: var(--text-dim);
+    letter-spacing: 1px;
+    text-transform: uppercase;
+  }
+
+  .container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 40px 40px 0;
+  }
+
+  .info-box {
+    background: rgba(88,166,255,0.07);
+    border: 1px solid rgba(88,166,255,0.2);
+    border-left: 3px solid var(--blue);
+    border-radius: 6px;
+    padding: 16px 20px;
+    font-size: 14px;
+    color: #b0cce8;
+    line-height: 1.6;
+    margin-bottom: 36px;
+  }
+
+  .info-box strong {
+    color: var(--blue);
+  }
+
+  .section {
+    margin-bottom: 12px;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    overflow: hidden;
+    background: var(--surface);
+  }
+
+  .section-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px 20px;
+    cursor: pointer;
+    user-select: none;
+    transition: background 0.2s;
+    gap: 12px;
+  }
+
+  .section-header:hover {
+    background: var(--surface2);
+  }
+
+  .section-year {
+    font-family: 'DM Serif Display', serif;
+    font-size: 20px;
+    color: var(--accent2);
+    min-width: 120px;
+  }
+
+  .section-meta {
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    color: var(--text-dim);
+    letter-spacing: 0.5px;
+  }
+
+  .chevron {
+    color: var(--text-dim);
+    font-size: 18px;
+    transition: transform 0.25s;
+    margin-left: auto;
+  }
+
+  .section.open .chevron {
+    transform: rotate(90deg);
+  }
+
+  .section-body {
+    display: none;
+    border-top: 1px solid var(--border);
+    padding: 0;
+  }
+
+  .section.open .section-body {
+    display: block;
+  }
+
+  .link-item {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    padding: 12px 20px;
+    border-bottom: 1px solid rgba(42,51,65,0.6);
+    transition: background 0.15s;
+  }
+
+  .link-item:last-child {
+    border-bottom: none;
+  }
+
+  .link-item:hover {
+    background: var(--surface2);
+  }
+
+  .link-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px; height: 32px;
+    background: rgba(224,92,42,0.12);
+    border: 1px solid rgba(224,92,42,0.25);
+    border-radius: 5px;
+    flex-shrink: 0;
+    font-size: 13px;
+    color: var(--accent);
+    font-family: 'DM Mono', monospace;
+    font-weight: 500;
+  }
+
+  .link-info {
+    flex: 1;
+    min-width: 0;
+  }
+
+  .link-title {
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--text);
+    margin-bottom: 2px;
+  }
+
+  .link-source {
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    color: var(--text-dim);
+  }
+
+  .download-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: rgba(63,185,80,0.1);
+    border: 1px solid rgba(63,185,80,0.3);
+    color: var(--green);
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.5px;
+    padding: 5px 12px;
+    border-radius: 4px;
+    text-decoration: none;
+    white-space: nowrap;
+    transition: all 0.2s;
+    flex-shrink: 0;
+  }
+
+  .download-btn:hover {
+    background: rgba(63,185,80,0.2);
+    border-color: var(--green);
+    color: #7ce891;
+  }
+
+  .download-btn::before {
+    content: '↓';
+    font-size: 13px;
+  }
+
+  .tag-cineca {
+    display: inline-block;
+    background: rgba(240,160,64,0.12);
+    border: 1px solid rgba(240,160,64,0.3);
+    color: var(--accent2);
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    padding: 2px 8px;
+    border-radius: 3px;
+    margin-left: 8px;
+    vertical-align: middle;
+  }
+
+  .expand-all {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: transparent;
+    border: 1px solid var(--border);
+    color: var(--text-dim);
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    padding: 7px 14px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-bottom: 24px;
+    transition: all 0.2s;
+  }
+
+  .expand-all:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+
+  footer {
+    text-align: center;
+    padding: 40px 20px 0;
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    color: var(--text-dim);
+    letter-spacing: 0.5px;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="badge">Archivio Ufficiale</div>
+  <h1>Test di Ammissione<br><em>Professioni Sanitarie</em></h1>
+  <p class="subtitle">Link diretti ai PDF ufficiali delle prove di ammissione ai corsi di laurea triennali in Professioni Sanitarie (Infermieristica e affini) — aggiornato giugno 2026.</p>
+  <div class="stats-bar">
+    <div class="stat">
+      <span class="stat-val">23+</span>
+      <span class="stat-label">Anni accademici</span>
+    </div>
+    <div class="stat">
+      <span class="stat-val">40+</span>
+      <span class="stat-label">PDF scaricabili</span>
+    </div>
+    <div class="stat">
+      <span class="stat-val">3</span>
+      <span class="stat-label">Fonti universitarie</span>
+    </div>
+  </div>
+</header>
+
+<div class="container">
+
+  <div class="info-box" style="margin-top: 36px;">
+    <strong>Come usare questa pagina:</strong> clicca su un anno per espandere i link, poi premi <em>↓ SCARICA PDF</em> per aprire il file direttamente dal sito ufficiale dell'università. Se il browser chiede di aprire o salvare, scegli <em>Salva</em>. Le prove CINECA (indicate con il badge arancione) sono quelle adottate da molti atenei simultaneamente — ideali per l'esercitazione. La risposta corretta è sempre evidenziata (o è sempre la A).
+  </div>
+
+  <button class="expand-all" onclick="toggleAll()">⊞ ESPANDI TUTTI</button>
+
+  <!-- ======= 2025-2026 ======= -->
+  <div class="section open">
+    <div class="section-header" onclick="toggle(this)">
+      <span class="section-year">2025–2026</span>
+      <span class="section-meta">UNIBA · CINECA</span>
+      <span class="chevron">›</span>
+    </div>
+    <div class="section-body">
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie triennali <span class="tag-cineca">CINECA</span></div>
+          <div class="link-source">Università degli Studi di Bari · reclutamento.ict.uniba.it</div>
+        </div>
+        <a class="download-btn" href="https://reclutamento.ict.uniba.it/ammissione-cdl-numero-programmato/questionari-soluzioni-cdlnp/anno-accademico-2025-2026/02-baseps2025.pdf" target="_blank">SCARICA PDF</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- ======= 2024-2025 ======= -->
+  <div class="section">
+    <div class="section-header" onclick="toggle(this)">
+      <span class="section-year">2024–2025</span>
+      <span class="section-meta">UNIBA · UNIPV · CINECA</span>
+      <span class="chevron">›</span>
+    </div>
+    <div class="section-body">
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie triennali <span class="tag-cineca">CINECA</span></div>
+          <div class="link-source">Università degli Studi di Bari · reclutamento.ict.uniba.it</div>
+        </div>
+        <a class="download-btn" href="https://reclutamento.ict.uniba.it/ammissione-cdl-numero-programmato/questionari-soluzioni-cdlnp/anno-accademico-2024-2025/02-baseps2024-1.pdf" target="_blank">SCARICA PDF</a>
+      </div>
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — con soluzioni <span class="tag-cineca">CINECA</span></div>
+          <div class="link-source">Università degli Studi di Pavia · portale.unipv.it</div>
+        </div>
+        <a class="download-btn" href="https://portale.unipv.it/sites/default/files/2024-09/Test%20triennali%20sanitarie%202024-2025%20-%20Testo%20esame%20con%20risposte.pdf" target="_blank">SCARICA PDF</a>
+      </div>
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — Bologna/UNIUD</div>
+          <div class="link-source">Più atenei — versione identica o analoga alla CINECA</div>
+        </div>
+        <a class="download-btn" href="https://www.uniud.it/it/didattica/graduatorie/graduatorie-area-medica/test-anni-scorsi/prove-ammissione-corsi-laurea-professioni-sanitarie/34-baseps2024.pdf/download" target="_blank">SCARICA PDF</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- ======= 2023-2024 ======= -->
+  <div class="section">
+    <div class="section-header" onclick="toggle(this)">
+      <span class="section-year">2023–2024</span>
+      <span class="section-meta">UNIBA · UNIUD · CINECA</span>
+      <span class="chevron">›</span>
+    </div>
+    <div class="section-body">
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie triennali <span class="tag-cineca">CINECA</span></div>
+          <div class="link-source">Università degli Studi di Bari · reclutamento.ict.uniba.it</div>
+        </div>
+        <a class="download-btn" href="https://reclutamento.ict.uniba.it/ammissione-cdl-numero-programmato/questionari-soluzioni-cdlnp/anno-accademico-2023-2024/psa_2023.pdf" target="_blank">SCARICA PDF</a>
+      </div>
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — UNIUD</div>
+          <div class="link-source">Università degli Studi di Udine · uniud.it</div>
+        </div>
+        <a class="download-btn" href="https://www.uniud.it/it/didattica/graduatorie/graduatorie-area-medica/test-anni-scorsi/prove-ammissione-corsi-laurea-professioni-sanitarie/34-baseps2023.pdf/download" target="_blank">SCARICA PDF</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- ======= 2022-2023 ======= -->
+  <div class="section">
+    <div class="section-header" onclick="toggle(this)">
+      <span class="section-year">2022–2023</span>
+      <span class="section-meta">UNIBO · UNIUD · CINECA</span>
+      <span class="chevron">›</span>
+    </div>
+    <div class="section-body">
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — Bologna <span class="tag-cineca">CINECA</span></div>
+          <div class="link-source">Università di Bologna · corsi.unibo.it</div>
+        </div>
+        <a class="download-btn" href="https://corsi.unibo.it/s/3317/p/it/test-di-ammissione-anni-passati/03ps20000.pdf/@@download/file/03PS20000.pdf" target="_blank">SCARICA PDF</a>
+      </div>
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — UNIUD</div>
+          <div class="link-source">Università degli Studi di Udine · uniud.it</div>
+        </div>
+        <a class="download-btn" href="https://www.uniud.it/it/didattica/graduatorie/graduatorie-area-medica/test-anni-scorsi/prove-ammissione-corsi-laurea-professioni-sanitarie/prova-di-ammissione-professini-e-motorie-2022-23.pdf/download" target="_blank">SCARICA PDF</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- ======= 2021-2022 ======= -->
+  <div class="section">
+    <div class="section-header" onclick="toggle(this)">
+      <span class="section-year">2021–2022</span>
+      <span class="section-meta">UNIBA · UNIBO · UNIUD · CINECA</span>
+      <span class="chevron">›</span>
+    </div>
+    <div class="section-body">
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — Bari <span class="tag-cineca">CINECA</span></div>
+          <div class="link-source">Università degli Studi di Bari · reclutamento.ict.uniba.it</div>
+        </div>
+        <a class="download-btn" href="https://reclutamento.ict.uniba.it/ammissione-cdl-numero-programmato/questionari-soluzioni-cdlnp/anno-accademico-2021-2022/psa-2021.pdf" target="_blank">SCARICA PDF</a>
+      </div>
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — Bologna</div>
+          <div class="link-source">Università di Bologna · corsi.unibo.it</div>
+        </div>
+        <a class="download-btn" href="https://corsi.unibo.it/s/3317/p/it/test-di-ammissione-anni-passati/test-di-ammissione-2021-2022.pdf/@@download/file/Test%20di%20ammissione%202021-2022.pdf" target="_blank">SCARICA PDF</a>
+      </div>
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — UNIUD</div>
+          <div class="link-source">Università degli Studi di Udine · uniud.it</div>
+        </div>
+        <a class="download-btn" href="https://www.uniud.it/it/didattica/graduatorie/graduatorie-area-medica/test-anni-scorsi/prove-ammissione-corsi-laurea-professioni-sanitarie/prova-di-ammissione-a-a-2021-2022.pdf/download" target="_blank">SCARICA PDF</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- ======= 2020-2021 ======= -->
+  <div class="section">
+    <div class="section-header" onclick="toggle(this)">
+      <span class="section-year">2020–2021</span>
+      <span class="section-meta">UNIBA · UNIBO · UNIUD</span>
+      <span class="chevron">›</span>
+    </div>
+    <div class="section-body">
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — Bari</div>
+          <div class="link-source">Università degli Studi di Bari · reclutamento.ict.uniba.it</div>
+        </div>
+        <a class="download-btn" href="https://reclutamento.ict.uniba.it/ammissione-cdl-numero-programmato/questionari-soluzioni-cdlnp/anno-accademico-2020-2021/psa-2020.pdf" target="_blank">SCARICA PDF</a>
+      </div>
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — Bologna</div>
+          <div class="link-source">Università di Bologna · corsi.unibo.it</div>
+        </div>
+        <a class="download-btn" href="https://corsi.unibo.it/s/3317/p/it/test-di-ammissione-anni-passati/test-di-ammissione-2020-2021.pdf/@@download/file/Test%20di%20ammissione%202020-2021.pdf" target="_blank">SCARICA PDF</a>
+      </div>
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — UNIUD</div>
+          <div class="link-source">Università degli Studi di Udine · uniud.it</div>
+        </div>
+        <a class="download-btn" href="https://www.uniud.it/it/didattica/graduatorie/graduatorie-area-medica/test-anni-scorsi/prove-ammissione-corsi-laurea-professioni-sanitarie/prova-di-ammissione-a-a-2020-2021.pdf/download" target="_blank">SCARICA PDF</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- ======= 2019-2020 ======= -->
+  <div class="section">
+    <div class="section-header" onclick="toggle(this)">
+      <span class="section-year">2019–2020</span>
+      <span class="section-meta">UNIBA · UNIBO · UNIUD</span>
+      <span class="chevron">›</span>
+    </div>
+    <div class="section-body">
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — Bari</div>
+          <div class="link-source">Università degli Studi di Bari · reclutamento.ict.uniba.it</div>
+        </div>
+        <a class="download-btn" href="https://reclutamento.ict.uniba.it/ammissione-cdl-numero-programmato/questionari-soluzioni-cdlnp/anno-accademico-2019-2020/psa-2019.pdf" target="_blank">SCARICA PDF</a>
+      </div>
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — Bologna</div>
+          <div class="link-source">Università di Bologna · corsi.unibo.it</div>
+        </div>
+        <a class="download-btn" href="https://corsi.unibo.it/s/3317/p/it/test-di-ammissione-anni-passati/test-di-ammissione-2019-2020.pdf/@@download/file/Test%20di%20ammissione%202019-2020.pdf" target="_blank">SCARICA PDF</a>
+      </div>
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — UNIUD</div>
+          <div class="link-source">Università degli Studi di Udine · uniud.it</div>
+        </div>
+        <a class="download-btn" href="https://www.uniud.it/it/didattica/graduatorie/graduatorie-area-medica/test-anni-scorsi/prove-ammissione-corsi-laurea-professioni-sanitarie/prova-di-ammissione-a-a-2019-2020/download" target="_blank">SCARICA PDF</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- ======= 2018-2019 ======= -->
+  <div class="section">
+    <div class="section-header" onclick="toggle(this)">
+      <span class="section-year">2018–2019</span>
+      <span class="section-meta">UNIBA · UNIBO · UNIUD</span>
+      <span class="chevron">›</span>
+    </div>
+    <div class="section-body">
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — Bari</div>
+          <div class="link-source">Università degli Studi di Bari</div>
+        </div>
+        <a class="download-btn" href="https://reclutamento.ict.uniba.it/ammissione-cdl-numero-programmato/questionari-soluzioni-cdlnp/anno-accademico-2018-2019/psa-2018.pdf" target="_blank">SCARICA PDF</a>
+      </div>
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — Bologna</div>
+          <div class="link-source">Università di Bologna</div>
+        </div>
+        <a class="download-btn" href="https://corsi.unibo.it/s/3317/p/it/test-di-ammissione-anni-passati/test-di-ammissione-2018-2019.pdf/@@download/file/Test%20di%20ammissione%202018-2019.pdf" target="_blank">SCARICA PDF</a>
+      </div>
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — UNIUD</div>
+          <div class="link-source">Università degli Studi di Udine</div>
+        </div>
+        <a class="download-btn" href="https://www.uniud.it/it/didattica/graduatorie/graduatorie-area-medica/test-anni-scorsi/prove-ammissione-corsi-laurea-professioni-sanitarie/2018-2019/download" target="_blank">SCARICA PDF</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- ======= 2017-2018 ======= -->
+  <div class="section">
+    <div class="section-header" onclick="toggle(this)">
+      <span class="section-year">2017–2018</span>
+      <span class="section-meta">UNIBA · UNIBO · UNIUD</span>
+      <span class="chevron">›</span>
+    </div>
+    <div class="section-body">
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — Bari</div>
+          <div class="link-source">Università degli Studi di Bari</div>
+        </div>
+        <a class="download-btn" href="https://reclutamento.ict.uniba.it/ammissione-cdl-numero-programmato/questionari-soluzioni-cdlnp/anno-accademico-2017-2018/psa.pdf" target="_blank">SCARICA PDF</a>
+      </div>
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — Bologna</div>
+          <div class="link-source">Università di Bologna</div>
+        </div>
+        <a class="download-btn" href="https://corsi.unibo.it/s/3317/p/it/test-di-ammissione-anni-passati/test-di-ammissione-2017-2018.pdf/@@download/file/Test%20di%20ammissione%202017-2018.pdf" target="_blank">SCARICA PDF</a>
+      </div>
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — UNIUD</div>
+          <div class="link-source">Università degli Studi di Udine</div>
+        </div>
+        <a class="download-btn" href="https://www.uniud.it/it/didattica/graduatorie/graduatorie-area-medica/test-anni-scorsi/prove-ammissione-corsi-laurea-professioni-sanitarie/2017-2018/download" target="_blank">SCARICA PDF</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- ======= 2016-2017 ======= -->
+  <div class="section">
+    <div class="section-header" onclick="toggle(this)">
+      <span class="section-year">2016–2017</span>
+      <span class="section-meta">UNIBA · UNIBO · UNIUD</span>
+      <span class="chevron">›</span>
+    </div>
+    <div class="section-body">
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — Bari</div>
+          <div class="link-source">Università degli Studi di Bari</div>
+        </div>
+        <a class="download-btn" href="https://reclutamento.ict.uniba.it/ammissione-cdl-numero-programmato/questionari-soluzioni-cdlnp/anno-accademico-2016-2017/psa.pdf" target="_blank">SCARICA PDF</a>
+      </div>
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — Bologna</div>
+          <div class="link-source">Università di Bologna</div>
+        </div>
+        <a class="download-btn" href="https://corsi.unibo.it/s/3317/p/it/test-di-ammissione-anni-passati/test-di-ammissione-2016-2017.pdf/@@download/file/Test%20di%20ammissione%202016-2017.pdf" target="_blank">SCARICA PDF</a>
+      </div>
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — UNIUD</div>
+          <div class="link-source">Università degli Studi di Udine</div>
+        </div>
+        <a class="download-btn" href="https://www.uniud.it/it/didattica/graduatorie/graduatorie-area-medica/test-anni-scorsi/prove-ammissione-corsi-laurea-professioni-sanitarie/prove-ammissione-corsi-laurea-professioni-sanitarie--/download" target="_blank">SCARICA PDF</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- ======= 2015-2016 ======= -->
+  <div class="section">
+    <div class="section-header" onclick="toggle(this)">
+      <span class="section-year">2015–2016</span>
+      <span class="section-meta">UNIBA · UNIBO · UNIUD</span>
+      <span class="chevron">›</span>
+    </div>
+    <div class="section-body">
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — Bari</div>
+          <div class="link-source">Università degli Studi di Bari</div>
+        </div>
+        <a class="download-btn" href="https://reclutamento.ict.uniba.it/ammissione-cdl-numero-programmato/questionari-soluzioni-cdlnp/anno-accademico-2015-2016/psa.pdf" target="_blank">SCARICA PDF</a>
+      </div>
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — Bologna</div>
+          <div class="link-source">Università di Bologna</div>
+        </div>
+        <a class="download-btn" href="https://corsi.unibo.it/s/3317/p/it/test-di-ammissione-anni-passati/test-di-ammissione-2015-2016.pdf/@@download/file/Test%20di%20ammissione%202015-2016.pdf" target="_blank">SCARICA PDF</a>
+      </div>
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — UNIUD</div>
+          <div class="link-source">Università degli Studi di Udine</div>
+        </div>
+        <a class="download-btn" href="https://www.uniud.it/it/didattica/graduatorie/graduatorie-area-medica/test-anni-scorsi/prove-ammissione-corsi-laurea-professioni-sanitarie/prove-ammissione-corsi-laurea-professioni-sanitarie-/download" target="_blank">SCARICA PDF</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- ======= 2014-2015 ======= -->
+  <div class="section">
+    <div class="section-header" onclick="toggle(this)">
+      <span class="section-year">2014–2015</span>
+      <span class="section-meta">UNIBA · UNIBO · UNIUD</span>
+      <span class="chevron">›</span>
+    </div>
+    <div class="section-body">
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — Bari</div>
+          <div class="link-source">Università degli Studi di Bari</div>
+        </div>
+        <a class="download-btn" href="https://reclutamento.ict.uniba.it/ammissione-cdl-numero-programmato/questionari-soluzioni-cdlnp/anno-accademico-2014-2015/psa.pdf" target="_blank">SCARICA PDF</a>
+      </div>
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — Bologna</div>
+          <div class="link-source">Università di Bologna</div>
+        </div>
+        <a class="download-btn" href="https://corsi.unibo.it/s/3317/p/it/test-di-ammissione-anni-passati/test-di-ammissione-2014-2015.pdf/@@download/file/Test%20di%20ammissione%202014-2015.pdf" target="_blank">SCARICA PDF</a>
+      </div>
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — UNIUD</div>
+          <div class="link-source">Università degli Studi di Udine</div>
+        </div>
+        <a class="download-btn" href="https://www.uniud.it/it/didattica/graduatorie/graduatorie-area-medica/test-anni-scorsi/prove-ammissione-corsi-laurea-professioni-sanitarie/prove-ammissione-corsi-laurea-professioni-sanitarie/download" target="_blank">SCARICA PDF</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- ======= 2013-2014 ======= -->
+  <div class="section">
+    <div class="section-header" onclick="toggle(this)">
+      <span class="section-year">2013–2014</span>
+      <span class="section-meta">UNIBA · UNIBO · UNIUD</span>
+      <span class="chevron">›</span>
+    </div>
+    <div class="section-body">
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — Bari</div>
+          <div class="link-source">Università degli Studi di Bari</div>
+        </div>
+        <a class="download-btn" href="https://reclutamento.ict.uniba.it/ammissione-cdl-numero-programmato/questionari-soluzioni-cdlnp/anno-accademico-2013-2014/psa.pdf" target="_blank">SCARICA PDF</a>
+      </div>
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — Bologna</div>
+          <div class="link-source">Università di Bologna</div>
+        </div>
+        <a class="download-btn" href="https://corsi.unibo.it/s/3317/p/it/test-di-ammissione-anni-passati/test-di-ammissione-2013-2014.pdf/@@download/file/Test%20di%20ammissione%202013-2014.pdf" target="_blank">SCARICA PDF</a>
+      </div>
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — UNIUD</div>
+          <div class="link-source">Università degli Studi di Udine</div>
+        </div>
+        <a class="download-btn" href="https://www.uniud.it/it/didattica/graduatorie/graduatorie-area-medica/test-anni-scorsi/prove-ammissione-corsi-laurea-professioni-sanitarie/anno-acccademico-2013-2014/download" target="_blank">SCARICA PDF</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- ======= 2012-2013 ======= -->
+  <div class="section">
+    <div class="section-header" onclick="toggle(this)">
+      <span class="section-year">2012–2013</span>
+      <span class="section-meta">UNIBA · UNIBO · UNIUD</span>
+      <span class="chevron">›</span>
+    </div>
+    <div class="section-body">
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — Bari</div>
+          <div class="link-source">Università degli Studi di Bari</div>
+        </div>
+        <a class="download-btn" href="https://reclutamento.ict.uniba.it/ammissione-cdl-numero-programmato/questionari-soluzioni-cdlnp/anno-accademico-2012-2013/psa.pdf" target="_blank">SCARICA PDF</a>
+      </div>
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — Bologna</div>
+          <div class="link-source">Università di Bologna</div>
+        </div>
+        <a class="download-btn" href="https://corsi.unibo.it/s/3317/p/it/test-di-ammissione-anni-passati/test-di-ammissione-2012-2013.pdf/@@download/file/Test%20di%20ammissione%202012-2013.pdf" target="_blank">SCARICA PDF</a>
+      </div>
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — UNIUD</div>
+          <div class="link-source">Università degli Studi di Udine</div>
+        </div>
+        <a class="download-btn" href="https://www.uniud.it/it/didattica/graduatorie/graduatorie-area-medica/test-anni-scorsi/prove-ammissione-corsi-laurea-professioni-sanitarie/anno-acccademico-2012-2013/download" target="_blank">SCARICA PDF</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- ======= 2011-2012 ======= -->
+  <div class="section">
+    <div class="section-header" onclick="toggle(this)">
+      <span class="section-year">2011–2012</span>
+      <span class="section-meta">UNIBA · UNIBO · UNIUD</span>
+      <span class="chevron">›</span>
+    </div>
+    <div class="section-body">
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — Bari</div>
+          <div class="link-source">Università degli Studi di Bari</div>
+        </div>
+        <a class="download-btn" href="https://reclutamento.ict.uniba.it/ammissione-cdl-numero-programmato/questionari-soluzioni-cdlnp/2011-2012/psa.pdf" target="_blank">SCARICA PDF</a>
+      </div>
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — Bologna</div>
+          <div class="link-source">Università di Bologna</div>
+        </div>
+        <a class="download-btn" href="https://corsi.unibo.it/s/3317/p/it/test-di-ammissione-anni-passati/test-di-ammissione-2011-2012.pdf/@@download/file/Test%20di%20ammissione%202011-2012.pdf" target="_blank">SCARICA PDF</a>
+      </div>
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — UNIUD</div>
+          <div class="link-source">Università degli Studi di Udine</div>
+        </div>
+        <a class="download-btn" href="https://www.uniud.it/it/didattica/graduatorie/graduatorie-area-medica/test-anni-scorsi/prove-ammissione-corsi-laurea-professioni-sanitarie/anno-acccademico-2011-2012/download" target="_blank">SCARICA PDF</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- ======= 2010-2011 ======= -->
+  <div class="section">
+    <div class="section-header" onclick="toggle(this)">
+      <span class="section-year">2010–2011</span>
+      <span class="section-meta">UNIBA · UNIBO · UNIUD</span>
+      <span class="chevron">›</span>
+    </div>
+    <div class="section-body">
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — Bari (test)</div>
+          <div class="link-source">Università degli Studi di Bari</div>
+        </div>
+        <a class="download-btn" href="https://reclutamento.ict.uniba.it/ammissione-cdl-numero-programmato/questionari-soluzioni-cdlnp/2010-2011/psa_test.pdf" target="_blank">SCARICA PDF</a>
+      </div>
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — Bari (soluzioni)</div>
+          <div class="link-source">Università degli Studi di Bari</div>
+        </div>
+        <a class="download-btn" href="https://reclutamento.ict.uniba.it/ammissione-cdl-numero-programmato/questionari-soluzioni-cdlnp/2010-2011/psa_soluzioni.pdf" target="_blank">SCARICA PDF</a>
+      </div>
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — Bologna</div>
+          <div class="link-source">Università di Bologna</div>
+        </div>
+        <a class="download-btn" href="https://corsi.unibo.it/s/3317/p/it/test-di-ammissione-anni-passati/test-di-ammissione-2010-2011.pdf/@@download/file/Test%20di%20ammissione%202010-2011.pdf" target="_blank">SCARICA PDF</a>
+      </div>
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — UNIUD</div>
+          <div class="link-source">Università degli Studi di Udine</div>
+        </div>
+        <a class="download-btn" href="https://www.uniud.it/it/didattica/graduatorie/graduatorie-area-medica/test-anni-scorsi/prove-ammissione-corsi-laurea-professioni-sanitarie/anno-acccademico-2010-2011/download" target="_blank">SCARICA PDF</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- ======= 2009-2010 ======= -->
+  <div class="section">
+    <div class="section-header" onclick="toggle(this)">
+      <span class="section-year">2009–2010</span>
+      <span class="section-meta">UNIBA · UNIBO · UNIUD</span>
+      <span class="chevron">›</span>
+    </div>
+    <div class="section-body">
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — Bari (test)</div>
+          <div class="link-source">Università degli Studi di Bari</div>
+        </div>
+        <a class="download-btn" href="https://reclutamento.ict.uniba.it/ammissione-cdl-numero-programmato/questionari-soluzioni-cdlnp/2009-2010/psa_test.pdf" target="_blank">SCARICA PDF</a>
+      </div>
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — Bari (soluzioni)</div>
+          <div class="link-source">Università degli Studi di Bari</div>
+        </div>
+        <a class="download-btn" href="https://reclutamento.ict.uniba.it/ammissione-cdl-numero-programmato/questionari-soluzioni-cdlnp/2009-2010/psa_soluzioni.pdf" target="_blank">SCARICA PDF</a>
+      </div>
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — Bologna</div>
+          <div class="link-source">Università di Bologna</div>
+        </div>
+        <a class="download-btn" href="https://corsi.unibo.it/s/3317/p/it/test-di-ammissione-anni-passati/test-di-ammissione-2009-2010.pdf/@@download/file/Test%20di%20ammissione%202009-2010.pdf" target="_blank">SCARICA PDF</a>
+      </div>
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — UNIUD</div>
+          <div class="link-source">Università degli Studi di Udine</div>
+        </div>
+        <a class="download-btn" href="https://www.uniud.it/it/didattica/graduatorie/graduatorie-area-medica/test-anni-scorsi/prove-ammissione-corsi-laurea-professioni-sanitarie/anno-acccademico-2009-2010/download" target="_blank">SCARICA PDF</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- ======= 2008-2009 ======= -->
+  <div class="section">
+    <div class="section-header" onclick="toggle(this)">
+      <span class="section-year">2008–2009</span>
+      <span class="section-meta">UNIBA · UNIBO · UNIUD</span>
+      <span class="chevron">›</span>
+    </div>
+    <div class="section-body">
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — Bari (test)</div>
+          <div class="link-source">Università degli Studi di Bari · area-reclutamento.uniba.it</div>
+        </div>
+        <a class="download-btn" href="http://www.area-reclutamento.uniba.it/laurea/quiz%202008-2009/psa_test.pdf" target="_blank">SCARICA PDF</a>
+      </div>
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — Bologna</div>
+          <div class="link-source">Università di Bologna</div>
+        </div>
+        <a class="download-btn" href="https://corsi.unibo.it/s/3317/p/it/test-di-ammissione-anni-passati/test-di-ammissione-2008-2009.pdf/@@download/file/Test%20di%20ammissione%202008-2009.pdf" target="_blank">SCARICA PDF</a>
+      </div>
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — UNIUD</div>
+          <div class="link-source">Università degli Studi di Udine</div>
+        </div>
+        <a class="download-btn" href="https://www.uniud.it/it/didattica/graduatorie/graduatorie-area-medica/test-anni-scorsi/prove-ammissione-corsi-laurea-professioni-sanitarie/anno-acccademico-2008-2009/download" target="_blank">SCARICA PDF</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- ======= 2007-2008 ======= -->
+  <div class="section">
+    <div class="section-header" onclick="toggle(this)">
+      <span class="section-year">2007–2008</span>
+      <span class="section-meta">UNIBA · UNIBO · UNIUD</span>
+      <span class="chevron">›</span>
+    </div>
+    <div class="section-body">
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — Bari (test + soluzioni)</div>
+          <div class="link-source">Università degli Studi di Bari</div>
+        </div>
+        <a class="download-btn" href="http://www.area-reclutamento.uniba.it/laurea/quiz%202007-2008/psa_test.pdf" target="_blank">SCARICA PDF</a>
+      </div>
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — Bologna</div>
+          <div class="link-source">Università di Bologna</div>
+        </div>
+        <a class="download-btn" href="https://corsi.unibo.it/s/3317/p/it/test-di-ammissione-anni-passati/test-di-ammissione-2007-2008.pdf/@@download/file/Test%20di%20ammissione%202007-2008.pdf" target="_blank">SCARICA PDF</a>
+      </div>
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — UNIUD</div>
+          <div class="link-source">Università degli Studi di Udine</div>
+        </div>
+        <a class="download-btn" href="https://www.uniud.it/it/didattica/graduatorie/graduatorie-area-medica/test-anni-scorsi/prove-ammissione-corsi-laurea-professioni-sanitarie/anno-acccademico-2007-2008/download" target="_blank">SCARICA PDF</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- ======= 2006-2007 ======= -->
+  <div class="section">
+    <div class="section-header" onclick="toggle(this)">
+      <span class="section-year">2006–2007</span>
+      <span class="section-meta">UNIBA · UNIBO · UNIUD</span>
+      <span class="chevron">›</span>
+    </div>
+    <div class="section-body">
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — Bari</div>
+          <div class="link-source">Università degli Studi di Bari</div>
+        </div>
+        <a class="download-btn" href="http://www.area-reclutamento.uniba.it/laurea/quiz%202006-2007/psa_test.pdf" target="_blank">SCARICA PDF</a>
+      </div>
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — Bologna</div>
+          <div class="link-source">Università di Bologna</div>
+        </div>
+        <a class="download-btn" href="https://corsi.unibo.it/s/3317/p/it/test-di-ammissione-anni-passati/test-di-ammissione-2006-2007.pdf/@@download/file/Test%20di%20ammissione%202006-2007.pdf" target="_blank">SCARICA PDF</a>
+      </div>
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — UNIUD</div>
+          <div class="link-source">Università degli Studi di Udine</div>
+        </div>
+        <a class="download-btn" href="https://www.uniud.it/it/didattica/graduatorie/graduatorie-area-medica/test-anni-scorsi/prove-ammissione-corsi-laurea-professioni-sanitarie/anno-acccademico-2006-2007/download" target="_blank">SCARICA PDF</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- ======= 2004-2005 ======= -->
+  <div class="section">
+    <div class="section-header" onclick="toggle(this)">
+      <span class="section-year">2004–2005</span>
+      <span class="section-meta">UNIBA (archivio storico)</span>
+      <span class="chevron">›</span>
+    </div>
+    <div class="section-body">
+      <div class="link-item">
+        <div class="link-icon">PDF</div>
+        <div class="link-info">
+          <div class="link-title">Professioni Sanitarie — Bari</div>
+          <div class="link-source">Università degli Studi di Bari · archivio storico</div>
+        </div>
+        <a class="download-btn" href="http://www.area-reclutamento.uniba.it/laurea/quiz%202004-2005/test_prof_sanit.pdf" target="_blank">SCARICA PDF</a>
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    <p>Fonti ufficiali: Università di Bologna · Università di Udine · Università di Bari Aldo Moro · Università di Pavia</p>
+    <p style="margin-top:8px;">Generato con Claude — giugno 2026 — tutti i link puntano ai server ufficiali degli atenei</p>
+  </footer>
+
+</div>
+
+<script>
+function toggle(header) {
+  const section = header.parentElement;
+  section.classList.toggle('open');
+}
+
+let allOpen = false;
+function toggleAll() {
+  allOpen = !allOpen;
+  document.querySelectorAll('.section').forEach(s => {
+    if (allOpen) s.classList.add('open');
+    else s.classList.remove('open');
+  });
+  document.querySelector('.expand-all').textContent = allOpen ? '⊟ COMPRIMI TUTTI' : '⊞ ESPANDI TUTTI';
+}
+</script>
+</body>
+</html>

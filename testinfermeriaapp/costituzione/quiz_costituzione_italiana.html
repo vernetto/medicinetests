@@ -1,0 +1,190 @@
+
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: var(--font-sans); }
+.quiz-wrap { padding: 1.5rem 0; max-width: 680px; }
+.header { margin-bottom: 1.5rem; }
+.progress-bar { height: 6px; background: var(--border); border-radius: 3px; margin-bottom: 0.5rem; }
+.progress-fill { height: 100%; background: var(--fill-accent); border-radius: 3px; transition: width 0.3s ease; }
+.meta { display: flex; justify-content: space-between; font-size: 13px; color: var(--text-secondary); }
+.question-card { background: var(--surface-2); border: 0.5px solid var(--border); border-radius: 12px; padding: 1.25rem 1.5rem; margin-bottom: 1rem; }
+.q-number { font-size: 12px; color: var(--text-muted); margin-bottom: 0.5rem; font-weight: 500; text-transform: uppercase; letter-spacing: 0.05em; }
+.q-text { font-size: 15px; color: var(--text-primary); line-height: 1.6; font-weight: 500; margin-bottom: 1.25rem; }
+.options { display: flex; flex-direction: column; gap: 8px; }
+.option-btn { text-align: left; padding: 10px 14px; border: 0.5px solid var(--border-strong); border-radius: var(--radius); background: var(--surface-1); color: var(--text-primary); font-size: 14px; cursor: pointer; transition: background 0.15s, border-color 0.15s; line-height: 1.5; width: 100%; }
+.option-btn:hover:not(:disabled) { background: var(--surface-0); border-color: var(--border-stronger); }
+.option-btn.correct { background: var(--bg-success); border-color: var(--border-success); color: var(--text-success); }
+.option-btn.wrong { background: var(--bg-danger); border-color: var(--border-danger); color: var(--text-danger); }
+.option-btn.reveal { background: var(--bg-success); border-color: var(--border-success); color: var(--text-success); opacity: 0.7; }
+.option-btn:disabled { cursor: default; }
+.feedback { margin-top: 12px; padding: 10px 14px; border-radius: var(--radius); font-size: 13px; line-height: 1.5; }
+.feedback.ok { background: var(--bg-success); color: var(--text-success); }
+.feedback.ko { background: var(--bg-danger); color: var(--text-danger); }
+.nav { display: flex; justify-content: space-between; align-items: center; margin-top: 1rem; }
+.nav button { padding: 8px 20px; border: 0.5px solid var(--border-strong); border-radius: var(--radius); background: var(--surface-1); color: var(--text-primary); font-size: 14px; cursor: pointer; }
+.nav button:hover { background: var(--surface-0); }
+.nav button.primary { background: var(--fill-accent); color: var(--on-accent); border-color: var(--fill-accent); }
+.nav button.primary:hover { background: var(--fill-accent-hover); }
+.score-card { text-align: center; background: var(--surface-2); border: 0.5px solid var(--border); border-radius: 12px; padding: 2rem; }
+.score-big { font-size: 48px; font-weight: 500; color: var(--text-accent); }
+.score-label { font-size: 15px; color: var(--text-secondary); margin-top: 4px; margin-bottom: 1.5rem; }
+.score-detail { font-size: 13px; color: var(--text-muted); margin-bottom: 1.5rem; }
+.tag { display: inline-block; padding: 3px 10px; border-radius: 20px; font-size: 11px; font-weight: 500; background: var(--bg-accent); color: var(--text-accent); margin-bottom: 0.75rem; }
+</style>
+
+<div class="quiz-wrap">
+<h2 class="sr-only" style="position:absolute;left:-9999px">Quiz sulla Costituzione italiana</h2>
+<div class="header">
+  <div class="progress-bar"><div class="progress-fill" id="prog"></div></div>
+  <div class="meta"><span id="qcount">Domanda 1 di 50</span><span id="score-live">Punteggio: 0</span></div>
+</div>
+<div id="quiz-area"></div>
+</div>
+
+<script>
+const ALL_QUESTIONS = [
+  { q: "In quale data è entrata in vigore la Costituzione italiana?", opts: ["1° gennaio 1948","2 giugno 1946","1° marzo 1947","25 aprile 1945"], ans: 0, exp: "La Costituzione è entrata in vigore il 1° gennaio 1948." },
+  { q: "Che tipo di Costituzione è quella italiana rispetto alla possibilità di modifica?", opts: ["Flessibile","Consuetudinaria","Rigida","Octroyée"], ans: 2, exp: "È una Costituzione rigida: non può essere modificata con una legge ordinaria, ma solo con una procedura aggravata." },
+  { q: "Di quanti articoli è composta la Costituzione italiana?", opts: ["100 articoli","128 articoli","139 articoli","155 articoli"], ans: 2, exp: "La Costituzione è composta da 139 articoli, più alcune disposizioni transitorie e finali." },
+  { q: "Quale articolo afferma che 'L'Italia è una Repubblica democratica, fondata sul lavoro'?", opts: ["Articolo 2","Articolo 1","Articolo 3","Articolo 4"], ans: 1, exp: "L'articolo 1 afferma: 'L'Italia è una Repubblica democratica, fondata sul lavoro.'" },
+  { q: "Secondo l'articolo 1, a chi appartiene la sovranità?", opts: ["Al Presidente della Repubblica","Al Parlamento","Al popolo","Al Governo"], ans: 2, exp: "L'articolo 1 stabilisce che la sovranità appartiene al popolo." },
+  { q: "L'articolo 3 della Costituzione introduce due tipi di uguaglianza. Quale tra queste è l'uguaglianza sostanziale?", opts: ["Tutti sono uguali davanti alla legge","Lo Stato deve rimuovere gli ostacoli che impediscono l'uguaglianza reale","Tutti hanno gli stessi diritti politici","Nessuna distinzione di sesso o razza"], ans: 1, exp: "L'uguaglianza sostanziale implica che lo Stato deve rimuovere gli ostacoli economici e sociali che impediscono la reale parità." },
+  { q: "Qual è l'articolo più importante per chi studia infermieristica, riguardante la salute?", opts: ["Articolo 2","Articolo 9","Articolo 32","Articolo 38"], ans: 2, exp: "L'articolo 32 tutela la salute come fondamentale diritto dell'individuo e interesse della collettività." },
+  { q: "Secondo l'articolo 32, chi ha diritto alle cure gratuite?", opts: ["Tutti i cittadini italiani","Solo i lavoratori dipendenti","Gli indigenti","I minori di 18 anni"], ans: 2, exp: "L'articolo 32 garantisce cure gratuite agli indigenti, cioè a chi non può permettersi di pagare." },
+  { q: "L'articolo 32 stabilisce che i trattamenti sanitari obbligatori sono possibili:", opts: ["In qualsiasi circostanza medica","Solo con consenso scritto del paziente","Solo se previsti dalla legge","Solo su ordine del medico di base"], ans: 2, exp: "Secondo l'articolo 32, nessuno può essere obbligato a un trattamento sanitario se non per disposizione di legge." },
+  { q: "Quale articolo tutela il diritto al lavoro e promuove le condizioni per renderlo effettivo?", opts: ["Articolo 3","Articolo 4","Articolo 5","Articolo 6"], ans: 1, exp: "L'articolo 4 riconosce il diritto al lavoro e promuove le condizioni che lo rendano effettivo." },
+  { q: "Qual è il contenuto dell'articolo 5 della Costituzione?", opts: ["Tutela le minoranze linguistiche","La Repubblica è una e indivisibile, ma promuove le autonomie locali","Regola i rapporti tra Stato e Chiesa","Tutela l'ambiente e la biodiversità"], ans: 1, exp: "L'articolo 5 afferma che la Repubblica è una e indivisibile, ma riconosce e promuove le autonomie locali." },
+  { q: "Quale articolo regola i rapporti tra Stato italiano e Chiesa cattolica?", opts: ["Articolo 6","Articolo 7","Articolo 8","Articolo 9"], ans: 1, exp: "L'articolo 7 stabilisce che Stato e Chiesa sono indipendenti e sovrani, ciascuno nel proprio ordine." },
+  { q: "L'articolo 8 afferma che:", opts: ["Solo la religione cattolica è riconosciuta dallo Stato","Tutte le confessioni religiose sono ugualmente libere davanti alla legge","La religione è una questione privata senza riconoscimento statale","Lo Stato è laico e non riconosce alcuna religione"], ans: 1, exp: "L'articolo 8 stabilisce che tutte le confessioni religiose sono ugualmente libere davanti alla legge." },
+  { q: "Quale articolo promuove la cultura, la ricerca scientifica e la tutela del patrimonio artistico e ambientale?", opts: ["Articolo 9","Articolo 10","Articolo 11","Articolo 12"], ans: 0, exp: "L'articolo 9 prevede che la Repubblica promuova cultura, ricerca scientifica e tecnica, e tuteli paesaggio, patrimonio storico, artistico e ambientale." },
+  { q: "L'articolo 11 della Costituzione riguarda:", opts: ["La libertà di stampa","Il ripudio della guerra","Il diritto d'asilo","La bandiera italiana"], ans: 1, exp: "L'articolo 11 afferma che l'Italia ripudia la guerra come strumento di offesa alla libertà degli altri popoli." },
+  { q: "Di quale colore è composta la bandiera italiana secondo l'articolo 12?", opts: ["Rosso, bianco e azzurro","Verde, bianco e rosso","Blu, bianco e rosso","Verde, giallo e rosso"], ans: 1, exp: "L'articolo 12 stabilisce che la bandiera italiana è il tricolore: verde, bianco e rosso." },
+  { q: "Quale articolo sancisce l'inviolabilità della libertà personale?", opts: ["Articolo 13","Articolo 15","Articolo 17","Articolo 21"], ans: 0, exp: "L'articolo 13 stabilisce che la libertà personale è inviolabile e nessuno può essere arrestato senza atto motivato dell'autorità giudiziaria." },
+  { q: "L'articolo 16 sulla libertà di circolazione prevede che limitazioni siano possibili per motivi di:", opts: ["Ragioni politiche o sociali","Sanità o sicurezza","Emergenze economiche","Ordine pubblico esclusivamente"], ans: 1, exp: "L'articolo 16 consente limitazioni alla libertà di circolazione per motivi di sanità o sicurezza, rilevante in caso di epidemie o quarantene." },
+  { q: "Quale articolo garantisce la libertà di manifestazione del pensiero?", opts: ["Articolo 18","Articolo 19","Articolo 21","Articolo 23"], ans: 2, exp: "L'articolo 21 stabilisce che tutti hanno diritto di manifestare liberamente il proprio pensiero con parola, scritto e ogni altro mezzo di diffusione." },
+  { q: "Quale articolo della Costituzione riguarda la famiglia?", opts: ["Articoli 27-28","Articoli 29-31","Articoli 32-33","Articoli 35-37"], ans: 1, exp: "Gli articoli 29-31 riconoscono i diritti della famiglia e tutelano maternità, infanzia e gioventù." },
+  { q: "Secondo la Costituzione, la salute è definita come:", opts: ["Solo un diritto individuale","Solo un interesse della collettività","Fondamentale diritto dell'individuo e interesse della collettività","Un servizio erogato discrezionalmente dallo Stato"], ans: 2, exp: "L'articolo 32 definisce la salute come fondamentale diritto dell'individuo e interesse della collettività." },
+  { q: "Cosa stabilisce l'articolo 34 sull'istruzione?", opts: ["L'istruzione è facoltativa fino a 14 anni","La scuola è aperta a tutti e l'istruzione inferiore è obbligatoria e gratuita","L'istruzione è a pagamento per tutti i gradi","Solo i benestanti possono accedere ai gradi superiori"], ans: 1, exp: "L'articolo 34 stabilisce che la scuola è aperta a tutti, l'istruzione inferiore è obbligatoria e gratuita, e i capaci e meritevoli, anche senza mezzi, hanno diritto agli studi superiori." },
+  { q: "L'articolo 36 tutela:", opts: ["Il diritto di sciopero","Una giusta retribuzione proporzionata e sufficiente","La libertà sindacale","L'assistenza previdenziale"], ans: 1, exp: "L'articolo 36 riconosce il diritto dei lavoratori a una retribuzione proporzionata alla quantità e qualità del lavoro." },
+  { q: "Quale articolo stabilisce il diritto all'assistenza e previdenza sociale?", opts: ["Articolo 35","Articolo 37","Articolo 38","Articolo 40"], ans: 2, exp: "L'articolo 38 stabilisce che ogni cittadino inabile al lavoro e sprovvisto di mezzi ha diritto al mantenimento e all'assistenza sociale." },
+  { q: "Il diritto di sciopero è previsto da quale articolo?", opts: ["Articolo 37","Articolo 38","Articolo 39","Articolo 40"], ans: 3, exp: "L'articolo 40 riconosce il diritto di sciopero nell'esercizio delle leggi che lo regolano." },
+  { q: "Quale articolo disciplina il diritto di voto?", opts: ["Articolo 46","Articolo 48","Articolo 50","Articolo 52"], ans: 1, exp: "L'articolo 48 stabilisce che sono elettori tutti i cittadini, uomini e donne, che hanno raggiunto la maggiore età." },
+  { q: "Il voto, secondo l'articolo 48, è:", opts: ["Personale, eguale, libero e segreto","Universale, delegabile e pubblico","Obbligatorio, eguale e segreto","Personale, ponderato e libero"], ans: 0, exp: "L'articolo 48 definisce il voto come personale, eguale, libero e segreto." },
+  { q: "L'articolo 49 riguarda:", opts: ["Il dovere fiscale","I partiti politici","La fedeltà alla Repubblica","Il diritto di petizione"], ans: 1, exp: "L'articolo 49 garantisce il diritto di associarsi liberamente in partiti per concorrere con metodo democratico alla politica nazionale." },
+  { q: "Il principio di progressività fiscale è contenuto in quale articolo?", opts: ["Articolo 51","Articolo 52","Articolo 53","Articolo 54"], ans: 2, exp: "L'articolo 53 stabilisce che tutti devono contribuire alle spese pubbliche in ragione della loro capacità contributiva, con sistema tributario progressivo." },
+  { q: "Quale articolo prevede il dovere di fedeltà alla Repubblica?", opts: ["Articolo 52","Articolo 53","Articolo 54","Articolo 55"], ans: 2, exp: "L'articolo 54 stabilisce che tutti i cittadini hanno il dovere di essere fedeli alla Repubblica e di osservarne la Costituzione e le leggi." },
+  { q: "Che cos'è il bicameralismo perfetto vigente in Italia?", opts: ["Camera e Senato hanno funzioni diverse e complementari","Solo la Camera approva le leggi","Camera e Senato hanno funzioni simili e una legge deve essere approvata da entrambe","Il Senato ha poteri superiori alla Camera"], ans: 2, exp: "In Italia vige il bicameralismo perfetto: Camera e Senato hanno funzioni molto simili e ogni legge deve essere approvata da entrambe." },
+  { q: "Dove ha sede la Camera dei deputati?", opts: ["Palazzo Madama","Palazzo Chigi","Montecitorio","Quirinale"], ans: 2, exp: "La Camera dei deputati ha sede a Montecitorio." },
+  { q: "Dove ha sede il Senato della Repubblica?", opts: ["Montecitorio","Palazzo Madama","Quirinale","Palazzo Chigi"], ans: 1, exp: "Il Senato della Repubblica ha sede a Palazzo Madama." },
+  { q: "Quale potere esercita il Parlamento?", opts: ["Potere esecutivo","Potere giudiziario","Potere legislativo","Potere di controllo"], ans: 2, exp: "Il Parlamento esercita il potere legislativo, cioè fa le leggi." },
+  { q: "Il Governo è composto da:", opts: ["Solo il Presidente del Consiglio","Il Presidente del Consiglio e i Ministri","Il Presidente della Repubblica e i Ministri","Parlamento e Corte Costituzionale"], ans: 1, exp: "Il Governo è composto dal Presidente del Consiglio dei ministri, dai Ministri e dal Consiglio dei ministri." },
+  { q: "Quale potere esercita il Governo?", opts: ["Potere legislativo","Potere giudiziario","Potere esecutivo","Potere costituente"], ans: 2, exp: "Il Governo esercita il potere esecutivo: governa il Paese, attua le leggi e dirige la pubblica amministrazione." },
+  { q: "Come viene eletto il Presidente della Repubblica?", opts: ["Dal popolo con suffragio universale","Dal solo Parlamento in seduta comune","Dal Parlamento in seduta comune con la partecipazione dei delegati regionali","Dal Consiglio dei ministri"], ans: 2, exp: "Il Presidente della Repubblica è eletto dal Parlamento in seduta comune con la partecipazione dei delegati regionali." },
+  { q: "Quanto dura il mandato del Presidente della Repubblica?", opts: ["5 anni","6 anni","7 anni","4 anni"], ans: 2, exp: "Il Presidente della Repubblica resta in carica 7 anni." },
+  { q: "Quale funzione NON appartiene al Presidente della Repubblica?", opts: ["Promulgare le leggi","Presiedere il Consiglio superiore della magistratura","Emanare decreti-legge in autonomia","Sciogliere le Camere"], ans: 2, exp: "I decreti-legge sono emanati dal Governo, non dal Presidente della Repubblica in autonomia. Il Presidente promulga le leggi, presiede il CSM e può sciogliere le Camere." },
+  { q: "Quale organo controlla che le leggi siano conformi alla Costituzione?", opts: ["Il Parlamento","Il Presidente della Repubblica","La Corte costituzionale","Il Consiglio di Stato"], ans: 2, exp: "La Corte costituzionale controlla la conformità delle leggi alla Costituzione e può dichiarare incostituzionale una legge." },
+  { q: "Quale articolo regola la revisione costituzionale?", opts: ["Articolo 135","Articolo 136","Articolo 138","Articolo 139"], ans: 2, exp: "L'articolo 138 disciplina la procedura per modificare la Costituzione, che richiede una doppia approvazione da ciascuna Camera con intervallo di almeno tre mesi." },
+  { q: "Cosa stabilisce l'articolo 139?", opts: ["La Costituzione non può mai essere modificata","La forma repubblicana non può essere oggetto di revisione costituzionale","Il Presidente della Repubblica è a vita","Il Parlamento non può essere sciolto"], ans: 1, exp: "L'articolo 139 stabilisce che la forma repubblicana non può essere oggetto di revisione costituzionale: l'Italia non può tornare monarchia." },
+  { q: "I principi fondamentali della Costituzione sono contenuti in:", opts: ["Articoli 1-5","Articoli 1-12","Articoli 1-20","Articoli 1-54"], ans: 1, exp: "I principi fondamentali sono contenuti negli articoli 1-12." },
+  { q: "La Parte I della Costituzione (articoli 13-54) riguarda:", opts: ["L'ordinamento della Repubblica","I principi fondamentali","I diritti e doveri dei cittadini","Le disposizioni transitorie"], ans: 2, exp: "La Parte I, articoli 13-54, contiene i diritti e i doveri dei cittadini." },
+  { q: "Quale tra queste NON è una caratteristica della Costituzione italiana?", opts: ["Scritta","Rigida","Breve","Democratica"], ans: 2, exp: "La Costituzione italiana è definita 'lunga' perché contiene anche diritti sociali, economici e civili, non solo la descrizione degli organi dello Stato." },
+  { q: "La Costituzione italiana è definita 'compromissoria' perché:", opts: ["È stata imposta dalle forze alleate","È nata dall'accordo tra diverse culture politiche: cattolica, liberale, socialista e comunista","Non ha una linea politica precisa","È stata modificata più volte per soddisfare diverse esigenze"], ans: 1, exp: "È compromissoria perché nacque dall'accordo tra diverse culture politiche: cattolica, liberale, socialista e comunista." },
+  { q: "In quale titolo della Parte I è incluso l'articolo 32 sulla salute?", opts: ["Rapporti civili","Rapporti etico-sociali","Rapporti economici","Rapporti politici"], ans: 1, exp: "L'articolo 32 fa parte dei Rapporti etico-sociali, che comprendono anche famiglia e istruzione." },
+  { q: "L'articolo 2 introduce i 'doveri di solidarietà'. Questo concetto è importante per:", opts: ["La sola politica estera","Sanità, assistenza, volontariato e welfare","Il sistema tributario","La difesa nazionale"], ans: 1, exp: "L'articolo 2 è rilevante per sanità, assistenza, volontariato e welfare perché impone al cittadino responsabilità verso gli altri." },
+  { q: "Quale articolo tutela le minoranze linguistiche?", opts: ["Articolo 5","Articolo 6","Articolo 7","Articolo 8"], ans: 1, exp: "L'articolo 6 tutela le minoranze linguistiche presenti nel territorio italiano." },
+  { q: "Secondo l'articolo 11, l'Italia:", opts: ["Può usare la guerra come mezzo diplomatico","Ripudia la guerra come strumento di offesa e come mezzo per risolvere controversie internazionali","Partecipa alle guerre solo se autorizzata dall'ONU","Non può mai partecipare ad alcuna alleanza militare"], ans: 1, exp: "L'articolo 11 afferma che l'Italia ripudia la guerra come strumento di offesa alla libertà degli altri popoli e come mezzo di risoluzione delle controversie internazionali." },
+  { q: "Quale tra questi diritti è definito 'inviolabile' dalla Costituzione?", opts: ["Il diritto di proprietà","La libertà personale (art. 13)","Il diritto al lavoro","Il diritto di voto"], ans: 1, exp: "L'articolo 13 definisce la libertà personale come inviolabile. Anche l'articolo 2 parla di diritti inviolabili dell'uomo in generale." },
+  { q: "La sanità in Italia, pur essendo un servizio nazionale nei principi, è organizzata praticamente da:", opts: ["Il solo Governo centrale","Il Ministero della Salute in modo uniforme","Le Regioni","La Corte costituzionale"], ans: 2, exp: "Il Servizio sanitario nazionale è nazionale nei principi, ma molte funzioni pratiche sono organizzate e gestite dalle Regioni." }
+];
+
+let current = 0;
+let score = 0;
+let answered = false;
+
+function shuffle(arr) {
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
+  }
+  return arr;
+}
+
+const QUESTIONS = shuffle([...ALL_QUESTIONS]);
+
+function render() {
+  const qa = document.getElementById('quiz-area');
+  const prog = document.getElementById('prog');
+  const qcount = document.getElementById('qcount');
+  const scoreLive = document.getElementById('score-live');
+
+  prog.style.width = ((current / QUESTIONS.length) * 100) + '%';
+  qcount.textContent = 'Domanda ' + (current + 1) + ' di ' + QUESTIONS.length;
+  scoreLive.textContent = 'Punteggio: ' + score;
+
+  if (current >= QUESTIONS.length) {
+    const pct = Math.round((score / QUESTIONS.length) * 100);
+    let emoji = pct >= 80 ? '🏆' : pct >= 60 ? '👍' : '📚';
+    let msg = pct >= 80 ? 'Ottimo risultato!' : pct >= 60 ? 'Buona preparazione, continua così.' : 'Ripassia ancora un po\' prima del test.';
+    qa.innerHTML = `<div class="score-card">
+      <div class="score-big">${score}/${QUESTIONS.length}</div>
+      <div class="score-label">${pct}% — ${msg}</div>
+      <div class="score-detail">Hai risposto correttamente a ${score} domande su ${QUESTIONS.length}.</div>
+      <button class="primary" onclick="restart()" style="padding:10px 28px;border-radius:var(--radius);background:var(--fill-accent);color:var(--on-accent);border:none;font-size:15px;cursor:pointer;">Ricomincia</button>
+    </div>`;
+    prog.style.width = '100%';
+    return;
+  }
+
+  answered = false;
+  const q = QUESTIONS[current];
+  let optsHtml = q.opts.map((o, i) =>
+    `<button class="option-btn" id="opt-${i}" onclick="pick(${i})">${String.fromCharCode(65+i)}. ${o}</button>`
+  ).join('');
+
+  qa.innerHTML = `<div class="question-card">
+    <div class="q-number">Domanda ${current + 1}</div>
+    <div class="q-text">${q.q}</div>
+    <div class="options">${optsHtml}</div>
+    <div id="feedback"></div>
+  </div>
+  <div class="nav">
+    <span></span>
+    <button id="next-btn" onclick="next()" style="display:none" class="primary">Prossima →</button>
+  </div>`;
+}
+
+function pick(i) {
+  if (answered) return;
+  answered = true;
+  const q = QUESTIONS[current];
+  const fb = document.getElementById('feedback');
+  document.querySelectorAll('.option-btn').forEach(b => b.disabled = true);
+
+  if (i === q.ans) {
+    score++;
+    document.getElementById('opt-' + i).classList.add('correct');
+    fb.innerHTML = `<div class="feedback ok">✓ Corretto! ${q.exp}</div>`;
+  } else {
+    document.getElementById('opt-' + i).classList.add('wrong');
+    document.getElementById('opt-' + q.ans).classList.add('reveal');
+    fb.innerHTML = `<div class="feedback ko">✗ Sbagliato. ${q.exp}</div>`;
+  }
+
+  document.getElementById('score-live').textContent = 'Punteggio: ' + score;
+  document.getElementById('next-btn').style.display = 'inline-block';
+}
+
+function next() {
+  current++;
+  render();
+}
+
+function restart() {
+  current = 0;
+  score = 0;
+  shuffle(QUESTIONS);
+  render();
+}
+
+render();
+</script>

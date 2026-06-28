@@ -1,0 +1,781 @@
+﻿Università degli Studi di BOLOGNA 
+CdL delle Professioni Sanitarie 
+
+ 
+
+  
+
+ 
+ PROVA DI AMMISSIONE AI CORSI DI LAUREA DELLE PROFESSIONI SANITARIE 
+
+ 
+Anno Accademico 2014/2015 
+
+ 
+
+ 
+Test di Ragionamento logico 
+
+1. Completare correttamente la seguente successione, utilizzando l’alfabeto italiano: 
+ E; 9; D; 10; C; 19; B; 29; ?; ? 
+
+A) A; 48 
+B) D; 57 
+C) R; 60 
+D) S; 60 
+E) 48; A 
+
+ 
+2. Il distributore automatico di un ufficio permette di selezionare tra una vasta gamma di caffè a 
+
+partire da due miscele: caffè normale o caffè decaffeinato. Il distributore propone caffè di due tipi: 
+ristretto o  macchiato con uno di tre tipi di latte (intero, parzialmente scremato, scremato); e, per 
+coloro che lo vogliono zuccherato, permette di selezionare l’aggiunta automatica di uno o due 
+cucchiaini di zucchero oppure uno o due cucchiaini di dolcificante. 
+
+ Quanti tipi diversi di caffè è possibile selezionare nel distributore automatico? 
+A) 40 
+B) 48 
+C) 32 
+D) 11 
+E) 24 
+
+ 
+3. Se: 
+ ∆ – 2 ·  @ = # + 2 · @ 
+ # = 2 · @ 
+ ∆ = 3 
+ allora # è uguale a: 
+
+A) 1 
+B) 0 
+C) 3 
+D) 2 
+E) non ci sono elementi sufficienti per rispondere 
+
+ 
+4. Quanto tempo si impiega per contare fino a 10.000, se si conta alla velocità di un numero al secondo? 
+
+A) Tra le 2 e le 3 ore 
+B) Tra le 3 e le 4 ore 
+C) Più di 24 ore 
+D) Meno di 2 ore 
+E) Più di 4 ore 
+
+ 
+5. Posti A = {27, 28, 29} e B = {28, 29, 30}, qual è l'insieme risultante dall'unione di A e B? 
+
+A) {27, 28, 29, 30} 
+B) {28, 29} 
+C) {27, 28, 28, 29, 29, 30} 
+D) {28, 29, 30} 
+E) Un insieme vuoto 
+
+ 
+
+ 1
+
+
+
+ 
+
+6. La piccola Fiorella sta giocando con 378 tessere quadrate di legno colorato, tutte delle stesse 
+dimensioni. Costruisce con le tessere, affiancandole, il più grande quadrato possibile. Considerando 
+il lato di ogni tessera come unità di misura u, quanto vale il perimetro del quadrato ottenuto? 
+
+A) 76 u 
+B) 266 u 
+C) 126 u 
+D) 72 u 
+E) 80 u 
+
+ 
+7. Si consideri la seguente affermazione: “Ogni numero pari è somma di due numeri primi”.  
+ Qual è la sua negazione logica? 
+
+A) Esiste almeno un numero pari che non si possa esprimere come somma di due numeri primi 
+B) Esistono alcuni numeri primi aventi somma pari 
+C) La somma di due numeri primi è sempre pari 
+D) Non tutte le somme di due numeri primi sono pari 
+E) Nessun numero pari è somma di due numeri primi 
+
+ 
+8. Un paio di pantaloni costava 64 euro e con i saldi il suo prezzo attuale è pari ai 3/4 del prezzo 
+
+iniziale. A quanto ammonta lo sconto applicato? 
+A) 16 euro 
+B) 48 euro 
+C) 20 euro 
+D) 12 euro 
+E) 20% 
+
+ 
+9. Se in una certa zona la piovosità media è di 360 millimetri all’anno, quanto piove mediamente in due 
+
+anni e cinque mesi? 
+A) 870 millimetri 
+B) 900 millimetri 
+C) 720 millimetri 
+D) 270 millimetri 
+E) 570 millimetri 
+
+ 
+10. Quali tra i termini proposti completano correttamente la seguente proporzione? 
+ Virus : epidemia = X : Y 
+
+A) X = scintilla Y = incendio 
+B) X = vento Y = mulino 
+C) X = contagio Y = guarigione 
+D) X = fiammifero Y = accendino 
+E) X = maremoto Y = terremoto 
+
+ 
+11. “Se nevica, Arianna accende il camino”. Se la precedente affermazione è vera, allora è sicuramente 
+
+vero che: 
+A) se Arianna non accende il camino, vuol dire che non nevica 
+B) non nevica e quindi Arianna tiene spento il camino 
+C) se Arianna accende il camino, vuol dire che nevica 
+D) se non nevica Arianna non accende il camino 
+E) Arianna non accende il camino quando c’è il sole 
+
+ 
+
+ 2
+
+
+
+Università degli Studi di BOLOGNA 
+CdL delle Professioni Sanitarie 
+
+ 
+
+  
+
+ 
+12. In figura sono rappresentate due bilance a due piatti in equilibrio con alcuni oggetti (sfere, cubi e 
+
+piramidi). 
+
+  
+ A quanti cubi corrisponde la massa di una piramide? 
+
+A) 3 
+B) 2 
+C) 6 
+D) 5 
+E) 4 
+
+ 
+13. Individuare il numero mancante. 
+
+  
+A) 25 
+B) 24 
+C) 23 
+D) 26 
+E) 27 
+
+ 
+ 
+
+Brano 1 
+ 
+
+Leggere il testo del seguente problema. 
+Cinque coppie di amici (i coniugi Bresso, Elmi, Gallo, Ornati e Pellini) hanno trascorso una vacanza di una settimana su 
+un’isola caraibica. Le coppie hanno organizzato attività comuni tutti i giorni tranne uno, il penultimo, in cui ogni coppia ha 
+fatto qualcosa di diverso rispetto agli altri, scegliendo tra le seguenti attività (non necessariamente in quest’ordine): visita 
+alla capitale dell’isola, immersione sulla barriera corallina, partita a golf, escursione nella foresta, gita a pesca. Ogni coppia 
+ha inoltre acquistato un souvenir differente, scegliendo tra: una statuetta di legno, il modellino di una nave, una T-shirt, un 
+poster con una foto della spiaggia più famosa dell’isola, una confezione di dolcetti tipici (non necessariamente in 
+quest’ordine). Si sa che: 
+1) La coppia che è andata a fare un’immersione sulla barriera corallina non ha acquistato i dolcetti tipici del posto; 
+2) La coppia che è andata a pesca poi ha acquistato un poster con la foto della spiaggia più famosa dell’isola da regalare al 
+nipotino; 
+3) La coppia che ha visitato la capitale dell’isola ha acquistato una bellissima statuetta di legno che, insieme al modellino di 
+nave scelto dalla coppia che è andata a fare immersione sulla barriera corallina, è stato votato miglior souvenir da tutti gli 
+amici; 
+4) I coniugi Pellini non sono andati a fare un’escursione nella foresta; 
+5) Il signor Bresso è rimasto deluso dal suo risultato a golf. Il signor Elmi avrebbe voluto seguire i coniugi Gallo nella visita 
+della capitale dell’isola, ma alla fine ha preferito andare a pesca con la moglie; 
+6) Il signor Pellini ha apprezzato molto la T-shirt acquistata dai Bresso. 
+ 
+14. Facendo riferimento soltanto ai primi quattro punti del brano 1, che cosa si può dedurre con certezza? 
+
+A) La T-shirt potrebbe essere stata acquistata dalla coppia che ha giocato a golf 
+B) La statuetta è stata acquistata da coniugi Pellini 
+C) La famiglia Bresso non ha certamente acquistato i dolcetti 
+D) I coniugi Pellini hanno acquistato o la T-shirt o i dolcetti tipici 
+E) La T-shirt potrebbe essere stata acquistata dalla coppia che ha visitato la capitale 
+
+ 
+
+ 3
+
+
+
+ 
+
+15. Facendo riferimento al brano 1, quale dei seguenti abbinamenti è corretto? 
+A) Pellini – immersione sulla barriera corallina – modellino di nave 
+B) Elmi – visita alla capitale – statuetta di legno 
+C) Pellini – escursione nella foresta – T-shirt 
+D) Elmi – pesca – dolcetti tipici 
+E) Gallo – visita alla capitale – modellino di nave 
+
+ 
+16. Facendo riferimento al brano 1, quale delle seguenti affermazioni è corretta? 
+
+A) Nessuna delle altre alternative è corretta 
+B) I coniugi Gallo hanno acquistato un modellino di nave 
+C) La famiglia Pellini ha comprato una T-shirt 
+D) I coniugi Elmi hanno acquistato un poster di ritorno dall'escursione nella foresta 
+E) I coniugi Elmi hanno comprato una statuetta di legno 
+
+ 
+17. Facendo riferimento al brano 1, quale delle seguenti affermazioni è FALSA? 
+
+A) I coniugi Elmi hanno acquistato un modellino di nave 
+B) I coniugi Pellini non hanno acquistato né una statuetta di legno né una T-shirt 
+C) I dolcetti tipici sono stati scelti come souvenir dai coniugi Ornati 
+D) Chi ha scelto l'escursione nella foresta non ha acquistato né una T-shirt né un poster 
+E) La coppia che ha fatto un'immersione nella barriera corallina ha acquistato un modellino di nave 
+
+ 
+18. Facendo riferimento al brano 1, che cosa hanno acquistato i coniugi Gallo? 
+
+A) La statuetta di legno 
+B) La T-shirt 
+C) Il modellino di nave 
+D) Il poster 
+E) I dolcetti tipici 
+
+ 
+ 
+
+ 4
+
+
+
+Università degli Studi di BOLOGNA 
+CdL delle Professioni Sanitarie 
+
+ 
+
+  
+
+ 
+Brano 2 
+
+ 
+
+Leggere il brano e rispondere ad ogni quesito collegato solo in base alle informazioni contenute. 
+Le ricette realizzate dagli ormai famosissimi chef televisivi saranno pure gustose e bellissime da vedersi, ma risultano piene 
+di grassi, calorie, sale e zuccheri in modo maggiore rispetto ai piatti pronti del supermercato, di quelli da tirare fuori dal 
+congelatore e da mettere direttamente nel microonde o in padella. I dati che hanno portato a queste conclusioni arrivano da 
+un articolo pubblicato sul sito del “British Medical Journal”. 
+Già studi precedenti avevano suggerito che sia i pasti pronti che si acquistano al supermercato sia le ricette degli chef 
+televisivi hanno il potere di influenzare la dieta delle persone, ma nessuno studio finora ne aveva esaminato nel dettaglio le 
+caratteristiche nutrizionali. 
+Quindi, un team di ricercatori britannici dell'Nhs Tees e della Newcastle University ha analizzato il contenuto nutrizionale 
+delle ricette di quattro chef televisivi e dei piatti pronti di tre diverse marche da supermercato, per un totale di 100 pasti per 
+ogni gruppo. Hanno poi confrontato i dati raccolti con le linee guida sull'alimentazione pubblicate dall'Organizzazione 
+mondiale della sanità (OMS) e dalla Food Standards Agency (FSA), l'autorità responsabile della sicurezza e dell'igiene 
+alimentare nel Regno Unito. 
+Dal confronto con i dati dell'OMS e dell'FSA è emerso che nessuna ricetta e nessun pasto pronto rispetta pienamente le 
+raccomandazioni impartite dalle due autorità, e che entrambi i tipi di pasti tendevano a essere ad alto contenuto di proteine, 
+grassi, grassi saturi e sale, a basso contenuto di carboidrati e nei limiti indicati per quanto riguarda lo zucchero. In 
+particolare, poi, i piatti degli chef del piccolo schermo sono risultati meno sani dei piatti pronti, in quanto contenevano più 
+calorie, proteine, grassi e grassi saturi e molte meno fibre rispetto ai piatti pronti (il 4% dei quali sono risultati conformi alle 
+raccomandazioni dell'OMS). «Questo studio dimostra che né le ricette create dagli chef televisivi, né i piatti pronti prodotti 
+dalle tre principali catene di supermercati britannici sono in grado di soddisfare gli standard nutrizionali nazionali e 
+internazionali per una dieta equilibrata – spiegano gli autori –. Inoltre, le ricette tv sembrano meno sane rispetto ai piatti 
+pronti». 
+
+(da: Miriam Cesta, “Attenti agli chef in tv: ricette meno salutari dei piatti pronti del supermercato”, Il Sole 24 Ore) 
+ 
+19. Le seguenti sostanze risultano essere presenti in quantità troppo elevate nei piatti realizzati da 
+
+famosi chef televisivi, tranne una. Quale? (vedi brano 2) 
+A) Carboidrati 
+B) Grassi saturi 
+C) Proteine 
+D) Sale 
+E) Nessuna delle altre alternative è corretta 
+
+ 
+20. Da quanto riportato nel brano 2, quale dei seguenti dati NON è corretto?  
+
+A) Alcuni dei piatti pronti presi in esame sono perfettamente in linea con quanto suggerito dall’OMS e 
+dalla FSA 
+
+B) Le ricette realizzate in tv hanno sicuramente un aspetto più invitante dei piatti pronti del supermercato 
+C) Ci sono persone che variano la loro dieta in funzione dei piatti pronti della grande distribuzione e delle 
+
+ricette che imparano in tv 
+D) La ricerca di cui parla il brano non è stata condotta negli Stati Uniti 
+E) La FSA opera solo in ambito nazionale per quanto riguarda la sicurezza degli alimenti 
+
+ 
+21. Quale tra le seguenti affermazioni NON è deducibile dal brano 2?  
+
+A) Sono già diversi gli studi che hanno preso in esame le sostanze nutritive tipiche dei pasti pronti  
+B) Una piccola percentuale dei piatti pronti esaminati dallo studio è in linea con le raccomandazioni 
+
+dell’OMS 
+C) Se si ha bisogno di assumere più fibre, bisogna evitare i piatti proposti in tv dagli chef 
+D) Per diverse ragioni, i piatti proposti in tv sembrano essere addirittura meno sani di quelli pronti  
+E) La ricerca ha analizzato le ricette proposte da quattro chef televisivi e i piatti pronti di tre marche 
+
+da supermercato 
+ 
+
+ 5
+
+
+
+ 
+
+22. Qual è il consiglio che deriva dai risultati dello studio descritto nel brano 2?  
+A) Cucinate in casa e ricorrete in rari casi ai piatti pronti del supermercato, mai o quasi mai a quelli 
+
+proposti in tv 
+B) I più famosi chef della televisione contestano le più accreditate linee guida sull'alimentazione 
+C) Cucinate almeno una volta la settimana un piatto proposto dagli chef in tv 
+D) Evitate la tv e il supermercato 
+E) Cercate di variare la vostra dieta alternando piatti pronti e piatti cucinati in casa, prendendo spunto 
+
+il più possibile dai famosi chef della televisione  
+ 
+23. La ricerca di cui si parla nel brano 2 è stata condotta da ricercatori dell'Università di Newcastle e 
+
+del Nhs Tees: 
+A) e ha analizzato 100 pasti per ogni gruppo 
+B) e ha analizzato i pasti di 700 persone 
+C) in collaborazione con l'OMS e la FSA, e ha analizzato 100 pasti per ogni gruppo 
+D) in collaborazione con l'OMS e la FSA, e ha analizzato i pasti di 100 persone 
+E) in collaborazione con tre catene di supermercati, alcuni chef televisivi, l'OMS e la FSA 
+
+ 
+
+Test di Cultura Generale 
+24. Secondo la Costituzione italiana, il diritto alla salute è: 
+
+A) un diritto fondamentale della persona e un interesse della collettività 
+B) un diritto dei cittadini 
+C) un diritto fondamentale dell'individuo e un dovere della collettività 
+D) un'esigenza di sicurezza pubblica 
+E) un diritto riconosciuto solo agli indigenti 
+
+ 
+25. Quale tra i seguenti Stati sudamericani è il più meridionale? 
+
+A) Cile 
+B) Brasile 
+C) Paraguay 
+D) Uruguay 
+E) Colombia 
+
+ 
+26. Quale delle seguenti alternative riporta gli eventi nel corretto ordine cronologico? 
+
+A) Rivoluzione francese, Guerra franco-prussiana, Affare Dreyfus, Prima guerra mondiale, 
+Conferenza di Yalta 
+
+B) Affare Dreyfus, Rivoluzione francese, Conferenza di Yalta, Prima guerra mondiale, Guerra 
+franco-prussiana 
+
+C) Guerra franco-prussiana, Affare Dreyfus, Conferenza di Yalta, Prima guerra mondiale, 
+Rivoluzione francese  
+
+D) Guerra franco-prussiana, Conferenza di Yalta, Prima guerra mondiale, Rivoluzione francese, 
+Affare Dreyfus 
+
+E) Rivoluzione francese, Guerra franco-prussiana, Conferenza di Yalta, Prima guerra mondiale, 
+Affare Dreyfus 
+
+ 
+27. “Agitare un liquido in un recipiente” equivale a:  
+
+A) sciabordare 
+B) debordare 
+C) affogare 
+D) schiumare 
+E) scialacquare 
+
+ 
+
+ 6
+
+
+
+Università degli Studi di BOLOGNA 
+CdL delle Professioni Sanitarie 
+
+ 
+
+  
+
+ 
+Test di Biologia 
+
+28. Nelle cellule eucariotiche animali, il DNA è contenuto: 
+A) nel nucleo e nei mitocondri  
+B) nel nucleo e nei ribosomi 
+C) in tutti i compartimenti cellulari 
+D) solo nel nucleo 
+E) nel nucleo e nei perossisomi 
+
+ 
+29. I virus sono: 
+
+A) particelle submicroscopiche bioparassite 
+B) cellule eucariote 
+C) cellule procariote 
+D) commensali 
+E) parassiti facoltativi 
+
+ 
+30. Gli eritrociti sono: 
+
+A) globuli rossi 
+B) nessuna delle altre risposte è corretta 
+C) macrofagi 
+D) monociti 
+E) globuli rossi e globuli bianchi 
+
+ 
+31. Il cardias è: 
+
+A) l’orifizio che congiunge esofago e stomaco 
+B) il canale attraverso cui l'esofago si congiunge con lo stomaco 
+C) il muscolo cardiaco 
+D) l’orifizio che congiunge stomaco e duodeno 
+E) una membrana che avvolge il ventricolo sinistro del cuore 
+
+ 
+32. Il sistema nervoso autonomo: 
+
+A) contribuisce a mantenere l’omeostasi dell’organismo 
+B) si attiva solo in situazioni di pericolo 
+C) è controllato dalla volontà 
+D) innerva la muscolatura scheletrica 
+E) fa parte del sistema nervoso centrale 
+
+ 
+33. Durante la contrazione dei sarcomeri: 
+
+A) i filamenti sottili di actina scorrono su quelli spessi di miosina 
+B) i filamenti sottili di actina si accorciano 
+C) le linee Z si allontanano 
+D) i filamenti di miosina si accorciano e quelli di actina si allungano 
+E) i filamenti sottili di miosina scorrono su quelli spessi di actina 
+
+ 
+34. Una sostanza riconosciuta come estranea all'organismo dal sistema immunitario è: 
+
+A) un antigene 
+B) un anticorpo 
+C) una citochina 
+D) un’immunoglobulina 
+E) un interferone 
+
+ 
+
+ 7
+
+
+
+ 
+
+35. Un enzima: 
+A) accelera la velocità di una reazione chimica 
+B) è il prodotto di una reazione chimica 
+C) ha una struttura lipidica 
+D) viene consumato durante la reazione chimica 
+E) è il reagente di una reazione chimica 
+
+ 
+36. Le mutazioni sono: 
+
+A) modificazioni casuali del materiale genetico, ereditabili dalle cellule figlie 
+B) modificazioni casuali di proteine, non trasmissibili 
+C) meccanismi con cui le cellule si difendono da eventi potenzialmente letali 
+D) meccanismi di morte programmata delle cellule 
+E) modificazioni del materiale genetico, non trasmissibili 
+
+ 
+37. Nel DNA si formano due legami idrogeno tra le coppie di basi complementari: 
+
+A) adenina e timina 
+B) citosina e timina 
+C) timina e guanina 
+D) uracile e timina  
+E) guanina e citosina 
+
+ 
+38. Che differenza c'è tra un nucleo aploide e un nucleo diploide?  
+
+A) II nucleo aploide presenta corredo cromosomico n, quello diploide presenta corredo cromosomico 2n  
+B) II nucleo aploide presenta corredo cromosomico 2n, quello diploide presenta corredo cromosomico n  
+C) II nucleo aploide ha n cromosomi e quello diploide 2n + 1 cromosomi  
+D) II nucleo aploide ha n cromosomi e quello diploide non ha cromosomi  
+E) Nessuna delle altre risposte è corretta  
+
+ 
+39. L’adenosina trifosfato (ATP) è: 
+
+A) la molecola utilizzata come moneta di scambio energetico 
+B) il mediatore di alcuni ormoni 
+C) un costituente del DNA 
+D) una vitamina 
+E) un fosfolipide 
+
+ 
+40. Durante la sistole ventricolare sono: 
+
+A) aperte le valvole tra ventricoli e arterie 
+B) chiuse le valvole tra ventricoli e arterie  
+C) chiuse le valvole tra vene e atri  
+D) aperte le valvole tra atri e ventricoli  
+E) aperte le valvole tra atri e arterie  
+
+ 
+41. L'allele è: 
+
+A) la forma alternativa di un gene 
+B) nessuna delle altre alternative è corretta 
+C) un costituente della membrana plasmatica 
+D) una cellula con filamenti 
+E) la forma alternativa di una proteina 
+
+ 
+42. Una coppia ha avuto due figli maschi. Qual è la probabilità che il terzo figlio sia una femmina? 
+
+A) 50% 
+B) 25% 
+C) 37% 
+D) 12,50% 
+E) 100% 
+
+ 
+
+ 8
+
+
+
+Università degli Studi di BOLOGNA 
+CdL delle Professioni Sanitarie 
+
+ 
+
+  
+
+ 
+Test di Chimica 
+
+43. Il solfito acido di sodio corrisponde a:  
+A) NaHSO3 
+B) NaSO3  
+C) NaHSO4  
+D) Na2SO3  
+E) NaHS 
+
+ 
+44. Si definiscono isotopi: 
+
+A) atomi con uguale numero atomico e diverso numero di massa 
+B) atomi con uguale numero atomico e diverso numero di elettroni 
+C) atomi con uguale numero atomico e uguale numero di massa 
+D) atomi con diverso numero atomico e uguale numero di elettroni 
+E) atomi con diverso numero atomico e uguale numero di massa 
+
+ 
+45. L'ossido di potassio, posto in acqua, forma: 
+
+A) una soluzione basica 
+B) un sale 
+C) una soluzione acida 
+D) potassio libero 
+E) idruro di potassio 
+
+ 
+46. Per decomposizione termica del nitrato di sodio si ottengono sia nitrito di sodio solido sia ossigeno 
+
+molecolare gassoso: NaNO3 → NaNO2 + O2. Individuare la reazione bilanciata: 
+A) 2NaNO3 → 2NaNO2 + O2 
+B) 3NaNO → 3NaNO2 + O2 
+C) 2NaNO3 → 2NaNO2 + 3/2O2 
+D) NaNO3 → NaNO2 + O2 
+E) 2NaNO3 → 2NaNO2 + 3O2 
+
+ 
+47. Una soluzione 0,1 molare si prepara sciogliendo 0,1 moli di soluto in:  
+
+A) un litro di soluzione  
+B) un chilo di solvente  
+C) 100 millilitri di solvente  
+D) un litro di solvente 
+E) un chilo di soluzione  
+
+ 
+48. Un atomo ha numero di massa 18 e numero atomico 8; i neutroni contenuti nel suo nucleo sono: 
+
+A) 10 
+B) 18 
+C) 8 
+D) 16 
+E) 23 
+
+ 
+49. Il calcio è un: 
+
+A) metallo alcalino terroso  
+B) metallo di transizione 
+C) metallo alcalino 
+D) metallo terroso 
+E) non metallo 
+
+ 
+
+ 9
+
+
+
+ 
+
+50. Lo ione negativo di un atomo deriva:  
+A) dall’acquisto di uno o più elettroni 
+B) dalla perdita di un protone 
+C) dalla perdita di un neutrone 
+D) dall’acquisto di un neutrone e di un elettrone 
+E) dalla trasformazione di un protone in elettrone 
+
+ 
+51. Il numero di Avogadro indica: 
+
+A) il numero di molecole presenti in una mole 
+B) il numero di molecole presenti in un litro d'acqua 
+C) un numero di grammi uguale al peso atomico o molecolare 
+D) il numero di atomi presenti in 1 g di carbonio 
+E) il numero di grammi di ossigeno presenti in una mole 
+
+ 
+52. I trigliceridi sono: 
+
+A) lipidi 
+B) alcoli trivalenti 
+C) acidi carbossilici 
+D) alcoli terziari 
+E) idrocarburi 
+
+ 
+
+Test di Fisica e Matematica 
+53. Le renne di Babbo Natale compiono un lavoro pari a 25.000 J per trascinare la slitta su di una 
+
+distesa pianeggiante esercitando una forza di 100 N; qual è la distanza coperta dalla slitta? 
+A) 250 m 
+B) 350 m  
+C) 2.500 m 
+D) 25 m 
+E) 3.500 m 
+
+ 
+54. Quanto vale il modulo della somma di due vettori antiparalleli se i loro moduli valgono 
+
+rispettivamente 3 e 21? 
+A) 18 
+B) 3 
+C) 21 
+D) 24 
+E) 63 
+
+ 
+55. Quale delle seguenti grandezze ha per unità di misura il joule (J)?  
+
+A) Energia 
+B) Quantità di moto 
+C) Forza 
+D) Induttanza 
+E) Potenza 
+
+ 
+56. Come si chiama in fisica il movimento di un corpo che percorre una traiettoria a velocità costante? 
+
+A) Uniforme 
+B) Rettilineo 
+C) Circolare 
+D) Parabolico 
+E) Armonico 
+
+ 
+
+ 10
+
+
+
+Università degli Studi di BOLOGNA 
+CdL delle Professioni Sanitarie 
+
+ 
+
+  
+
+ 
+57. Qual è l'equazione della parabola di vertice V = (1, 0) e passante per A = (0, 3)? 
+
+A) y = 3x2 – 6x + 3 
+B) y = x2 – 3x + 3 
+C) y = x2 + 6x + 2 
+D) y = 3x2 + 6x + 3 
+E) y = 3x2 – 6x  – 3 
+
+ 
+58. In un triangolo rettangolo un cateto misura 6 dm e la differenza tra l’ipotenusa e questo cateto è 
+
+pari a 4 dm. Quanto misura l’altro cateto del triangolo? 
+A) 8 dm 
+B) 15 dm 
+C) 6 dm 
+D) 14,39 dm 
+E) 800 cm 
+
+ 
+59. Le soluzioni dell'equazione x2 – 9 x + 14 = 0 sono: 
+
+A) x = 7 e x = 2 
+B) x = 7 e x = 1 
+C) x = –7 e x = –2 
+D) x = –7 e x = 2 
+E) x = 7 e x = –2 
+
+ 
+60. I grafici delle funzioni y = –x2 e y = x2: 
+
+A) hanno una sola intersezione 
+B) non hanno intersezioni 
+C) si sovrappongono 
+D) si intersecano in 2 punti distinti 
+E) nessuna delle altre alternative è corretta 
+
+ 
+ 
+ 
+ 
+
+********** FINE DELLE DOMANDE ********** 
+ 
+ 
+ 
+ 
+
+In tutti i quesiti proposti la soluzione è la risposta alla lettera A) 
+ 
+ 
+ 
+ 
+ 
+
+ 11

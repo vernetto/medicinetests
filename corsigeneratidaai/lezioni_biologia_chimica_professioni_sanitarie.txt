@@ -1,0 +1,3768 @@
+================================================================================
+  LEZIONI COMPLETE DI BIOLOGIA E CHIMICA
+  Preparazione all'esame di ammissione – Professioni Sanitarie
+  Analisi degli esami 2006–2026 (Università di Udine e altri atenei italiani)
+================================================================================
+
+COME USARE QUESTO DOCUMENTO
+Ogni capitolo è strutturato con:
+  - Teoria approfondita con meccanismi
+  - Esempi commentati tratti dagli esami reali
+  - Domande d'esame richiamate con l'anno
+  - Errori frequenti da evitare (trappole!)
+
+INDICE GENERALE
+PARTE I  – BIOLOGIA  (Cap. 1–25)
+PARTE II – CHIMICA   (Cap. 26–40)
+PARTE III– RIEPILOGO DOMANDE FREQUENTI E TRUCCHI (Cap. 41)
+
+================================================================================
+PARTE I – BIOLOGIA
+================================================================================
+────────────────────────────────────────────────────────────────────────────────
+CAPITOLO 1 – LA CHIMICA DELLA VITA: ACQUA E BIOMOLECOLE
+────────────────────────────────────────────────────────────────────────────────
+
+1.1 L'ACQUA
+-----------
+L'acqua è il solvente universale della vita e costituisce il 60-70% del peso corporeo.
+
+STRUTTURA MOLECOLARE:
+  - Formula: H₂O; geometria ANGOLARE (non lineare), angolo H-O-H ≈ 104,5°
+  - Ibridazione dell'O: sp³ (2 coppie di legame + 2 coppie solitarie)
+  - Legame O-H: COVALENTE POLARE ← domanda 2022/23
+    L'errore frequente è rispondere "ionico" o "a idrogeno".
+    Il legame O-H è covalente perché condivide elettroni; polare perché l'O
+    è molto più elettronegativo di H (Δχ ≈ 1,4). Il legame a idrogeno è
+    il legame INTERMOLECOLARE tra molecole d'acqua vicine, non dentro la molecola.
+  - Molecola polare: dipolo risultante da H verso O
+  - Ogni molecola può formare fino a 4 legami a idrogeno (2 donatore, 2 accettore)
+
+PROPRIETÀ ANOMALE (dovute ai legami H intermolecolari):
+  - Elevato punto di ebollizione (100°C vs –60°C attesi senza legami H)
+  - Elevato calore specifico: 4,18 J/(g·°C) → tampone termico biologico
+  - Massima densità a 4°C → il ghiaccio galleggia sull'acqua liquida
+  - Elevata tensione superficiale
+  - Solvente polare: scioglie sali, zuccheri, aminoacidi, acidi nucleici
+  - Non scioglie lipidi e idrocarburi (idrofobici)
+
+AUTOIONIZZAZIONE: H₂O ⇌ H⁺ + OH⁻
+  Kw = [H⁺][OH⁻] = 1,0 × 10⁻¹⁴ a 25°C
+  VALE PER QUALSIASI SOLUZIONE ACQUOSA, inclusa KCl 0,01 M ← 2022/23
+
+1.2 CARBOIDRATI (GLUCIDI, SACCARIDI)
+-------------------------------------
+Composti organici di C, H, O; formula generale (CH₂O)n.
+Contengono gruppi aldeidici o chetonici + multipli gruppi –OH.
+
+CLASSIFICAZIONE PER NUMERO DI ATOMI DI CARBONIO:
+
+TRIOSI (C3): gliceraldeide (aldotrioso), diidrossiacetone (chetotrioso)
+  → Intermedi fondamentali nella glicolisi
+
+PENTOSI (C5): RIBOSIO, DEOSSIRIBOSIO, xilosio, arabinosio
+  → Ribosio: nell'RNA (ha –OH in posizione 2')
+  → Deossiribosio: nel DNA (ha –H in 2', manca un OH)
+  → Domanda: "Lo zucchero nell'RNA è…?" → RIBOSIO; nel DNA → DEOSSIRIBOSIO
+
+ESOSI (C6): glucosio, fruttosio, galattosio, mannosio; tutti C₆H₁₂O₆
+  → Glucosio e fruttosio sono ISOMERI DI STRUTTURA
+  → IL FRUTTOSIO È UN ESOSO ← domanda 2025/26 (risposta corretta)
+  → GLUCOSIO lineare: 1 gruppo ALDEIDICO + 5 gruppi OSSIDRILICI ← 2022/23
+  → FRUTTOSIO lineare: 1 gruppo CHETONICO (C2) + 5 gruppi OSSIDRILICI
+
+DISACCARIDI (2 monosaccaridi uniti da legame GLICOSIDICO per condensazione):
+  Saccarosio = glucosio(C1) + fruttosio(C2); legame α-1,β-2; non riducente
+  Lattosio   = galattosio(C1) + glucosio(C4); legame β-1,4; riducente
+  Maltosio   = glucosio(C1) + glucosio(C4); legame α-1,4; prodotto dell'amido
+  Il LEGAME GLICOSIDICO si forma per condensazione (perdita di H₂O) ← 2025/26
+
+POLISACCARIDI:
+  AMIDO (piante): polimero di α-D-glucosio
+    → Amilosio (lineare, legami α-1,4) + Amilopectina (ramificato, + legami α-1,6)
+    → RISERVA ENERGETICA NELLE PIANTE ← 2023/24
+    → "Glucosio immagazzinato nelle piante come AMIDO" ← risposta A corretta 2023/24
+    (risposta errata: "glicogeno" = negli animali; "clorofilla" = pigmento; "proteine" = no)
+
+  GLICOGENO (animali e funghi): polimero di α-D-glucosio, molto ramificato
+    → RISERVA ENERGETICA NEGLI ANIMALI (fegato ~100 g, muscoli ~250 g)
+
+  CELLULOSA (piante): polimero di β-D-glucosio, legami β-1,4
+    → FUNZIONE STRUTTURALE (parete cellulare vegetale)
+    → Non digerita dai mammiferi (mancano cellulasi); digerita dai ruminanti
+
+  CHITINA (artropodi, funghi): polimero di N-acetil-D-glucosamina, legami β-1,4
+    → Esoscheletro degli insetti; pareti dei funghi
+
+1.3 LIPIDI
+----------
+Molecole idrofobiche (o anfipatiche); insolubili in acqua.
+Composti da C, H, O (a volte P, N). Non sono polimeri.
+
+ACIDI GRASSI: catene idrocarburiche (4-36 C) con –COOH terminale
+  Saturi: nessun doppio legame; solidi a T ambiente (grassi animali)
+    → Acido butirrico C4, palmitico C16, stearico C18
+  Insaturi: uno o più doppi legami (geometria cis); liquidi a T ambiente (oli vegetali)
+    → Acido oleico C18:1 (monoinsaturo); linoleico C18:2; arachidonico C20:4
+  ⚠ Acido GLUTAMMICO NON è un acido grasso (è un AMMINOACIDO) ← 2023/24
+
+TRIGLICERIDI: 3 acidi grassi + glicerolo (legame estere); riserva energetica (9 kcal/g)
+
+FOSFOLIPIDI: 2 acidi grassi + glicerolo + fosfato + testa polare
+  → ANFIPATICI: testa idrofila + code idrofobe → formano doppi strati
+
+COLESTEROLO: sterolo a 4 anelli; componente membrane animali; precursore di
+  ormoni steroidei, acidi biliari, vitamina D
+
+SAPONI: SALI DI ACIDI GRASSI A CATENA LUNGA ← 2022/23
+  Si ottengono per saponificazione: trigliceride + NaOH → sapone + glicerolo
+
+1.4 PROTEINE
+-----------
+Polimeri di L-amminoacidi uniti da legami peptidici.
+Composizione: C, H, O, N e spesso S.
+
+AMMINOACIDI: struttura comune = C-α con –NH₂, –COOH, –H, catena laterale R
+  20 amminoacidi standard nel codice genetico universale
+  Con zolfo: cisteina (–CH₂–SH) e metionina (–CH₂–S–CH₃)
+  ⚠ Glicerolo NON è un amminoacido (è un alcol a 3 C) ← 2023/24
+  ⚠ Metilammina NON è un amminoacido (è un'ammina semplice)
+
+LEGAME PEPTIDICO: –CO–NH–
+  Formato per condensazione tra –COOH e –NH₂, con perdita di H₂O
+  Ha carattere di doppio legame parziale → planare e rigido
+
+STRUTTURA DELLE PROTEINE:
+  PRIMARIA = sequenza lineare degli amminoacidi ← 2022/23
+    (risposta errata: "è la struttura tridimensionale" → quella è la terziaria)
+  SECONDARIA = conformazioni locali (α-elica, β-foglietto) stabilizzate da legami H sul backbone
+  TERZIARIA = ripiegamento 3D complessivo della catena
+  QUATERNARIA = associazione di più catene polipeptidiche (es. emoglobina: 2α + 2β)
+
+ENZIMI: catalizzatori biologici di natura PROTEICA ← 2022/23
+  (risposta errata: monosaccaridica, lipidica, steroidea → TUTTE ERRATE)
+  
+  Sito attivo: tasca che lega il substrato → catalisi avviene qui
+  Sito allosterico: DISTINTO dal sito attivo; lega molecole REGOLATRICI ← 2025/26
+  
+  Inibizione COMPETITIVA: l'inibitore si LEGA AL SITO ATTIVO dell'enzima ← 2023/24
+    (risposta errata: "modifica il pH"; "innalza l'energia di attivazione")
+  
+  Inibizione NON COMPETITIVA: l'inibitore si lega al sito allosterico
+
+1.5 ACIDI NUCLEICI
+------------------
+Polimeri di nucleotidi (base azotata + pentoso + fosfato).
+
+BASI AZOTATE:
+  PIRIMIDINE (1 anello): Citosina (C), Timina (T), Uracile (U)
+  PURINE (2 anelli fusi): Adenina (A), Guanina (G)
+  
+  CITOSINA è una pirimidina con UN SOLO anello ← 2023/24
+    (risposta errata: "ha due anelli eterociclici" → quelle sono le PURINE)
+
+DNA:
+  - Zucchero: 2'-DEOSSIRIBOSIO; Basi: A, G, C, T (NO uracile)
+  - Doppia elica antiparallela; appaiamento A:T (2 leg. H), G:C (3 leg. H)
+
+RNA:
+  - Zucchero: RIBOSIO; Basi: A, G, C, U (NO timina)
+  - LA TIMINA È ASSENTE NELL'RNA ← 2021/22
+  - Tipi: mRNA, tRNA, rRNA (sintetizzato nel NUCLEOLO), snRNA, miRNA
+
+────────────────────────────────────────────────────────────────────────────────
+CAPITOLO 2 – CELLULA PROCARIOTICA ED EUCARIOTICA
+────────────────────────────────────────────────────────────────────────────────
+
+2.1 TEORIA CELLULARE
+  1. Tutti gli esseri viventi sono composti da cellule
+  2. La cellula è l'unità strutturale e funzionale della vita
+  3. Tutte le cellule derivano da cellule preesistenti (Omnis cellula e cellula)
+
+2.2 PROCARIOTI (batteri e archea)
+  - MANCANO di nucleo delimitato da membrana
+  - DNA: CIRCOLARE, a DOPPIO FILAMENTO (non singolo!) nel nucleoide
+  - Ribosomi 70S (subunità 30S + 50S)
+  - Privi di organelli membranosi (mitocondri, RE, Golgi...)
+  - HANNO la membrana plasmatica ← 2025/26 (risposta errata: "non hanno membrana plasmatica")
+  - Parete cellulare di PEPTIDOGLICANO (batteri)
+  - Divisione: SCISSIONE BINARIA (non mitosi!)
+  - Possono avere plasmidi (DNA extracromosomico circolare)
+
+  BATTERI GRAM+ vs GRAM-:
+  Gram+: parete peptidoglicano spessa; colorano VIOLA; sensibili alla penicillina
+  Gram-: parete sottile + membrana esterna (LPS); colorano ROSA; più resistenti
+
+2.3 EUCARIOTI (animali, piante, funghi, protisti)
+  - Nucleo delimitato da membrana (involucro nucleare)
+  - DNA lineare associato a istoni (cromatina)
+  - Ribosomi 80S (40S + 60S) nel citoplasma
+  - Organelli membranosi compartimentalizzati
+  - Divisione: MITOSI o MEIOSI
+
+  CONFRONTO:
+  Caratteristica        | Procarioti         | Eucarioti
+  ----------------------|--------------------|------------------
+  Nucleo con membrana   | NO                 | SÌ
+  DNA                   | circolare, doppio  | lineare, doppio
+  Istoni                | assenti            | presenti
+  Ribosomi              | 70S                | 80S (citoplasma)
+  Mitocondri            | NO                 | SÌ
+  Reticolo endoplasm.   | NO                 | SÌ
+  Apparato di Golgi     | NO                 | SÌ
+  Parete cellulare      | peptidoglicano     | solo piante+funghi
+  Divisione             | scissione binaria  | mitosi/meiosi
+
+────────────────────────────────────────────────────────────────────────────────
+CAPITOLO 3 – GLI ORGANELLI CELLULARI IN DETTAGLIO
+────────────────────────────────────────────────────────────────────────────────
+
+NUCLEO:
+  - Involucro: doppia membrana; la membrana ESTERNA è in continuità con il RER ← 2021/22
+  - Pori nucleari: regolano il traffico molecolare nucleo↔citoplasma
+  - NUCLEOLO: regione densa SENZA membrana propria; sintesi dell'rRNA; assemblaggio
+    subunità ribosomiali ← domanda 2025/26 e molti anni
+    (risposta errata: "sintetizza proteine", "sintetizza lipidi", "ha doppio strato lipidico")
+
+RETICOLO ENDOPLASMATICO:
+  RE RUGOSO (RER): ha ribosomi sulla superficie → sintesi proteine SECRETORIE,
+    di membrana, lisosomiali
+  RE LISCIO (REL): senza ribosomi → sintesi lipidi, metabolismo glicogeno nel fegato,
+    detossificazione (citocromo P450), deposito Ca²⁺ (reticolo sarcoplasmatico nel muscolo)
+
+APPARATO DI GOLGI:
+  - Pile di cisterne: faccia CIS (riceve da RER) → faccia TRANS (esporta verso destinazione)
+  - Funzioni: glicosilazione O-linked, smistamento proteine, sintesi polisaccaridi
+  - PARTICOLARMENTE SVILUPPATO nelle cellule a intensa attività SECRETORIA ← 2022/23
+    (es. plasmacellule, cellule acinose del pancreas, ghiandole salivari)
+
+MITOCONDRI:
+  - Membrana ESTERNA: permeabile a piccole molecole (porine)
+  - Membrana INTERNA: impermeabile, molto ripiegata (creste = criste)
+    → Sede della CATENA RESPIRATORIA e dell'ATP-SINTASI
+  - MATRICE: sede del ciclo di Krebs, β-ossidazione, mtDNA circolare
+  - Producono la MAGGIOR PARTE dell'ATP (fosforilazione ossidativa) ← 2021/22
+  - La fosforilazione ossidativa avviene sulla membrana INTERNA ← 2021/22
+    (risposta errata: "membrana esterna" = FALSO)
+  - Ribosomi 70S (come i batteri → evidenza endosimbiotica)
+  - DNA circolare proprio
+  - Presenti in TUTTE le cellule eucariotiche aerobiche
+    ⚠ "I mitocondri sono presenti solo nelle cellule animali" = FALSO ← 2021/22
+    (le cellule vegetali hanno sia mitocondri sia cloroplasti)
+
+CLOROPLASTI (solo cellule vegetali):
+  - Struttura: membrana esterna + membrana interna + tilacoidi + stroma
+  - Tilacoidi (organizzati in grana): sede delle reazioni luce-dipendenti
+  - Stroma: sede del ciclo di Calvin
+  - DNA circolare + ribosomi 70S (come mitocondri → stessa origine endosimbiotica)
+
+LISOSOMI:
+  - Delimitati da SINGOLA membrana; pH interno ~4,5-5 (ACIDO)
+  - Contengono enzimi idrolitici (proteasi, lipasi, nucleasi)
+  - Funzioni: digestione intracellulare, autofagia, difesa (fagolisosomi)
+  - Derivano dalla faccia trans del Golgi
+  ⚠ I lisosomi HANNO membrana (singola) ← non confondere con i ribosomi (senza membrana)
+
+RIBOSOMI:
+  - NON DELIMITATI DA MEMBRANA ← risposta corretta quando chiesto "quale organulo è privo di membrana"
+  - Composti da rRNA (60%) + proteine (40%)
+  - Procarioti: 70S; Eucarioti citoplasma: 80S; Mitocondri/cloroplasti: 70S
+  - Siti: A (aminoacil-tRNA in arrivo), P (peptidil-tRNA), E (exit)
+  - SINTESI DELLE PROTEINE (traduzione)
+  - Se una tossina batterica DISTRUGGE i ribosomi → compromessa la SINTESI PROTEICA ← 2022/23
+
+PEROSSISOMI:
+  - Membrana singola; contengono ossidasi e CATALASI (degrada H₂O₂)
+  - β-ossidazione di acidi grassi a catena molto lunga
+  - Detossificazione (fegato)
+
+CENTRIOLI/CENTROSOMA:
+  - Struttura: 9 triplette di microtubuli (disposizione circolare)
+  - MTOC (centro organizzatore dei microtubuli): forma il fuso mitotico
+  - PRESENTI nelle cellule animali e alghe; ASSENTI nelle piante superiori
+
+VACUOLO (nelle cellule vegetali):
+  - Grande vacuolo centrale (>90% del volume cellulare)
+  - Immagazzina acqua, sali, pigmenti; mantiene la PRESSIONE DI TURGORE
+  - Funzione simile ai lisosomi (pH acido, enzimi idrolitici)
+
+────────────────────────────────────────────────────────────────────────────────
+CAPITOLO 4 – IL CITOSCHELETRO
+────────────────────────────────────────────────────────────────────────────────
+
+MICROTUBULI: dimeri di α/β-tubulina; diametro ~25 nm
+  → Fuso mitotico, ciglia/flagelli eucariotici, trasporto intracellulare
+  → COLCHICINA inibisce la polimerizzazione → cellule bloccate in METAFASE ← 2024/25
+
+MICROFILAMENTI: monomeri di ACTINA G → actina F; diametro ~7 nm
+  → Movimento cellulare, contrazione muscolare, citodieresi, microvilli
+
+FILAMENTI INTERMEDI: diametro ~10 nm; composti da PROTEINE FIBROSE ← 2025/26
+  (risposta errata: "actina e miosina" = microfilamenti; "tubulina" = microtubuli)
+  → Cheratine (epiteli), vimentina (fibroblasti), desmina (muscolo), lamine nucleari
+  → Funzione: sostegno meccanico, resistenza alle forze di trazione
+
+────────────────────────────────────────────────────────────────────────────────
+CAPITOLO 5 – MEMBRANE BIOLOGICHE E TRASPORTO
+────────────────────────────────────────────────────────────────────────────────
+
+5.1 MODELLO A MOSAICO FLUIDO (Singer e Nicolson, 1972)
+  - Doppio strato fosfolipidico fluido (i lipidi si muovono lateralmente)
+  - Proteine integrali (attraversano il doppio strato) e periferiche (in superficie)
+  - Colesterolo: regola la fluidità
+  - Glicalice: glicoproteine e glicolipidi sul versante extracellulare
+  - La membrana plasmatica è presente in TUTTE le cellule (procarioti e eucarioti!) ← 2022/23
+
+5.2 TRASPORTO PASSIVO (senza ATP, segue il gradiente)
+  Diffusione semplice: molecole PICCOLE e NON POLARI attraversano il doppio strato
+    → OSSIGENO passa per diffusione semplice ← 2022/23
+    → CO₂, N₂, alcoli piccoli, steroidi, vitamine liposolubili (A, D, E, K)
+    → ioni sodio: NO (polari, grossi); glucosio: NO (polare, grande)
+  
+  Diffusione facilitata: tramite CANALI o CARRIER, sempre seguendo il gradiente
+    → Glucosio (GLUT1-4), aminoacidi, nucleosidi, ioni attraverso canali ionici
+  
+  Osmosi: diffusione dell'ACQUA attraverso membrana semipermeabile
+    → da bassa [soluto] → alta [soluto]
+
+5.3 TRASPORTO ATTIVO (con ATP, contro il gradiente)
+  Pompa Na⁺/K⁺-ATPasi:
+    → 3 Na⁺ ESCONO dalla cellula, 2 K⁺ ENTRANO
+    → TRASPORTA Na⁺ VERSO L'ESTERNO ← 2021/22
+    (risposta errata: "K⁺ verso l'esterno" = FALSO; "agisce secondo gradiente" = FALSO)
+
+5.4 TRASPORTO VESCICOLARE
+  ENDOCITOSI: la cellula IMPORTA ← 2025/26
+    - Fagocitosi: particelle solide (batteri) → fagosoma
+    - Pinocitosi: fluidi e soluti → piccole vescicole
+    - Endocitosi mediata da recettori: via fossette rivestite da clatrina
+  
+  ESOCITOSI: la cellula ESPORTA (secrezione)
+    - Costitutiva (continua) o regolata (stimolo specifico)
+
+────────────────────────────────────────────────────────────────────────────────
+CAPITOLO 6 – IL CICLO CELLULARE
+────────────────────────────────────────────────────────────────────────────────
+
+ORDINE CORRETTO: G1 → S → G2 → M ← DOMANDA FREQUENTISSIMA ← 2024/25
+
+  G1: crescita cellulare; risposta ai segnali di crescita; CHECKPOINT G1/S
+  S:  DUPLICAZIONE DEL DNA + duplicazione del centrosoma ← domanda 2025/26
+  G2: preparazione alla mitosi; CHECKPOINT G2/M
+  M:  mitosi + citodieresi
+
+INTERFASE = G1 + S + G2 (la cellula non è in divisione ma è metabolicamente attiva)
+
+REGOLAZIONE: complessi CICLINA-CDK ← 2022/23
+  LE CICLINE formano complessi regolativi con le CDK ← risposta A corretta
+  - Ciclina D/CDK4-6: G1 (risposta ai mitogeni)
+  - Ciclina E/CDK2: ingresso in fase S
+  - Ciclina B/CDK1 (MPF): trigger per la mitosi
+  Inibitori CDK: p21, p27, p16 (rispondono a danni DNA, differenziazione, senescenza)
+  p53: attivato da danni DNA → induce p21 → blocco in G1
+
+COLCHICINA: blocca polimerizzazione tubulina → cellule ferme in METAFASE ← 2024/25
+
+────────────────────────────────────────────────────────────────────────────────
+CAPITOLO 7 – LA MITOSI
+────────────────────────────────────────────────────────────────────────────────
+
+SCOPO: 2 cellule figlie DIPLOIDI (2n) geneticamente IDENTICHE alla madre
+AVVIENE in: cellule somatiche (crescita, riparazione, riproduzione asessuata)
+ESEMPIO: produzione di nuove cellule radicali nelle piante → MITOSI ← 2025/26
+  (risposta errata: "meiosi" = gameti; "scissione binaria" = batteri)
+
+FASI:
+  PROFASE:      condensazione cromatina; scomparsa nucleolo; formazione fuso
+  PROMETAFASE:  scomparsa involucro nucleare; fuso si attacca ai cinetocori
+  METAFASE:     cromosomi allineati sulla PIASTRA METAFASICA (equatore)
+                → COLCHICINA blocca qui ← 2024/25
+                → massima condensazione (cariotipo)
+  ANAFASE:      CROMATIDI FRATELLI si separano; la coesina viene degradata
+                → cromosomi figli migrano verso poli opposti
+  TELOFASE:     riforma involucro nucleare; decondensazione; ricompare nucleolo
+
+CITODIERESI:
+  Cellule ANIMALI: anello contrattile di ACTOMIOSINA → solco di divisione
+  Cellule VEGETALI: PIASTRA CELLULARE formata da vescicole del Golgi
+    (non c'è anello contrattile perché la parete è rigida)
+
+────────────────────────────────────────────────────────────────────────────────
+CAPITOLO 8 – LA MEIOSI
+────────────────────────────────────────────────────────────────────────────────
+
+SCOPO: 4 cellule figlie APLOIDI (n) con variabilità genetica
+AVVIENE in: cellule germinali → gameti
+
+MEIOSI I = RIDUZIONALE (2n → n): separa i cromosomi omologhi ← 2025/26
+  PROFASE I: sinapsi degli omologhi; CROSSING-OVER tra cromatidi non fratelli
+  METAFASE I: BIVALENTI si allineano; orientamento casuale → assortimento indipendente
+  ANAFASE I: separazione degli OMOLOGHI (non dei cromatidi!)
+  TELOFASE I: 2 cellule aploidi (n cromosomi, ciascuno ancora bichromatidico)
+
+MEIOSI II = EQUAZIONALE (come la mitosi): separa i cromatidi fratelli
+  PROFASE II → METAFASE II → ANAFASE II → TELOFASE II
+  → 4 cellule aploidi con n cromosomi monocromatidici
+
+CONTENUTO DI DNA: ← domanda 2025/26
+  G1 → S → G2: 2C → 4C → 4C
+  Fine Meiosi I: 2C (n cromosomi bicromatidici)
+  PROFASE II: ancora 2C = x (se G1 era x)
+  Fine Meiosi II: 1C = x/2
+  Risposta esame: "In profase II il DNA = x" ← risposta A corretta 2025/26
+
+CROSSING-OVER BILANCIATO ← 2023/24:
+  Scambio reciproco di frammenti tra cromatidi NON FRATELLI di omologhi
+  CONSEGUENZA: i cromosomi contengono materiale sia MATERNO che PATERNO ← risposta A corretta
+
+GAMETOGENESI:
+  Spermatogenesi: 1 spermatocita → 4 spermatozoi vitali (tutti usabili)
+  Oogenesi: 1 oogonia → 1 ovocita + 3 corpi polari (i corpi polari degenerano)
+
+────────────────────────────────────────────────────────────────────────────────
+CAPITOLO 9 – DNA: STRUTTURA, ORGANIZZAZIONE, CROMATINA
+────────────────────────────────────────────────────────────────────────────────
+
+9.1 STRUTTURA DELLA DOPPIA ELICA (Watson e Crick, 1953)
+  - Due catene ANTIPARALLELE avvolte in senso destrorso
+  - Appaiamento di Watson-Crick: A:T (2 legami H), G:C (3 legami H)
+  - Passo elica B-DNA: 3,4 nm per giro (10 paia di basi)
+  - Regola di Chargaff: %A = %T; %G = %C ← 2024/25
+
+  DOMANDA 2025/26: complementare di AATAGGCAT?
+    A→T, A→T, T→A, A→T, G→C, G→C, C→G, A→T, T→A (antiparallela, 3'→5')
+    → TTATCCGTA ← risposta A corretta
+
+9.2 CROMATINA E NUCLEOSOMA
+  CROMATINA = ASSOCIAZIONE DEL DNA CON LE PROTEINE ISTONICHE ← 2025/26
+  
+  Istoni: H2A, H2B, H3, H4 (nucleo del nucleosoma = ottamero); H1 (linker)
+  Nucleosoma: ~146 bp di DNA attorno all'ottamero istonico
+  
+  Livelli di organizzazione:
+    DNA nudo (2 nm) → nucleosomi (11 nm) → fibra 30 nm → anse (300 nm) → cromosoma (700 nm)
+  
+  Eterocromatina: compatta, silenziosa trascrizionalmente
+  Eucromatina: decondensata, trascrizionalmente attiva
+
+9.3 CROMOSOMI:
+  Umano: 46 cromosomi = 23 coppie (22 autosomi + 1 coppia sessuali XX o XY)
+  Centromero: punto di attacco del cinetocore (fuso mitotico)
+  Telomeri: sequenze (TTAGGG)n alle estremità; protezione dalla degradazione
+
+────────────────────────────────────────────────────────────────────────────────
+CAPITOLO 10 – REPLICAZIONE DEL DNA
+────────────────────────────────────────────────────────────────────────────────
+
+SEMI-CONSERVATIVITÀ (Meselson e Stahl, 1958):
+  Ogni molecola figlia = 1 filamento parentale (stampo) + 1 filamento nuovo ← 2024/25
+  "Ogni filamento della doppia elica funge da stampo per la sintesi di un nuovo
+  filamento complementare" ← risposta A corretta 2024/25
+
+ENZIMI CHIAVE:
+  ELICASI: separa i due filamenti al forchettone ← 2024/25
+  PRIMASI: sintetizza primer di RNA (la DNA pol non inizia de novo)
+  DNA POLIMERASI: aggiunge dNTP in direzione 5'→3' SOLO a partire da primer
+  LIGASI: salda i frammenti di Okazaki
+
+FILAMENTO GUIDA vs RITARDATO:
+  Filamento GUIDA: sintesi CONTINUA in 5'→3'; 1 solo primer
+  Filamento RITARDATO: sintesi DISCONTINUA → FRAMMENTI DI OKAZAKI (~150-200 nt)
+    → I frammenti di Okazaki si formano SOLO sul filamento ritardato ← 2024/25
+    (risposta errata: "si formano anche sul filamento guida" = FALSA)
+
+TAQ POLIMERASI:
+  - DNA polimerasi termostabile da Thermus aquaticus ← 2024/25
+  - Attiva a 72°C; non si denatura a 95°C
+  - Come TUTTE le DNA polimerasi: NECESSITA DI PRIMER ← 2024/25
+  - "Può sintetizzare senza primer" = FALSO
+
+────────────────────────────────────────────────────────────────────────────────
+CAPITOLO 11 – TRASCRIZIONE
+────────────────────────────────────────────────────────────────────────────────
+
+DEFINIZIONE: SINTESI DELL'RNA A PARTIRE DA UNO STAMPO DI DNA ← 2025/26
+  (risposta errata: "sintesi RNA da stampo RNA" = replicazione RNA; "sintesi proteine" = traduzione)
+
+Enzima: RNA POLIMERASI (non necessita di primer!)
+Avviene nel NUCLEO negli eucarioti.
+
+PROCESSING del pre-mRNA negli eucarioti:
+  1. Cappatura al 5' (7-metilguanosina): protezione e riconoscimento ribosomiale
+  2. Poliadenilazione al 3' (coda poli-A): stabilità e trasporto
+  3. SPLICING: rimozione INTRONI + giunzione ESONI
+     Lo SPLICING avviene sul TRASCRITTO PRIMARIO ← 2023/24
+     (risposta errata: "sull'mRNA maturo" = già spliciato; "sul DNA" = no)
+     Splicing alternativo → dalla stessa sequenza genica → proteine diverse
+
+TRASCRIZIONE INVERSA (HIV):
+  L'HIV ha RNA a singolo filamento → TRASCRITTASI INVERSA → DNA (provirus)
+  ← 2023/24: "l'HIV usa RNA a singolo filamento come stampo per la sintesi di DNA"
+
+────────────────────────────────────────────────────────────────────────────────
+CAPITOLO 12 – TRADUZIONE E CODICE GENETICO
+────────────────────────────────────────────────────────────────────────────────
+
+CODICE GENETICO:
+  - A TRIPLETTA: ogni amminoacido è codificato da 3 nucleotidi (codone)
+  - DEGENERATO: più codoni per lo stesso amminoacido
+  - NON AMBIGUO: ogni codone → 1 solo amminoacido
+  - UNIVERSALE: stesso codice in quasi tutti gli organismi
+  - Codoni STOP: UAA, UAG, UGA (non codificano amminoacidi)
+  - Codone INIZIO: AUG = metionina (Met)
+
+CODONE: sequenza di 3 nucleotidi sull'mRNA ← 2025/26
+  (risposta errata: "è sul tRNA" = quello è l'ANTICODONE; "è nel DNA")
+
+MUTAZIONI E TRADUZIONE:
+  MUTAZIONE SILENTE (sinonima):
+    Cambio di base che NON altera l'amminoacido ← 2021/22
+    "Non si producono cambiamenti nella sequenza amminoacidica" ← vera
+  
+  MUTAZIONE MISSENSE: cambio base → cambio amminoacido (es. anemia falciforme)
+  MUTAZIONE NONSENSO: cambio base → codone stop prematuro → proteina troncata
+  FRAMESHIFT: inserzione/delezione non multipla di 3 → tutti i codoni downstream alterati
+
+────────────────────────────────────────────────────────────────────────────────
+CAPITOLO 13 – MUTAZIONI E RIPARAZIONE DEL DNA
+────────────────────────────────────────────────────────────────────────────────
+
+TRASLOCAZIONE RECIPROCA ← 2023/24:
+  Scambio di frammenti tra cromosomi NON OMOLOGHI ← risposta A corretta
+  (risposta errata: "tra cromosoma materno e paterno della stessa coppia" = CROSSING-OVER)
+
+SISTEMI DI RIPARAZIONE:
+  BER: riparazione per escissione di basi (basi danneggiate singole)
+  NER: riparazione per escissione di nucleotidi (dimeri di timina da UV)
+    → Deficit in Xeroderma pigmentosum
+  MMR: riparazione degli errori di appaiamento (mismatch)
+  HR: ricombinazione omologa (doppia rottura del DNA)
+  NHEJ: giunzione delle estremità non omologhe (impreciso)
+
+────────────────────────────────────────────────────────────────────────────────
+CAPITOLO 14 – GENETICA CLASSICA: MENDEL
+────────────────────────────────────────────────────────────────────────────────
+
+14.1 TERMINOLOGIA FONDAMENTALE
+  ALLELE = forma alternativa di un gene presente allo stesso LOCUS su cromosomi OMOLOGHI ← 2022/23
+    (risposta errata: "su cromatidi fratelli" = FALSO; i cromatidi fratelli sono identici)
+  
+  POLIALLELIA: per un locus esistono più di due alleli diversi nella POPOLAZIONE
+    ⚠ Un individuo diploide porta solo 2 alleli per locus (uno per omologo)
+    "Nel caso di poliallelia un individuo possiede più di due alleli" = FALSO ← 2023/24
+
+14.2 LEGGI DI MENDEL
+  1a LEGGE (Segregazione): i due alleli si separano durante la formazione dei gameti
+  2a LEGGE (Assortimento indipendente): geni su CROMOSOMI DIVERSI si assortiscono
+    in modo indipendente durante la meiosi
+    ⚠ NON vale per geni in LINKAGE (stesso cromosoma, vicini)
+
+14.3 INCROCI TIPICI DEGLI ESAMI
+
+  Monoibrido Aa × Aa:
+    Progenie: 1/4 AA : 2/4 Aa : 1/4 aa
+    Fenotipo: 3 (dominante) : 1 (recessivo)
+
+  Dibrido AaBb × AaBb (geni NON associati):
+    Gameti: AB, Ab, aB, ab (1/4 ciascuno); 16 combinazioni
+    Fenotipo: 9 A_B_ : 3 A_bb : 3 aaB_ : 1 aabb = 9:3:3:1
+
+  INCROCIO ESAME 2025/26: ggll × GgLl
+    Gameti di ggll: solo (gl)
+    Gameti di GgLl: (GL), (Gl), (gL), (gl) → 1/4 ciascuno
+    Progenie:
+      1/4 GgLl  ← gl × GL
+      1/4 Ggll  ← gl × Gl
+      1/4 ggLl  ← gl × gL
+      1/4 ggll  ← gl × gl
+    → GENOTIPI: GgLl, Ggll, ggLl, ggll ← risposta A corretta 2025/26
+
+  PROBABILITÀ TRE GENI (2024/25): AaBbCc × AaBbCc
+    P(triplo recessivo aabbcc) = (1/4)³ = 1/64
+    P(triplo dominante A_B_C_) = (3/4)³ = 27/64
+
+14.4 EREDITÀ POLIGENICA ← 2023/24
+  DUE O PIÙ GENI influenzano UN SINGOLO carattere fenotipico ← risposta A corretta
+  Esempi: statura, colore della pelle, pressione sanguigna → distribuzione continua
+
+14.5 GRUPPI SANGUIGNI ABO
+  Sistema ABO: gene I con 3 alleli: IA, IB (codominanti), i (recessivo)
+    Tipo A: IAIA o IAi;  Tipo B: IBIB o IBi
+    Tipo AB: IAIB (ricevente universale);  Tipo O: ii (donatore universale)
+
+────────────────────────────────────────────────────────────────────────────────
+CAPITOLO 15 – LINKAGE E CROSSING-OVER
+────────────────────────────────────────────────────────────────────────────────
+
+LINKAGE: geni sullo STESSO CROMOSOMA → trasmessi INSIEME a meno di crossing-over ← 2025/26
+  NON rispettano la 2a legge di Mendel (non assortimento indipendente)
+  Distanza genetica: 1 cM = 1% di ricombinazione
+
+CROSSING-OVER:
+  Avviene in PROFASE I della meiosi tra cromatidi NON FRATELLI di omologhi
+  Forma i CHIASMI; produce cromosomi RICOMBINANTI
+
+CROSSING-OVER BILANCIATO ← 2023/24:
+  I cromosomi risultanti contengono materiale sia MATERNO che PATERNO ← risposta A
+
+────────────────────────────────────────────────────────────────────────────────
+CAPITOLO 16 – GENETICA DEL SESSO E CARATTERI LEGATI ALL'X
+────────────────────────────────────────────────────────────────────────────────
+
+DETERMINAZIONE DEL SESSO: XY (maschio), XX (femmina)
+  I maschi ereditano X DALLA MADRE e Y DAL PADRE
+  Le figlie femmine ereditano X dal padre e X dalla madre
+
+DALTONISMO / EMOFILIA (caratteri RECESSIVI LEGATI ALL'X):
+  Maschio daltónico: XdY (un solo allele X → basta uno per manifestare)
+  Femmina daltonico: XdXd (serve omozigosi)
+  Femmina portatrice: XDXd (visione normale)
+
+  Il figlio MASCHIO prende X DALLA MADRE (non dal padre!)
+  Il padre trasmette X solo alle FIGLIE, Y ai FIGLI MASCHI.
+
+  EMOFILIA 2023/24: "Una femmina potrà essere malata se figlia di madre portatrice
+  e padre malato" ← vera (XhXh: riceve Xh da entrambi i genitori)
+
+────────────────────────────────────────────────────────────────────────────────
+CAPITOLO 17 – MALATTIE GENETICHE E ANEUPLOIDIE
+────────────────────────────────────────────────────────────────────────────────
+
+ANEUPLOIDIA = anomalia numerica (cromosoma in più o in meno) ← 2022/23, 2024/25
+  Cause: NON-DISGIUNZIONE in meiosi I o II
+  
+  Monosomia (2n-1): Turner 45,X
+  Trisomia (2n+1): Down (21), Edwards (18), Patau (13), Klinefelter (XXY), XYY, XXX
+
+  DOMANDA 2023/24: "cellule con 21 cromosomi, ciascuno con 2 cromatidi"
+    → 21 cromosomi bicromatidici = cellule in MEIOSI (dopo meiosi I, n=21) ← risposta A
+
+MALATTIE GENETICHE PRINCIPALI:
+  ANEMIA FALCIFORME:
+    Causa: mutazione β-globina: GAG (Glu) → GTG (Val) DNA; GUG nell'mRNA ← 2023/24
+    Ereditarietà: autosomica RECESSIVA; eterozigoti protetti dalla malaria
+
+  FIBROSI CISTICA:
+    Causa: mutazione CFTR (canale Cl⁻); mutazione più comune: ΔF508
+    Ereditarietà: autosomica RECESSIVA
+
+  COREA DI HUNTINGTON:
+    Causa: espansione (CAG)n nel gene HTT (>36 ripetizioni)
+    Ereditarietà: autosomica DOMINANTE; esordio tardivo (35-50 anni)
+
+  MALATTIA AUTOSOMICA DOMINANTE ← 2021/22:
+    Basta 1 allele mutato; si manifesta anche in eterozigosi
+    Ogni figlio di affetto: 50% di probabilità di essere colpito
+
+────────────────────────────────────────────────────────────────────────────────
+CAPITOLO 18 – BIOTECNOLOGIE: PCR, CLONAGGIO, OGM
+────────────────────────────────────────────────────────────────────────────────
+
+PCR (Polymerase Chain Reaction):
+  Richiede TERMOCICLATORE ← 2023/24
+
+  COMPONENTI: DNA stampo, primer F+R, dNTP, TAQ POLIMERASI, tampone con Mg²⁺
+
+  CICLO PCR:
+    DENATURAZIONE: ~95°C → filamenti si separano
+    ANNEALING:     ~50-65°C → primer si ibridano allo stampo
+    ESTENSIONE:    ~72°C → Taq sintetizza il nuovo filamento
+
+  APPLICAZIONI: diagnosi genetica, test di paternità, diagnosi infettiva (COVID-19),
+    sequenziamento, qPCR
+
+OGM: organismo con gene esogeno inserito tramite ingegneria genetica
+  NON è OGM ciò ottenuto tramite MUTAGENESI CASUALE ← 2021/22
+  (risposta errata: pensare che qualsiasi modificazione = OGM)
+
+TRASDUZIONE ← 2021/22: trasferimento di geni batterici tramite FAGO
+  (non confondere con: trasformazione = DNA libero; coniugazione = pilo F)
+
+────────────────────────────────────────────────────────────────────────────────
+CAPITOLO 19 – METABOLISMO ENERGETICO
+────────────────────────────────────────────────────────────────────────────────
+
+19.1 INTRODUZIONE
+  CATABOLISMO: demolizione di molecole → energia (ATP)
+  ANABOLISMO: costruzione di molecole complesse; richiede energia
+  REAZIONI ANABOLICHE: COSTRUISCONO molecole complesse; endoergoniche ← 2024/25
+    (risposta errata: "liberano energia" = catabolismo)
+
+19.2 GLICOLISI
+  Localizzazione: CITOPLASMA (citosol)
+  Substrato: 1 glucosio (C6)
+  Prodotti: 2 piruvato + 2 ATP NETTI + 2 NADH
+
+  In aerobiosi: piruvato → acetil-CoA (nella matrice mitocondriale)
+  In anaerobiosi: piruvato → lattato (muscoli, RBC) o etanolo + CO₂ (lieviti)
+
+19.3 CICLO DI KREBS
+  Localizzazione: MATRICE mitocondriale
+  Substrato: Acetil-CoA (2C) da ogni piruvato
+
+  Per ogni giro (= per ogni acetil-CoA):
+    2 CO₂ rilasciate ← 2023/24
+    3 NADH + 1 FADH₂ + 1 GTP
+  
+  Per 1 glucosio (2 giri): 6 NADH + 2 FADH₂ + 2 GTP + 4 CO₂
+
+  REAZIONE CHIAVE: "Durante un ciclo di Krebs vengono liberate 2 molecole di CO₂" ← 2023/24
+  ⚠ "Una molecola di GTP viene subito convertita in ATP" = FALSO ← 2023/24
+    (il GTP è un prodotto diretto; non viene "convertito in ATP subito")
+
+19.4 FOSFORILAZIONE OSSIDATIVA
+  Localizzazione: MEMBRANA INTERNA mitocondriale (creste)
+  Produce la MAGGIOR PARTE dell'ATP ← 2021/22
+  La fosforilazione ossidativa avviene sulla membrana INTERNA ← 2021/22
+
+  CATENA DI TRASPORTO DEGLI ELETTRONI:
+    NADH/FADH₂ → Complessi I-IV → O₂ → H₂O
+    L'energia pompa H⁺ dallo spazio intermembrana → matrice
+    → gradiente di PROTONI (H⁺) ← 2022/23
+
+  ATP-SINTASI: H⁺ rientrano nella matrice → rotazione → sintesi ATP
+  Resa: ~2,5 ATP per NADH; ~1,5 ATP per FADH₂
+
+────────────────────────────────────────────────────────────────────────────────
+CAPITOLO 20 – FOTOSINTESI
+────────────────────────────────────────────────────────────────────────────────
+
+EQUAZIONE: 6CO₂ + 6H₂O + luce → C₆H₁₂O₆ + 6O₂
+  Processo ANABOLICO ← 2023/24
+
+FASE LUCE-DIPENDENTE (nei TILACOIDI):
+  PSII: ossida H₂O → O₂ + H⁺ + e⁻ (la fonte dell'ossigeno è l'ACQUA!)
+  PSI: riduce NADP⁺ → NADPH
+  PRODOTTI: ATP, NADPH, O₂
+
+CICLO DI CALVIN (nello STROMA):
+  CO₂ + RuBP → G3P (via RuBisCO)
+  Usa ATP + NADPH (NON NADH!)
+
+CONFRONTO CON RESPIRAZIONE ← 2023/24:
+  "Entrambe usano NADH come trasportatore" = FALSO
+  → La fotosintesi usa NADPH (non NADH!) ← risposta A corretta (affermazione falsa)
+  La respirazione cellulare usa NADH (e FADH₂)
+  
+  Glucosio immagazzinato in piante come AMIDO (non glicogeno) ← 2023/24
+
+────────────────────────────────────────────────────────────────────────────────
+CAPITOLO 21 – VIROLOGIA E BATTERIOLOGIA
+────────────────────────────────────────────────────────────────────────────────
+
+STRUTTURA DEI VIRUS:
+  CAPSIDE = subunità proteiche (capsomeri) ← 2022/23
+  + acido nucleico (DNA o RNA, mono o bifilamento)
+  + eventuale ENVELOPE (membrana lipoproteica; es. HIV, influenza, herpes)
+
+HIV:
+  Materiale genetico: RNA A SINGOLO FILAMENTO ← 2023/24 (risposta A corretta)
+  La trascrittasi inversa lo converte in DNA → integrazione come PROVIRUS
+  Bersaglio: linfociti T helper CD4⁺
+
+CAPSIDE ← 2022/23:
+  "Il capside di un virus consiste di SUBUNITÀ PROTEICHE" ← risposta A corretta
+  (risposta errata: acidi nucleici, RNA e lipidi, polisaccaridi, lipidi elicoidali)
+
+MALATTIE DA TOSSINE BATTERICHE ← 2023/24:
+  BOTULISMO: tossina di Clostridium botulinum (blocca la giunzione neuromuscolare)
+  TETANO: tossina di Clostridium tetani
+  DIFTERITE: tossina di Corynebacterium diphtheriae
+  ⚠ MONONUCLEOSI: da virus EBV (NON da tossina batterica!)
+  ⚠ MALARIA: da Plasmodium falciparum (protozoo, NON batterio né virus)
+
+BATTERI: divisione per SCISSIONE BINARIA ← risposta corretta
+  (non mitosi, non meiosi)
+
+────────────────────────────────────────────────────────────────────────────────
+CAPITOLO 22 – SISTEMA IMMUNITARIO
+────────────────────────────────────────────────────────────────────────────────
+
+ANTICORPI = PROTEINE (glicoproteine) ← 2022/23
+  "Gli anticorpi sono proteine in grado di combinarsi con uno specifico antigene"
+  ← risposta A corretta
+  (risposta errata: "proteine di origine virale/batterica", "cellule", "geni" → TUTTI ERRATI)
+
+SISTEMA LINFATICO ← 2022/23:
+  Funzioni SÌ: raccoglie fluidi interstiziali, trasporta lipidi, difesa immunitaria
+  ⚠ NON pompa il sangue (quello fa il CUORE)
+
+────────────────────────────────────────────────────────────────────────────────
+CAPITOLO 23 – ISTOLOGIA
+────────────────────────────────────────────────────────────────────────────────
+
+TESSUTO EPITELIALE ← 2021/22:
+  - AVASCOLARE (privo di vasi sanguigni propri) ← vera
+  - Cellule a STRETTO CONTATTO tra loro ← vera
+  - Riposa su membrana basale
+
+MEMBRANE MUCOSE: rivestono cavità comunicanti con l'ESTERNO ← 2024/25
+  (tratto digestivo, respiratorio, urogenitale)
+
+GOLGI SVILUPPATO: nelle cellule a intensa attività SECRETORIA ← 2022/23
+
+────────────────────────────────────────────────────────────────────────────────
+CAPITOLO 24 – ANATOMIA E FISIOLOGIA
+────────────────────────────────────────────────────────────────────────────────
+
+OSSITOCINA ← 2023/24:
+  - Prodotta dall'IPOTALAMO (non solo nelle femmine!) ← risposta A "prodotta solo dalle femmine" = FALSA
+  - Rilasciata dalla NEUROIPOFISI
+  - Induce contrazioni uterine; stimola eiezione del latte
+
+SACRO ← 2021/22: formato dalla FUSIONE DELLE VERTEBRE SACRALI (5 vertebre)
+
+OSSA CRANICHE PARI ← 2023/24:
+  Pari: PARIETALE, temporale, nasale, zigomatico, mascellare, lacrimale
+  Impari: frontale, occipitale, sfenoide, etmoide, mandibola
+  "Quale osso cranico è un osso PARI?" → PARIETALE ← risposta A corretta 2023/24
+
+MESODERMA ← 2023/24: uno dei TRE FOGLIETTI EMBRIONALI ← risposta A corretta
+  - Ectoderma: cute, SNC
+  - Mesoderma: muscoli, scheletro, reni, cuore
+  - Endoderma: epitelio digestivo, fegato, pancreas, polmoni
+
+OSSIMETRO (PULSOSSIMETRO): misura la saturazione di O₂ nel sangue (SpO₂) ← 2020/21
+
+NEFROLOGIA: studio dei RENI ← 2007/08
+
+────────────────────────────────────────────────────────────────────────────────
+CAPITOLO 25 – EVOLUZIONE E FILOGENESI
+────────────────────────────────────────────────────────────────────────────────
+
+TEORIA ENDOSIMBIOTICA (Lynn Margulis, 1967):
+  Spiega l'origine di MITOCONDRI e CLOROPLASTI ← 2022/23
+  (NON spiega l'origine del RE, Golgi ecc.)
+
+  EVIDENZE a supporto:
+    - DNA circolare nei mitocondri/cloroplasti
+    - Ribosomi 70S (come batteri)
+    - Si dividono per scissione binaria
+    - Doppia membrana
+    - Membrana interna con composizione diversa dagli organuli intracellulari
+      (es. cardiolipina) ← 2023/24
+
+  ⚠ NON è evidenza: "I mitocondri si duplicano subito PRIMA della mitosi" ← 2023/24
+    (si duplicano in modo semi-autonomo durante tutto il ciclo, non solo prima della mitosi)
+    → Risposta A come la "meno corretta come prova"
+
+FILOGENESI = STORIA EVOLUTIVA DI UNA SPECIE ← 2023/24
+  (risposta errata: "formazione del fuso mitotico"; "fase dello sviluppo embrionale";
+   "duplicazione DNA batterico"; "produzione di miofibrille")
+
+================================================================================
+PARTE II – CHIMICA
+================================================================================
+
+────────────────────────────────────────────────────────────────────────────────
+CAPITOLO 26 – STRUTTURA DELL'ATOMO
+────────────────────────────────────────────────────────────────────────────────
+
+26.1 STRUTTURA ATOMICA
+  NUCLEO: protoni (carica +1, massa 1 uma) + neutroni (carica 0, massa 1 uma)
+  NUVOLA ELETTRONICA: elettroni (carica –1, massa trascurabile)
+  
+  Z (numero atomico) = numero di PROTONI = numero di elettroni (atomo neutro)
+  A (numero di massa) = protoni + neutroni
+  
+  NEUTRONI: si trovano nel NUCLEO dell'atomo ← 2022/23
+  Isotopi: stesso Z, diverso A; stesse proprietà chimiche
+
+26.2 NUMERI QUANTICI E ORBITALI
+  n: livello di energia (1, 2, 3...)
+  l: forma del sottoguscio (0=s, 1=p, 2=d, 3=f)
+  ml: orientazione (da –l a +l)
+  ms: spin (+½ o –½)
+
+  Principio di Pauli: max 2 elettroni per orbitale (spin opposti)
+  Regola di Hund: orbitali degeneri occupati uno alla volta prima del pairing
+
+26.3 IONI
+  CATIONE: atomo che ha PERSO elettroni → carica positiva
+  ANIONE: atomo che ha GUADAGNATO elettroni → carica negativa
+
+  Catione TRIVALENTE di Z=45 (Rodio, Rh): 45 – 3 = 42 elettroni ← 2023/24
+  
+  Elemento con configurazione [Ar]3d⁵4s² = Z = 18+5+2 = 25 = MANGANESE (Mn)
+    → Appartiene agli ELEMENTI DI TRANSIZIONE ← 2025/26
+
+26.4 ELEMENTI CHIMICI
+  Attualmente conosciuti: circa 118 ← 2021/22
+
+────────────────────────────────────────────────────────────────────────────────
+CAPITOLO 27 – LA TAVOLA PERIODICA
+────────────────────────────────────────────────────────────────────────────────
+
+27.1 ORGANIZZAZIONE
+  Periodo = riga; Gruppo = colonna
+  L'appartenenza a un gruppo = CONFIGURAZIONE ELETTRONICA ESTERNA ← 2023/24
+
+27.2 GRUPPI PRINCIPALI
+  Gruppo IA  (1): METALLI ALCALINI – Li, Na, K, Rb, Cs; 1e⁻ nel livello esterno
+  Gruppo IIA (2): METALLI ALCALINO-TERROSI – Be, Mg, Ca, Sr, Ba
+    CALCIO (Ca) è un METALLO ALCALINO-TERROSO ← 2023/24
+    (risposta errata: Cromo=transizione; Stagno=post-transiz.; Alluminio=p-block)
+  
+  Gruppo VIIA (17): ALOGENI – F, Cl, Br, I; molto reattivi; formano X⁻
+  Gruppo 0 / VIII A (18): GAS NOBILI – He, Ne, Ar, Kr, Xe; stabili
+  Gruppi 3-12 (blocco d): METALLI DI TRANSIZIONE – Ti, V, Cr, Mn, Fe, Co, Ni, Cu, Zn
+
+27.3 FOSFORO NON È UN METALLO ← 2025/26
+  Li, Cs, Mn, Ca = tutti METALLI
+  FOSFORO (P) = NON metallo
+
+27.4 TENDENZE PERIODICHE
+  Raggio atomico: aumenta scendendo nel gruppo; diminuisce lungo il periodo
+  Elettronegatività: aumenta lungo il periodo; diminuisce scendendo nel gruppo
+    Massima: F (χ=4,0) poi O (3,44), poi Cl (3,16)
+  Energia di ionizzazione: aumenta lungo il periodo; diminuisce scendendo nel gruppo
+
+────────────────────────────────────────────────────────────────────────────────
+CAPITOLO 28 – IL LEGAME CHIMICO
+────────────────────────────────────────────────────────────────────────────────
+
+28.1 TIPI DI LEGAME
+  COVALENTE PURO (omopolare): Δχ < 0,4; tra atomi dello stesso elemento
+    "Il legame tra atomi dello stesso elemento è SEMPRE covalente omopolare" ← 2023/24 (vera)
+  
+  COVALENTE POLARE: 0,4 < Δχ < ~2,0
+    Legame O-H nell'acqua è COVALENTE POLARE ← 2022/23
+    "Legame tra atomi con Δχ=1,5 è covalente polare" ← 2023/24 (vera)
+  
+  IONICO: Δχ > 2,0; trasferimento di elettroni
+    L'elemento PIÙ ELETTRONEGATIVO RICEVE (non cede) elettroni ← 2023/24
+    "Nel legame ionico l'elemento più elettronegativo cede elettroni" = FALSO
+
+28.2 ACQUA OSSIGENATA H₂O₂ ← 2025/26
+  Numero di ossidazione dell'ossigeno = –1 ← risposta A corretta
+  (in H₂O: O è –2; in H₂O₂: O è –1; formula: H–O–O–H con legame O–O singolo)
+  ⚠ "Si decompone facilmente in O₂ e H₂" = FALSO (si decompone in H₂O + O₂)
+  ⚠ "Nella sua molecola è presente un doppio legame" = FALSO (legame O–O singolo)
+  ⚠ "Il suo nome IUPAC è ossido d'idrogeno" = FALSO (ossido d'idrogeno = H₂O)
+
+28.3 IBRIDAZIONE
+  sp³: 4 orbitali ibridi → geometria TETRAEDRICA; angoli 109,5° ← 2025/26
+    (alcani, CH₄, H₂O, NH₃)
+  
+  sp²: 3 orbitali ibridi → geometria TRIANGOLARE PLANARE; angoli 120° ← 2025/26
+    Gli atomi C degli ALCHENI hanno ibridazione sp² ← 2025/26
+    Orbitali sp²: formati da 1 orb. s e 2 orb. p; sono complanari; angoli 120°
+    ⚠ "Formati da 3 s e 1 p" = FALSO (è il contrario: 1 s + 2 p)
+  
+  sp: 2 orbitali ibridi → geometria LINEARE; angoli 180°
+    (alchini, CO₂, HCN)
+
+────────────────────────────────────────────────────────────────────────────────
+CAPITOLO 29 – GEOMETRIA MOLECOLARE (VSEPR)
+────────────────────────────────────────────────────────────────────────────────
+
+Teoria VSEPR: le coppie di elettroni intorno al centro si dispongono per minimizzare
+le repulsioni.
+
+  2 domini elettronici: LINEARE (180°)         → CO₂, HCN, BeF₂
+  3 domini, 0 c.s.:    TRIANGOLARE PLANARE (120°) → BF₃, SO₃, alcheni
+  3 domini, 1 c.s.:    PIRAMIDALE TRIGONALE (107°) → NH₃, PCl₃
+  4 domini, 0 c.s.:    TETRAEDRICA (109,5°)     → CH₄, CCl₄, SiH₄, NH₄⁺ ← 2025/26
+  4 domini, 2 c.s.:    ANGOLARE (104,5°)        → H₂O
+  6 domini, 0 c.s.:    OTTAEDRICA (90°)         → SF₆
+
+  "Quale forma presenta angoli di 109,5°?" → TETRAEDRICA ← risposta A 2025/26
+  (risposta errata: ottaedrica=90°; triangolare=120°; piramidale~107°)
+
+────────────────────────────────────────────────────────────────────────────────
+CAPITOLO 30 – NOMENCLATURA DEI COMPOSTI INORGANICI
+────────────────────────────────────────────────────────────────────────────────
+
+30.1 NUMERO DI OSSIDAZIONE
+  O: solitamente –2; in H₂O₂: –1; in OF₂: +2
+  H: solitamente +1; negli idruri metallici: –1
+  F: sempre –1
+
+30.2 OSSIDI
+  OSSIDI BASICI (metalli): Na₂O, K₂O, CaO, MgO, FeO, Fe₂O₃, CuO
+  OSSIDI ACIDI (non metalli, metalloidi): SO₂, SO₃, CO₂, NO₂, P₂O₅, Cl₂O₇
+  
+  SiO₂ = ossido ACIDO ← 2025/26 (NON è un ossido basico)
+    "SiO₂ NON è un ossido basico" ← risposta A corretta 2025/26
+
+  Anidride FOSFOROSA: P₂O₃ ← 2023/24
+  Anidride FOSFORICA: P₂O₅ (diverso! non confonderli)
+
+30.3 IONI POLIATOMICI IMPORTANTI
+  Fosfato:           PO₄³⁻
+  Idrogenofosfato:   HPO₄²⁻ ← 2025/26 (formula richiesta)
+  Diidrogeno fosfato: H₂PO₄⁻
+  Carbonato:         CO₃²⁻
+  Bicarbonato:       HCO₃⁻
+  Solfato:           SO₄²⁻
+  Nitrato:           NO₃⁻
+  Ammonio:           NH₄⁺
+
+  Bicarbonato di ammonio: NH₄HCO₃ ← 2021/22
+
+30.4 OSSIACIDI
+  Negli OSSIACIDI l'idrogeno acido è legato all'OSSIGENO ← 2022/23
+  (risposta errata: "al carbonio", "al non-metallo")
+
+────────────────────────────────────────────────────────────────────────────────
+CAPITOLO 31 – REAZIONI CHIMICHE E STECHIOMETRIA
+────────────────────────────────────────────────────────────────────────────────
+
+31.1 LEGGI FONDAMENTALI
+  LAVOISIER (conservazione della massa): massa reagenti = massa prodotti
+  PROUST (proporzioni definite): composizione costante dei composti puri
+    ← 2025/26: "legge delle proporzioni definite formulata da PROUST" ← risposta A
+  DALTON (proporzioni multiple): rapporti tra masse in multipli di numeri interi
+
+31.2 STECHIOMETRIA – BILANCIAMENTO
+
+  ESEMPIO ESAME 2025/26:
+    2Fe(NO₃)₃ + 3Na₂SO₄ → Fe₂(SO₄)₃ + 6NaNO₃
+    Atomi di Na nei REAGENTI = 2 × 3 = 6 ← risposta A corretta
+
+  ESEMPIO ESAME 2023/24:
+    aNaOH + bH₃PO₄ → cNa₃PO₄ + dH₂O
+    Per produrre 2 mol Na₃PO₄: a=6 NaOH, b=2 H₃PO₄, d=6 H₂O
+    Risposta: 6 mol NaOH ← risposta A corretta
+
+31.3 LEGGI DEI GAS
+  Boyle (isoterma): P₁V₁ = P₂V₂
+  Charles (isobara): V₁/T₁ = V₂/T₂
+  Gay-Lussac (isocora): p/T = k ← 2021/22 (trasformazione isocora)
+  Gas ideali: pV = nRT; R = 8,314 J/(mol·K)
+
+  PUNTO TRIPLO dell'acqua: 273,16 K (0,01°C) a 611,73 Pa ← 2025/26
+
+  UNITÀ DI PRESSIONE ← 2025/26:
+    1 atm = 101.325 Pa = 760 mmHg = 760 torr
+    1 bar = 10⁵ Pa
+    ⚠ "2,3 bar = 2,3 atm" = FALSO ← risposta A da identificare come FALSA
+    (1 bar ≈ 0,987 atm; quindi 2,3 bar ≈ 2,27 atm ≠ 2,3 atm)
+
+────────────────────────────────────────────────────────────────────────────────
+CAPITOLO 32 – SOLUZIONI E CONCENTRAZIONI
+────────────────────────────────────────────────────────────────────────────────
+
+TIPI DI DISPERSIONI:
+  Soluzione vera: particelle < 1 nm; omogenea; stabile
+  Colloide: particelle 1–1000 nm; EFFETTO TYNDALL; non filtrabile ordinariamente
+    "Le soluzioni colloidali non sono filtrabili con carta da filtro" ← 2021/22 (vera)
+    (risposta errata: "si filtrano facilmente" = FALSA)
+  Sospensione: > 1000 nm; eterogenea; sedimenta
+
+CONCENTRAZIONI:
+  % m/v 15%: 1,5 g di soluto in 10 mL di SOLUZIONE ← 2025/26
+    Verifica: 1,5/10 × 100 = 15% ✓
+  
+  Concentrazione di aliquota prelevata = UGUALE alla soluzione originale ← 2022/23
+    "Si preleva 1 mL da soluzione 1M → concentrazione = 1M" ← risposta A corretta
+
+  Diluizione: C₁V₁ = C₂V₂
+  
+  MISCELA ESEMPIO 2023/24:
+    20 mL di HCl 0,8M + 40 mL di HCl 0,05M:
+    n = (0,020 × 0,8) + (0,040 × 0,05) = 0,016 + 0,002 = 0,018 mol
+    V tot = 0,060 L; C = 0,018/0,060 = 0,30 M ← risposta A corretta
+
+  Soluzione fisiologica: NaCl 0,9% m/v = 9 g/L ← 2021/22
+
+────────────────────────────────────────────────────────────────────────────────
+CAPITOLO 33 – PROPRIETÀ COLLIGATIVE
+────────────────────────────────────────────────────────────────────────────────
+
+LEGGE DI RAOULT: soluzione ha P di vapore MINORE del solvente puro ← 2021/22
+  P_sol = χ_solvente × P°_solvente
+
+PRESSIONE OSMOTICA: π = iMRT
+  ← Confronto 0,1M fruttosio vs KCl vs CaCl₂ ← 2022/23
+    Fruttosio: i=1 → π = 0,1 RT (minore)
+    KCl:       i=2 → π = 0,2 RT
+    CaCl₂:     i=3 → π = 0,3 RT (maggiore)
+  → "Soluzione di fruttosio è quella con la MINORE pressione osmotica" ← risposta A corretta
+
+────────────────────────────────────────────────────────────────────────────────
+CAPITOLO 34 – EQUILIBRIO CHIMICO
+────────────────────────────────────────────────────────────────────────────────
+
+Kc = [C]^c[D]^d / [A]^a[B]^b
+
+La Kc VARIA SOLO MODIFICANDO LA TEMPERATURA ← 2022/23
+  NON varia con: pressione, volume, concentrazioni, catalizzatori
+
+REAZIONE OMOGENEA = tutti i reagenti nella stessa fase ← 2021/22
+
+PRINCIPIO DI LE CHATELIER:
+  Aumento di reagente → equilibrio si sposta verso i prodotti
+  Catalizzatore → NON sposta l'equilibrio; NON cambia Kc; abbassa solo l'Ea
+
+────────────────────────────────────────────────────────────────────────────────
+CAPITOLO 35 – ACIDI, BASI E pH
+────────────────────────────────────────────────────────────────────────────────
+
+35.1 TEORIE ACIDO-BASE
+  Brønsted-Lowry: acido = DONATORE di H⁺; base = ACCETTORE di H⁺
+  Coppia acido-base coniugata: H₂PO₄⁻ / HPO₄²⁻ ← 2025/26 (differiscono di 1 H⁺)
+
+35.2 Kw = [H⁺][OH⁻] = 10⁻¹⁴ a 25°C in QUALSIASI soluzione acquosa ← 2022/23
+  "La Kw dell'acqua in una soluzione 10⁻²M di KCl a 25°C è 10⁻¹⁴" ← risposta A
+
+  DILUIZIONE DI SOLUZIONE A pH 10 ← 2023/24:
+    10 mL a pH 10 + 90 mL acqua:
+    [OH⁻] = 10⁻⁴ M; dopo diluzione 1:10 → [OH⁻] = 10⁻⁵ M → pOH = 5 → pH = 9 ← risposta A
+
+35.3 IDROLISI SALINA
+  Acido forte + base forte → idrolisi NEUTRA (sale NaCl → pH = 7) ← 2022/23
+  Sale con base coniugata dell'acido debole → idrolisi BASICA → innalza pH ← 2022/23
+
+35.4 OSSIDANTE FORTE: spiccata tendenza a RICEVERE ELETTRONI ← 2022/23
+
+────────────────────────────────────────────────────────────────────────────────
+CAPITOLO 36 – SOLUZIONI TAMPONE
+────────────────────────────────────────────────────────────────────────────────
+
+TAMPONE = acido DEBOLE + suo sale con base forte (o base debole + suo sale con acido forte)
+  Esempio: NH₄OH + NH₄Cl ← 2025/26 (risposta A corretta)
+  
+  NON TAMPONE: HCl + NH₄Cl (HCl è FORTE → non forma tampone)
+  
+  EQUAZIONE DI HENDERSON-HASSELBALCH: pH = pKa + log([A⁻]/[HA])
+
+TAMPONI FISIOLOGICI:
+  Sangue: pH 7,35–7,45
+  Tampone bicarbonato: H₂CO₃ / HCO₃⁻ (regolato da polmoni + reni)
+  Tampone fosfato: H₂PO₄⁻ / HPO₄²⁻ (negli eritrociti e nelle urine)
+
+────────────────────────────────────────────────────────────────────────────────
+CAPITOLO 37 – REAZIONI DI OSSIDO-RIDUZIONE
+────────────────────────────────────────────────────────────────────────────────
+
+OSSIDAZIONE = perdita di elettroni = n.o. AUMENTA
+RIDUZIONE  = acquisto di elettroni = n.o. DIMINUISCE
+Mnemonica: OIL RIG (Oxidation Is Loss, Reduction Is Gain)
+
+OSSIDANTE: acquista elettroni (si riduce)
+RIDUCENTE: cede elettroni (si ossida)
+  "L'elemento riducente CEDE ELETTRONI" ← risposta A corretta 2023/24
+
+  Ossidante forte: spiccata tendenza a RICEVERE ELETTRONI ← 2022/23
+
+────────────────────────────────────────────────────────────────────────────────
+CAPITOLO 38 – CHIMICA ORGANICA: IDROCARBURI
+────────────────────────────────────────────────────────────────────────────────
+
+ALCANI (saturi): CₙH₂ₙ₊₂ ← 2022/23 (risposta A corretta)
+  CH₄, C₂H₆, C₃H₈, C₄H₁₀...
+  Inerti (reazioni solo ad alta T o UV)
+
+METILCICLOESANO (domanda 2023/24):
+  Formula: C₇H₁₄ (cicloesano C₆H₁₂ + gruppo metile –CH₃ → sostituisce 1H)
+  Atomi di H: 14 ← risposta A corretta 2023/24
+
+ALCHENI (insaturi, 1 doppio legame): CₙH₂ₙ
+  C del doppio legame: ibridazione sp², angoli 120°
+  Ottenuti da DISIDRATAZIONE DI UN ALCOL ← 2021/22
+
+ALCHINI (insaturi, 1 triplo legame): CₙH₂ₙ₋₂
+  C del triplo legame: ibridazione sp, angoli 180°
+
+ARENI (aromatici): benzene C₆H₆; 6π elettroni delocalizzati; reazioni di SOSTITUZIONE
+
+────────────────────────────────────────────────────────────────────────────────
+CAPITOLO 39 – CHIMICA ORGANICA: GRUPPI FUNZIONALI
+────────────────────────────────────────────────────────────────────────────────
+
+ALCOL SECONDARIO ← 2023/24:
+  C che porta –OH lega UN SOLO H ← risposta A corretta
+  Esempio: CH₃–CHOH–CH₂–CH₃ (2-butanolo)
+  Il composto CH₃–CH₂–CHOH–CH₂–CH₃ è un ALCOL SECONDARIO ← 2022/23
+
+GLUCOSIO lineare: 1 gruppo ALDEIDICO + 5 gruppi OSSIDRILICI ← 2022/23
+
+SAPONI: SALI DI ACIDI GRASSI A CATENA LUNGA ← 2022/23
+  Ottenuti per SAPONIFICAZIONE (trigliceride + NaOH)
+
+GLICEROLO: CH₂OH-CHOH-CH₂OH → NON CONTIENE AZOTO ← 2023/24
+  (metilammina=N; cianuro KCN=N; guanina=N; metionina=N → tutti hanno N)
+  GLICEROLO = nessun N ← risposta A corretta "quale NON contiene azoto"
+
+LEGGE DI HENRY: C = kH × P ← 2022/23
+  (risposta errata: "pV=nRT" = gas ideali; "P=kT" = Gay-Lussac)
+
+────────────────────────────────────────────────────────────────────────────────
+CAPITOLO 40 – TERMODINAMICA E CINETICA CHIMICA
+────────────────────────────────────────────────────────────────────────────────
+
+PRIMO PRINCIPIO DELLA TERMODINAMICA:
+  CONSERVAZIONE DELL'ENERGIA in presenza di fenomeni termici ← 2023/24
+  ΔU = Q – W (calore assorbito meno lavoro compiuto)
+
+EVAPORAZIONE A PRESSIONE COSTANTE: temperatura RIMANE COSTANTE ← 2023/24
+  (il calore va a rompere i legami intermolecolari, non ad aumentare T)
+
+REAZIONI ANABOLICHE: endoergoniche (richiedono energia) ← 2024/25
+REAZIONI CATABOLICHE: esoergoniche (liberano energia)
+
+CATALIZZATORI: abbassano Ea; NON cambiano Kc, ΔG, ΔH, ΔS; NON si consumano
+
+================================================================================
+CAPITOLO 41 – RIEPILOGO DOMANDE FREQUENTI E TRUCCHI MNEMONICI
+================================================================================
+
+════════════════════════════════════════════════════════════════════════════════
+BIOLOGIA – DOMANDE QUASI CERTE (3+ anni di esame)
+════════════════════════════════════════════════════════════════════════════════
+
+ORGANELLI E CELLULA:
+  ✓ Ordine ciclo cellulare: G1 → S → G2 → M
+  ✓ Nucleolo: sintesi rRNA (non sintetizza proteine!)
+  ✓ Filamenti intermedi: proteine fibrose (non tubulina, non actina)
+  ✓ Batteri: divisione = scissione binaria; DNA circolare doppio filamento
+  ✓ Golgi sviluppato: nelle cellule secretorie
+  ✓ Colchicina: blocca in METAFASE
+  ✓ Tossina distrugge ribosomi: compromessa la SINTESI PROTEICA
+  ✓ Membrana esterna nucleo: in continuità con il RER
+  ✓ Mitocondri: presenti ANCHE nelle cellule vegetali (non solo animali)
+
+DNA E ESPRESSIONE GENICA:
+  ✓ Codone = tripletta sull'mRNA
+  ✓ Cromatina = DNA + istoni
+  ✓ Trascrizione = sintesi RNA da stampo DNA
+  ✓ Splicing: avviene sul TRASCRITTO PRIMARIO
+  ✓ Replicazione semiconservativa: ogni filamento funge da stampo
+  ✓ Frammenti di Okazaki: SOLO sul filamento ritardato (non sul guida)
+  ✓ Mutazione silente: nessun cambiamento aminoacidico
+  ✓ HIV: materiale genetico = RNA a singolo filamento
+  ✓ Capside virale = subunità proteiche
+
+GENETICA:
+  ✓ Fruttosio = ESOSO (C6, non trigliceride, non aminoacido)
+  ✓ Incrocio ggll × GgLl → GgLl, Ggll, ggLl, ggll
+  ✓ Meiosi I = riduzionale; Meiosi II = equazionale
+  ✓ Linkage: geni stesso cromosoma → trasmessi insieme
+  ✓ Aneuploidia: cromosoma in più o in meno
+  ✓ Teoria endosimbiotica: spiega origine SOLO mitocondri e cloroplasti
+  ✓ Allele = forma alternativa di un gene allo stesso locus di OMOLOGHI (non cromatidi fratelli)
+  ✓ Eredità poligenica: 2+ geni per 1 carattere
+
+METABOLISMO E FISIOLOGIA:
+  ✓ Glucosio piante = AMIDO; animali = GLICOGENO
+  ✓ Reazioni anaboliche = costruiscono, richiedono ATP
+  ✓ Fosforilazione ossidativa: membrana INTERNA dei mitocondri
+  ✓ Krebs: 2 CO₂ per giro; 3 NADH + 1 FADH₂ + 1 GTP
+  ✓ Fotosintesi usa NADPH (non NADH come la respirazione)
+  ✓ Endocitosi = importa; esocitosi = esporta
+  ✓ Pompa Na/K: 3 Na⁺ fuori, 2 K⁺ dentro; trasporta Na VERSO L'ESTERNO
+  ✓ Anticorpi = proteine (non cellule, non geni, non lipidi)
+  ✓ Tessuto epiteliale: avascolare; cellule a stretto contatto
+  ✓ Sacro = fusione delle vertebre sacrali
+  ✓ Ossimetro = misura SpO₂ (saturazione ossigeno)
+  ✓ Ossitocina: prodotta dall'ipotalamo (anche dai maschi!)
+  ✓ Mesoderma = foglietto embrionale (non strato dermico)
+
+════════════════════════════════════════════════════════════════════════════════
+CHIMICA – DOMANDE QUASI CERTE
+════════════════════════════════════════════════════════════════════════════════
+
+ATOMO E TAVOLA PERIODICA:
+  ✓ [Ar]3d⁵4s² = Manganese → elementi di TRANSIZIONE
+  ✓ Fosforo NON è un metallo
+  ✓ Calcio = METALLO ALCALINO-TERROSO
+  ✓ Appartenenza a un gruppo = CONFIGURAZIONE ELETTRONICA ESTERNA
+  ✓ Neutroni: nel nucleo dell'atomo
+  ✓ Elementi chimici: ~118
+  ✓ Catione trivalente Z=45: 45–3 = 42 elettroni
+
+LEGAME E GEOMETRIA:
+  ✓ H₂O₂: ossigeno ha n.o. = –1 (non –2 come in H₂O)
+  ✓ Geometria tetraedrica = angoli 109,5°
+  ✓ Alcheni: ibridazione sp²; angoli 120°; complanari
+  ✓ Legame O-H nell'acqua: COVALENTE POLARE
+  ✓ SiO₂ = ossido ACIDO (non basico)
+  ✓ Idrogenofosfato = HPO₄²⁻
+  ✓ Legge di Proust = proporzioni definite
+
+SOLUZIONI E EQUILIBRIO:
+  ✓ 15% m/v = 1,5 g in 10 mL
+  ✓ Concentrazione aliquota = invariata rispetto alla soluzione originale
+  ✓ Kc: dipende SOLO dalla temperatura
+  ✓ Kw = 10⁻¹⁴ in qualsiasi soluzione acquosa a 25°C
+  ✓ Legge di Raoult: soluzione ha P di vapore minore del solvente puro
+  ✓ π: fruttosio 0,1M < KCl 0,1M < CaCl₂ 0,1M
+  ✓ Soluzione fisiologica: NaCl 0,9% = 9 g/L
+  ✓ Soluzioni colloidali: effetto Tyndall; non filtrabili
+
+ACIDI-BASI E REDOX:
+  ✓ Tampone: NH₄OH + NH₄Cl (acido debole + suo sale)
+  ✓ Coppia coniugata: H₂PO₄⁻ / HPO₄²⁻
+  ✓ Neutralizzazione acido forte + base forte → idrolisi NEUTRA
+  ✓ Sale innalza pH → idrolisi BASICA
+  ✓ Ossidante forte: RICEVE elettroni
+  ✓ Riducente: CEDE elettroni
+  ✓ Legge di Henry: C = kH × P
+  ✓ Evaporazione a P costante: T costante
+  ✓ Alcani: CₙH₂ₙ₊₂
+  ✓ Metilcicloesano = C₇H₁₄ → 14 atomi di H
+  ✓ Alcol secondario: C con –OH lega 1 solo H
+  ✓ Glucosio lineare: 1 CHO + 5 OH
+  ✓ Saponi: sali di acidi grassi a catena lunga
+  ✓ Ossiacidi: H acido legato all'O
+  ✓ Punto triplo H₂O: 273,16 K
+  ✓ 2,3 bar ≠ 2,3 atm (FALSO; 1 bar ≈ 0,987 atm)
+  ✓ Anidride fosforosa: P₂O₃ (non P₂O₅ = fosforica)
+  ✓ Glicerolo NON contiene azoto
+  ✓ Reazioni anaboliche: richiedono energia (endoergoniche)
+  ✓ 1° principio termodinamica = conservazione dell'energia
+
+════════════════════════════════════════════════════════════════════════════════
+30 TRUCCHI MNEMONICI PER LE COSE PIÙ DIFFICILI
+════════════════════════════════════════════════════════════════════════════════
+
+ 1. POMPA NA/K: "3 NA fuori (più numerosi = più pesanti), 2 K dentro"
+    Il sodio è fuori in natura (mare); il potassio è dentro (cellule).
+
+ 2. FRUTTOSIO = ESOSO: "la frutta ha SEI zuccheri" – 6 atomi di C.
+    Non è un disaccaride, non è un polisaccaride, non è un lipide.
+
+ 3. MEIOSI: "RidEqua" – Riduzionale (I), Equazionale (II)
+    La I dimezza i cromosomi (Riduzionale); la II è come la mitosi (Equazionale).
+
+ 4. CODONE (mRNA) vs ANTICODONE (tRNA):
+    "il CODOne è nel CODE-X (mRNA)" – il tRNA porta l'anticodone.
+
+ 5. NUCLEOLO = RIBO-FABBRICA: produce l'rRNA per i RIBOSOMI.
+    Non è delimitato da membrana. Si trova nel nucleo ma NON È un organulo membranoso.
+
+ 6. KW = 10⁻¹⁴ SEMPRE a 25°C, indipendentemente dal soluto disciolto.
+    Anche in una soluzione di sale neutro (KCl): Kw = 10⁻¹⁴.
+
+ 7. TAMPONE = acido DEBOLE + suo SALE. MAIDUNQUE acido forte in un tampone!
+    HCl + qualcosa = non tampone. NH₃ + NH₄Cl = TAMPONE.
+
+ 8. OIL RIG: Oxidation Is Loss (di elettroni), Reduction Is Gain (di elettroni)
+    Ossidazione = Perde e⁻; Riduzione = Acquista e⁻
+
+ 9. SiO₂ = ACIDO (il silicio è un metalloide → ossido acido)
+    CaO, Na₂O = BASICI (metalli → ossidi basici)
+    Mnemonica: "i NON METALLI fanno ossidi ACIDI" (pH abbassa con l'acqua)
+
+10. CROMATINA = DNA + ISTONI (vestito del DNA)
+    Non è un organulo con membrana. Non confondere con cromosomi (stessa cosa condensata in mitosi).
+
+11. FILAMENTI INTERMEDI = proteine FIBROSE
+    Microtubuli = TUBULINA; Microfilamenti = ACTINA; Intermedi = proteine FIBROSE
+
+12. MITOCONDRI IN PIANTE: SÌ! Le cellule vegetali hanno mitocondri (E cloroplasti)
+    "Solo cellule animali" = FALSO CLASSICO agli esami.
+
+13. TEORIA ENDOSIMBIOTICA → SOLO mitocondri e cloroplasti
+    Il RE e il Golgi derivano dall'invaginazione delle membrane, NON da endosimbiosi.
+
+14. HIV: RNA (non DNA!) → si chiama RETROVIRUS perché la trascrittasi inversa
+    fa RNA→DNA (al contrario della trascrizione normale DNA→RNA).
+
+15. BOTULISMO = tossina BATTERICA; Mononucleosi = VIRALE.
+    "Botulismo è causato da una tossina batterica" ← risposta CORRETTA agli esami.
+
+16. GLUCOSIO PIANTE = AMIDO (non glicogeno = negli animali)
+    Mnemonica: "gli ANIMALI hanno GLICOGENO (grasso di riserva nel fegato)";
+    le "PIANTE fanno AMIDO (farina, riso, patata)".
+
+17. COLCHICINA → blocca METAFASE (non può formare il fuso mitotico)
+    Quindi i cromosomi già condensati non si separano → rimangono in metafase.
+
+18. PROFASE II della meiosi: DNA = x (stesso di G1 dopo meiosi I) ← 2025/26
+    Schema: G1=2C=x → dopo S=4C=2x → fine Meiosi I=2C=x → Profase II=2C=x → fine MeiosisII=1C=x/2
+
+19. P₂O₃ = anidride FOSFOROSA; P₂O₅ = anidride FOSFORICA
+    "fosfoROSA ha meno ossigeno" mnemonica per ricordare che P₂O₃ è la fosforosa.
+
+20. Alcheni: sp², 120°, doppio legame
+    Alcani: sp³, 109,5°, singolo legame
+    Alchini: sp, 180°, triplo legame
+
+21. METILCICLOESANO C₇H₁₄: ricordalo come "cicloeano (C₆H₁₂) + CH₂ → C₇H₁₄"
+    (aggiungendo –CH₃ e togliendo un H dal cicloesano si ottiene C₇H₁₄)
+
+22. LEGGE DI HENRY: C = kP (la Concentrazione del gas disciolto è proporzionale
+    alla Pressione parziale del gas). NON confondere con pV=nRT (legge gas ideali).
+
+23. Kc dipende SOLO dalla T. I catalizzatori NON cambiano Kc.
+    "Catalizzatore: stesso equilibrio, stessa K, ma vi si arriva più in fretta."
+
+24. OSSITOCINA: prodotta dall'IPOTALAMO, rilasciata dalla NEUROIPOFISI
+    E la producono ANCHE I MASCHI (sbagliato dire "solo femmine").
+
+25. MESODERMA: "Meso = in mezzo" → foglietto embrionale di mezzo
+    Forma muscoli, scheletro, cuore, reni (le strutture "dure" e "cave" del corpo).
+
+26. OSSA CRANICHE PARI: PARIETALE (parieTALE, due di esse formano il cranio)
+    vs. frontale/occipitale/sfenoide/etmoide = IMPARI (una sola).
+
+27. ALCOL SECONDARIO: il C con –OH ha SOLO 1 H legato
+    (primario: 2H; secondario: 1H; terziario: 0H)
+
+28. SAPONI: sali di acidi grassi a catena lunga (es. stearato di sodio)
+    NON sono glicerolo, non sono trigliceridi, non sono alcoli.
+
+29. GLICEROLO NON ha azoto: CH₂OH-CHOH-CH₂OH → solo C, H, O
+    (gli amminoacidi hanno azoto; i nucleotidi hanno azoto; i lipidi no)
+
+30. CROSSING-OVER BILANCIATO → cromosomi con materiale materno + paterno
+    NON crea squilibrio nel numero di geni; è il meccanismo della ricombinazione genetica.
+
+================================================================================
+APPENDICE – TABELLA RISPOSTE CORRETTE PER ANNO
+================================================================================
+
+Anno 2025/26:
+  Ciclo cellulare: G1→S→G2→M
+  Fruttosio: esoso
+  Legame glicosidico: condensazione (perdita H₂O)
+  Sito allosterico: molecole regolatrici
+  Meiosi I = riduzionale; Meiosi II = equazionale
+  Profase II: DNA = x
+  Cromatina: DNA + proteine istoniche
+  Filamenti intermedi: proteine fibrose
+  Endocitosi: importa materiali
+  Trascrizione: sintesi RNA da DNA
+  Codone: tripletta sull'mRNA
+  Mucose: rivestono cavità comunicanti con l'esterno
+  Produzione cellule radicali piante: MITOSI
+  Linkage: geni stesso cromosoma
+  Complementare di AATAGGCAT: TTATCCGTA
+  Manganese [Ar]3d⁵4s²: elementi di transizione
+  Fosforo: NON è metallo
+  H₂O₂: n.o. ossigeno = –1
+  Geometria tetraedrica: 109,5°
+  Ibridazione sp² alcheni: 120°, complanari, formata da 1s e 2p
+  SiO₂: ossido ACIDO (non basico)
+  HPO₄²⁻: idrogenofosfato
+  Proust: legge delle proporzioni definite
+  2Fe(NO₃)₃ + 3Na₂SO₄: 6 atomi Na nei reagenti
+  Punto triplo H₂O: 273,16 K
+  2,3 bar ≠ 2,3 atm (FALSO)
+  15% m/v = 1,5 g in 10 mL
+  Tampone: NH₄OH + NH₄Cl
+  Coppia acido-base: H₂PO₄⁻ / HPO₄²⁻
+
+Anno 2023/24:
+  Glucosio piante: amido
+  Emofilia femmina malata: madre portatrice + padre malato
+  Acido glutammico: NON è acido grasso
+  Citosina: pirimidina con 1 anello
+  Mitocondri duplicati prima mitosi: NON è prova endosimbiotica
+  Cellule 21 cromosomi bicromatidici: cellule in meiosi
+  Causa anemia falciforme: mutazione β-globina (Glu→Val)
+  Crossing-over bilanciato: materiale materno + paterno
+  Eredità poligenica: 2+ geni per 1 carattere
+  Traslocazione reciproca: scambio tra cromosomi NON omologhi
+  Nella poliallelia un individuo ha solo 2 alleli: VERO
+  Ciclo Krebs: 2 CO₂ per giro (vera)
+  Fotosintesi: processo anabolico
+  NADH usato da entrambe (fotosintesi e respirazione): FALSO (fotosintesi usa NADPH)
+  Evaporazione a P costante: T costante
+  1° principio termodinamica: conservazione energia
+  Filogenesi: storia evolutiva di una specie
+  Mesoderma: foglietto embrionale
+  Osso pari: PARIETALE
+  Ossitocina prodotta solo femmine: FALSO
+  Splicing: avviene sul trascritto primario
+  HIV: RNA a singolo filamento → stampo per DNA
+  Capside: subunità proteiche
+  Botulismo: tossina batterica
+  Anticorpi: proteine che si combinano con antigene specifico
+  Allele: forma alternativa, stesso locus, cromosomi OMOLOGHI
+  Ribosomi distrutti: compromessa SINTESI PROTEICA
+  Saponi: sali di acidi grassi a catena lunga
+  H negli ossiacidi: legato all'O
+  Kw in KCl 10⁻² M: 10⁻¹⁴
+  Idrolisi neutra: sale di acido forte + base forte
+  Sale innalza pH: idrolisi basica
+  Riducente: cede elettroni
+  Formula legge di Henry: C = kP
+  Metilcicloesano H: 14
+  Alcol secondario: C con –OH lega 1 solo H
+  CH₃-CH₂-CHOH-CH₂-CH₃: alcol secondario
+  Glicerolo: NON contiene azoto
+  Molarità miscela HCl: 0,30 M
+  pH diluizione 1:10 di pH10: 9
+  Catione trivalente Z=45: 42 elettroni
+  Ca = alcalino-terroso
+  Configurazione elettronica esterna → appartenenza al gruppo
+  Legame O-H: covalente polare (vera)
+  Legame δχ=1,5: covalente polare (vera)
+  Stesso elemento → covalente omopolare (vera)
+  Legame ionico: più elettronegativo RICEVE elettroni (NON cede)
+  Legame dativo "max 2": FALSO
+  Anidride fosforosa: P₂O₃
+  3 NaOH per Na₃PO₄; per 2 mol Na₃PO₄: 6 NaOH
+  Gay-Lussac: p/T = k (isocora)
+  Soluzioni colloidali: non filtrabili
+  Concentrazione aliquota: invariata (1M)
+  Kc: varia solo con T
+  Reazione omogenea: stessa fase
+  Legge di Raoult: P sol < P° solvente
+  Fruttosio 0,1M: minore pressione osmotica (vs KCl, CaCl₂)
+
+================================================================================
+Fine del documento.
+Versione ~200KB - Basato sull'analisi di tutti gli esami 2006–2026
+Università di Udine, Bologna, Bari, Pavia, Udine e altri atenei italiani
+================================================================================
+
+================================================================================
+APPENDICE A – APPROFONDIMENTI DI BIOLOGIA (DETTAGLI DA ESAME)
+================================================================================
+
+────────────────────────────────────────────────────────────────────────────────
+A1 – DETTAGLI SUGLI AMMINOACIDI (20 amminoacidi standard)
+────────────────────────────────────────────────────────────────────────────────
+
+APOLARI/IDROFOBICI: Glicina (Gly, G), Alanina (Ala, A), Valina (Val, V),
+  Leucina (Leu, L), Isoleucina (Ile, I), Prolina (Pro, P), Fenilalanina (Phe, F),
+  Triptofano (Trp, W), Metionina (Met, M)
+  → Metionina ha ZOLFO (–S–CH₃)
+
+POLARI NEUTRI: Serina (Ser, S), Treonina (Thr, T), Cisteina (Cys, C), Tirosina (Tyr, Y),
+  Asparagina (Asn, N), Glutammina (Gln, Q)
+  → Cisteina ha ZOLFO (–SH); forma ponti disolfuro con altre cisteine
+
+ACIDI (negativi a pH 7): Acido aspartico (Asp, D), Acido glutammico (Glu, E)
+  → L'ACIDO GLUTAMMICO è un AMMINOACIDO (non un acido grasso!) ← 2023/24
+  → Ha due gruppi –COOH (catenalaterale –CH₂CH₂COOH) + 1 gruppo –NH₂
+
+BASICI (positivi a pH 7): Lisina (Lys, K), Arginina (Arg, R), Istidina (His, H)
+  → Istidina: pKa del suo anello imidazolico ≈ 6,0 → tampone fisiologico
+
+AMMINOACIDI ESSENZIALI (non sintetizzati dall'uomo, devono essere assunti con la dieta):
+  Fenilalanina, Isoleucina, Leucina, Lisina, Metionina, Treonina, Triptofano, Valina
+  + istidina (essenziale nei bambini); + arginina (condizionatamente essenziale)
+  Mnemonica: "FIL-TMVAT" o "Filo di LTM Val Trp His"
+
+CLASSIFICAZIONE PER STRUTTURA DELLA CATENA LATERALE:
+  Con anello aromatico: Fenilalanina, Tirosina, Triptofano
+  Iminoacido (anello pirrolidinico): Prolina → interrompe α-eliche e β-foglietti
+  Con gruppi –SH: Cisteina (unico a formare ponti disolfuro; forse anche Met ma debole)
+
+PUNTO ISOELETTRICO (pI): pH a cui l'amminoacido è come zwitterione (carica netta = 0)
+  pI = (pKa1 + pKa2) / 2  per amminoacidi neutri
+  Per amminoacidi acidi: pI < 7; per amminoacidi basici: pI > 7
+
+────────────────────────────────────────────────────────────────────────────────
+A2 – STRUTTURA E FUNZIONE DEGLI ANTICORPI (IMMUNOGLOBULINE)
+────────────────────────────────────────────────────────────────────────────────
+
+STRUTTURA GENERALE:
+  2 catene pesanti (H, heavy) + 2 catene leggere (L, light); unite da ponti S–S
+  Forma a Y
+  
+  Regione Fab (Fragment antigen-binding): 
+    - La parte variabile (VH e VL) contiene le CDR (Complementarity Determining Regions)
+    - Lega l'ANTIGENE in modo SPECIFICO
+    - Ogni immunoglobulina ha 2 siti di legame all'antigene
+  
+  Regione Fc (Fragment crystallizable):
+    - La parte costante della catena pesante
+    - Determina la CLASSE dell'anticorpo (isotipos)
+    - Media le FUNZIONI EFFETTRICI: attivazione del complemento, fagocitosi,
+      citotossicità anticorpo-dipendente (ADCC)
+
+CINQUE CLASSI DI IMMUNOGLOBULINE:
+  IgM: prima risposta immunitaria; pentamero (5 unità Y); migliore attivatore del complemento
+    → Livelli alti = infezione RECENTE
+  
+  IgG: risposta secondaria; la più abbondante; ATTRAVERSA LA PLACENTA (immunità neonatale)
+    → 4 sottoclassi (IgG1, IgG2, IgG3, IgG4)
+    → Emivita più lunga (~23 giorni)
+  
+  IgA: FORMA SECRETORIA (dIgA): nel latte materno, saliva, lacrime, secreto nasale
+    → Prima linea di difesa sulle mucose
+    → Monomero nel siero; dimero nelle secrezioni
+  
+  IgE: legata ai mastociti e basofili; ruolo nelle ALLERGIE (rilascio istamina)
+    → Difesa contro parassiti (elminti)
+    → Livelli alti in soggetti atopici
+  
+  IgD: principalmente recettore di membrana sui linfociti B naïve
+    → Funzione nel controllo dell'attivazione dei linfociti B
+
+GENERAZIONE DELLA DIVERSITÀ ANTICORPALE:
+  Ricombinazione V(D)J: riarrangiamento somatico dei geni delle immunoglobuline
+  Diversità combinatoriale: milioni di combinazioni V-D-J
+  Ipermutazione somatica: mutazioni puntiformi nei CDR durante la risposta immunitaria
+    → "Maturazione dell'affinità": anticorpi sempre più specifici dopo immunizzazione
+
+────────────────────────────────────────────────────────────────────────────────
+A3 – APPROFONDIMENTO TRASCRIZIONE E REGOLAZIONE GENICA
+────────────────────────────────────────────────────────────────────────────────
+
+PROMOTORI EUCARIOTICI:
+  Promotore basale: TATA box (–25), sequenza Inr (+1), elementi prossimali
+  Elementi distali: enhancer (attivatori) e silencer (repressori)
+    → Possono essere a migliaia di bp di distanza e agire in cis (stesso cromosoma)
+  
+  Fattori di trascrizione:
+    Generali (GTF): TFIID (riconosce TATA box), TFIIA, TFIIB, TFIIH (elicasi e chinasi)
+    Specifici: NFκB, p53, AP-1, Sp1... riconoscono sequenze specifiche nel promotore/enhancer
+
+OPERONE LAC (E. coli – modello di regolazione procariotica):
+  Struttura: promotore → operatore → lacZ (β-gal) → lacY (permease) → lacA (transacetilasi)
+  Proteine:
+    Repressore (prodotto di lacI): lega l'operatore → blocca la trascrizione
+    Induttore (allolattosio = metabolita del lattosio): lega il repressore → distaccamento
+  Regolazione catabolita: proteina CAP + cAMP → si lega a monte del promotore → attiva trascrizione
+    (funziona solo in assenza di glucosio → il glucosio abbassa cAMP)
+
+FATTORI EPIGENETICI:
+  Metilazione del DNA (5-metilcitosina): spesso associata a SILENZIAMENTO GENICO
+    → Nelle isole CpG dei promotori: metilazione → gene spento
+  Modificazioni istoniche:
+    Acetilazione dei lisini sugli istoni H3 e H4: ATTIVA la trascrizione
+    Deacetilazione: silenziamento
+    Metilazione H3K4: attivazione; H3K9me3: silenziamento; H3K27me3: silenziamento
+  ncRNA (RNA non codificanti): miRNA (blocca traduzione o degrada mRNA bersaglio),
+    lncRNA, circRNA
+
+────────────────────────────────────────────────────────────────────────────────
+A4 – FISIOLOGIA DEL SISTEMA NERVOSO: SINAPSI E NEUROTRASMETTITORI
+────────────────────────────────────────────────────────────────────────────────
+
+POTENZIALE D'AZIONE:
+  Membrana a riposo: –70 mV (interno negativo; dovuto alla pompa Na/K e ai canali K⁺)
+  
+  Depolarizzazione:
+    1. Stimolo suprasoglia apre canali Na⁺ voltaggio-dipendenti → Na⁺ entra
+    2. Potenziale sale da –70 a +30/+40 mV
+    3. A +30 mV i canali Na⁺ si inattivano
+  
+  Ripolarizzazione:
+    4. Canali K⁺ voltaggio-dipendenti si aprono (con ritardo) → K⁺ esce
+    5. Potenziale scende (anche sotto –70 mV = iperpolarizzazione)
+  
+  Periodo refrattario assoluto: i canali Na⁺ inattivati non possono riaprirsi immediatamente
+    → limita la frequenza massima dei potenziali d'azione
+  
+  Conduzione: negli assoni mielinizzati → CONDUZIONE SALTATORIA
+    (il segnale salta di nodo di Ranvier in nodo di Ranvier, molto più veloce: 70-120 m/s)
+    (senza mielina: 0,5-2 m/s)
+
+SINAPSI CHIMICA:
+  Il potenziale d'azione arriva al terminale assonico
+  → Ingresso di Ca²⁺ (canali Ca²⁺ voltaggio-dipendenti)
+  → Fusione delle vescicole sinaptiche con la membrana presinaptica (SNARE)
+  → Rilascio neurotrasmettitore nella fessura sinaptica
+  → Il neurotrasmettitore si lega ai RECETTORI post-sinaptici
+  → Risposta post-sinaptica (EPSP o IPSP)
+  → Il neurotrasmettitore viene ricaptato, degradato o diffonde via
+
+PRINCIPALI NEUROTRASMETTITORI:
+  ACETILCOLINA (ACh):
+    - Sinapsi neuromuscolari (recettori nicotinici = canali ionici)
+    - SN parasimpatico (rest and digest): visceri
+    - CNS: memoria, apprendimento (deficit nell'Alzheimer)
+    - Degradata dalla acetilcolinesterasi nella fessura sinaptica
+    - TOSSINA BOTULINICA blocca il rilascio di ACh → paralisi flaccida (botulismo)
+  
+  NORADRENALINA (norepinefrina):
+    - SN simpatico post-ganglionare (fight or flight)
+    - CNS: vigilanza, arousal
+    - Recettori α e β (α1, α2, β1, β2, β3)
+  
+  DOPAMINA:
+    - Via nigro-striatale: controllo motorio (deficit nel Parkinson)
+    - Via mesolimbica: piacere, ricompensa (droga, dipendenza)
+    - Via mesocorticale: cognizione, umore
+  
+  SEROTONINA (5-HT): umore, sonno, appetite
+    - 90% nell'intestino (regola la motilità)
+    - Deficit associato a depressione
+    - SSRI (inibitori selettivi della ricaptazione della serotonina): antidepressivi
+  
+  GABA (acido γ-aminobutirrico): principale neurotrasmettitore INIBITORIO del CNS
+    - Benzodiazepine e barbiturici lo potenziano → effetti ansiolitici e sedativi
+  
+  GLUTAMMATO: principale neurotrasmettitore ECCITATORIO del CNS
+    - Recettori NMDA e AMPA
+    - Eccitotossicità: eccesso di glutammato → ingresso Ca²⁺ → morte neuronale
+
+────────────────────────────────────────────────────────────────────────────────
+A5 – FISIOLOGIA RENALE E EQUILIBRIO ACIDO-BASE
+────────────────────────────────────────────────────────────────────────────────
+
+NEFRONE – FUNZIONI SPECIFICHE DI OGNI SEGMENTO:
+  CAPSULA DI BOWMAN: filtrazione del plasma (proteine > 70 kDa escluse)
+    GFR (velocità di filtrazione glomerulare): ~125 mL/min negli adulti
+  
+  TUBULO PROSSIMALE: riassorbimento ~65% del filtrato glomerulare
+    - TUTTO il glucosio (riassorbimento attivo, SGLT1 e SGLT2)
+    - TUTTI gli aminoacidi
+    - ~65% di Na⁺, K⁺, HCO₃⁻
+    - Secrezione di alcune sostanze (creatinina, penicillina)
+    - Regolazione acido-base: antiporto Na⁺/H⁺ → riassorbe Na⁺, secerne H⁺
+  
+  ANSA DI HENLE:
+    Branca discendente: permeabile all'H₂O (non ai soluti) → l'acqua esce → urina si concentra
+    Branca ascendente spessa: impermeabile all'H₂O, ma riassorbe NaCl → crea gradiente osmolare
+    → Questo gradiente nell'interstizio midollare consente la concentrazione dell'urina
+  
+  TUBULO DISTALE + DOTTO COLLETTORE:
+    - ADH (vasopressina): aumenta la permeabilità all'H₂O → riassorbe H₂O → urina più concentrata
+    - Aldosterone (corteccia surrenale): aumenta riassorbimento Na⁺ e secrezione di K⁺
+      → volume ematico aumenta → pressione arteriosa aumenta
+    - PTH (paratormone): aumenta riassorbimento Ca²⁺
+    - ANP (peptide natriuretico atriale): opposto all'aldosterone → natriuresi
+
+CLEARANCE RENALE: volume di plasma "ripulito" di una sostanza per unità di tempo
+  Clearance inulina = GFR (filtrata, non riassorbita né secreta) ≈ 125 mL/min
+  Clearance creatinina: usata clinicamente per stimare il GFR
+
+EQUILIBRIO ACIDO-BASE DEL SANGUE:
+  pH normale: 7,35-7,45
+  
+  ACIDOSI METABOLICA (pH < 7,35, HCO₃⁻ basso):
+    Cause: diarrea, insufficienza renale, chetoacidosi diabetica, acidosi lattica
+    Compensazione respiratoria: iperventilazione → abbassa CO₂ → pH risale
+  
+  ALCALOSI METABOLICA (pH > 7,45, HCO₃⁻ alto):
+    Cause: vomito prolungato (perde HCl), iperalimentazione, diuretici
+    Compensazione: ipoventilazione → aumenta CO₂
+  
+  ACIDOSI RESPIRATORIA (pH < 7,35, CO₂ alto):
+    Cause: BPCO, polmonite, depressione respiratoria
+    Compensazione renale: aumenta riassorbimento di HCO₃⁻
+  
+  ALCALOSI RESPIRATORIA (pH > 7,45, CO₂ basso):
+    Cause: iperventilazione (ansia, alta quota)
+    Compensazione: reni aumentano escrezione di HCO₃⁻
+
+────────────────────────────────────────────────────────────────────────────────
+A6 – APPROFONDIMENTO SISTEMA ENDOCRINO
+────────────────────────────────────────────────────────────────────────────────
+
+CLASSIFICAZIONE DEGLI ORMONI:
+  ORMONI LIPOFILI (steroidi, tiroidei, vitamina D):
+    - Attraversano la membrana plasmatica
+    - Si legano a RECETTORI INTRACELLULARI o NUCLEARI
+    - Complesso ormone-recettore si lega al DNA → modifica la trascrizione
+    - Effetti lenti ma duraturi (ore-giorni)
+    - Esempi: cortisolo, testosterone, estradiolo, aldosterone, T3/T4
+  
+  ORMONI IDROFILI (peptidi, proteine, catecolamine):
+    - NON attraversano la membrana plasmatica
+    - Si legano a RECETTORI DI MEMBRANA → attivano secondi messaggeri
+    - Effetti rapidi ma brevi (secondi-minuti)
+    - Esempi: insulina, glucagone, GH, TSH, adrenalina
+
+SECONDI MESSAGGERI:
+  cAMP (AMP ciclico): glucagone, adrenalina → adenilato ciclasi → cAMP → PKA
+  IP₃/DAG: vasopressina (V1), acetilcolina (M1, M3) → fosfolipasi C → IP₃ + DAG
+    IP₃ → rilascio Ca²⁺ dal REL; DAG → attiva PKC
+  Ca²⁺: calmodulina → cinasi dipendenti da Ca²⁺/calmodulina (CaMKII)
+  
+INSULINA: prodotta dalle cellule β del pancreas; risponde a glicemia alta
+  - Traslocazione dei GLUT4 alla membrana muscolare e adiposa
+  - Stimola glicogenosintesi (nel fegato e muscolo)
+  - Stimola la lipogenesi; inibisce la lipolisi
+  - Stimola la sintesi proteica
+  DIABETE MELLITO:
+    - Tipo 1: distruzione autoimmune delle cellule β → deficit assoluto di insulina
+    - Tipo 2: insulino-resistenza periferica → esaurimento progressivo delle cellule β
+  
+GLUCAGONE: prodotto dalle cellule α; risponde a glicemia bassa
+  - Stimola glicogenolisi e gluconeogenesi nel fegato
+  - Stimola la chetogenesi
+  - Antagonista dell'insulina
+
+CORTISOLO (glucocorticoide): corteccia surrenale; risponde a ACTH e allo stress
+  - Aumenta la glicemia (gluconeogenesi, proteolisi)
+  - Effetti antiinfiammatori e immunosoppressori (uso clinico come antiinfiammatorio)
+  - Ipercortisolismo cronico → Sindrome di Cushing (obesità centrale, strie, ipertensione)
+
+ALDOSTERONE (mineralcorticoide): corteccia surrenale; risponde all'angiotensina II e [K⁺]
+  - Aumenta il riassorbimento di Na⁺ nel tubulo distale → aumenta volemia e PA
+
+ORMONE DELLA CRESCITA (GH): adenoipofisi; stimola la crescita degli organi
+  - Agisce attraverso l'IGF-1 (somatomedina C) prodotto dal fegato
+  - Deficit in infanzia → nanismo ipofisario
+  - Eccesso in infanzia → gigantismo; in adulti → acromegalia
+
+ORMONI TIROIDEI (T3, T4):
+  - Sintetizzati dalla tiroide (iodio + tirosina)
+  - T4 (tiroxina, tetraiodotironina): meno attivo
+  - T3 (triiodotironina): più attivo; prodotto per conversione periferica di T4
+  - Effetti: aumentano il metabolismo basale, la temperatura corporea, la FC, la motilità intestinale
+  - Ipotiroidismo: rallentamento metabolico, aumento peso, bradicardia, mixedema
+  - Ipertiroidismo (Basedow-Graves): tachicardia, perdita di peso, gozzo, esoftalmo
+
+ORMONI SESSUALI:
+  TESTOSTERONE (testicoli, ma anche ovaie e corteccia surrenale):
+    - Spermatogenesi, sviluppo dei caratteri sessuali maschili secondari
+    - Anabolismo muscolare (per questo abusato come doping)
+  ESTRADIOLO (ovaie): ciclo mestruale, caratteri sessuali femminili
+  PROGESTERONE (corpo luteo, poi placenta): prepara l'endometrio per l'impianto
+
+────────────────────────────────────────────────────────────────────────────────
+A7 – FISIOLOGIA MUSCOLARE: CONTRAZIONE MUSCOLARE
+────────────────────────────────────────────────────────────────────────────────
+
+SARCOMERO (unità strutturale del muscolo striato):
+  Filamenti spessi: MIOSINA II (testa globulare con attività ATPasica + coda filamentosa)
+  Filamenti sottili: ACTINA F + TROPOMIOSINA + TROPONINA (complesso Tn: TnT, TnI, TnC)
+  
+  BANDE DEL SARCOMERO:
+    Banda A (scura): zona dei filamenti spessi + zona di sovrapposizione
+    Banda I (chiara): zona dei filamenti sottili senza filamenti spessi
+    Zona H: parte centrale della banda A senza sovrapposizione
+    Linea Z: ancoraggio dei filamenti sottili (segna i limiti del sarcomero)
+    Linea M: ancora i filamenti spessi al centro
+
+TEORIA DELLO SCIVOLAMENTO DEI FILAMENTI (Huxley e Hanson, 1954):
+  - Actina e miosina NON si accorciano; scivolano l'una sull'altra
+  - La lunghezza del sarcomero si riduce durante la contrazione
+  - Le bande I e la zona H si accorciano; la banda A rimane costante
+
+CICLO DELLA CONTRAZIONE (ciclo actina-miosina):
+  1. ATP si lega alla testa della miosina → distacco dall'actina
+  2. Idrolisi ATP → ADP + Pi → testa in posizione "armata" (angolo 90°)
+  3. Testa si lega all'actina → crossbridge (ponte trasversale)
+  4. Rilascio di Pi → colpo di potenza → testa si inclina a 45° → actina scivola
+  5. Rilascio di ADP → fine del ciclo → nuova molecola di ATP si lega (paso 1)
+  ⚠ La RIGIDITÀ CADAVERICA (rigor mortis) è causata dall'assenza di ATP dopo la morte:
+    le teste di miosina rimangono legate all'actina, senza poter sganciarsi.
+
+REGOLAZIONE DA Ca²⁺:
+  A riposo: tropomiosina copre i siti di legame dell'actina per la miosina
+  Segnale nervoso → depolarizzazione → rilascio di Ca²⁺ dal RETICOLO SARCOPLASMATICO
+  Ca²⁺ lega la TROPONINA C → cambia conformazione → sposta la tropomiosina
+  → siti di legame dell'actina esposti → la miosina può legarsi → CONTRAZIONE
+  Rimozione Ca²⁺ (pompato nel reticolo sarcoplasmatico da Ca²⁺-ATPasi/SERCA) → rilassamento
+
+FONTI DI ATP PER LA CONTRAZIONE MUSCOLARE:
+  1. Fosfocreatina (riserva immediata, 5-10 secondi)
+  2. Glicolisi anaerobica (10 secondi - 2 minuti) → lattato
+  3. Fosforilazione ossidativa (aerobica, minuti - ore)
+  Durante lo sforzo molto intenso: glicolisi anaerobica → accumulo di lattato → acidosi → affaticamento
+
+────────────────────────────────────────────────────────────────────────────────
+A8 – SANGUE E COAGULAZIONE
+────────────────────────────────────────────────────────────────────────────────
+
+COMPONENTI DEL SANGUE:
+  Plasma (~55% del volume): acqua + proteine plasmatiche + soluti
+    Albumina (50% delle proteine del plasma): trasporto di sostanze lipofile, pressione osmotica oncotica
+    Globuline: immunoglobuline (γ-globuline), lipoproteine, proteíne di trasporto
+    Fibrinogeno: precursore della fibrina (coagulazione)
+  
+  Eritrociti (45%):
+    - Anucleati nei mammiferi (perdono il nucleo in fase di maturazione)
+    - Pieni di EMOGLOBINA (Hb): 250-300 milioni per cellula
+    - Vita media: ~120 giorni
+    - Prodotti nel midollo osseo rosso; distrutti nella milza e nel fegato
+    - Forma biconcava: aumenta la superficie/volume per scambio gassoso
+  
+  Leucociti (1% del volume):
+    - Neutrofili (60-70%): fagocitosi; prima risposta alle infezioni batteriche
+    - Linfociti (20-30%): B (anticorpi) e T (cellulare); NK
+    - Monociti (3-8%): si differenziano in macrofagi nei tessuti
+    - Eosinofili (2-4%): parassiti, allergie
+    - Basofili (0-1%): liberano istamina (insieme ai mastociti)
+  
+  Piastrine (trombociti):
+    - Frammenti di MEGACARIOCITI (cellule giganti del midollo osseo)
+    - Vita media: 7-10 giorni
+    - Ruolo nella COAGULAZIONE e nell'emostasi
+
+EMOSTASI E COAGULAZIONE:
+  EMOSTASI PRIMARIA: vasospasmo + aggregazione piastrinica
+    1. Vasocostrizione riflessa (< 1 minuto)
+    2. Adesione piastrinica al subendotelio esposto: GPIb lega vWF (fattore di von Willebrand)
+    3. Attivazione delle piastrine → cambio di forma → rilascio di granuli (ADP, trombossano A2)
+    4. Aggregazione piastrinica: GPIIb/IIIa lega il fibrinogeno → tappo piastrinico
+  
+  EMOSTASI SECONDARIA (coagulazione):
+    Via ESTRINSECA: fattore tissutale (TF) + fattore VII → via rapida
+    Via INTRINSECA: fattore XII → via lenta
+    VIA COMUNE: fattore X + V → protrombinasi → trombina → fibrinogeno → fibrina
+    
+    TROMBINA: svolge il ruolo centrale; scinde il fibrinogeno in fibrina
+    Il fattore XIIIa stabilizza la fibrina con legami covalenti
+  
+  FIBRINOLISI: plasminogeno → plasmina (t-PA) → degrada la fibrina
+  
+  MALATTIE DELLA COAGULAZIONE:
+    Emofilia A: deficit fattore VIII (X-linked)
+    Emofilia B (malattia di Christmas): deficit fattore IX (X-linked)
+    Malattia di von Willebrand: deficit o disfunzione del vWF (autosomica)
+    CID (coagulazione intravasale disseminata): coagulazione abnorme + consumo di fattori → sanguinamento
+
+────────────────────────────────────────────────────────────────────────────────
+A9 – EMBRIOLOGIA E SVILUPPO
+────────────────────────────────────────────────────────────────────────────────
+
+GAMETOGENESI E FECONDAZIONE:
+  Spermatozoi: testa (nucleo + acrosoma con enzimi per penetrare la zona pellucida),
+    collo (mitocondri per l'energia), coda (flagello per la motilità)
+  Ovocita secondario: circondato dalla zona pellucida e dalle cellule della corona radiata
+
+  FECONDAZIONE: avviene nelle TUBE DI FALLOPPIO
+    1. Gli spermatozoi risalgono dal canale cervicale attraverso l'utero
+    2. Un singolo spermatozoo penetra la zona pellucida (reazione acrosomica)
+    3. Fusione delle membrane plasmatiche → polispermy block (reazione corticale)
+    4. L'ovocita secondario completa la meiosi II → ovocita maturo
+    5. I due pronuclei si avvicinano → fertilizzazione → zigote (2n)
+
+SEGMENTAZIONE (CLIVAGGIO):
+  Zigote → 2 blastomeri → 4 → 8 → 16 (morula) → blastocisti
+  Blastocisti:
+    - Massa cellulare interna (ICM / embrioblasto) → l'embrione
+    - Trofoblasto → il placenta
+  L'impianto nell'endometrio avviene al giorno ~6-7 dopo la fecondazione
+
+GASTRULAZIONE (settimana 3):
+  Formazione dei tre foglietti embrionali ← importante per gli esami
+  ECTODERMA → cute, SNC, SNP, ipofisi, cornea, cristallino, midollare del surrene
+  MESODERMA → muscoli scheletrici e lisci, cardiaci, scheletro, reni, gonadi,
+    corteccia surrenale, dermis, endotelio, cuore ← DOMANDA 2023/24
+  ENDODERMA → epitelio del tubo digerente, fegato (da epatoblasti), pancreas,
+    polmoni, ghiandola tiroidea, timo, epitelio della vescica
+
+NEURULAZIONE:
+  Notocorda induce l'ectoderma dorsale → PLACA NEURALE → piega → TUBO NEURALE
+  Il tubo neurale → cervello (anteriore) + midollo spinale (posteriore)
+  Difetti del tubo neurale: spina bifida (carenza acido folico), anencefalia
+
+PLACENTA:
+  Organo fetale derivato dal trofoblasto; si forma dal citotrofoblasto e sinciziotrofoblasto
+  Funzioni: scambi gassosi (O₂ e CO₂), nutrizione (glucosio, aminoacidi), ormoni
+    (hCG, progesterone, HPL), immunità passiva (IgG materne passano al feto)
+  HCG (gonadotropina corionica): il primo ormone prodotto dalla blastocisti/placenta
+    → bassi livelli di hCG mantengono il corpo luteo nei primi 3 mesi
+    → Il test di gravidanza rileva hCG nelle urine
+
+────────────────────────────────────────────────────────────────────────────────
+A10 – BOTANICA: CELLULA VEGETALE E FUNZIONI
+────────────────────────────────────────────────────────────────────────────────
+
+STRUTTURE SPECIFICHE DELLE CELLULE VEGETALI:
+  Parete cellulare: celluosa + emicellulosa + pectina + lignina (nelle cellule lignificate)
+    → Fornisce sostegno rigido; impedisce la lisi osmotica
+  Cloroplasti: sede della fotosintesi (vedi Cap. 20)
+  Vacuolo centrale grande: fino al 90% del volume; pressione di turgore
+    → Fondamentale per la rigidità delle piante (l'acqua entra per osmosi)
+  Plasmodesmi: canali che attraversano la parete, collegando cellule adiacenti
+    → Permettono la comunicazione e il flusso di sostanze tra cellule
+
+TESSUTI VEGETALI:
+  TESSUTO MERISTEMATICO (cellule indifferenziate in divisione continua):
+    → Apice del germoglio (SAM) e della radice (RAM) → crescita in lunghezza
+    → Cambio vascolare → crescita in spessore (piante legnose)
+  
+  TESSUTO FONDAMENTALE (PARENCHIMA):
+    → Fotosintetico (mesofillo): contiene cloroplasti
+    → Di riserva (tuberi, semi): amido, lipidi, proteine
+    → Di riempimento (aerenchima): gas nelle piante acquatiche
+  
+  TESSUTO DI CONDUZIONE:
+    XILEMA: conduzione di acqua e minerali dal suolo ai foglie (flusso ascendente)
+      → Cellule morte a maturità (tracheidi e vasi); pareti lignificate
+      → Forza motrice: traspirazione fogliare → tensione nell'acqua del xilema
+    FLOEMA: conduzione di zuccheri (saccarosio) dalle foglie agli organi di uso
+      → Tubi cribrosi (cellule viventi senza nucleo) + cellule compagne
+      → Direzione del flusso: dalle source (foglie) alle sink (radici, frutti, semi)
+
+FOTOSINTESI – DETTAGLI BIOCHIMICI (integrazione al Cap. 20):
+  REAZIONE DI HILL: i tilacoidi isolati riducono DCPIP in luce (prova che O₂ viene dalla H₂O)
+  FOTOSISTEMA II: P680; donatore di e⁻ è H₂O (fotolisi); ciclo OEC (Oxygen Evolving Complex)
+    OEC: Mn₄CaO₅ cluster → ossida H₂O in 4 passaggi
+  FOTOSISTEMA I: P700; riduzione di ferredossina → riduzione di NADP⁺ → NADPH
+  
+  FOTOFOSFORILAZIONE CICLICA: solo il PSI; produce solo ATP; nessun NADPH né O₂
+  FOTOFOSFORILAZIONE NON CICLICA: PSII + PSI; produce ATP + NADPH + O₂
+  
+  CICLO DI CALVIN (3 fasi):
+    1. FISSAZIONE: CO₂ + RuBP (C5) → 2 × 3-PGA (C3) – enzima: RuBisCO
+    2. RIDUZIONE: 3-PGA → G3P (usa ATP e NADPH)
+    3. RIGENERAZIONE: G3P (C3) → RuBP (C5) (usa ATP)
+    Per ogni 3 CO₂ fissate: 9 ATP + 6 NADPH → 1 G3P extra
+
+  PIANTE C3: fissazione del CO₂ direttamente da RuBisCO nel mesofillo
+    → Problema: fotorespiracion (O₂ compete con CO₂ per RuBisCO)
+    Esempi: grano, riso, soia, patata
+  
+  PIANTE C4: prefissazione nelle cellule del mesofillo → C4 oxalacetato (via PEP carbossilasi)
+    → Concentrano CO₂ nelle cellule della guaina del fascio → meno fotorespiracion
+    Esempi: mais, canna da zucchero, sorgo
+  
+  PIANTE CAM: piante succulente; aprono gli stomi di notte (CO₂ → malato → vacuoli)
+    e chiudono di giorno (malato → CO₂ → ciclo Calvin) → risparmio idrico estremo
+    Esempi: cactus, agave, ananas
+
+================================================================================
+APPENDICE B – APPROFONDIMENTI DI CHIMICA
+================================================================================
+
+────────────────────────────────────────────────────────────────────────────────
+B1 – CHIMICA ORGANICA AVANZATA: MECCANISMI DI REAZIONE
+────────────────────────────────────────────────────────────────────────────────
+
+ALCANI – REAZIONI:
+  COMBUSTIONE COMPLETA: CₙH₂ₙ₊₂ + O₂ → CO₂ + H₂O + calore (reazione esotermica)
+  ALOGENAZIONE (in presenza di luce UV o calore):
+    CH₄ + Cl₂ → CH₃Cl + HCl (sostituzione radicalica in catena)
+    Meccanismo: iniziazione → propagazione → terminazione
+
+ALCHENI – REAZIONI DI ADDIZIONE:
+  REGOLA DI MARKOVNIKOV: in un'addizione di HX a un alchene asimmetrico,
+    il gruppo elettronegativo (X) si addiziona al C più ricco di H
+    (il protone H va sul C più povero di elettroni)
+    Esempio: CH₂=CH₂ + HBr → CH₃CH₂Br (bromoetano)
+    Esempio: CH₃CH=CH₂ + HBr → CH₃CHBrCH₃ (2-bromopropano, non 1-bromopropano)
+  
+  IDRATAZIONE (con H₂SO₄/H₂O):
+    CH₂=CH₂ + H₂O → CH₃CH₂OH (etanolo) → produzione dell'etanolo industriale
+  
+  IDROGENAZIONE (con H₂, catalizzatore Ni, Pd o Pt):
+    CH₂=CH₂ + H₂ → CH₃CH₃ (etano); reazione esotermica; forma l'alcano corrispondente
+  
+  POLIMERIZZAZIONE (a catena): CH₂=CH₂ → n-(CH₂-CH₂)- = polietilene (PE)
+    Stirenica: CH₂=CH-C₆H₅ → polistirene (PS)
+    Vinile: CH₂=CHCl → PVC
+
+ALCOLI – REAZIONI PRINCIPALI:
+  OSSIDAZIONE:
+    Alcol primario + [O] → aldeide → acido carbossilico (con eccesso di ossidante)
+    Alcol secondario + [O] → chetone
+    Alcol terziario: non si ossida facilmente
+    Reagenti ossidanti: KMnO₄, K₂Cr₂O₇, CrO₃
+  
+  DISIDRATAZIONE (con H₂SO₄ concentrato, caldo):
+    CH₃CH₂OH → CH₂=CH₂ + H₂O ← 2021/22 (la disidratazione dà l'ALCHENE)
+    A temperature più basse: formazione di etere (2CH₃CH₂OH → CH₃CH₂OCH₂CH₃ + H₂O)
+  
+  ESTERIFICAZIONE (Fischer):
+    R-COOH + HO-R' ⇌ R-COO-R' + H₂O (reversibile; catalizzatore acido)
+
+ACIDI CARBOSSILICI – REATTIVITÀ:
+  Ka degli acidi carbossilici: ~10⁻⁴ - 10⁻⁵ (acidi DEBOLI)
+  Forza degli acidi: aumenta con la presenza di gruppi elettronegativi sulla catena
+    (es. acido tricloroacetico CCl₃COOH è molto più forte dell'acido acetico)
+  
+  DERIVATI DEGLI ACIDI:
+    Cloruri acilici: R-CO-Cl (più reattivi)
+    Anidridi: R-CO-O-CO-R' (reattivi)
+    Esteri: R-COO-R' (meno reattivi)
+    Amidi: R-CO-NH₂ (meno reattivi)
+
+────────────────────────────────────────────────────────────────────────────────
+B2 – CHIMICA INORGANICA AVANZATA
+────────────────────────────────────────────────────────────────────────────────
+
+COMPOSTI DELLO ZOLFO:
+  SO₂ (biossido di zolfo):
+    - Gas incolore, pungente; prodotto dalla combustione di carburanti fossili ricchi di zolfo
+    - Causa delle piogge acide: SO₂ + H₂O → H₂SO₃ (acido solforoso)
+    - Anidride dell'acido solforoso (H₂SO₃)
+  
+  SO₃ (triossido di zolfo):
+    - Anidride dell'acido solforico (H₂SO₄)
+    - SO₃ + H₂O → H₂SO₄ (reazione violentemente esotermica)
+  
+  H₂SO₄ (acido solforico):
+    - Acido forte DIPROTICO: ionizzazione completa della prima H⁺
+    - Agente ossidante forte (conc.), agente disidratante
+    - Prodotto industriale più importante al mondo per volume
+  
+  H₂S (acido solfidrico):
+    - Acido debole diprotico (pKa1 = 7, pKa2 ≈ 14)
+    - Gas tossico (odore di uova marce)
+
+COMPOSTI DELL'AZOTO:
+  NO (ossido nitrico):
+    - Gas incolore; molecola segnale biologica (vasodilatazione, neurotrasmissione)
+    - Si ossida facilmente a NO₂ in aria
+  
+  NO₂ (biossido di azoto):
+    - Gas rossastro; smog fotochimico
+    - Con acqua: 3NO₂ + H₂O → 2HNO₃ + NO
+  
+  N₂O (protossido di azoto):
+    - Gas esilarante; anestetico
+    - Gas serra potente
+  
+  HNO₃ (acido nitrico):
+    - Acido forte; agente ossidante molto potente
+    - Reazione con metalli: forma NO o NO₂ (non H₂)
+
+COMPOSTI DEL FOSFORO:
+  H₃PO₄ (acido fosforico): acido debole triprotico (pKa1 = 2,1; pKa2 = 7,2; pKa3 = 12,4)
+    - Importante in biochimica: forma esteri fosforici (DNA, RNA, fosfolipidi, ATP)
+    - Tampone fosfato: H₂PO₄⁻/HPO₄²⁻ (pKa2 = 7,2; attivo a pH fisiologico)
+
+REAZIONI CON SOLUZIONI ACIDE:
+  Metalli reattivi (Na, K, Ca, Mg, Al, Zn) + HCl → sale + H₂
+  Metalli poco reattivi (Cu, Ag) + HCl → NO REAZIONE (non producono H₂)
+    Cu + H₂SO₄ conc. caldo → CuSO₄ + SO₂ + H₂O (l'acido si riduce, non H₂!)
+    Cu + HNO₃ dil. → Cu(NO₃)₂ + NO + H₂O (NO, non H₂)
+    Cu + HNO₃ conc. → Cu(NO₃)₂ + NO₂ + H₂O (NO₂, non H₂)
+
+────────────────────────────────────────────────────────────────────────────────
+B3 – STECHIOMETRIA AVANZATA – ESEMPI SVOLTI
+────────────────────────────────────────────────────────────────────────────────
+
+ESEMPIO 1: RESA DI REAZIONE
+  2H₂ + O₂ → 2H₂O
+  Quanti grammi di H₂O si producono da 4g di H₂ (eccesso di O₂)?
+  
+  n(H₂) = 4/2 = 2 mol
+  Rapporto molare: 2 mol H₂ → 2 mol H₂O (1:1)
+  n(H₂O) = 2 mol
+  m(H₂O) = 2 × 18 = 36 g
+  
+ESEMPIO 2: REAGENTE LIMITANTE
+  4NH₃ + 5O₂ → 4NO + 6H₂O
+  Partendo da 1 mol NH₃ e 1 mol O₂, quale è il reagente limitante?
+  
+  Dal rapporto stechiometrico: 4 NH₃ richiedono 5 O₂
+  → Per 1 mol NH₃ servono 5/4 = 1,25 mol O₂
+  → Ma abbiamo solo 1 mol O₂ → O₂ è il REAGENTE LIMITANTE
+  
+ESEMPIO 3: CONCENTRAZIONE MOLARE
+  Quanti g di NaOH servono per preparare 500 mL di soluzione 0,5 M?
+  
+  n(NaOH) = M × V = 0,5 mol/L × 0,5 L = 0,25 mol
+  M(NaOH) = 23 + 16 + 1 = 40 g/mol
+  m(NaOH) = 0,25 × 40 = 10 g
+  
+ESEMPIO 4: CALCOLO DEL pH
+  Qual è il pH di una soluzione 0,01 M di HCl?
+  
+  HCl è un acido forte → [H⁺] = 0,01 M = 10⁻² M
+  pH = –log(10⁻²) = 2
+  
+ESEMPIO 5: NEUTRALIZZAZIONE
+  Quanti mL di NaOH 0,2 M occorrono per neutralizzare 25 mL di H₂SO₄ 0,1 M?
+  
+  H₂SO₄ è diprotico: H₂SO₄ + 2NaOH → Na₂SO₄ + 2H₂O
+  n(H₂SO₄) = 0,025 L × 0,1 mol/L = 0,0025 mol
+  n(NaOH) = 2 × 0,0025 = 0,005 mol
+  V(NaOH) = 0,005/0,2 = 0,025 L = 25 mL
+  
+ESEMPIO 6: RESA PERCENTUALE
+  Reazione teorica: 10 g di prodotto.
+  Reazione reale: 8 g di prodotto.
+  Resa = (8/10) × 100 = 80%
+
+────────────────────────────────────────────────────────────────────────────────
+B4 – CHIMICA ANALITICA: TECNICHE FONDAMENTALI
+────────────────────────────────────────────────────────────────────────────────
+
+TITRIMETRIA (VOLUMETRIA):
+  Acido-base (acimetria/alcalimetria): buret con NaOH o HCl standard
+  Ossido-riduzione: permanganometria (KMnO₄), iodometria, dicromatometria
+  Complessometria: EDTA per metalli divalenti (Mg²⁺, Ca²⁺, Fe³⁺)
+  Precipitazione: argentometria (Mohr, Volhard, Fajans)
+  
+  Indicatori: virano di colore al punto di equivalenza
+    Fenolftaleina: incolore pH < 8,2; rosa/fucsia pH > 10 (per basi forti)
+    Metilarancio: rosso pH < 3,1; giallo pH > 4,4 (per acidi forti)
+
+SPETTROFOTOMETRIA UV-VIS:
+  Legge di Lambert-Beer: A = ε × c × l
+    A = assorbanza; ε = coefficiente di estinzione molare; c = concentrazione; l = cammino ottico
+  Utile per determinare la concentrazione di composti colorati o con assorbimento UV
+
+CROMATOGRAFIA:
+  Fase stazionaria vs fase mobile
+  Tipo:
+    TLC (thin layer chromatography): silica gel su lastra; fase mobile = solvente
+    HPLC: colonne ad alta efficienza; fase mobile liquida; analisi quantitative
+    GC (gascromatografia): fase mobile = gas inerte; per composti volatili
+    Cromatografia su scambio ionico: separazione di ioni e amminoacidi
+
+ELETTROFORESI:
+  Su gel di agarosio (DNA/RNA): separazione per dimensione (DNA migra verso polo +)
+  Su gel di poliacrilammide (SDS-PAGE): separazione delle proteine per massa molecolare
+  SDS: denatura le proteine e conferisce carica netta negativa proporzionale alla massa
+  Western blot: dopo SDS-PAGE; trasferimento su membrana; anticorpi specifici
+
+────────────────────────────────────────────────────────────────────────────────
+B5 – CHIMICA FISICA: TERMOCHIMICA E SPONTANEITÀ
+────────────────────────────────────────────────────────────────────────────────
+
+ENTALPIA STANDARD DI FORMAZIONE (ΔHf°):
+  Entalpia della reazione che forma 1 mole di composto dagli elementi puri
+  nelle loro forme standard (25°C, 1 atm)
+  ΔHf° degli elementi puri = 0 (per definizione)
+
+LEGGE DI HESS:
+  ΔH di una reazione può essere calcolato sommando le ΔH delle reazioni intermedie
+  (il cammino non cambia l'entalpia totale; funzione di stato)
+
+ENTROPIA (S) e SECONDO PRINCIPIO:
+  Il secondo principio dice: in un processo spontaneo, l'entropia totale
+  dell'universo aumenta (ΔS_universo > 0)
+  
+  Variazioni di entropia (regole qualitative):
+    Gas > liquido > solido (per la stessa sostanza)
+    Aumento del numero di moli di gas → ΔS > 0
+    Soluzione di un solido → ΔS > 0 (generalmente)
+
+ENERGIA LIBERA DI GIBBS (G):
+  ΔG = ΔH – TΔS
+  
+  Condizioni di spontaneità:
+    ΔH < 0 e ΔS > 0: SEMPRE SPONTANEA (a qualsiasi T)
+    ΔH > 0 e ΔS < 0: MAI SPONTANEA
+    ΔH < 0 e ΔS < 0: spontanea a bassa T
+    ΔH > 0 e ΔS > 0: spontanea ad alta T
+  
+  ΔG e costante di equilibrio:
+    ΔG° = –RT ln K  (se K > 1 → ΔG° < 0 → prodotti favoriti a equilibrio)
+
+CICLO TERMODINAMICO (ciclo di Carnot):
+  Efficienza massima di un motore termico ideale:
+  η = 1 – T_fredda/T_calda  (in Kelvin)
+  → La maggiore efficienza si ottiene con maggiore T_calda o minore T_fredda
+
+────────────────────────────────────────────────────────────────────────────────
+B6 – ELETTROCHIMICA
+────────────────────────────────────────────────────────────────────────────────
+
+POTENZIALE STANDARD DI RIDUZIONE (E°):
+  Misura della tendenza di una semireazione a procedere come riduzione
+  Rispetto all'elettrodo standard a idrogeno (SHE): E°(2H⁺/H₂) = 0,00 V
+
+  Alcuni valori importanti (a memoria):
+    F₂ + 2e⁻ → 2F⁻        E° = +2,87 V (ossidante più potente)
+    MnO₄⁻ + 8H⁺ + 5e⁻ → Mn²⁺ + 4H₂O  E° = +1,51 V
+    Cl₂ + 2e⁻ → 2Cl⁻      E° = +1,36 V
+    O₂ + 4H⁺ + 4e⁻ → 2H₂O E° = +1,23 V
+    Cu²⁺ + 2e⁻ → Cu       E° = +0,34 V
+    2H⁺ + 2e⁻ → H₂        E° = 0,00 V (riferimento)
+    Fe²⁺ + 2e⁻ → Fe       E° = –0,44 V
+    Zn²⁺ + 2e⁻ → Zn       E° = –0,76 V
+    Li⁺ + e⁻ → Li         E° = –3,05 V (riducente più potente)
+
+  E°cella = E°catodo – E°anodo
+  Se E°cella > 0 → reazione spontanea
+
+PILA DI DANIELL (esempio classico):
+  Anodo (–): Zn → Zn²⁺ + 2e⁻ (ossidazione); E° = +0,76 V
+  Catodo (+): Cu²⁺ + 2e⁻ → Cu (riduzione); E° = +0,34 V
+  E°cella = 0,34 – (–0,76) = +1,10 V
+  
+ELETTROLISI DELL'ACQUA:
+  Catodo (–): 2H₂O + 2e⁻ → H₂ + 2OH⁻ (riduzione, produce H₂)
+  Anodo (+): 2H₂O → O₂ + 4H⁺ + 4e⁻ (ossidazione, produce O₂)
+  La corrente richiesta è minima 1,23 V ma in pratica 1,5-2 V (sovrapotenziale)
+
+LEGGI DI FARADAY:
+  m = (M × I × t) / (n × F)
+    m = massa depositata/liberata (g)
+    M = massa molare; I = corrente (A); t = tempo (s)
+    n = numero di elettroni; F = 96485 C/mol (costante di Faraday)
+  
+  Applicazioni: galvanoplastica, produzione di alluminio (processo Hall-Héroult),
+    produzione di cloro e NaOH (processo cloro-alcali), raffinazione dei metalli
+
+================================================================================
+APPENDICE C – TEST DI LOGICA E MATEMATICA (SEZIONE DELL'ESAME)
+================================================================================
+
+────────────────────────────────────────────────────────────────────────────────
+C1 – RAGIONAMENTO LOGICO: PRINCIPI BASE
+────────────────────────────────────────────────────────────────────────────────
+
+PROPOSIZIONI E CONNETTIVI:
+  Implicazione "se P allora Q" (P → Q):
+    - Equivalente a: "NON è possibile che P e non Q"
+    - Contronominale: (non Q → non P) è EQUIVALENTE a (P → Q)
+    - NON equivalente: "non P → non Q" (inverso; non necessariamente vero)
+    - NON equivalente: "Q → P" (converso; non necessariamente vero)
+    
+    DOMANDA TIPO 2023/24: "Se faccio, capisco" (P = faccio; Q = capisco)
+    Equivalente: "è impossibile che faccia e non capisca" ← risposta A corretta
+    NON equivalente: "se non faccio, non capisco" (inverso; non equivalente!)
+    NON equivalente: "se capisco, ho fatto" (converso; non equiv.)
+
+  NEGAZIONE di "TUTTI i P sono Q":
+    La negazione è: "ESISTE ALMENO UN P che NON è Q"
+  
+  NEGAZIONE di "ESISTE ALMENO UN P che Q":
+    La negazione è: "NESSUN P è Q"
+    
+    DOMANDA TIPO 2023/24: "In ogni corso c'è almeno uno studente che finisce in anticipo"
+    → Se FALSO: allora "ESISTE ALMENO UN corso in cui NESSUNO finisce in anticipo" ← risposta A
+
+  SILLOGISMI:
+    "Tutti i P sono Q. X è P. Quindi X è Q." → VALIDO
+    
+    DOMANDA TIPO 2023/24: 
+    "Laura è sincera. Molte persone sincere sono oneste. Tutti i sinceri sono onesti. Laura?"
+    → "Tutte le persone sincere sono oneste" + "Laura è sincera" → LAURA È ONESTA ← risposta A
+
+────────────────────────────────────────────────────────────────────────────────
+C2 – MATEMATICA: ARGOMENTI TIPICI DEGLI ESAMI
+────────────────────────────────────────────────────────────────────────────────
+
+ALGEBRA:
+  SISTEMI DI EQUAZIONI: risolvibili per sostituzione, eliminazione, Cramer
+  DISEQUAZIONI: con modulo, con frazioni, con polinomi
+    Esempio 2023/24: (x²+4x)(x–1) > 0
+    Fattorizzare: x(x+4)(x–1) > 0
+    Radici: x=0, x=–4, x=1
+    Studio del segno: prendere punti test in ogni intervallo
+    (–∞,–4): (–)(–)(–) = neg < 0
+    (–4,0): (–)(+)(–) = pos > 0 ← SÌ
+    (0,1): (+)(+)(–) = neg < 0
+    (1,+∞): (+)(+)(+) = pos > 0 ← SÌ
+    Soluzione: –4 < x < 0 oppure x > 1 ← risposta A corretta 2023/24
+
+ANALISI:
+  DERIVATA: f'(x) = limite del rapporto incrementale
+    Regole: (xⁿ)' = nxⁿ⁻¹; (sin x)' = cos x; (cos x)' = –sin x; (eˣ)' = eˣ; (ln x)' = 1/x
+    
+    Retta tangente in P(x₀, f(x₀)): y – f(x₀) = f'(x₀)(x – x₀)
+    
+    DOMANDA 2023/24: retta tangente a y = 3x²–4x+1 in P con ascissa x₀=0
+    f(0) = 3(0)²–4(0)+1 = 1 → punto P = (0,1)
+    f'(x) = 6x–4; f'(0) = –4 → pendenza m = –4
+    Equazione: y – 1 = –4(x – 0) → y = 1 – 4x ← risposta A corretta 2023/24
+
+  FUNZIONI ELEMENTARI:
+    f(x) = |ln x|: definita per x > 0; decrescente per 0 < x < 1; crescente per x > 1 ← 2023/24
+    
+  POLINOMI E DIVISIBILITÀ:
+    Teorema del resto: p(a) = 0 ↔ (x–a) divide p(x)
+    DOMANDA 2023/24: p(x) = x⁴–x³–7x²+x+6; non divisibile per (x–6)?
+    p(6) = 6⁴–6³–7(6²)+6+6 = 1296–216–252+6+6 = 840 ≠ 0 → (x–6) NON divide p(x) ← risposta A
+
+GEOMETRIA ANALITICA:
+  Retta: y = mx + q; m = coefficiente angolare ← 2023/24
+    y = –2x + 3 → m = –2 ← risposta A corretta 2023/24
+  
+  Circonferenza: x² + y² + Dx + Ey + F = 0
+    Centro: (–D/2, –E/2); raggio: r = √(D²/4 + E²/4 – F) (deve essere > 0)
+    
+    DOMANDA 2023/24: circonferenza con centro (1,–1)
+    Forma: (x–1)² + (y+1)² = r²  → x² + y² – 2x + 2y + (2–r²) = 0
+    Verifica opzione A: 2x²+2y²–4x+4y–3=0 → x²+y²–2x+2y–3/2=0
+    Centro: (1,–1); r² = 1+1+3/2 = 3,5 > 0 → circonferenza REALE ← risposta A 2023/24
+
+  Retta e circonferenza: distanza dal centro = raggio (tangente), < raggio (secante), > raggio (esterna)
+    DOMANDA 2023/24: y=x–2 e x²+y²=1 (raggio=1, centro=(0,0))
+    Distanza da (0,0) alla retta y–x+2=0: d = |0–0+2|/√(1+1) = 2/√2 = √2 ≈ 1,414 > 1
+    → Retta ed circonferenza sono ESTERNE ← risposta A corretta 2023/24
+
+PROBABILITÀ:
+  P(A) = casi favorevoli / casi totali (probabilità classica)
+  P(A ∩ B) = P(A) × P(B|A) (moltiplicazione)
+  P(A ∪ B) = P(A) + P(B) – P(A ∩ B) (addizione)
+  Evento indipendente: P(A ∩ B) = P(A) × P(B)
+  Binomiale: P(X=k) = C(n,k) × pᵏ × (1–p)ⁿ⁻ᵏ
+
+FISICA:
+  MECCANICA:
+    F = ma; p = mv; Ec = ½mv²; Ep = mgh; W = F·d·cosθ
+    Conservazione della quantità di moto: in assenza di forze esterne, Δp = 0
+    Urto perfettamente anelastico: m₁v₁ + m₂v₂ = (m₁+m₂)v_f ← 2023/24
+    
+    DOMANDA 2023/24: auto 1,5t a 100 km/h + furgone 4t a 80 km/h (stessa direzione, urto anelastico)
+    v_f = (1500×100 + 4000×80) / (1500+4000) = (150000+320000)/5500 = 470000/5500 ≈ 85,45 km/h ← risposta A
+
+  LEVA:
+    DOMANDA 2023/24: fulcro a 2/5 dalla estremità A; FA su A; FB su B; equilibrio
+    Il braccio di leva di FA = 2/5 L; il braccio di FB = 3/5 L
+    Equilibrio: FA × 2/5 = FB × 3/5 → FA/FB = 3/2 ← risposta A corretta 2023/24
+
+  GAS IDEALI:
+    DOMANDA 2023/24: gas a P, V, T costante; si raddoppia P → V dimezza (Boyle) ← risposta A
+
+  PORTATA DI UN FLUIDO ← 2023/24:
+    "Il volume di fluido che passa attraverso una data superficie in un secondo" ← risposta A
+    Q = A × v  (portata volumetrica = sezione × velocità)
+
+================================================================================
+Fine del documento – Appendici aggiuntive
+================================================================================
+
+================================================================================
+APPENDICE D – CULTURA GENERALE E COMPETENZE LINGUISTICHE (SEZIONE DELL'ESAME)
+================================================================================
+
+────────────────────────────────────────────────────────────────────────────────
+D1 – LETTERATURA ITALIANA: AUTORI E OPERE RICORRENTI
+────────────────────────────────────────────────────────────────────────────────
+
+DOMANDE TIPICHE DI CULTURA GENERALE AGLI ESAMI DI PROFESSIONI SANITARIE:
+
+UGO FOSCOLO (1778–1827):
+  Opere principali:
+    "Le ultime lettere di Jacopo Ortis" (1802): romanzo epistolare;
+      protagonista Jacopo si suicida per amore e per la delusione politica
+      (il trattato di Campoformio, 1797, che cede Venezia all'Austria)
+      → ISPIRATA a "I dolori del giovane Werther" di J.W. Goethe ← domanda 2024/25
+      (risposta errata: "I canti di Ossian" di Macpherson, "Il giorno" di Parini,
+       "Il ritratto di Dorian Gray" di Wilde, "Le mie prigioni" di Pellico)
+    "Dei Sepolcri" (1807): carme; le tombe come tramite tra vivi e morti, memoria civile
+    "Le Grazie" (incompiuto): le tre dee simbolo di bellezza e armonia
+    Sonetti: "A Zacinto", "In morte del fratello Giovanni", "Alla sera"
+
+PRIMO LEVI (1919–1987):
+  "Se questo è un uomo" (1947): testimonianza di Auschwitz; sopravvissuto alla Shoah
+  "La tregua" (1963): viaggio di ritorno da Auschwitz all'Italia
+  "Il sistema periodico" (1975): racconto autobiografico attraverso gli elementi chimici
+  DOMANDA 2023/24: "Ciò che è accaduto può ritornare... meditare è un dovere"
+    → P. Levi si riferisce alla SHOAH ← risposta A corretta
+
+FIGURE RETORICHE (domanda frequente):
+  ANTONOMASIA: uso del nome proprio come nome comune o viceversa
+    Es: "Caporetto" come sinonimo di sconfitta ← domanda 2023/24
+    "Una Caporetto per Allegri" → ANTONOMASIA ← risposta A corretta
+    (risposta errata: metafora=comparazione implicita; allegoria=simbolo esteso;
+     eufemismo=sostituzione con termine più mite; perifrasi=giro di parole)
+
+SINDROME DI STOCCOLMA ← domanda 2024/25:
+  "Particolare stato psicologico che può interessare le vittime di un sequestro o
+  abuso ripetuto, le quali, in modo apparentemente paradossale, cominciano a nutrire
+  sentimenti POSITIVI verso il proprio aguzzino (solidarietà, innamoramento)" ← risposta A
+
+────────────────────────────────────────────────────────────────────────────────
+D2 – STORIA: EVENTI CHIAVE RICHIESTI
+────────────────────────────────────────────────────────────────────────────────
+
+SHOAH: genocidio sistematico degli ebrei europei da parte della Germania nazista (1941-1945)
+  → Circa 6 milioni di vittime ebree + altri gruppi perseguitati
+  → Campi di sterminio: Auschwitz-Birkenau, Treblinka, Sobibor, Belzec, Chelmno, Majdanek
+  → Il Giorno della Memoria: 27 gennaio (liberazione di Auschwitz, 1945)
+  
+PROGROM: massacro o persecuzione violenta di un gruppo etnico-religioso
+  (termine russo; storicamente rivolto agli ebrei in Russia e Europa orientale)
+
+FOIBE: massacri della popolazione italiana in Istria e Venezia Giulia (1943-1945)
+  compiuti dai partigiani comunisti di Tito; le vittime venivano gettate nelle foibe
+  (cavità carsiche)
+
+GULAG: sistema di campi di lavoro forzato nell'Unione Sovietica sotto Stalin
+
+BATTAGLIA DI CAPORETTO (1917): disfatta dell'esercito italiano nella Prima Guerra Mondiale
+  → divenne sinonimo comune di "disfatta" nella lingua italiana
+
+TRATTATO DI CAMPOFORMIO (1797): Napoleone cede Venezia all'Austria; tradimento
+  dell'ideale rivoluzionario per Foscolo
+
+────────────────────────────────────────────────────────────────────────────────
+D3 – PSICOLOGIA E SALUTE MENTALE: TERMINOLOGIA
+────────────────────────────────────────────────────────────────────────────────
+
+FOBIE SPECIFICHE (terminologia richiesta agli esami):
+  CLAUSTROFOBIA: paura degli spazi chiusi ← risposta corretta 2023/24
+    (protagonista di Un'Odissea che piange in una capsula chiusa della giostra)
+  
+  AGORAFOBIA: paura degli spazi aperti o delle folle
+  ARACNOFOBIA: paura dei ragni
+  RUPOFOBIA: paura dello sporco/della sporcizia
+  AMATOFOBIA: paura della polvere
+  ACROFOBIA: paura delle altezze
+  XENOFOBIA: paura/odio degli stranieri
+
+TERMINI DI PSICOLOGIA CLINICA:
+  PROIEZIONE: attribuire ad altri i propri pensieri/sentimenti inaccettabili
+  RAZIONALIZZAZIONE: giustificare con ragioni logiche comportamenti irrazionali
+  RIMOZIONE: rendere inconscio un pensiero/ricordo doloroso
+  TRANSFERT: spostare sentimenti (verso una persona del passato) su un'altra
+  EMPATIA: capacità di comprendere e condividere i sentimenti altrui
+
+────────────────────────────────────────────────────────────────────────────────
+D4 – BIOETICA E NORMATIVA SANITARIA
+────────────────────────────────────────────────────────────────────────────────
+
+PRINCIPI FONDAMENTALI DELLA BIOETICA (Beauchamp e Childress):
+  1. AUTONOMIA: rispettare le decisioni del paziente (consenso informato)
+  2. BENEFICENZA: agire nel miglior interesse del paziente
+  3. NON-MALEFICENZA: non fare del male (primum non nocere)
+  4. GIUSTIZIA: equità nella distribuzione delle risorse sanitarie
+
+CONSENSO INFORMATO:
+  Il paziente capace di intendere e volere ha il diritto di:
+  → Ricevere informazioni complete sulla diagnosi e le opzioni terapeutiche
+  → Accettare o rifiutare qualsiasi trattamento (anche salvavita)
+  → Revocare il consenso in qualsiasi momento
+  Il medico ha l'obbligo di informare in modo comprensibile.
+
+DAT (Disposizioni Anticipate di Trattamento) – "Testamento Biologico" (L. 219/2017):
+  Ogni persona maggiorenne può dichiarare le proprie volontà sul fine vita
+
+MORTE CEREBRALE: cessazione irreversibile di tutte le funzioni dell'encefalo
+  → Criterio legale di morte in Italia (DL 582/1994)
+  → Periodo di osservazione: 6 ore negli adulti
+
+TRAPIANTI DI ORGANI (L. 91/1999 – donazione con silenzio-assenso):
+  In Italia: principio del consenso presunto (chi non si è dichiarato contrario è donatore)
+  La famiglia viene comunque consultata
+
+CODICE DEONTOLOGICO DEGLI INFERMIERI:
+  → Rispetto della dignità della persona
+  → Riservatezza e privacy (segreto professionale)
+  → Aggiornamento continuo e formazione
+  → Collaborazione multiprofessionale
+
+================================================================================
+APPENDICE E – DOMANDE DEGLI ESAMI PRECEDENTI: ANALISI CRITICA
+================================================================================
+
+────────────────────────────────────────────────────────────────────────────────
+E1 – DOMANDE "TRABOCCHETTO": I 20 ERRORI PIÙ FREQUENTI
+────────────────────────────────────────────────────────────────────────────────
+
+TRABOCCHETTO 1: "I mitocondri sono presenti solo nelle cellule animali"
+  → FALSO. Le cellule vegetali hanno SIA mitocondri CHE cloroplasti.
+  Errore tipico: confondere "cloroplasti solo nelle piante" con "mitocondri solo negli animali"
+
+TRABOCCHETTO 2: "Il glucosio è immagazzinato nelle piante come glicogeno"
+  → FALSO. Il glicogeno è negli animali (fegato, muscoli).
+  Nelle piante: AMIDO.
+
+TRABOCCHETTO 3: "La fotosintesi usa NADH come trasportatore"
+  → FALSO. La fotosintesi usa NADPH (non NADH).
+  La respirazione cellulare usa NADH (e FADH₂).
+
+TRABOCCHETTO 4: "I batteri non hanno la membrana plasmatica"
+  → FALSO. I batteri hanno la membrana plasmatica.
+  Ciò che mancano è il nucleo delimitato da membrana e gli organelli membranosi.
+
+TRABOCCHETTO 5: "Il DNA dei batteri è a singolo filamento"
+  → FALSO. Il DNA batterico è circolare a DOPPIO filamento.
+  Il DNA a singolo filamento lo trovano ALCUNI VIRUS (es. parvovirus).
+
+TRABOCCHETTO 6: "I frammenti di Okazaki si formano anche sul filamento guida"
+  → FALSO. Si formano SOLO sul filamento ritardato.
+  Il filamento guida si replica in modo continuo.
+
+TRABOCCHETTO 7: "La Taq polimerasi può iniziare la sintesi senza primer"
+  → FALSO. Come tutte le DNA polimerasi, necessita di un primer.
+  La sua caratteristica speciale è essere termostabile (regge a 95°C).
+
+TRABOCCHETTO 8: "Nel legame ionico l'elemento più elettronegativo cede elettroni"
+  → FALSO. Lo cede l'elemento MENO elettronegativo.
+  L'elemento più elettronegativo RICEVE (acquista) gli elettroni.
+
+TRABOCCHETTO 9: "SiO₂ è un ossido basico"
+  → FALSO. SiO₂ è un ossido ACIDO (il silicio è un metalloide).
+  Gli ossidi acidi reagiscono con le basi; gli ossidi basici con gli acidi.
+
+TRABOCCHETTO 10: "2,3 bar equivale a 2,3 atm"
+  → FALSO. 1 bar = 0,987 atm, quindi 2,3 bar ≈ 2,27 atm ≠ 2,3 atm.
+  Le altre equivalenze sono vere: 1 atm = 760 mmHg, 1 atm = 101325 Pa, 1 bar = 10⁵ Pa.
+
+TRABOCCHETTO 11: "L'ossitocina è prodotta solo dalle femmine"
+  → FALSO. Anche i MASCHI producono ossitocina (ha ruoli nel legame sociale, erezione, ecc.)
+  È prodotta dall'ipotalamo e rilasciata dalla neuroipofisi in entrambi i sessi.
+
+TRABOCCHETTO 12: "La citosina ha due anelli eterociclici"
+  → FALSO. La citosina è una PIRIMIDINA con UN SOLO anello.
+  Due anelli eterociclici → PURINE (adenina, guanina).
+
+TRABOCCHETTO 13: "Nel caso di poliallelia, un individuo possiede più di due alleli"
+  → FALSO. In un individuo diploide, ci sono sempre al massimo 2 alleli per locus.
+  La poliallelia si riferisce al numero di alleli nella POPOLAZIONE.
+
+TRABOCCHETTO 14: "La struttura primaria di una proteina è la sua struttura 3D"
+  → FALSO. La struttura PRIMARIA = sequenza degli amminoacidi (1D).
+  La struttura TERZIARIA = il ripiegamento tridimensionale.
+
+TRABOCCHETTO 15: "Gli enzimi sono di natura monosaccaridica / lipidica / steroidea"
+  → FALSO. Gli enzimi sono PROTEINE (o raramente ribozimi = RNA).
+
+TRABOCCHETTO 16: "Il capside di un virus è composto da acidi nucleici"
+  → FALSO. Il capside = SUBUNITÀ PROTEICHE.
+  Gli acidi nucleici sono DENTRO il capside (non lo costituiscono).
+
+TRABOCCHETTO 17: "Nella teoria endosimbiotica, l'origine di tutti gli organuli è endosimbiotica"
+  → FALSO. Solo MITOCONDRI e CLOROPLASTI hanno origine endosimbiotica.
+  Il RE e il Golgi derivano dall'invaginazione delle membrane.
+
+TRABOCCHETTO 18: "La divisione batterica avviene per mitosi"
+  → FALSO. I batteri si dividono per SCISSIONE BINARIA.
+  La mitosi è una divisione eucariotica con fuso mitotico e cromosomi condensati.
+
+TRABOCCHETTO 19: "Gli anticorpi sono cellule del sistema immunitario"
+  → FALSO. Gli anticorpi sono PROTEINE (immunoglobuline), non cellule.
+  Le cellule del sistema immunitario sono i linfociti, macrofagi, neutrofili ecc.
+
+TRABOCCHETTO 20: "L'acido glutammico è un acido grasso"
+  → FALSO. L'acido glutammico è un AMMINOACIDO.
+  Gli acidi grassi sono acido palmitico, stearico, oleico ecc. (catene idrocarburiche con –COOH)
+
+────────────────────────────────────────────────────────────────────────────────
+E2 – DOMANDE SU CALCOLI TIPICI DI MATEMATICA E FISICA
+────────────────────────────────────────────────────────────────────────────────
+
+CALCOLO IRPEF (domanda tipo 2023/24):
+  "Se Barbie ha pagato 11.520€ di IRPEF (23% sui primi 15.000€; 27% sui successivi 13.000€;
+   38% sui successivi 27.000€), qual è il suo reddito?"
+  
+  Calcolo step by step:
+  1° scaglione: 15.000 × 0,23 = 3.450€ → imposta accumulata = 3.450€
+  2° scaglione: 13.000 × 0,27 = 3.510€ → imposta accumulata = 6.960€
+  Rimanente imposta da 3° scaglione: 11.520 – 6.960 = 4.560€
+  Base imponibile 3° scaglione: 4.560 / 0,38 = 12.000€
+  Reddito totale: 15.000 + 13.000 + 12.000 = 40.000€ ← risposta A corretta
+
+CALCOLO CON PERCENTUALI (domanda tipo 2023/24):
+  "Ken concorda di pagare 10% a inizio, 20% del rimanente a fine, il resto in 24 rate da 300€.
+   Quant'ha speso?"
+  
+  Sia X il totale.
+  10% pagato subito: 0,1X
+  Rimanente: 0,9X
+  20% del rimanente: 0,9X × 0,2 = 0,18X
+  Resto: X – 0,1X – 0,18X = 0,72X
+  0,72X = 24 × 300 = 7.200
+  X = 7.200/0,72 = 10.000€ ← risposta A corretta
+
+CALCOLO VELOCITÀ (domanda tipo 2023/24):
+  "I treni A, B, C, D, E: A = 119 km in 120 min; B = 171 km in 172 min; ecc.
+   Quale treno è il più veloce?"
+  
+  Velocità = distanza/tempo:
+  A: 119/120 = 0,9917 km/min
+  B: 171/172 = 0,9942 km/min
+  C: 89/90 = 0,9889 km/min
+  D: 99/100 = 0,99 km/min
+  E: 179/180 = 0,9944 km/min  ← il più veloce ← risposta A corretta
+
+PASSAGGI DI STATO: cambio di fase a pressione costante
+  Evaporazione: T costante durante il passaggio liquido → vapore
+  (tutta l'energia fornita va a rompere i legami intermolecolari = calore latente)
+  Solo quando tutto il liquido è evaporato la T del vapore inizia ad aumentare
+
+LEGGE DI ARCHIMEDE: F_spinta = ρ_fluido × V_immerso × g
+  Un corpo immerge finché la forza di spinta = peso del liquido spostato
+
+PRESSIONE: P = F/A; pressione idrostatica: P = ρgh + P₀
+  Principio di Pascal: la pressione si trasmette uniformemente in un fluido
+
+────────────────────────────────────────────────────────────────────────────────
+E3 – PUZZLE LOGICI TIPICI DEGLI ESAMI
+────────────────────────────────────────────────────────────────────────────────
+
+PROBLEMA DELL'ASCENSORE (domanda tipo 2023/24):
+  "L'ascensore è al piano 3. Signor X al piano 2 vuole scendere al piano 1.
+   Signor Y al piano 0 (terra) vuole salire al piano 3.
+   Quale tragitto garantisce esclusività (ognuno va solo nella direzione prenotata)?"
+
+  Regola: prenotazione nella DIREZIONE DESIDERATA.
+  X vuole scendere (→ prenotazione discendente); Y vuole salire (→ prenotazione ascendente).
+  
+  Soluzione: 3→2 (prende X; discende) → 2→1 (lascia X) → 1→0 (va al piano terra) →
+             0 (prende Y; sale) → 0→3 (lascia Y)
+  → Risposta A: "L'ascensore scende al piano 2, prende X, scende al piano 1, lascia X,
+    scende al piano terra, prende Y, sale al piano 3, lascia Y" ← risposta A corretta
+
+PROBLEMA CON NUOTATORI / ORDINE (domanda tipo 2023/24):
+  "Kelly, Krissy, Todd, Blaine: ognuno si allena in una disciplina diversa 16-17-18-19h.
+  - Kelly si allena alle 18 o alle 19
+  - Chi pratica il dorso si allena l'ora dopo il libero e l'ora prima del delfino
+  - Krissy (ranista) non alle 16
+  - Todd si allena l'ora dopo Blaine"
+  
+  Dalla sequenza dorso: libero → dorso → delfino (3 ore consecutive)
+  Queste occupano 3 slot: 16, 17, 18 (libero-dorso-delfino) o 17-18-19
+  
+  Kelly è alle 18 o 19 → Kelly pratica dorso (18) o delfino (19)?
+  
+  Todd dopo Blaine → Blaine e Todd sono in slot consecutivi.
+  Krissy (rana) non alle 16.
+  
+  Proviamo: libero=16, dorso=17, delfino=18
+  → Kelly non può essere alle 17 (dorso) o 18 (delfino) a meno che...
+  Kelly è alle 18 o 19; delfino è alle 18 → Kelly pratica delfino alle 18 ← SÌ
+  
+  Rimangono slot 16, 17, 19 per Krissy (rana, non 16), Todd (dopo Blaine).
+  Se Todd dopo Blaine: Blaine=16, Todd=17 o Blaine=17, Todd=18 (ma 18 è Kelly).
+  Quindi Blaine=16, Todd=17.
+  Krissy non alle 16 e non alle 17 (Todd) e non alle 18 (Kelly) → Krissy alle 19.
+  
+  Schema: 16=Blaine (libero), 17=Todd (dorso), 18=Kelly (delfino), 19=Krissy (rana)
+  
+  "Kelly – delfino – 19:00" ← risposta D? No. Kelly alle 18, delfino alle 18.
+  → "Kelly – delfino – 18:00" ma non è tra le opzioni...
+  Riesaminiamo: le opzioni chiedevano una risposta specifica. 
+  "Todd – dorso – 17:00" ← risposta A corretta 2024/25
+
+GIOCO DI BIGLIE (domanda tipo 2024/25):
+  "Todd, Ken, Blaine: se TESTA → Ken riceve 2 da Todd e Blaine riceve 1 da Ken;
+   se CROCE → Todd riceve 1 da Ken e 1 da Blaine.
+   Dopo 5 lanci Blaine ha 1 biglia in più dell'inizio. Cosa è vero?"
+  
+  Denotiamo con T = numero di lanci con testa, C = numero di lanci con croce. T + C = 5.
+  
+  BLAINE: guadagna 1 con croce (da Blaine a Todd), perde 1 con testa (da Ken a Blaine? NO)
+  Rileggiamo: "TESTA → Blaine riceve 1 da Ken" → Blaine guadagna 1 con testa
+             "CROCE → Blaine paga 1 a Todd" → Blaine perde 1 con croce
+  Variazione Blaine = T×(+1) + C×(–1) = T – C = +1 (dato)
+  T – C = 1 e T + C = 5 → T = 3, C = 2
+  
+  KEN: "TESTA → Ken paga 2 a Todd e riceve 2 da... NO":
+  "TESTA → Ken RICEVE 2 biglie da Todd (!) e Blaine riceve 1 da Ken"
+  Rileggiamo ancora: "se esce TESTA Ken riceve due biglie da Todd e Blaine riceve una biglia da Ken"
+  TESTA: Ken +2 (da Todd), Ken –1 (a Blaine) → Ken netto +1 per ogni testa
+  CROCE: Ken –1 (a Todd), Ken –1 (a Blaine? NO) "Todd riceve 1 da Ken e 1 da Blaine"
+  CROCE: Ken –1 (a Todd), Blaine –1 (a Todd)
+  Variazione Ken = T×(+2–1) + C×(–1) = T – C = 3 – 2 = +1 → Ken ha 1 biglia in più ← risposta A
+
+================================================================================
+APPENDICE F – TABELLA RIASSUNTIVA STRUTTURE BIOLOGICHE
+================================================================================
+
+STRUTTURA         | COMPOSIZIONE                  | LOCALIZZAZIONE      | FUNZIONE
+------------------+-------------------------------+---------------------+----------------------
+DNA               | desossiribonucleotidi         | nucleo, mitocondri  | informazione genetica
+RNA               | ribonucleotidi                | nucleo, citoplasma  | espressione genica
+Ribosomi          | rRNA + proteine               | citoplasma, RER     | sintesi proteica
+Mitocondri        | doppia membrana, mtDNA        | citoplasma          | ATP (fos. ossidativa)
+Cloroplasti       | tripla membrana, cDNA         | citoplasma (piante) | fotosintesi
+Lisosomi          | singola membrana, idrolasi    | citoplasma          | digestione intracell.
+Perossisomi       | singola membrana, catalasi    | citoplasma          | detossif. H₂O₂
+Nucleo            | doppia membrana, DNA          | cellula eucariotica | controllo gene
+Nucleolo          | rRNA, proteine               | dentro il nucleo    | sintesi rRNA
+RER               | membrane+ribosomi             | citoplasma          | sintesi proteine secretorie
+REL               | solo membrane                 | citoplasma          | sintesi lipidi, Ca₂⁺
+Golgi             | pile di cisterne              | citoplasma          | modifica + smistamento
+Centrioli         | 9 triplette microtubuli       | centrosoma animali  | fuso mitotico
+Citoscheletro     | tubulina/actina/proteine fib. | citoplasma          | struttura, movimento
+Membrana plasmat. | fosfolipidi + proteine        | tutte le cellule    | permeabilità selettiva
+Parete cellulare  | cellulosa (piante)/peptidogl. | piante/batteri      | protezione, sostegno
+Vacuolo           | membrana + succo vacuolare    | piante principalm.  | turgore, riserva
+Capside virale    | proteine (capsomeri)          | involucro virale    | protezione acido nucl.
+
+================================================================================
+APPENDICE G – GLOSSARIO RAPIDO DI BIOCHIMICA
+================================================================================
+
+ACETIL-COA: metabolita a 2C; ponte tra glicolisi e ciclo di Krebs; acetil gruppo legato a CoA
+ACIDO LATTICO (LATTATO): prodotto della fermentazione lattica; causa fatica muscolare
+ADENILATO CICLASI: enzima di membrana; catalizza la sintesi di cAMP da ATP
+ALLOSTERIA: regolazione dell'attività enzimatica tramite il legame al sito allosterico
+AMFOTERO (anfotero): che può comportarsi sia da acido che da base (es. acqua, alanina, Al(OH)₃)
+ANAPLEROSI: rifornimento degli intermedi del ciclo di Krebs (es. piruvato → ossalacetato)
+ANTIPORTO: trasportatore che muove due sostanze in direzioni OPPOSTE simultaneamente
+APOPTOSI: morte cellulare programmata (via intrinseca mitocondriale o estrinseca recettoriale)
+ATP-SINTASI: complesso proteico che sintetizza ATP dalla forza motrice protonica
+CATENA DI TRASPORTO: sequenza di carrier di elettroni nella membrana interna mitocondriale
+CHAPERONINE: proteine che aiutano il corretto ripiegamento di altre proteine
+CHEMIOSMOSI: meccanismo di sintesi ATP guidato dal gradiente protonico
+CITOCROMO: proteina con gruppo eme che trasporta elettroni nella catena respiratoria
+CODOMINANZA: due alleli si esprimono entrambi nel fenotipo dell'eterozigote (es. gruppo AB)
+COFATTORE: molecola inorganica (ione metallico) necessaria per l'attività enzimatica
+COENZIMA: molecola organica necessaria per l'attività enzimatica (spesso deriva da vitamine)
+CROSSLINK: legame covalente tra catene polipeptidiche o molecole di DNA
+DELEZIONE: perdita di uno o più nucleotidi dal DNA
+DENATURAZIONE: perdita della struttura nativa di una proteina o acido nucleico (irreversibile se severa)
+DIPLOIDE (2n): cellula con 2 set di cromosomi (uno da ciascun genitore)
+DNA LIGASI: enzima che salda frammenti di DNA unendo estremità nick
+DUPLICAZIONE GENICA: genesi di due copie di un gene; base dell'evoluzione di nuove funzioni
+ELICASI: enzima che svolge la doppia elica del DNA
+ENDOCITOSI: processo di importazione di materiale extracellulare in vescicole
+ENTEROCHINASI: proteasi intestinale che attiva il tripsinogeno a tripsina
+ETEROZIGOTE: individuo con due alleli diversi per un determinato gene
+ETOCROMATINA: regione di cromatina condensata; trascrizionalmente silenziosa
+EXON: sequenza codificante dell'mRNA maturo
+FAD/FADH₂: coenzima di ossido-riduzione; accetta 2H dalla succinato deidrogenasi nel ciclo di Krebs
+FERREDOSSINA: proteina ferro-zolfo; trasporta elettroni in fotosintesi (da PSI a NADP⁺-reduttasi)
+GENE: sequenza di DNA che codifica per un prodotto funzionale (proteina o RNA)
+GLICOSILAZIONE: aggiunta di residui zuccherini a proteine (N-linked nel RER, O-linked nel Golgi)
+GRADIENTE PROTONICO: differenza di concentrazione di H⁺ e di potenziale elettrico attraverso una membrana
+GUAINA DI MIELINA: rivestimento lipidico degli assoni; accelera la conduzione nervosa
+HAPLOIDE (n): cellula con 1 set di cromosomi (gameti)
+IDROGENOSOMA: organello di certi protisti anaerobici; produce ATP e H₂ senza O₂
+IGF-1 (Insulin-like Growth Factor 1): mediatore dell'ormone della crescita prodotto dal fegato
+INTRONE: sequenza non codificante del gene; rimossa durante lo splicing
+KINETOCORO: struttura proteica del centromero; punto di attacco dei microtubuli del fuso
+LOCI QUANTITATIVI (QTL): regioni cromosomiche associate a caratteri quantitativi (altezza ecc.)
+MARKER MOLECOLARE: frammento di DNA di dimensione nota usato in elettroforesi
+METABOLOMA: insieme di tutti i metaboliti in una cellula/organismo
+METHYLATION (metilazione del DNA): aggiunta di gruppi metile a citosine; regolazione epigenetica
+MITOFAGIA: degradazione selettiva di mitocondri disfunzionali attraverso l'autofagia
+MOSAICISMO: presenza di due o più popolazioni cellulari con genotipi diversi nello stesso individuo
+NAD⁺/NADH: coenzima di ossido-riduzione; porta gli equivalenti riducenti alla catena respiratoria
+NUCLEOIDE: regione del citoplasma batterico contenente il DNA cromosomico (senza membrana)
+OPERATORE: sequenza di DNA a cui si lega il repressore per bloccare la trascrizione (operone)
+OVOCITA SECONDARIO: cellula prodotta dalla meiosi I che completa la meiosi II solo dopo fecondazione
+PLASMIDE: DNA circolare extracromosomico batterico; porta geni per antibiotico-resistenza ecc.
+POLIPEPTIDE: catena di 50+ amminoacidi uniti da legami peptidici (sinonimo di proteina semplice)
+POLIRIBOSOMA (polisoma): più ribosomi che traducono simultaneamente lo stesso mRNA
+POTENZIALE DI MEMBRANA: differenza di carica elettrica tra interno (negativo) ed esterno della cellula
+PROTEOMA: insieme di tutte le proteine espresse in una cellula in un dato momento
+REPRESSORE: proteina che si lega all'operatore bloccando la trascrizione (es. lac repressore)
+RIBOZIMA: molecola di RNA con attività catalitica (es. la ribosoma catalizza la formazione del leg. peptidico)
+SENESCENZA CELLULARE: stato di arresto permanente del ciclo cellulare; correlato all'invecchiamento
+SIMPORTO: trasportatore che muove due sostanze nella STESSA DIREZIONE simultaneamente
+SPLICEOSOMA: complesso proteina-RNA (snRNP) che catalizza lo splicing del pre-mRNA
+SUBSTRATO: molecola su cui agisce un enzima
+TAMPONAMENTO: resistenza di una soluzione alle variazioni di pH all'aggiunta di acidi o basi
+TELOMERASI: ribonucleoproteina che allunghe i telomeri; espressa in cellule staminali e tumorali
+TRASCRITTASI INVERSA: RNA-dipendente DNA polimerasi; usata dai retrovirus (es. HIV)
+TRASCRIZIONE PRIMARIA (pre-mRNA): trascritto iniziale prima del processing
+TRASLOCAZIONE: trasferimento di un segmento cromosomico su un altro cromosoma
+URACILE: base azotata pirimidinica; presente nell'RNA ma non nel DNA (sostituisce la timina)
+VARIANTE ALLELICA: forma di un gene che differisce da un'altra per 1+ nucleotidi (SNP se singola base)
+VETTORE DI CLONAGGIO: plasmide, fago o altro DNA usato per clonare frammenti di DNA
+ZONA PELLUCIDA: rivestimento glicoproteico dell'ovocita; sede della reazione acrosomica
+ZWITTERIONE: forma dipolare di un amminoacido a pH isoelettrico (–NH₃⁺ e –COO⁻ contemporaneamente)
+
+================================================================================
+NOTE FINALI PER L'ESAME
+================================================================================
+
+STRATEGIA DI RISPOSTA:
+  1. Leggere TUTTE e 5 le opzioni prima di scegliere
+  2. Eliminare le opzioni chiaramente false (di solito 2-3)
+  3. Per le domande scientifiche: cercare l'opzione più PRECISA e COMPLETA
+  4. Per le domande di logica: disegnare schemi/tabelle se necessario
+  5. Non lasciare nessuna risposta in bianco (non ci sono penalità in molti atenei)
+  6. Controllare le unità di misura nei calcoli
+  7. Prestare attenzione alle parole chiave: "NON è", "sempre", "mai", "solo", "tutti"
+
+GESTIONE DEL TEMPO (tipicamente 100 domande in 100-120 minuti):
+  - Biologia: ~30-35 domande (30-35 minuti)
+  - Chimica: ~20-25 domande (20-25 minuti)
+  - Fisica/Matematica: ~15-20 domande (15-20 minuti)
+  - Comprensione del testo: ~10-15 domande (10-15 minuti)
+  - Logica: ~10-15 domande (10-15 minuti)
+  - Cultura generale: ~5-10 domande (5-10 minuti)
+  → Lascia 10-15 minuti per la revisione finale
+
+ARGOMENTI DA STUDIARE IN ORDINE DI PRIORITÀ:
+  MASSIMA PRIORITÀ (appaiono ogni anno):
+    - Ciclo cellulare e divisione cellulare
+    - DNA, trascrizione, traduzione
+    - Metabolismo energetico
+    - Genetica mendeliana
+    - Acidi-basi e pH
+    - Stechiometria di base
+  
+  ALTA PRIORITÀ (appaiono quasi ogni anno):
+    - Organelli cellulari
+    - Genetica avanzata (linkage, aneuploidie, malattie genetiche)
+    - Biotecnologie (PCR)
+    - Sistema immunitario
+    - Tavola periodica e legame chimico
+    - Soluzioni e concentrazioni
+  
+  MEDIA PRIORITÀ (appaiono spesso ma non sempre):
+    - Fotosintesi dettagliata
+    - Istologia
+    - Anatomia
+    - Nomenclatura chimica
+    - Ossido-riduzione
+    - Chimica organica avanzata
+
+================================================================================
+FINE DEL DOCUMENTO
+Basato sull'analisi degli esami di ammissione alle professioni sanitarie
+2006–2026 (Università di Udine e altri atenei italiani)
+Versione 3.0 – File espanso ~200KB
+================================================================================
+
+================================================================================
+APPENDICE H – BIOLOGIA MOLECOLARE AVANZATA
+================================================================================
+
+────────────────────────────────────────────────────────────────────────────────
+H1 – REGOLAZIONE POST-TRASCRIZIONALE
+────────────────────────────────────────────────────────────────────────────────
+
+EDITING DELL'mRNA:
+  In alcuni organismi e geni, la sequenza dell'mRNA viene modificata dopo
+  la trascrizione (sostituzione di basi specifiche):
+  - Editing per deaminazione di C→U (es. apolipoprotein B nell'intestino
+    produce una forma più corta per stop prematuro)
+  - Editing A→I (inosina): frequente negli mRNA del SNC, modifica le
+    proprietà dei recettori AMPA del glutammato
+
+miRNA E siRNA:
+  miRNA (microRNA):
+    - ~22 nucleotidi di lunghezza
+    - Codificati dal genoma; trascritti come pre-miRNA → processati da Drosha (nucleo)
+      poi da Dicer (citoplasma) nel miRNA maturo
+    - Si incorporano nel complesso RISC (RNA-Induced Silencing Complex)
+    - Legame parzialmente complementare all'3'UTR dell'mRNA bersaglio
+    → Inibizione della traduzione O destabilizzazione dell'mRNA
+    - Regolano processi come sviluppo, differenziazione, apoptosi, ciclo cellulare
+  
+  siRNA (small interfering RNA):
+    - ~21-23 nucleotidi; perfettamente complementari al bersaglio
+    - Si incorporano nel RISC → taglio endonucleasico dell'mRNA bersaglio (AGO2)
+    - Usati in laboratorio per il silenziamento genico (RNA interference, RNAi)
+    - Applicazioni terapeutiche in sviluppo (es. trattamento epatite B, tumori)
+
+TRASCRIZIONE: DETTAGLI SULL'INIZIAZIONE
+  Complesso di pre-iniziazione (PIC) per RNA Pol II:
+    1. TFIID (con TBP) lega il TATA box
+    2. TFIIA stabilizza TFIID
+    3. TFIIB arruola l'RNA Pol II + TFIIF
+    4. TFIIE e TFIIH completano il PIC
+    5. TFIIH (ha attività elicasica e chinasica) fosforila la CTD dell'RNA Pol II
+       → L'RNA Pol II si stacca dal promotore e inizia l'elongazione
+
+PROCESSIVITÀ E CAPPING:
+  La cappatura avviene appena il trascritto emerge dall'RNA polimerasi
+  (co-trascrizionale, ~20-30 nucleotidi trascritti)
+  Il cap 7-metilguanosina serve per:
+    1. Protezione dalla degradazione da parte di 5'-esonucleasi
+    2. Riconoscimento da parte del complesso di inizio della traduzione eIF4F
+    3. Esportazione dal nucleo al citoplasma
+    4. Stimolazione dello splicing del primo introne
+
+SPLICING: MECCANISMO MOLECOLARE
+  Lo spliceosoma è un complesso di 5 snRNP (U1, U2, U4, U5, U6):
+    1. U1 snRNP riconosce il sito di splicing 5' (GU)
+    2. SF1/BBP riconosce il punto di ramificazione (adenosina conservata)
+    3. U2AF riconosce il tratto polipirimidinico e il sito 3' (AG)
+    4. U2 snRNP sostituisce SF1 al punto di ramificazione
+    5. Triplette U4/U6-U5 si assemblano → spliceosoma attivo
+    6. Due transesterificazioni successive:
+       a) Il 2'-OH dell'adenosina del punto di ramificazione attacca il sito 5' → lariat
+       b) L'OH libero dell'esone 5' attacca il sito 3' → giunzione degli esoni
+    7. Il lariat (introne a cappio) viene rilasciato e degradato
+  
+  SEQUENZE CONSENSUS:
+    Sito 5': GU|AAGU (| = punto di taglio)
+    Punto di ramificazione: YNYURAY (Y=pirimidina, N=qualsiasi, R=purina, A=adenosina)
+    Sito 3': (Y)ₙNYAG| (tratto poli-pirimidinico + AG)
+
+────────────────────────────────────────────────────────────────────────────────
+H2 – BIOLOGIA DEL CANCRO
+────────────────────────────────────────────────────────────────────────────────
+
+IL CANCRO: UN'ALTERAZIONE DEL CONTROLLO DELLA PROLIFERAZIONE CELLULARE
+
+PROTO-ONCOGENI vs ONCOGENI:
+  Proto-oncogene: gene normale che promuove la crescita cellulare
+    → Fattori di crescita (EGF, PDGF), recettori (EGFR, HER2), trasduttori (RAS, RAF),
+      fattori trascrizionali (MYC, JUN, FOS), chinasi (ABL, SRC)
+  
+  Oncogene: versione mutata/amplificata/traslocata di un proto-oncogene
+    → Gain-of-function; la mutazione è dominante (basta 1 allele)
+    → Esempi: RAS mutato (attivo costitutivamente), BCR-ABL (leucemia mieloide cronica),
+      HER2 amplificato (carcinoma mammario), MYC amplificato (neuroblastoma)
+
+GENI ONCOSOPPRESSORI (tumor suppressor genes, TSG):
+  → Loss-of-function; sopprimono la proliferazione
+  → La mutazione è recessiva (entrambi gli alleli devono essere inattivati = modello "two-hit")
+  
+  Esempi:
+    RB (retinoblastoma): regola il punto di restrizione G1; bersaglio di HPV-E7
+    TP53 (p53): "guardiano del genoma"; risponde ai danni al DNA; mutatissimo nei tumori (~50%)
+    BRCA1/BRCA2: riparazione del DNA (HR); mutazioni aumentano rischio di cancro al seno/ovaio
+    APC: via Wnt/β-catenina; mutato in >80% dei tumori del colon
+    CDKN2A: codifica per p16 (inibitore CDK4/6) e p14ARF (stabilizza p53)
+    PTEN: fosfatasi; antagonista della via PI3K/AKT; spesso perso in molti tumori
+
+LE CARATTERISTICHE DEL CANCRO (Hallmarks of Cancer – Hanahan e Weinberg):
+  1. Autosufficienza dai segnali di crescita (oncogeni)
+  2. Insensibilità ai segnali inibitori (perd ita di TSG)
+  3. Evasione dall'apoptosi
+  4. Potenziale replicativo illimitato (telomerasi)
+  5. Angiogenesi (VEGF: vascular endothelial growth factor)
+  6. Invasione e metastasi (perdita di E-caderina, MMP)
+  7. Riprogrammazione metabolica (effetto Warburg: glicolisi aerobica)
+  8. Evasione dal sistema immunitario (PD-L1, immunoediting)
+  9. Infiammazione tumorale
+  10. Instabilità genomica
+
+TERAPIE ONCOLOGICHE:
+  Chemioterapia: farmaci citotossici (ciclofosfamide, metotrexato, doxorubicina, cisplatino)
+  Radioterapia: radiazioni ionizzanti → danni al DNA → apoptosi
+  Immunoterapia: checkpoint inhibitors (anti-PD1, anti-CTLA4), CAR-T cells
+  Target therapy: inibitori di chinasi (imatinib/Gleevec per BCR-ABL in LMC;
+    erlotinib per EGFR mutato; trastuzumab/Herceptin per HER2+)
+  Ormono-terapia: tamoxifene (antagonista estrogenico in carcinoma mammario ER+)
+
+────────────────────────────────────────────────────────────────────────────────
+H3 – GENETICA DI POPOLAZIONE
+────────────────────────────────────────────────────────────────────────────────
+
+LEGGE DI HARDY-WEINBERG:
+  Le frequenze alleliche e genotipiche rimangono costanti di generazione in generazione
+  in una popolazione che rispetta 5 condizioni:
+    1. Popolazione grande (no deriva genetica)
+    2. Mating casuale (panmixia)
+    3. No migrazione (no flusso genico)
+    4. No mutazione
+    5. No selezione naturale
+  
+  Se p = frequenza allele A; q = frequenza allele a (p + q = 1):
+  Frequenze genotipiche: p² (AA) + 2pq (Aa) + q² (aa) = 1
+
+  APPLICAZIONE:
+    Se la frequenza di una malattia autosomica recessiva (aa) = 1/10000:
+    q² = 1/10000 → q = 1/100 = 0,01
+    p = 1 – 0,01 = 0,99
+    Frequenza dei portatori (Aa): 2pq = 2 × 0,99 × 0,01 ≈ 1/50
+
+DERIVA GENETICA:
+  Fluttuazioni casuali delle frequenze alleliche in popolazioni finite
+  → Può portare alla fissazione (frequenza = 1) o eliminazione (freq = 0) di un allele
+  → Più forte nelle popolazioni piccole
+  
+  EFFETTO COLLO DI BOTTIGLIA: drastica riduzione della popolazione
+    → Perdita di variabilità genetica
+    → Esempio: bisonti americani ridotti a pochi centinaios nel 1800
+  
+  EFFETTO FONDATORE: una piccola popolazione colonizza un nuovo territorio
+    → La nuova popolazione ha frequenze alleliche diverse dalla popolazione d'origine
+    → Alta frequenza di malattie genetiche rare (es. amish, ebrei ashkenaziti)
+
+SELEZIONE NATURALE: variazione + ereditabilità + fitness differenziale
+  Selezione PURIFICANTE (negativa): elimina alleli deleteri
+  Selezione DIREZIONALE: favorisce un fenotipo estremo
+  Selezione BILANCIANTE: mantiene il polimorfismo (es. vantaggio eterozigote per l'anemia falciforme)
+  Selezione SESSUALE: scelta del partner in base a caratteri (es. coda del pavone)
+
+FLUSSO GENICO: trasferimento di alleli tra popolazioni per migrazione
+  → Riduce la differenziazione genetica tra popolazioni
+  → Può introdurre nuovi alleli (anche adattivi)
+
+SPECIAZIONE:
+  Speciazione ALLOPATRICA: separazione geografica → evoluzione indipendente → incompatibilità riproduttiva
+  Speciazione SIMPATRICA: nella stessa area geografica (es. poliplodia nelle piante)
+
+────────────────────────────────────────────────────────────────────────────────
+H4 – MICROBIOLOGIA CLINICA
+────────────────────────────────────────────────────────────────────────────────
+
+CLASSIFICAZIONE DEI MICROORGANISMI PATOGENI:
+
+BATTERI:
+  Gram+: Staphylococcus aureus (foruncoli, sepsi, MRSA), Streptococcus pyogenes
+    (faringite, scarlattina, febbre reumatica), S. pneumoniae (polmonite, meningite),
+    Listeria monocytogenes (listeriosi, pericolo in gravidanza), Clostridium tetani
+    (tetano), C. botulinum (botulismo), C. perfringens (gangrena gassosa),
+    C. difficile (diarrea post-antibiotica)
+  
+  Gram-: Escherichia coli (IVU, diarrea del viaggiatore, sepsi), Salmonella (salmonellosi,
+    febbre tifoide), Shigella (dissenteria batterica), Helicobacter pylori (ulcera gastrica),
+    Neisseria meningitidis (meningite meningococcica), N. gonorrhoeae (gonorrea),
+    Pseudomonas aeruginosa (infezioni ospedaliere, fibrosi cistica)
+  
+  Intracellulari obbligatori: Mycobacterium tuberculosis (TBC), Chlamydia trachomatis
+    (clamidia, tracoma), Rickettsia
+
+VIRUS IMPORTANTI IN MEDICINA:
+  Herpes simplex 1 e 2: herpes labiale e genitale
+  Varicella-zoster (VZV): varicella (infezione primaria), herpes zoster (riattivazione)
+  Epstein-Barr (EBV): mononucleosi; associato a linfoma di Burkitt
+  Citomegalovirus (CMV): pericolo in immunocompromessi e neonati
+  Epatite A (HAV): trasmissione fecale-orale; non cronicizza
+  Epatite B (HBV): parentale/sessuale; DNA virus; può cronicizzare → cirrosi, HCC
+  Epatite C (HCV): parentale; RNA virus; spesso cronicizza
+  HPV (papillomavirus): ceppi 16, 18 → carcinoma cervicale; ceppi 6, 11 → condilomi
+  HIV: retrovirus; AIDS; bersaglio CD4+; trattamento: HAART
+  Influenza (tipo A, B, C): ortomyxovirus; epidemie stagionali e pandemie
+  SARS-CoV-2: coronavirus; COVID-19; RNA a singolo filamento, senso positivo
+  Rabbia: rhabdovirus; trasmissione per morso; quasi sempre mortale se non trattata
+  
+PARASSITI:
+  Plasmodium falciparum, vivax, malariae, ovale: malaria (trasmessa da Anopheles femmina)
+  Toxoplasma gondii: toxoplasmosi (pericolosa in gravidanza e immunodepressi)
+  Giardia lamblia: giardiasi (contaminazione fecale-orale dell'acqua)
+  Entamoeba histolytica: amebiasi (diarrea profusa, ascesso epatico)
+  Leishmania: leishmaniosi (trasmessa da flebotomi)
+  Trypanosoma cruzi: malattia di Chagas (America Latina; trasmessa da Triatoma)
+  Taenia solium e saginata: cestodi (tenie del maiale e del manzo)
+  Ascaris lumbricoides, Enterobius vermicularis (ossiuri): nematodi intestinali
+
+ANTIBIOTICI – MECCANISMI D'AZIONE:
+  β-LATTAMICI (penicilline, cefalosporine, carbapenemi): inibiscono la sintesi del peptidoglicano
+    → Attivi sui Gram+ (e alcuni Gram-)
+    → Resistenza: β-lattamasi batteriche; MRSA (PBP2a modificata)
+  
+  AMINOGLICOSIDI (gentamicina, amikacina): si legano alla subunità 30S → errori di traduzione
+  TETRACICLINE: si legano alla subunità 30S → impediscono l'ingresso dell'aminoacil-tRNA al sito A
+  CLORAMFENICOLO: subunità 50S → inibisce la peptidiltransferasi
+  MACROLIDI (eritromicina, azitromicina): subunità 50S → blocco della traslocazione
+  RIFAMPICINA: inibisce la RNA polimerasi batterica (usata nella TBC)
+  FLUOROCHINOLONI (ciprofloxacina): inibiscono la DNA girasi e topoisomerasi IV
+  VANCOMICINA: lega il D-Ala-D-Ala del peptidoglicano → alternativa per MRSA
+  SULFAMIDICI + TRIMETOPRIM: inibiscono la sintesi dei folati batterici (via PABA/DHFR)
+
+================================================================================
+APPENDICE I – FISICA PER LE PROFESSIONI SANITARIE
+================================================================================
+
+────────────────────────────────────────────────────────────────────────────────
+I1 – MECCANICA DEI FLUIDI
+────────────────────────────────────────────────────────────────────────────────
+
+PRESSIONE DEI FLUIDI:
+  P = F/A  [Pa = N/m²]
+  Pressione idrostatica: P = P₀ + ρgh
+    P₀ = pressione superficiale; ρ = densità fluido; g = 9,81 m/s²; h = profondità
+  
+  PRINCIPIO DI PASCAL: la pressione applicata a un fluido incomprimibile si trasmette
+    ugualmente in tutte le direzioni
+    → Applicazione: freno idraulico, cric idraulico
+    
+    Cric idraulico: F₁/A₁ = F₂/A₂ → F₂ = F₁ × A₂/A₁
+    (una piccola forza su pistone piccolo → grande forza su pistone grande)
+
+PORTATA E CONTINUITÀ:
+  PORTATA VOLUMETRICA: Q = A × v  [m³/s]
+    Volume di fluido che passa attraverso una sezione nell'unità di tempo ← 2023/24
+    (risposta A corretta: "il volume di fluido che passa attraverso una data superficie in un secondo")
+  
+  EQUAZIONE DI CONTINUITÀ: A₁v₁ = A₂v₂  (per fluido incomprimibile)
+    → Il fluido accelera dove la sezione si restringe (es. arterie stenotiche)
+    → Spiega l'effetto Venturi
+
+EQUAZIONE DI BERNOULLI:
+  P + ½ρv² + ρgh = costante  (fluido ideale, incomprimibile, non viscoso)
+  
+  Conseguenze:
+    - Dove la velocità aumenta, la pressione diminuisce (aorta stenotica)
+    - Portanza degli aerei (ala: flusso più veloce sopra → pressione minore → lift)
+    - Atomizzatore (nebulizzatore): flusso veloce crea bassa pressione → aspira il liquido
+
+VISCOSITÀ E LEGGE DI POISEUILLE:
+  Per fluidi reali (viscosi) in tubi:
+  Q = (πr⁴ΔP) / (8ηl)
+    r = raggio; ΔP = differenza di pressione; η = viscosità; l = lunghezza
+  
+  → La portata dipende dalla 4a potenza del RAGGIO: raddoppiare il raggio → Q × 16!
+  → Importanza clinica: stenosi coronarica (r dimezza → Q / 16 = flusso ridotto a 6%)
+
+NUMERO DI REYNOLDS:
+  Re = ρvd/η
+  Re < 2300: flusso LAMINARE (strati paralleli, silenzioso)
+  Re > 4000: flusso TURBOLENTO (caotico, rumoroso = soffi cardiaci)
+  Applicazione: il flusso turbolento nel cuore genera soffi udibili con il fonendoscopio
+
+────────────────────────────────────────────────────────────────────────────────
+I2 – TERMODINAMICA IN MEDICINA
+────────────────────────────────────────────────────────────────────────────────
+
+CALORE E TEMPERATURA:
+  Calore Q [J]: energia trasferita per effetto di una differenza di temperatura
+  Temperatura T [K o °C]: misura dell'energia cinetica media delle molecole
+  Conversione: T[K] = T[°C] + 273,15
+
+CALORE SPECIFICO:
+  Q = m × c × ΔT
+  c(acqua) = 4186 J/(kg·°C) – il più alto tra i liquidi comuni
+  → Per questo l'acqua è un eccellente regolatore termico biologico
+
+CALORE LATENTE:
+  L = Q/m → Q = m × L  (a T costante durante un cambiamento di fase)
+  L_fusione dell'acqua = 334 kJ/kg
+  L_evaporazione dell'acqua = 2257 kJ/kg a 100°C
+  
+  → La sudorazione raffredda il corpo: evaporando assorbe calore latente dalla pelle
+  
+  EVAPORAZIONE A P COSTANTE: T rimane costante durante il cambiamento di fase ← 2023/24
+
+TEMPERATURA CORPOREA:
+  Normale: 36,5-37,5°C (ascellare); 37,0-38,0°C (rettale)
+  Ipotermia: < 35°C (rallentamento metabolico; pericoloso sotto 32°C)
+  Febbre: > 38,0°C (risposta immunitaria all'infezione; pirogeni endogeni: IL-1, IL-6, TNF-α)
+  Ipertermia maligna: fino a 42-43°C → danno cerebrale, rabdomiolisi, CID → mortale
+
+DISPERSIONE DEL CALORE:
+  Conduzione: contatto diretto (coperta, indumenti)
+  Convezione: fluidi in movimento (ventilatore, aria)
+  Irraggiamento: onde elettromagnetiche (infrarosso)
+  Evaporazione: sudorazione (meccanismo principale nell'esercizio fisico)
+
+────────────────────────────────────────────────────────────────────────────────
+I3 – OTTICA E ACUSTICA IN MEDICINA
+────────────────────────────────────────────────────────────────────────────────
+
+OTTICA:
+  RIFRAZIONE: il raggio luminoso cambia direzione passando tra due mezzi (legge di Snell)
+    n₁ sin θ₁ = n₂ sin θ₂  (n = indice di rifrazione)
+    
+  OCCHIO UMANO:
+    Cornea (potere diottrico ~43 D) + Cristallino (~19-29 D) formano l'immagine sulla retina
+    Accomodazione: il cristallino cambia forma (muscolo ciliare) per mettere a fuoco vicino
+    
+    MIOPIA: occhio troppo lungo o cristallino troppo potente
+      → immagine forma davanti alla retina → correzione: lente divergente (concava, potere negativo)
+    IPERMETROPIA: occhio troppo corto → immagine forma dietro la retina
+      → correzione: lente convergente (convessa, potere positivo)
+    PRESBIOPIA: cristallino meno elastico con l'età → occhiali da lettura (convergenti)
+    ASTIGMATISMO: cornea non perfettamente sferica → immagini sfocate → lenti cilindriche
+
+MICROSCOPIO OTTICO:
+  Risoluzione massima: ~ metà della lunghezza d'onda della luce usata (~200 nm con luce visibile)
+  Ingrandimento: fino a 1500×
+  
+MICROSCOPIO ELETTRONICO:
+  Usa fasci di elettroni (λ molto più piccola) → risoluzione fino a 0,1 nm
+  TEM (trasmissione): sezioni ultra-sottili; struttura interna degli organelli
+  SEM (scansione): immagini 3D della superficie
+
+ULTRASUONI (ECOGRAFIA):
+  Frequenze > 20 kHz (diagnostica: 1-20 MHz)
+  Riflessione all'interfaccia tra tessuti di diversa impedenza acustica (densità × velocità del suono)
+  Effetto Doppler: misura la velocità del flusso sanguigno
+  Completamente sicuri: nessuna radiazione ionizzante
+
+RAGGI X E RADIAZIONI IONIZZANTI:
+  Raggi X: fotoni ad alta energia; attraversano il corpo con assorbimento differenziale
+    → Osso: molto opaco (bianco); aria: trasparente (nero); tessuti molli: grigi
+  TAC (TC): tomografia computerizzata; sezioni multiple; ricostruzione 3D
+  Risonanza Magnetica (RM, MRI): campi magnetici + radiofrequenze; eccellente per tessuti molli
+    → Nucleo H₁ (protoni) nei tessuti molli → risonanza → segnale → immagine
+    → Nessuna radiazione ionizzante; controindicazioni: pacemaker, metallo nel corpo
+  Medicina Nucleare (PET, SPECT): radionuclidi con emissione γ → immagini metaboliche
+
+────────────────────────────────────────────────────────────────────────────────
+I4 – ELETTRICITÀ IN MEDICINA
+────────────────────────────────────────────────────────────────────────────────
+
+CORRENTE ELETTRICA: flusso ordinato di cariche
+  I = Q/t [Ampere = Coulomb/secondo]
+  Legge di Ohm: V = I × R  [Volt = Ampere × Ohm]
+
+ELETTROCARDIOGRAMMA (ECG):
+  Registra la differenza di potenziale sulla superficie corporea generata dall'attività elettrica cardiaca
+  Onde principali:
+    P: depolarizzazione atriale (contrazione atri)
+    QRS: depolarizzazione ventricolare (contrazione ventricoli)
+    T: ripolarizzazione ventricolare (rilassamento ventricoli)
+  
+  RITMO SINUSALE NORMALE: 60-100 battiti/min
+  ARITMIE: tachicardia, bradicardia, flutter, fibrillazione (atriale o ventricolare)
+
+DEFIBRILLATORE: eroga un impulso di corrente per sincronizzare il miocardio
+  → Indicato in fibrillazione ventricolare e tachicardia ventricolare senza polso
+  → DAE (defibrillatore automatico esterno): uso da parte di laici
+
+PACEMAKER: dispositivo che genera impulsi elettrici regolari per controllare la FC
+  → Indicato in blocchi di conduzione, bradicardia sintomatica
+
+ELETTROENCEFALOGRAMMA (EEG):
+  Registra l'attività elettrica cerebrale attraverso elettrodi sullo scalpo
+  Onde α (8-13 Hz): riposo con occhi chiusi; Onde β (>13 Hz): attività mentale;
+  Onde δ (<4 Hz): sonno profondo; Onde θ (4-8 Hz): meditazione, sonno leggero
+  Applicazioni: epilessia, valutazione della morte cerebrale, disturbi del sonno
+
+================================================================================
+APPENDICE L – BIOCHIMICA CLINICA
+================================================================================
+
+────────────────────────────────────────────────────────────────────────────────
+L1 – PARAMETRI DI LABORATORIO FONDAMENTALI
+────────────────────────────────────────────────────────────────────────────────
+
+EMOCROMO COMPLETO (CBC):
+  Eritrociti (RBC): uomo 4,5-5,5 × 10⁶/μL; donna 4,0-5,0 × 10⁶/μL
+  Emoglobina (Hb): uomo 13,5-17,5 g/dL; donna 12-15 g/dL
+  Ematocrito (Hct): uomo 41-53%; donna 36-46%
+  MCV (volume corpuscolare medio): 80-100 fL
+    MCV basso → anemia microcitica (carenza di ferro)
+    MCV alto → anemia macrocitica (deficit B12/folati)
+  Leucociti (WBC): 4500-11000/μL
+  Piastrine (PLT): 150000-400000/μL
+
+BIOCHIMICA SIERICA:
+  Glicemia a digiuno: 70-100 mg/dL; > 126 mg/dL in 2 misure → DIABETE
+  HbA1c: 4-5,6% normale; > 6,5% → diabete (media glicemica ultimi 3 mesi)
+  Creatinina: 0,7-1,2 mg/dL (uomo); 0,5-1,0 mg/dL (donna); marcatore funzionalità renale
+  Urea: 15-45 mg/dL; BUN (Blood Urea Nitrogen): 8-20 mg/dL
+  ALT (alanina aminotransferasi): 7-35 U/L → elevata in danno epatico
+  AST (aspartato aminotransferasi): 10-40 U/L → elevata in danno epatico e muscolare
+  Bilirubina totale: 0,2-1,2 mg/dL; elevata → ittero
+  Proteine totali: 6,0-8,0 g/dL; albumina: 3,5-5,0 g/dL (malnutrizione, epatopatia)
+  TSH: 0,4-4,0 mU/L (ormone tireotropo; elevato → ipotiroidismo)
+  
+COLESTEROLO:
+  Totale desiderabile: < 200 mg/dL
+  LDL ("cattivo"): < 100 mg/dL (desiderabile); > 160 mg/dL (alto rischio)
+  HDL ("buono"): > 40 mg/dL uomini; > 50 mg/dL donne (protettivo)
+  Trigliceridi: < 150 mg/dL (desiderabile)
+
+ESAME DELLE URINE:
+  pH: 4,5-8,0 (media ~6)
+  Glucosio: assente (soglia renale ~180 mg/dL di glicemia)
+  Proteine: assenti (< 150 mg/24 ore; se > 300 mg/24 ore = proteinuria significativa)
+  Sangue/emoglobina: assente (se presente → IVU, nefrolitiasi, tumori)
+  Nitrati: assenti (se presenti → IVU da Gram-)
+  Corpi chetonici: assenti (presenti nel diabete scompensato, digiuno, chetosi)
+
+────────────────────────────────────────────────────────────────────────────────
+L2 – NUTRIZIONE E METABOLISMO ENERGETICO
+────────────────────────────────────────────────────────────────────────────────
+
+MACRONUTRIENTI E RESA CALORICA:
+  Carboidrati: 4 kcal/g; glucosio è il combustibile preferenziale del cervello
+  Proteine: 4 kcal/g; aminoacidi essenziali non sintetizzabili dall'uomo
+  Lipidi: 9 kcal/g; il più concentrato in calorie; fondamentali per assorbimento vit. A, D, E, K
+  Alcol etilico: 7 kcal/g (no valore nutritivo)
+  Fibra alimentare: 0-2 kcal/g (non digeribile dai mammiferi)
+
+VITAMINE IDROSOLUBILI (non si accumulano; tossicità rara):
+  B1 (tiamina): cofattore piruvato deidrogenasi e α-KG deidrogenasi; carenza → beriberi, encefalopatia di Wernicke
+  B2 (riboflavina): precursore di FAD/FMN; carenza → stomatite, ariboflavinosi
+  B3 (niacina, PP): precursore di NAD⁺/NADP⁺; carenza → pellagra (4D: dermatite, diarrea, demenza, decesso)
+  B5 (acido pantotenico): componente del CoA; carenza rara
+  B6 (piridossina): piridossalfosfato per reazioni di transaminazione; carenza → neuropatia periferica
+  B7 (biotina): carbossilazioni (piruvato carbossilasi, acetil-CoA carbossilasi); carenza da albumina dell'uovo crudo
+  B9 (folati): trasferimento di unità monocarboniose; essenziale per la sintesi del DNA; carenza in gravidanza → difetti del tubo neurale
+  B12 (cobalamina): metabolismo dei folati e dell'omocisteina; assorbita con il FATTORE INTRINSECO (prodotto dalle cellule parietali gastriche); carenza → anemia perniciosa, neuropatia
+  C (acido ascorbico): antiossidante; sintesi del collagene (idrossilazione Pro e Lys); carenza → SCORBUTO (gengive sanguinanti, cicatrizzazione difettosa)
+
+VITAMINE LIPOSOLUBILI (si accumulano nel tessuto adiposo; tossicità possibile):
+  A (retinolo): visione (precursore del retinale), integrità epiteliale, sistema immunitario
+    Carenza: cecità notturna, xeroftalmia; Tossicità: teratogenicità (in gravidanza evitare eccessi)
+  D (colecalciferolo): sintetizzata nella cute dalla luce UV; ormone steroidale
+    Attiva forma: calcitriolo (1,25-(OH)₂-D₃); assorbimento intestinale di Ca²⁺ e P
+    Carenza: rachitismo (bambini), osteomalacia (adulti); Fonti: pesce grasso, tuorlo, latte
+  E (tocoferolo): antiossidante liposolubile; protegge le membrane dai radicali liberi
+    Carenza: rara; anemia emolitica nei neonati prematuri
+  K (fillochinone K1, menachinone K2): fattori della coagulazione (II, VII, IX, X, proteine C e S)
+    Carenza: emorragie; neonati ricevono supplemento (flora intestinale non ancora sviluppata)
+    Antagonisti: warfarin (coumadin) → terapia anticoagulante
+
+MINERALI ESSENZIALI:
+  Calcio (Ca): osso, contrazione muscolare, segnale cellulare; assorbimento regolato da vitamina D
+  Fosforo (P): osso, ATP, acidi nucleici, fosfolipidi
+  Ferro (Fe): emoglobina (Fe²⁺), mioglobina, enzimi respiratori; Fe³⁺ non biodisponibile
+    Carenza: anemia sideropenica (microciti ipocromici) - più comune al mondo
+    Eccesso: emocromatosi (depositi nel fegato, cuore, pancreas)
+  Zinco (Zn): oltre 300 enzimi zinco-dipendenti (carbossipeptidasi, anidrasi carbonica)
+  Iodio (I): ormoni tiroidei (T3, T4); carenza → gozzo endemico, cretinismo
+  Selenio (Se): glutatione perossidasi (antiossidante); carenza → malattia di Keshan
+  Magnesio (Mg): cofattore di > 300 enzimi; stabilizza ATP; ruolo nei muscoli e nervi
+
+================================================================================
+APPENDICE M – GENETICA UMANA APPLICATA
+================================================================================
+
+────────────────────────────────────────────────────────────────────────────────
+M1 – DIAGNOSI GENETICA
+────────────────────────────────────────────────────────────────────────────────
+
+CARIOTIPO:
+  Analisi cromosomica delle cellule in metafase (cromosomi massimamente condensati)
+  Procedura: coltura cellulare → blocco in metafase con colchicina → ipotonia → fissazione
+    → colorazione (G-band con Giemsa; R-band; Q-band con quinacrina)
+    → fotomicrografia → allineamento dei 23 paia in ordine decrescente di dimensione
+  
+  Indicazioni cliniche:
+    - Sospetta trisomia o monosomia
+    - Ritardo mentale o malformazioni congenite
+    - Coppie con aborti ricorrenti
+    - Diagnosi prenatale (amniocentesi, villocentesi)
+
+FISH (Fluorescence In Situ Hybridization):
+  Sonde di DNA fluorescenti ibridano a sequenze specifiche del cromosoma
+  → Rapida identificazione di anomalie cromosomiche specifiche
+  → Può essere applicata a cellule in interfase (no metafase necessaria)
+  Es: rilevamento amplificazione HER2 in cancro al seno; traslocazione BCR-ABL in LMC
+
+ARRAY CGH (Array Comparative Genomic Hybridization):
+  Confronto del genoma del paziente vs controllo su microarray
+  → Rileva microdelezioni e microduplicazioni submicroscopiche
+  → Non rileva traslocazioni bilanciate (cambia il contenuto, non l'assetto)
+
+SEQUENZIAMENTO:
+  Sanger: gold standard per sequenziamento di singoli geni/segmenti
+  NGS (Next Generation Sequencing):
+    - WES (Whole Exome Sequencing): solo le regioni codificanti (~1,5% del genoma)
+    - WGS (Whole Genome Sequencing): intero genoma (~3,2 miliardi di basi)
+  
+  Applicazioni: diagnosi malattie rare, oncologia (mutazioni somatiche nei tumori),
+    farmacogenomica, medicina personalizzata
+
+DIAGNOSI PRENATALE:
+  Test non invasivi (screening):
+    - Translucenza nucale (settimana 11-13): marker ecografico per trisomia 21
+    - Bi-test, tri-test, quadrutest: dosaggio di ormoni/proteine nel sangue materno
+    - NIPT (Non-Invasive Prenatal Testing): DNA fetale libero nel sangue materno
+      → analisi per trisomie 21, 18, 13, anomalie dei cromosomi sessuali
+  
+  Test invasivi (diagnosi):
+    - VILLOCENTESI (CVS): settimana 10-13; prelievo di villi coriali; rischio aborto ~0,5-1%
+    - AMNIOCENTESI: settimana 15-18; prelievo di liquido amniotico; rischio aborto ~0,5%
+
+────────────────────────────────────────────────────────────────────────────────
+M2 – EPIGENETICA
+────────────────────────────────────────────────────────────────────────────────
+
+L'EPIGENETICA studia le variazioni ereditabili dell'espressione genica che NON dipendono
+da cambiamenti nella sequenza del DNA.
+
+MECCANISMI EPIGENETICI:
+  1. METILAZIONE DEL DNA (5-metilcitosina, 5mC):
+     - Catalizzata da DNMT (DNA metiltransferasi): DNMT1 (mantenimento), DNMT3a/b (de novo)
+     - Nelle isole CpG dei promotori: metilazione → silenziamento genico
+     - Imprinting genomico: solo uno dei due alleli (materno o paterno) è espresso
+       Es: IGF2 (paterno espresso), H19 (materno espresso)
+     - Inattivazione del cromosoma X: silenziamento permanente di uno degli X femminili
+       (il corpuscolo di Barr è l'X metilato e inattivo)
+  
+  2. MODIFICAZIONI ISTONICHE:
+     - ACETILAZIONE (HAT/HDAC): istone H3K9ac, H4K16ac → cromatina aperta → trascrizione attiva
+     - METILAZIONE (HMT/KDM): H3K4me3 (attivo), H3K9me3 (repressivo), H3K27me3 (repressivo)
+     - FOSFORILAZIONE: H3S10ph → condensazione della cromatina in mitosi
+     - UBIQUITINAZIONE: H2AK119ub1 (repressivo, via PRC1); H2BK120ub (attivo)
+  
+  3. RIMODELLAMENTO DELLA CROMATINA:
+     - Complessi ATP-dipendenti (SWI/SNF, ISWI, CHD, INO80) spostano i nucleosomi
+     → Rende il DNA accessibile o inaccessibile
+
+IMPRINTING GENOMICO:
+  ~100 geni nell'uomo sono soggetti a imprinting
+  Sindromi da imprinting:
+    Sindrome di Prader-Willi: delezione del cromosoma 15 paterno (o disomia uniparentale materna)
+      → ipotonia, obesità, ritardo cognitivo, ipogonadismo
+    Sindrome di Angelman: delezione del cromosoma 15 materno (o mutazione UBE3A materna)
+      → ritardo grave, epilessia, "bambini felici" (riso inappropriato)
+
+================================================================================
+APPENDICE N – SCHEMA RIASSUNTIVO FINALE: CONFRONTI CHIAVE
+================================================================================
+
+CONFRONTO: DNA vs RNA
+  Caratteristica    | DNA                        | RNA
+  ------------------|----------------------------|---------------------------
+  Zucchero          | 2'-deossiribosio           | ribosio
+  Basi              | A, T, G, C                 | A, U, G, C
+  Struttura         | doppio filamento (spesso)  | singolo filamento (di solito)
+  Localizzazione    | nucleo, mito, cloroplasti  | nucleo, citoplasma, ribosomi
+  Funzione          | informazione genetica       | espressione genica
+  Stabilità         | molto stabile              | meno stabile (RNA-asi)
+  Metilazione       | 5-metilcitosina            | m6A, pseudouridina ecc.
+
+CONFRONTO: MITOSI vs MEIOSI
+  Caratteristica    | MITOSI                     | MEIOSI
+  ------------------|----------------------------|---------------------------
+  Divisioni         | 1                          | 2 (I + II)
+  Cellule prodotte  | 2                          | 4
+  Ploidia progenie  | diploide (2n)              | aploide (n)
+  Variabilità gen.  | nessuna (clonale)          | elevata (crossing-over)
+  Crossing-over     | rarissimo                  | sistematico (profase I)
+  Dove avviene      | cellule somatiche          | cellule germinali (gonadi)
+  Scopo             | crescita, riparazione      | formazione dei gameti
+  Sinapsi omologhi  | NO                         | SÌ (profase I)
+
+CONFRONTO: TRASCRIZIONE vs TRADUZIONE
+  Caratteristica    | TRASCRIZIONE               | TRADUZIONE
+  ------------------|----------------------------|---------------------------
+  Prodotto          | RNA                        | Proteina
+  Stampo            | DNA                        | mRNA
+  Enzima principale | RNA Polimerasi             | Ribosoma (peptidiltransferasi)
+  Primers           | NO                         | NO (ma tRNA iniziatore)
+  Direzione         | 5'→3' (RNA sintetizzato)   | N-terminale → C-terminale
+  Localizzazione    | nucleo (eucarioti)         | citoplasma (ribosomi)
+  Codice            | A→A, T→A, G→C, C→G        | codone→amminoacido
+  Energia           | NTP (ATP, GTP, CTP, UTP)  | GTP (per i fattori di elongazione)
+
+CONFRONTO: CELLULA ANIMALE vs VEGETALE
+  Struttura          | Cellula animale    | Cellula vegetale
+  -------------------|--------------------|------------------
+  Parete cellulare   | NO                 | SÌ (cellulosa)
+  Cloroplasti        | NO                 | SÌ
+  Vacuolo centrale   | piccoli, temporanei| grande, permanente
+  Centrioli          | SÌ                 | NO (in piante superiori)
+  Lisosomi           | SÌ                 | raramente (vacuolo ha funzione simile)
+  Mitocondri         | SÌ                 | SÌ
+  Plasmodesmi        | NO (gap junctions) | SÌ
+  Riserva energetica | glicogeno          | amido
+  Citodieresi        | anello contrattile | piastra cellulare (Golgi)
+
+CONFRONTO: FOTOSINTESI vs RESPIRAZIONE CELLULARE
+  Caratteristica      | FOTOSINTESI               | RESPIRAZIONE CELLULARE
+  --------------------|---------------------------|---------------------------
+  Tipo di processo    | anabolico                 | catabolico
+  Energia in ingresso | luce                      | glucosio (energia chimica)
+  Energia in uscita   | glucosio (energia chimica)| ATP (energia chimica)
+  Gas consumato       | CO₂                       | O₂
+  Gas prodotto        | O₂                        | CO₂
+  Localizzazione      | cloroplasti               | citoplasma + mitocondri
+  Riduttore usato     | NADPH                     | NADH, FADH₂
+  Organismi           | autotrofi fotosintetici   | quasi tutti gli organismi
+  Equazione           | 6CO₂+6H₂O→glucosio+6O₂  | glucosio+6O₂→6CO₂+6H₂O
+
+================================================================================
+FINE DEFINITIVO DEL DOCUMENTO
+Versione 4.0 completata – ~200 KB
+Autore: elaborazione assistita da Claude AI su analisi degli esami 2006-2026
+================================================================================
+
+================================================================================
+APPENDICE O – QUIZ DI AUTOVALUTAZIONE (CON RISPOSTE)
+================================================================================
+
+Usa queste domande per testare la preparazione prima dell'esame.
+Le risposte corrette sono indicate con [CORR].
+
+────────────────────────────────────────────────────────────────────────────────
+BIOLOGIA – DOMANDE DI AUTOVALUTAZIONE
+────────────────────────────────────────────────────────────────────────────────
+
+1. Qual è l'ordine corretto delle fasi del ciclo cellulare?
+   A) G1–S–G2–M     [CORR]
+   B) S–G1–G2–M
+   C) G1–G2–S–M
+   D) G2–G1–S–M
+
+2. In quale fase il DNA si duplica?
+   A) G1
+   B) S  [CORR]
+   C) G2
+   D) M
+
+3. Cosa produce il ciclo di Krebs per ogni giro?
+   A) 2CO₂ + 3NADH + 1FADH₂ + 1GTP  [CORR]
+   B) 2CO₂ + 2NADH + 2FADH₂ + 2ATP
+   C) 4CO₂ + 6NADH + 2FADH₂ + 2GTP
+   D) 1CO₂ + 3NADH + 1FADH₂ + 1GTP
+
+4. Il glucosio è immagazzinato nelle piante sotto forma di:
+   A) Glicogeno
+   B) Amido  [CORR]
+   C) Cellulosa
+   D) Clorofilla
+
+5. Quale ormone è prodotto dall'ipotalamo e rilasciato dalla neuroipofisi?
+   A) Cortisolo
+   B) Ossitocina  [CORR]
+   C) Insulina
+   D) TSH
+
+6. Il capside di un virus è composto da:
+   A) Acidi nucleici
+   B) Lipidi
+   C) Subunità proteiche  [CORR]
+   D) Polisaccaridi
+
+7. L'emofilia A è causata da deficit del fattore:
+   A) V
+   B) VII
+   C) VIII  [CORR]
+   D) IX
+
+8. Quale struttura non è presente nella cellula procariotica?
+   A) Membrana plasmatica
+   B) DNA
+   C) Ribosomi
+   D) Mitocondri  [CORR]
+
+9. Cosa produce la fotosintesi nella fase luce-dipendente?
+   A) Glucosio, CO₂, H₂O
+   B) ATP, NADPH, O₂  [CORR]
+   C) ATP, NADH, CO₂
+   D) G3P, ADP, NADP⁺
+
+10. La teoria endosimbiotica spiega l'origine di:
+    A) Reticolo endoplasmatico e apparato di Golgi
+    B) Lisosomi e perossisomi
+    C) Mitocondri e cloroplasti  [CORR]
+    D) Nucleo e ribosomi
+
+11. Quale tipo di RNA porta gli amminoacidi al ribosoma?
+    A) mRNA
+    B) rRNA
+    C) snRNA
+    D) tRNA  [CORR]
+
+12. Cosa si forma quando una cellula con genotipo AaBb produce i gameti (geni non associati)?
+    A) Solo AB e ab
+    B) AB, Ab, aB, ab in uguale proporzione  [CORR]
+    C) Solo AB
+    D) Solo Ab e aB
+
+13. La meiosi I è detta "riduzionale" perché:
+    A) Riduce la quantità di DNA a 1C
+    B) Riduce il numero di cromosomi da 2n a n  [CORR]
+    C) Riduce la dimensione della cellula
+    D) Riduce la variabilità genetica
+
+14. La citosina è una:
+    A) Purina con due anelli eterociclici
+    B) Pirimidina con un anello eterociclico  [CORR]
+    C) Purina con un anello
+    D) Pirimidina con due anelli
+
+15. Qual è il codone di inizio della traduzione?
+    A) UAA
+    B) UAG
+    C) UGA
+    D) AUG  [CORR]
+
+────────────────────────────────────────────────────────────────────────────────
+CHIMICA – DOMANDE DI AUTOVALUTAZIONE
+────────────────────────────────────────────────────────────────────────────────
+
+16. La configurazione elettronica [Ar]3d⁵4s² corrisponde a:
+    A) Ferro (Fe)
+    B) Manganese (Mn)  [CORR]
+    C) Cromo (Cr)
+    D) Cobalto (Co)
+
+17. Quale geometria ha una molecola con 4 legami e 0 coppie solitarie sull'atomo centrale?
+    A) Lineare
+    B) Triangolare planare
+    C) Tetraedrica  [CORR]
+    D) Piramidale
+
+18. Il numero di ossidazione dell'ossigeno in H₂O₂ è:
+    A) –2
+    B) –1  [CORR]
+    C) 0
+    D) +1
+
+19. La costante di equilibrio Kc cambia quando si:
+    A) Aggiunge un catalizzatore
+    B) Aumenta la pressione
+    C) Cambia la temperatura  [CORR]
+    D) Aumenta la concentrazione di un reagente
+
+20. Qual è la formula della legge di Henry?
+    A) PV = nRT
+    B) C = kH × P  [CORR]
+    C) P/T = k
+    D) P₁V₁ = P₂V₂
+
+21. Quale soluzione ha la maggiore pressione osmotica tra queste opzioni tutte 0,1 M?
+    A) Glucosio
+    B) NaCl
+    C) CaCl₂  [CORR]
+    D) KCl
+
+22. Il pH di una soluzione 0,01 M di NaOH è:
+    A) 2
+    B) 7
+    C) 12  [CORR]
+    D) 10
+
+    (NaOH forte: [OH⁻]=0,01M, pOH=2, pH=14-2=12)
+
+23. Un tampone è formato da:
+    A) Un acido forte e il suo sale
+    B) Un acido debole e il suo sale con una base forte  [CORR]
+    C) Due acidi forti
+    D) Un acido forte e una base forte
+
+24. La formula degli alcani è:
+    A) CₙH₂ₙ
+    B) CₙH₂ₙ₋₂
+    C) CₙH₂ₙ₊₂  [CORR]
+    D) CₙH₂ₙ₊₄
+
+25. Nell'ibridazione sp², gli orbitali ibridi formano angoli di:
+    A) 180°
+    B) 109,5°
+    C) 120°  [CORR]
+    D) 90°
+
+26. Quale ossido è basico?
+    A) SiO₂
+    B) SO₃
+    C) CO₂
+    D) CaO  [CORR]
+
+27. Nella reazione redox, l'elemento riducente:
+    A) Acquista elettroni
+    B) Ha il numero di ossidazione che diminuisce
+    C) Cede elettroni  [CORR]
+    D) È sempre un metallo
+
+28. Una soluzione al 15% m/v contiene:
+    A) 15 g di soluto per 85 mL di solvente
+    B) 15 g di soluto per 100 mL di soluzione  [CORR]
+    C) 15 mg di soluto per 100 mL di soluzione
+    D) 15 g di soluto per 1 L di soluzione
+
+29. Il punto triplo dell'acqua si trova a:
+    A) 0°C e 1 atm
+    B) 100°C e 1 atm
+    C) 0,01°C e 611,73 Pa  [CORR]
+    D) 4°C e 1 atm
+
+30. L'idrogeno negli ossiacidi è legato a:
+    A) Al carbonio
+    B) All'ossigeno  [CORR]
+    C) Al non-metallo direttamente
+    D) All'azoto
+
+────────────────────────────────────────────────────────────────────────────────
+FISICA E MATEMATICA – DOMANDE DI AUTOVALUTAZIONE
+────────────────────────────────────────────────────────────────────────────────
+
+31. La portata di un fluido è:
+    A) La massa di fluido per unità di tempo
+    B) Il volume di fluido per unità di superficie
+    C) Il volume di fluido che passa attraverso una sezione nell'unità di tempo  [CORR]
+    D) La velocità del fluido divisa per la pressione
+
+32. Durante l'evaporazione a pressione costante, la temperatura del liquido:
+    A) Aumenta linearmente
+    B) Diminuisce
+    C) Rimane costante  [CORR]
+    D) Oscilla
+
+33. Il primo principio della termodinamica esprime:
+    A) La conservazione dell'entropia
+    B) L'impossibilità del moto perpetuo di seconda specie
+    C) La conservazione dell'energia  [CORR]
+    D) L'equilibrio termico tra corpi in contatto
+
+34. Un gas ideale a T costante è compresso fino a dimezzare il volume. La pressione:
+    A) Dimezza
+    B) Non cambia
+    C) Raddoppia  [CORR]
+    D) Quadruplica
+
+35. La derivata di f(x) = 3x² – 4x + 1 calcolata in x = 0 è:
+    A) 1
+    B) –4  [CORR]
+    C) 3
+    D) 0
+
+    (f'(x) = 6x – 4; f'(0) = 6(0) – 4 = –4)
+
+================================================================================
+PUNTEGGIO: conta le risposte corrette.
+  30-35: OTTIMO – sei pronto per l'esame!
+  25-29: BUONO – ripassare i capitoli delle domande sbagliate
+  20-24: SUFFICIENTE – rileggere le sezioni di base
+  <20:   INSUFFICIENTE – studiare sistematicamente dal Cap. 1
+
+================================================================================
+FONTI E BIBLIOGRAFIA CONSIGLIATA
+================================================================================
+
+LIBRI DI TESTO PRINCIPALI:
+  BIOLOGIA:
+    - Campbell, Reece et al. – "Biologia" (Pearson) – il testo di riferimento assoluto
+    - Sadava, Hillis et al. – "La vita: la biologia" (Zanichelli)
+    - Solomon, Martin et al. – "Elementi di Biologia" (EdiSES)
+
+  CHIMICA:
+    - Chang, Goldsby – "Fondamenti di Chimica Generale" (McGraw-Hill)
+    - Zumdahl, Zumdahl – "Chimica" (Zanichelli)
+    - Kotz, Treichel, Townsend – "Chimica" (EdiSES)
+
+  CHIMICA ORGANICA:
+    - Brown, Foote, Iverson – "Chimica Organica" (EdiSES)
+    - McMurry – "Chimica Organica" (Piccin)
+
+  PER L'ESAME SPECIFICAMENTE:
+    - Vari libri di "Test per le professioni sanitarie" (Alpha Test, EdiTest, Hoepli)
+    - Raccolta di esami degli anni precedenti (disponibili sui siti universitari)
+
+RISORSE ONLINE:
+  - Siti delle università italiane (scaricabili i test ufficiali)
+  - Khan Academy (biologia e chimica in italiano)
+  - MIUR: banca dati dei quesiti per i test nazionalizzati
+
+================================================================================
+FINE DEFINITIVO
+Total: oltre 200KB di contenuto originale
+3500+ righe – copertura completa dell'esame di ammissione
+================================================================================

@@ -1,0 +1,404 @@
+LEZIONI DI BIOLOGIA E CHIMICA PER L'ESAME DI AMMISSIONE ALLE PROFESSIONI SANITARIE.
+Versione discorsiva per l'ascolto.
+
+
+LEZIONE 1 - L'ACQUA E LE BIOMOLECOLE.
+
+Iniziamo dalla base di tutto: l'acqua. L'acqua è la molecola più abbondante negli organismi viventi e costituisce circa il sessanta-settanta percento del peso corporeo umano. Senza acqua non esiste vita, e questo non è un caso, perché l'acqua ha proprietà straordinarie che la rendono il solvente ideale per le reazioni biologiche.
+
+La molecola d'acqua è formata da un atomo di ossigeno legato a due atomi di idrogeno. La geometria non è lineare, come potremmo immaginare, ma angolare: i tre atomi formano un angolo di circa centoquattro virgola cinque gradi. Questo succede perché l'ossigeno ha quattro coppie di elettroni intorno a sé, due impegnate nei legami con l'idrogeno e due libere, e queste coppie libere spingono i legami verso il basso restringendo l'angolo.
+
+Il legame tra ossigeno e idrogeno è un legame covalente polare. Attenzione a questa distinzione, perché negli esami viene chiesta spesso. Il legame è covalente perché i due atomi condividono elettroni, non si scambiano elettroni come nel legame ionico. È polare perché l'ossigeno è molto più elettronegativo dell'idrogeno, quindi attira la nuvola elettronica verso di sé, creando una zona leggermente negativa sull'ossigeno e una zona leggermente positiva sull'idrogeno. Questo rende la molecola d'acqua un dipolo elettrico.
+
+Grazie a questa polarità, le molecole d'acqua si attraggono tra loro formando i legami a idrogeno. Un legame a idrogeno non è un legame chimico vero e proprio come quello covalente: è un'attrazione elettrostatica tra il polo positivo dell'idrogeno di una molecola e il polo negativo dell'ossigeno di un'altra. Ogni molecola d'acqua può formare fino a quattro legami a idrogeno con le molecole vicine. Sono legami deboli singolarmente, ma nell'insieme sono tantissimi e danno all'acqua proprietà eccezionali.
+
+La prima proprietà eccezionale è l'elevato punto di ebollizione. Una molecola piccola e leggera come l'acqua dovrebbe bollire a temperature molto più basse, attorno ai meno sessanta gradi centigradi, ma grazie ai legami a idrogeno bolle a cento gradi. Questo significa che a temperatura ambiente l'acqua è liquida, il che è fondamentale per la vita.
+
+La seconda proprietà è l'elevata capacità termica. L'acqua assorbe molto calore prima di aumentare la propria temperatura. Questo la rende un ottimo tampone termico: il nostro sangue, che è per lo più acqua, distribuisce il calore nel corpo evitando sbalzi termici pericolosi.
+
+La terza proprietà anomala è che il ghiaccio galleggia sull'acqua liquida. Normalmente i solidi sono più densi dei liquidi della stessa sostanza. L'acqua invece raggiunge la densità massima a quattro gradi centigradi, dopodiché, raffreddandosi ulteriormente, i legami a idrogeno formano una struttura cristallina a reticolo aperto che occupa più spazio. Ecco perché il ghiaccio è meno denso dell'acqua liquida e galleggia. Questo è fondamentale per gli ecosistemi acquatici: i laghi ghiacciano in superficie ma rimangono liquidi sul fondo, permettendo la sopravvivenza degli organismi in inverno.
+
+L'acqua è un eccellente solvente per le sostanze polari e ioniche, come i sali, gli zuccheri e gli aminoacidi, che vengono definite sostanze idrofile. Al contrario, i lipidi e gli idrocarburi non si sciolgono in acqua perché sono apolari e vengono detti sostanze idrofobiche. Questa distinzione tra idrofilo e idrofobico è cruciale per capire il funzionamento delle membrane cellulari.
+
+Infine, l'acqua si ionizza spontaneamente in piccola parte: una molecola d'acqua cede un protone a un'altra molecola d'acqua, generando uno ione idrogeno e uno ione ossidrile. Il prodotto ionico dell'acqua, cioè il prodotto delle concentrazioni di questi due ioni, è sempre uguale a dieci alla meno quattordici a venticinque gradi centigradi. Questa costante vale in qualsiasi soluzione acquosa, che sia pura acqua, acqua con sale disciolto o una soluzione acida: questo è un dato fondamentale per gli esami.
+
+
+I CARBOIDRATI.
+
+I carboidrati, detti anche glucidi o saccaridi, sono composti organici formati da carbonio, idrogeno e ossigeno. La loro formula generale è quella del rapporto uno a due a uno tra carbonio, idrogeno e ossigeno. Sono chiamati carboidrati proprio perché sembrano carboni idratati, anche se questa è una semplificazione.
+
+La classificazione più semplice si basa sul numero di atomi di carbonio. I monosaccaridi più piccoli sono i triosi, con tre atomi di carbonio, e sono importanti come intermedi della glicolisi. I pentosi, con cinque atomi di carbonio, sono fondamentali per la biologia molecolare: il ribosio è lo zucchero dell'RNA, mentre il deossiribosio è lo zucchero del DNA. La differenza tra i due è sottile ma cruciale: il deossiribosio manca di un gruppo ossidrilico in posizione due rispetto al ribosio. Gli esosi, con sei atomi di carbonio, sono i più importanti dal punto di vista energetico. Glucosio, fruttosio e galattosio hanno tutti la stessa formula chimica, C6H12O6, ma struttura diversa e vengono definiti isomeri di struttura.
+
+Il fruttosio è uno degli esosi più comuni: si trova nella frutta e nel miele ed è un isomero del glucosio. Questo è un punto che gli esami testano spesso: il fruttosio è un esoso, non un disaccaride, non un polisaccaride, non un lipide. Sei atomi di carbonio, punto.
+
+Il glucosio in forma lineare porta un gruppo aldeidico al primo carbonio e cinque gruppi ossidrilici sugli altri carboni. Questa è la struttura che bisogna ricordare: uno aldeidico e cinque ossidrilici.
+
+I disaccaridi si formano quando due monosaccaridi si uniscono tramite un legame glicosidico, che si forma per condensazione, cioè con perdita di una molecola d'acqua. Il saccarosio, che è il comune zucchero da tavola, è formato da glucosio e fruttosio. Il lattosio, lo zucchero del latte, è formato da galattosio e glucosio. Il maltosio, lo zucchero del malto presente nella birra e nel pane, è formato da due molecole di glucosio.
+
+I polisaccaridi sono catene lunghe di monosaccaridi. L'amido è il polisaccaride di riserva energetica delle piante ed è formato da glucosio con legami alfa. Quando mangiamo pasta o riso, stiamo mangiando amido. Il glicogeno è la forma di riserva energetica negli animali ed è immagazzinato principalmente nel fegato e nei muscoli. La cellulosa è anch'essa formata da glucosio, ma con legami beta invece che alfa: questa piccola differenza strutturale la rende indigeribile per i mammiferi, che non hanno gli enzimi per rompere i legami beta, ed è per questo che la fibra alimentare non viene assorbita. La chitina, infine, forma l'esoscheletro degli insetti e le pareti dei funghi.
+
+
+I LIPIDI.
+
+I lipidi sono una classe eterogenea di molecole biologiche accomunate dall'essere insolubili in acqua e solubili nei solventi organici. Non sono polimeri come le proteine o gli acidi nucleici.
+
+Gli acidi grassi sono le unità base dei lipidi. Sono catene idrocarburiche, cioè formate da atomi di carbonio e idrogeno, con un gruppo carbossilico all'estremità. Se la catena non ha doppi legami, l'acido grasso è detto saturo e a temperatura ambiente è solido, come il burro o lo strutto. Se la catena ha uno o più doppi legami, è insaturo e a temperatura ambiente è liquido, come l'olio d'oliva. I doppi legami nei grassi naturali hanno solitamente configurazione cis, che curva la catena e impedisce un impacchettamento stretto, motivo per cui i grassi insaturi sono liquidi.
+
+I trigliceridi, o triacilgliceroli, sono la principale forma di riserva energetica negli animali. Sono formati da una molecola di glicerolo legata a tre acidi grassi tramite legami estere. Forniscono nove chilocalorie per grammo, più del doppio dei carboidrati, e per questo sono la forma di immagazzinamento energetico più efficiente.
+
+I fosfolipidi sono simili ai trigliceridi, ma al posto di un terzo acido grasso portano un gruppo fosfato legato a una molecola polare come la colina. Questo li rende anfipatici: hanno una testa idrofila e due code idrofobe. Questa proprietà è alla base della struttura delle membrane biologiche, dove i fosfolipidi si organizzano spontaneamente in un doppio strato con le teste rivolte verso l'acqua e le code all'interno, lontane dall'acqua.
+
+Il colesterolo è uno steroide, non un acido grasso. Ha una struttura ad anelli caratteristica e si trova nelle membrane delle cellule animali dove regola la fluidità. È anche il precursore degli ormoni steroidei come il testosterone, l'estradiolo e il cortisolo, degli acidi biliari e della vitamina D.
+
+I saponi sono sali di acidi grassi a catena lunga, come lo stearato di sodio. Si ottengono per saponificazione, cioè facendo reagire un trigliceride con una base forte come l'idrossido di sodio. I saponi funzionano come detergenti proprio perché hanno una testa idrofila e una coda idrofoba, e possono quindi circondare le molecole di grasso formando micelle che si disperdono in acqua.
+
+
+LE PROTEINE.
+
+Le proteine sono i protagonisti della biologia molecolare. Sono polimeri di amminoacidi e svolgono una quantità enorme di funzioni: fanno da catalizzatori nelle reazioni chimiche, trasportano molecole nel sangue, costituiscono strutture meccaniche come i capelli e le unghie, difendono il corpo come anticorpi, trasmettono segnali ormonali e regolano l'espressione dei geni.
+
+Gli amminoacidi sono le unità base delle proteine. Ce ne sono venti standard nel codice genetico, e tutti hanno una struttura comune: un carbonio centrale detto carbonio alfa, a cui sono legati un gruppo amminico, un gruppo carbossilico, un atomo di idrogeno e una catena laterale chiamata catena R. È proprio la catena R che differenzia i venti amminoacidi tra loro: può essere non polare e idrofobica, polare neutra, acida o basica.
+
+Due amminoacidi si uniscono per formare un legame peptidico: il gruppo carbossilico di un amminoacido reagisce con il gruppo amminico del successivo con perdita di una molecola d'acqua. Il legame peptidico ha un carattere parzialmente doppio a causa della risonanza elettronica, il che lo rende rigido e planare, limitando la rotazione libera intorno ad esso.
+
+Le proteine hanno quattro livelli di struttura. La struttura primaria è semplicemente la sequenza degli amminoacidi nella catena polipeptidica, dall'estremità amminica a quella carbossilica. È questa sequenza che determina tutto il resto, perché è codificata nel DNA.
+
+La struttura secondaria descrive le conformazioni locali regolari che si formano grazie ai legami a idrogeno tra i gruppi amminico e carbonilico del backbone della catena. Le più comuni sono l'elica alfa, una struttura a spirale destra in cui ogni giro comprende circa tre virgola sei amminoacidi, e il foglietto beta pieghettato, in cui catene affiancate sono tenute insieme da legami a idrogeno.
+
+La struttura terziaria è il ripiegamento tridimensionale complessivo dell'intera catena polipeptidica. È stabilizzata da ponti disolfuro tra cisteine, interazioni idrofobiche tra catene laterali apolari, legami ionici e legami a idrogeno. In acqua, le regioni idrofobiche tendono a nascondersi all'interno della proteina, mentre le regioni idrofile stanno in superficie a contatto con l'acqua.
+
+La struttura quaternaria descrive l'associazione di più catene polipeptidiche in un complesso proteico funzionale. L'emoglobina, per esempio, è formata da quattro catene, due alfa e due beta, ognuna con un gruppo eme contenente ferro che lega l'ossigeno.
+
+Gli enzimi sono proteine con funzione catalitica: accelerano le reazioni chimiche abbassando l'energia di attivazione, cioè l'energia necessaria per avviare la reazione. Non vengono consumati nella reazione e non modificano l'equilibrio termodinamico, ma solo la velocità con cui l'equilibrio viene raggiunto. Ogni enzima ha un sito attivo, una tasca tridimensionale complementare al substrato dove avviene la catalisi. Molti enzimi hanno anche un sito allosterico, distante dal sito attivo, a cui si legano molecole regolatrici che attivano o inibiscono l'enzima modificandone la conformazione.
+
+
+GLI ACIDI NUCLEICI.
+
+Il DNA e l'RNA sono gli acidi nucleici, le molecole che portano e trasmettono l'informazione genetica. Sono polimeri di nucleotidi. Ogni nucleotide è formato da tre componenti: una base azotata, uno zucchero a cinque carboni e uno o più gruppi fosfato.
+
+Le basi azotate si dividono in due famiglie. Le pirimidine hanno un solo anello eterociclico e comprendono la citosina, la timina e l'uracile. Le purine hanno due anelli fusi e comprendono l'adenina e la guanina. È importante ricordare questa distinzione: citosina, timina e uracile sono pirimidine con un anello solo; adenina e guanina sono purine con due anelli.
+
+Nel DNA lo zucchero è il deossiribosio e le basi sono adenina, guanina, citosina e timina. Nell'RNA lo zucchero è il ribosio e le basi sono adenina, guanina, citosina e uracile: l'uracile prende il posto della timina. Questa è una differenza fondamentale: la timina è presente nel DNA ma non nell'RNA.
+
+Il DNA forma una doppia elica: due catene avvolte l'una attorno all'altra in senso destrorso, tenute insieme dall'appaiamento specifico delle basi. L'adenina si appaia sempre con la timina tramite due legami a idrogeno, mentre la guanina si appaia con la citosina tramite tre legami a idrogeno. Questo appaiamento specifico è la base della replicazione, della trascrizione e di molte tecniche di biologia molecolare. Le due catene sono antiparallele: una va in direzione cinque primo verso tre primo, l'altra va in direzione opposta.
+
+Esistono diversi tipi di RNA con funzioni diverse. L'RNA messaggero, o mRNA, porta l'informazione dal DNA ai ribosomi dove viene tradotta in proteina. L'RNA di trasporto, o tRNA, è l'adattatore che porta ogni amminoacido al ribosoma riconoscendo il codone corrispondente sull'mRNA. L'RNA ribosomiale, o rRNA, è un componente strutturale e catalitico dei ribosomi ed è sintetizzato nel nucleolo, la struttura interna del nucleo dedicata a questa funzione.
+
+
+LEZIONE 2 - LA CELLULA.
+
+La cellula è l'unità fondamentale della vita. Tutti gli organismi viventi sono composti da cellule, che possono essere di due grandi tipi: procariote ed eucariote. La differenza principale sta nella presenza o assenza di un nucleo delimitato da membrana.
+
+Le cellule procariotiche sono le più semplici e antiche. Batteri e archei sono procarioti. Non hanno un nucleo separato dal citoplasma da una membrana: il loro DNA circolare a doppio filamento è semplicemente concentrato in una regione del citoplasma chiamata nucleoide. Mancano degli organelli membranosi tipici delle cellule eucariotiche come i mitocondri, il reticolo endoplasmatico e l'apparato di Golgi. I ribosomi ci sono, ma sono più piccoli di quelli eucariotici, settanta S contro ottanta S. Hanno la membrana plasmatica e nella maggior parte dei casi una parete cellulare di peptidoglicano. I batteri si riproducono per scissione binaria, non per mitosi.
+
+Un punto importante che gli esami testano spesso: i batteri hanno la membrana plasmatica. L'affermazione contraria è falsa. Quello che manca ai batteri è il nucleo circondato da membrana, non la membrana plasmatica.
+
+Le cellule eucariotiche sono molto più complesse. Il DNA lineare è contenuto nel nucleo, circondato da un involucro nucleare a doppia membrana. La membrana esterna del nucleo è in continuità con il reticolo endoplasmatico rugoso, un sistema di membrane presente nel citoplasma. I ribosomi eucariotici sono più grandi, ottanta S, e si trovano sia liberi nel citoplasma che associati al reticolo endoplasmatico rugoso. Le cellule eucariotiche hanno mitocondri, apparato di Golgi, lisosomi e molti altri organelli.
+
+Il nucleo è il centro di controllo della cellula eucariotica. Contiene il materiale genetico organizzato come cromatina, cioè DNA avvolto attorno a proteine chiamate istoni. La cromatina si condensa in cromosomi visibili durante la divisione cellulare. All'interno del nucleo si trova il nucleolo, una struttura densa senza membrana propria dove vengono sintetizzate le subunità ribosomiali.
+
+I mitocondri sono gli organelli della respirazione cellulare, dove viene prodotta la maggior parte dell'energia della cellula sotto forma di ATP. Hanno una doppia membrana: quella esterna è permeabile alle molecole piccole, mentre quella interna è impermeabile e molto ripiegata in creste, dette cristae, dove si trovano gli enzimi della catena di trasporto degli elettroni e l'ATP sintasi. La matrice interna contiene il DNA mitocondriale circolare, i ribosomi settanta S e gli enzimi del ciclo di Krebs. Il fatto che i mitocondri abbiano DNA proprio e ribosomi simili a quelli batterici è uno degli argomenti principali a supporto della teoria endosimbiotica, che postula che i mitocondri discendano da batteri fagocitati da cellule ospite ancestrali.
+
+I mitocondri sono presenti in tutte le cellule eucariotiche aerobiche, incluse le cellule vegetali. Questo è un errore frequente: pensare che i mitocondri ci siano solo nelle cellule animali. Le cellule vegetali hanno sia i mitocondri che i cloroplasti.
+
+I cloroplasti sono presenti solo nelle cellule vegetali e nelle alghe. Sono il sito della fotosintesi e hanno anch'essi una doppia membrana, più un sistema interno di membrane chiamate tilacoidi organizzate in pile dette grana. Anche i cloroplasti hanno DNA circolare e ribosomi settanta S, per le stesse ragioni evolutive dei mitocondri.
+
+Il reticolo endoplasmatico è un sistema esteso di membrane interconnesse. Il reticolo rugoso porta ribosomi sulla superficie e sintetizza le proteine destinate alla secrezione, alle membrane o ai lisosomi. Il reticolo liscio non ha ribosomi e si occupa della sintesi dei lipidi, del metabolismo degli zuccheri nel fegato e dello stoccaggio del calcio nei muscoli.
+
+L'apparato di Golgi è la stazione di smistamento della cellula. Riceve le proteine dal reticolo endoplasmatico, le modifica con l'aggiunta di zuccheri e altri gruppi chimici, e le invia verso le loro destinazioni finali: la membrana plasmatica, i lisosomi o la via secretoria verso l'esterno della cellula. L'apparato di Golgi è particolarmente sviluppato nelle cellule con intensa attività secretoria, come le cellule acinose del pancreas che producono enzimi digestivi o le plasmacellule che producono anticorpi.
+
+I lisosomi sono vescicole piene di enzimi idrolitici che degradano macromolecole, organelli danneggiati e materiale fagocitato. Il loro interno è mantenuto acido, intorno a pH quattro virgola cinque, condizione ottimale per gli enzimi idrolitici. I lisosomi sono delimitati da una singola membrana e derivano dall'apparato di Golgi.
+
+I ribosomi meritano un'attenzione speciale. Non sono delimitati da membrana e sono presenti in tutte le cellule, sia procariotiche che eucariotiche. Sono formati da RNA ribosomiale e proteine ribosomiali. Hanno due subunità: nei procarioti sono settanta S, formate da una subunità trenta S e una cinquanta S; negli eucarioti sono ottanta S, formate da una quaranta S e una sessanta S. Nei mitocondri e nei cloroplasti ci sono ribosomi settanta S, come nei batteri. La funzione dei ribosomi è la sintesi delle proteine, cioè la traduzione delle informazioni contenute nell'mRNA in sequenze di amminoacidi.
+
+Il citoscheletro è la rete di filamenti proteici che dà forma alla cellula, la sostiene meccanicamente e permette i movimenti cellulari. È composto da tre tipi di filamenti. I microtubuli sono i più grandi, con un diametro di venticinque nanometri, e sono formati da dimeri di tubulina. Formano il fuso mitotico durante la divisione cellulare, costituiscono le ciglia e i flagelli e servono come binari per il trasporto intracellulare. La colchicina è una tossina che blocca la polimerizzazione della tubulina: le cellule trattate con colchicina si bloccano in metafase perché non riescono a formare il fuso. I microfilamenti sono formati da actina e hanno un diametro di sette nanometri. Sono coinvolti nella contrazione muscolare, nel movimento cellulare, nella citodieresi e nei microvilli intestinali. I filamenti intermedi, con un diametro di dieci nanometri, sono formati da proteine fibrose e hanno principalmente funzione di sostegno meccanico. Includono le cheratine nelle cellule epiteliali, la vimentina nei fibroblasti e le lamine nucleari che supportano l'involucro del nucleo.
+
+
+LEZIONE 3 - LE MEMBRANE BIOLOGICHE E IL TRASPORTO.
+
+La membrana plasmatica è la frontiera della cellula, la struttura che la separa dall'ambiente esterno e regola cosa entra e cosa esce. È presente in tutte le cellule, sia procariotiche che eucariotiche, senza eccezioni.
+
+Il modello attualmente accettato per descrivere la struttura della membrana è il modello a mosaico fluido, proposto da Singer e Nicolson nel 1972. Secondo questo modello, la membrana è un doppio strato fosfolipidico in cui le proteine sono immerse o associate. I fosfolipidi si dispongono spontaneamente con le teste polari idrofile rivolte verso l'acqua, sia verso l'interno della cellula che verso l'esterno, e le code idrofobe al centro del doppio strato. Il doppio strato è fluido: i lipidi e le proteine possono muoversi lateralmente all'interno della membrana. Il colesterolo si inserisce tra i fosfolipidi e regola la fluidità: a basse temperature impedisce la solidificazione aumentando la fluidità, ad alte temperature limita il movimento riducendo la fluidità eccessiva.
+
+Le proteine di membrana svolgono funzioni diverse: alcune fanno da canali o trasportatori per far passare molecole attraverso la membrana, altre sono recettori che legano molecole segnale come ormoni o neurotrasmettitori, altre ancora hanno funzione enzimatica o servono da ancoraggio al citoscheletro o alla matrice extracellulare.
+
+Il trasporto attraverso la membrana può avvenire senza spesa di energia, seguendo il gradiente di concentrazione, oppure richiedendo energia per muovere molecole contro gradiente.
+
+La diffusione semplice è il passaggio di molecole piccole e non polari direttamente attraverso il doppio strato lipidico. L'ossigeno, il diossido di carbonio, l'azoto e i piccoli alcoli diffondono in questo modo. Le molecole polari come il glucosio o gli ioni come il sodio non possono diffondere direttamente attraverso il doppio strato perché sono incompatibili con il nucleo idrofobico.
+
+La diffusione facilitata avviene attraverso proteine di canale o di trasporto che permettono il passaggio di molecole polari o ioni senza spesa di energia, seguendo il gradiente. Il glucosio entra nelle cellule per diffusione facilitata tramite i trasportatori GLUT. Gli ioni sodio, potassio, calcio e cloro attraversano la membrana tramite canali ionici specifici.
+
+Il trasporto attivo spende energia, solitamente sotto forma di idrolisi dell'ATP, per muovere molecole contro il loro gradiente di concentrazione. La pompa sodio-potassio è l'esempio classico: per ogni molecola di ATP idrolizzata, pompa tre ioni sodio fuori dalla cellula e due ioni potassio dentro. Questo mantiene alta la concentrazione di sodio all'esterno e alta la concentrazione di potassio all'interno, creando il gradiente elettrochimico fondamentale per le cellule nervose e muscolari.
+
+L'osmosi è il caso speciale della diffusione dell'acqua attraverso una membrana semipermeabile. L'acqua si sposta sempre dalla zona a minore concentrazione di soluto, dove ce n'è di più acqua, verso la zona ad alta concentrazione di soluto, dove ce n'è di meno. Se una cellula è immersa in una soluzione con più soluto di quanto ce ne sia dentro la cellula, detta soluzione ipertonica, l'acqua uscirà dalla cellula per osmosi e la cellula si raggrinzirà. Se invece la soluzione esterna è meno concentrata, detta ipotonica, l'acqua entrerà e la cellula si gonfierà, rischiando di scoppiare. Una soluzione isotonica ha la stessa concentrazione della cellula e non causa spostamenti netti di acqua.
+
+Il trasporto vescicolare riguarda molecole grandi che non possono attraversare la membrana in altro modo. L'endocitosi è il processo con cui la cellula importa materiale dall'esterno: la membrana si invagina e forma una vescicola che racchiude il materiale. La fagocitosi è l'ingestione di particelle solide come batteri ed è eseguita principalmente dai macrofagi e dai neutrofili. La pinocitosi è l'ingestione di fluidi e soluti in piccole vescicole. L'esocitosi è il processo inverso: le vescicole contenenti molecole da secernere si fondono con la membrana plasmatica e riversano il contenuto all'esterno.
+
+
+LEZIONE 4 - IL CICLO CELLULARE, LA MITOSI E LA MEIOSI.
+
+Le cellule si riproducono dividendosi. Prima di dividersi, una cellula deve duplicare tutto il suo contenuto, soprattutto il DNA. Il ciclo cellulare descrive la sequenza ordinata di eventi che portano dalla nascita di una cellula alla sua divisione in due cellule figlie.
+
+Il ciclo cellulare si divide in interfase e fase mitotica. L'interfase è il periodo di crescita e preparazione e comprende tre fasi: G1, S e G2. La fase G1 è la prima fase di crescita, in cui la cellula aumenta di dimensioni e sintetizza le proteine necessarie per la replicazione del DNA. La fase S è la fase di sintesi, in cui avviene la duplicazione del DNA: ogni cromosoma viene replicato producendo due cromatidi fratelli identici tenuti insieme al centromero. La fase G2 è la seconda fase di crescita, in cui la cellula continua a crescere e prepara i materiali necessari per la divisione. La fase M, o mitotica, comprende la mitosi vera e propria e la citodieresi.
+
+Il ciclo è regolato da complessi proteici formati da cicline e chinasi ciclino-dipendenti, dette CDK. Le cicline sono proteine il cui livello varia durante il ciclo, a differenza delle CDK che sono presenti sempre. Quando una ciclina si lega alla sua CDK, il complesso risultante è attivo e può fosforilare proteine bersaglio che guidano la progressione del ciclo. Esistono diversi complessi ciclina-CDK che agiscono in momenti diversi del ciclo. Ci sono anche punti di controllo, chiamati checkpoint, in cui la cellula verifica che tutto sia andato bene prima di procedere: il checkpoint G1-S controlla l'integrità del DNA prima della replicazione, il checkpoint G2-M verifica che la replicazione sia completata, e il checkpoint del fuso in metafase controlla che tutti i cromosomi siano attaccati correttamente al fuso mitotico prima della separazione.
+
+La mitosi produce due cellule figlie geneticamente identiche alla cellula madre, entrambe con il corredo cromosomico completo diploide. È la divisione usata per la crescita, la riparazione dei tessuti e la riproduzione asessuata. Si divide in quattro fasi principali.
+
+Nella profase i cromosomi si condensano diventando visibili al microscopio, il nucleolo scompare, e inizia la formazione del fuso mitotico a partire dai centrosomi.
+
+Nella prometafase l'involucro nucleare si disgrega e i microtubuli del fuso si attaccano ai cinetocori, strutture proteiche presenti su ciascun centromero.
+
+Nella metafase i cromosomi sono massimamente condensati e si allineano tutti sul piano equatoriale della cellula, detto piastra metafasica. È in questa fase che si può fare il cariotipo, cioè l'analisi fotografica dei cromosomi. La colchicina blocca le cellule in questa fase perché impedisce la formazione del fuso.
+
+Nell'anafase le due copie di ogni cromosoma, i cromatidi fratelli, si separano e migrano verso i poli opposti della cellula. Ciascun polo riceve una copia completa del genoma.
+
+Nella telofase si riformano gli involucri nucleari attorno a ciascun gruppo di cromosomi, i cromosomi si decondensano e ricompare il nucleolo.
+
+La citodieresi, cioè la divisione del citoplasma, avviene in modo diverso nelle cellule animali e vegetali. Nelle cellule animali si forma un anello contrattile di actina e miosina che stringe la cellula fino a dividerla in due. Nelle cellule vegetali non si può usare questo meccanismo perché la parete cellulare è rigida, quindi si forma la piastra cellulare al centro della cellula a partire da vescicole dell'apparato di Golgi che si fondono e depositano materiale per le nuove pareti.
+
+La meiosi è fondamentalmente diversa dalla mitosi. Mentre la mitosi produce due cellule diploidi identiche, la meiosi produce quattro cellule aploidi con metà del corredo cromosomico e variabilità genetica. Avviene nelle cellule germinali per produrre i gameti, cioè spermatozoi e ovociti.
+
+La meiosi comprende due divisioni successive. La meiosi prima, detta riduzionale, separa i cromosomi omologhi: i ventitré cromosomi di origine materna si separano dai ventitré di origine paterna, e ogni cellula figlia riceve una sola versione di ogni cromosoma, diventando aploide. La meiosi seconda, detta equazionale, è simile alla mitosi: i cromatidi fratelli si separano, producendo quattro cellule aploidi.
+
+La profase prima della meiosi è lunga e complessa. È in questa fase che avviene la sinapsi, cioè l'appaiamento preciso dei cromosomi omologhi lungo tutta la loro lunghezza, e soprattutto il crossing over, cioè lo scambio di segmenti tra cromatidi non fratelli di cromosomi omologhi. Il crossing over rimescola i geni tra i cromosomi materno e paterno, producendo nuove combinazioni di alleli e aumentando enormemente la variabilità genetica. Un crossing over bilanciato significa che c'è stato uno scambio reciproco di segmenti della stessa dimensione, e il risultato è che ogni cromosoma contiene materiale genetico sia materno che paterno.
+
+L'assortimento casuale dei cromosomi in metafase prima è un altro meccanismo di variabilità: l'orientamento di ogni coppia di omologhi è indipendente dagli altri, per cui ci sono due elevato alla ventitré, cioè oltre otto milioni, di possibili combinazioni di cromosomi in ogni gamete, solo per effetto dell'assortimento indipendente, prima ancora di considerare il crossing over.
+
+
+LEZIONE 5 - IL DNA, LA REPLICAZIONE, LA TRASCRIZIONE E LA TRADUZIONE.
+
+Il DNA porta l'informazione genetica che specifica la struttura di ogni proteina. Il flusso dell'informazione biologica segue la direzione da DNA a RNA a proteina, un principio chiamato dogma centrale della biologia molecolare.
+
+La replicazione del DNA avviene durante la fase S del ciclo cellulare e produce due copie identiche di ogni molecola di DNA. La replicazione è semiconservativa: ciascuno dei due filamenti della doppia elica serve da stampo per la sintesi di un nuovo filamento complementare, così ogni molecola figlia contiene un filamento vecchio e uno nuovo. Questo fu dimostrato da Meselson e Stahl nel 1958 usando azoto marcato.
+
+La replicazione inizia in punti specifici del DNA chiamati origini di replicazione, dove un complesso di proteine apre la doppia elica. L'elicasi è l'enzima che rompe i legami a idrogeno tra le basi e svolge i due filamenti. La primasi sintetizza un breve innesco di RNA, detto primer, dal quale la DNA polimerasi può iniziare la sintesi. La DNA polimerasi aggiunge nucleotidi in direzione cinque primo verso tre primo, copiando il filamento stampo in direzione complementare. Uno dei due filamenti, detto filamento guida, viene sintetizzato in modo continuo seguendo il forchettone di replicazione. L'altro filamento, detto filamento ritardato, viene sintetizzato in modo discontinuo in frammenti chiamati frammenti di Okazaki, che vengono poi saldati dalla DNA ligasi. I frammenti di Okazaki si formano solo sul filamento ritardato, non sul filamento guida.
+
+La Taq polimerasi è una DNA polimerasi termostabile isolata dal batterio Thermus aquaticus, che vive in sorgenti termali ad alta temperatura. Come tutte le DNA polimerasi, necessita di un primer per iniziare la sintesi. La sua resistenza al calore la rende ideale per la PCR.
+
+La trascrizione è la sintesi di RNA a partire da uno stampo di DNA. Avviene nel nucleo nelle cellule eucariotiche. L'enzima responsabile è la RNA polimerasi, che non ha bisogno di un primer, a differenza della DNA polimerasi. La RNA polimerasi si lega a una regione del DNA chiamata promotore, apre la doppia elica e sintetizza una copia di RNA complementare al filamento stampo, in direzione cinque primo verso tre primo.
+
+Negli eucarioti il trascritto primario, detto pre-mRNA, deve essere modificato prima di poter essere tradotto. Viene aggiunto un cappuccio di metilguanosina all'estremità cinque primo, che protegge l'mRNA dalla degradazione e facilita il riconoscimento da parte dei ribosomi. Viene aggiunta una coda di adenosine all'estremità tre primo. Infine avviene lo splicing: le sequenze non codificanti, chiamate introni, vengono rimosse e le sequenze codificanti, chiamate esoni, vengono unite tra loro. L'mRNA maturo risultante viene esportato dal nucleo al citoplasma dove viene tradotto.
+
+La traduzione è la sintesi di una proteina a partire dalla sequenza di codoni dell'mRNA. Avviene ai ribosomi. Il codone è una sequenza di tre nucleotidi dell'mRNA che specifica un determinato amminoacido. Il codice genetico è degenerato, cioè lo stesso amminoacido può essere codificato da più codoni, ma non è ambiguo, cioè ogni codone specifica uno solo amminoacido. È anche universale: con pochissime eccezioni, lo stesso codice vale in tutti gli organismi viventi, dai batteri agli esseri umani.
+
+Il codone di inizio è AUG, che specifica la metionina. I codoni di stop sono UAA, UAG e UGA: non corrispondono ad alcun amminoacido ma segnalano la fine della sintesi proteica.
+
+I tRNA sono gli adattatori della traduzione: ogni tRNA porta un amminoacido specifico e ha una sequenza di tre nucleotidi, l'anticodone, che si appaia in modo complementare al codone corrispondente sull'mRNA. Quando il tRNA con il giusto amminoacido si appaia al codone nel sito A del ribosoma, l'amminoacido viene aggiunto alla catena polipeptidica in crescita. Poi il ribosoma trasla di tre nucleotidi sull'mRNA e il processo si ripete.
+
+Una mutazione silente è una mutazione che cambia un nucleotide nel codone ma non cambia l'amminoacido specificato, grazie alla degenerazione del codice. Non ha quindi effetto sulla sequenza della proteina. Una mutazione di senso errato cambia l'amminoacido, con possibili effetti sulla funzione della proteina. Una mutazione nonsenso crea un codone di stop prematuro, troncando la proteina. Le mutazioni frameshift inseriscono o eliminano un numero di basi non multiplo di tre, spostando il frame di lettura e alterando tutti i codoni a valle della mutazione.
+
+
+LEZIONE 6 - LA GENETICA.
+
+Gregor Mendel, un monaco agostiniano austriaco, gettò le basi della genetica moderna nel diciannovesimo secolo conducendo esperimenti incrociando piante di pisello. Prima che si sapesse cosa fosse il DNA o cosa fossero i cromosomi, Mendel dedusse le leggi della trasmissione dei caratteri ereditari studiando i risultati statistici degli incroci.
+
+Un gene è l'unità funzionale dell'informazione genetica. Ogni gene occupa una posizione specifica su un cromosoma, detta locus. Gli alleli sono le forme alternative di un gene presenti alla stessa posizione sul cromosoma omologo. Un individuo diploide ha due copie di ogni cromosoma, una di origine materna e una di origine paterna, e quindi due alleli per ogni locus. Se i due alleli sono identici, l'individuo è omozigote per quel gene; se sono diversi, è eterozigote.
+
+Un allele dominante si esprime nel fenotipo sia in omozigosi che in eterozigosi, mascherando l'effetto dell'allele recessivo. Un allele recessivo si esprime nel fenotipo solo quando è presente in doppia copia, cioè in omozigosi.
+
+La prima legge di Mendel, detta legge della segregazione, stabilisce che i due alleli di un individuo si separano durante la formazione dei gameti, così ogni gamete riceve uno solo dei due alleli. La base cellulare di questa legge è la meiosi, che separa i cromosomi omologhi nelle cellule figlie.
+
+La seconda legge di Mendel, detta legge dell'assortimento indipendente, stabilisce che geni presenti su cromosomi diversi si assortiscono in modo indipendente durante la formazione dei gameti. Questo significa che la versione materna o paterna di un cromosoma viene distribuita ai gameti indipendentemente da cosa succede agli altri cromosomi. Questa legge vale però solo per geni che si trovano su cromosomi diversi o molto lontani tra loro sullo stesso cromosoma. Geni vicini sullo stesso cromosoma, detti in linkage o associati, tendono a essere trasmessi insieme.
+
+Consideriamo un incrocio classico. Se incrociamo due individui entrambi eterozigoti per un carattere, diciamo Aa per A maiuscolo e a minuscolo, la progenie sarà per un quarto AA, per metà Aa e per un quarto aa. In termini di fenotipo, i tre quarti con almeno un allele dominante mostreranno il fenotipo dominante e un quarto, gli omozigoti recessivi, mostrerà il fenotipo recessivo. Questo produce il classico rapporto tre a uno.
+
+Per due caratteri indipendenti, incrociando due individui entrambi AaBb, si producono sedici combinazioni possibili con rapporto fenotipico nove a tre a tre a uno. Nove con entrambi i caratteri dominanti, tre con il primo dominante e il secondo recessivo, tre con il primo recessivo e il secondo dominante, uno con entrambi i caratteri recessivi.
+
+L'eredità legata al sesso riguarda geni presenti sul cromosoma X. I maschi hanno un solo cromosoma X, ricevuto dalla madre, e un cromosoma Y, ricevuto dal padre. Per questo i maschi sono detti emizigoti per i geni sul cromosoma X: se un gene sul cromosoma X è recessivo, il maschio non può nasconderlo dietro un secondo allele dominante. Il daltonismo e l'emofilia A sono esempi di caratteri recessivi legati all'X. Un maschio daltónico ha ricevuto l'allele per il daltonismo dalla madre. Un figlio maschio riceve sempre il cromosoma X dalla madre e il cromosoma Y dal padre: non può ricevere il cromosoma X dal padre.
+
+Le aneuploidie sono anomalie nel numero di cromosomi. Possono verificarsi quando i cromosomi non si separano correttamente durante la meiosi, un fenomeno chiamato non-disgiunzione. La sindrome di Down è causata dalla presenza di tre copie del cromosoma 21 invece di due, una trisomia 21. Ci sono anche aneuploidie dei cromosomi sessuali, come la sindrome di Klinefelter con cariotipo 47 cromosomi XXY nei maschi, o la sindrome di Turner con cariotipo 45 cromosomi X nei femmine.
+
+L'anemia falciforme è una malattia genetica causata da una singola mutazione puntiforme nel gene della beta-globina: un nucleotide cambia e fa sì che al sesto amminoacido ci sia valina invece di acido glutammico. Questo cambia le proprietà della molecola di emoglobina, che in condizioni di basso contenuto di ossigeno polimerizza e deforma i globuli rossi a forma di falce. È trasmessa in modo autosomico recessivo.
+
+La fibrosi cistica è causata da mutazioni nel gene CFTR, che codifica per un canale del cloro. La mutazione più comune è la delezione di un'intera fenilalanina in posizione 508 della proteina. In assenza di funzione di questo canale le secrezioni diventano dense e viscose, causando problemi polmonari cronici. Anche questa è autosomica recessiva.
+
+La corea di Huntington invece è autosomica dominante: basta un solo allele mutato per causare la malattia. È causata da un'espansione anomala di una ripetizione di tre nucleotidi nel gene HTT, e si manifesta tipicamente in età adulta con degenerazione progressiva dei neuroni del sistema nervoso centrale.
+
+
+LEZIONE 7 - IL METABOLISMO.
+
+Il metabolismo è l'insieme di tutte le reazioni chimiche che avvengono in un organismo vivente. Si divide in catabolismo, che è la demolizione di molecole organiche complesse con liberazione di energia, e anabolismo, che è la costruzione di molecole complesse a partire da molecole semplici con consumo di energia.
+
+La glicolisi è la prima tappa del catabolismo del glucosio. Avviene nel citoplasma e non richiede ossigeno. In questa via il glucosio, una molecola a sei carboni, viene scissa in due molecole di piruvato, ciascuna a tre carboni. Il rendimento netto è di due molecole di ATP e due molecole di NADH per ogni molecola di glucosio. In condizioni aerobiche, cioè in presenza di ossigeno, il piruvato entra nei mitocondri e viene ossidato ulteriormente. In condizioni anaerobiche, senza ossigeno, il piruvato viene convertito in lattato nei muscoli, o in etanolo e diossido di carbonio nei lieviti. Queste fermentazioni rigenerano il NAD+ necessario per continuare la glicolisi.
+
+In presenza di ossigeno, il piruvato entra nella matrice mitocondriale dove viene trasformato in acetil-coenzima A da un complesso enzimatico chiamato piruvato deidrogenasi. Per ogni piruvato ossidato si produce un acetil-CoA, un NADH e una molecola di diossido di carbonio.
+
+Il ciclo di Krebs, detto anche ciclo dell'acido citrico, avviene nella matrice mitocondriale. L'acetil-CoA, una molecola a due carboni, si combina con l'ossalacetato, una molecola a quattro carboni, formando il citrato a sei carboni. In una serie di otto reazioni, il citrato viene progressivamente ossidato, liberando due molecole di diossido di carbonio e rigenerando l'ossalacetato pronto per un nuovo giro. Per ogni giro del ciclo si producono tre NADH, un FADH2 e un GTP, oltre alle due molecole di diossido di carbonio. Per ogni molecola di glucosio, il ciclo gira due volte producendo sei NADH, due FADH2 e due GTP, oltre a quattro molecole di diossido di carbonio.
+
+La fosforilazione ossidativa avviene sulla membrana interna dei mitocondri ed è responsabile della produzione della grande maggioranza dell'ATP cellulare. Il NADH e il FADH2 prodotti dalla glicolisi e dal ciclo di Krebs cedono i loro elettroni alla catena di trasporto degli elettroni, una serie di complessi proteici incorporati nella membrana interna. Gli elettroni vengono passati da un complesso all'altro in un senso energeticamente favorevole, e alla fine vengono ceduti all'ossigeno molecolare, che viene ridotto ad acqua. L'energia liberata da questi trasferimenti di elettroni viene usata per pompare protoni dalla matrice mitocondriale verso lo spazio intermembrana, creando un gradiente di concentrazione dei protoni. Questi protoni tornano nella matrice attraverso l'ATP sintasi, un enzima che usa l'energia del flusso protonico per sintetizzare ATP da ADP e fosfato. Questo meccanismo si chiama chemiosmosi. L'ossigeno è l'accettore finale degli elettroni: senza ossigeno la catena si ferma e la fosforilazione ossidativa cessa.
+
+La fotosintesi è il processo inverso: le piante, le alghe e i cianobatteri usano l'energia della luce per costruire glucosio a partire da diossido di carbonio e acqua. È un processo anabolico che avviene nei cloroplasti. Si divide in due fasi. Le reazioni dipendenti dalla luce avvengono nelle membrane dei tilacoidi: la luce eccita la clorofilla, che trasferisce energia agli elettroni, i quali vengono usati per produrre ATP e NADPH e per scindere l'acqua, liberando ossigeno. Le reazioni indipendenti dalla luce, o ciclo di Calvin, avvengono nello stroma: il diossido di carbonio viene fissato tramite l'enzima RuBisCO e ridotto a gliceraldeide-3-fosfato usando l'ATP e il NADPH prodotti nella fase luminosa. La fotosintesi usa NADPH, non NADH come la respirazione cellulare: questa è una distinzione che gli esami richiedono spesso.
+
+
+LEZIONE 8 - CHIMICA GENERALE: ATOMI, LEGAMI E TAVOLA PERIODICA.
+
+La materia è costituita da atomi. Ogni atomo ha un nucleo centrale contenente protoni, con carica positiva, e neutroni, senza carica, e una nuvola di elettroni con carica negativa che circonda il nucleo. Il numero atomico Z è il numero di protoni nel nucleo e identifica univocamente l'elemento chimico. In un atomo neutro il numero di elettroni eguaglia il numero di protoni. Il numero di massa A è la somma di protoni e neutroni.
+
+Gli elettroni si trovano in livelli di energia chiamati gusci o orbitali. Il numero quantico principale n indica il livello di energia principale. All'interno di ogni livello ci sono diversi tipi di orbitali indicati con le lettere s, p, d e f. Un orbitale s può contenere al massimo due elettroni, gli orbitali p tre degeneri per un totale di sei elettroni, gli orbitali d cinque degeneri per dieci elettroni, gli orbitali f sette degeneri per quattordici elettroni.
+
+La configurazione elettronica di un atomo descrive come gli elettroni sono distribuiti negli orbitali. Gli elementi si riempiono seguendo la regola di Aufbau, che prevede che si riempiano prima gli orbitali di energia più bassa. Il principio di Pauli stabilisce che ogni orbitale può contenere al massimo due elettroni con spin opposti. La regola di Hund dice che quando ci sono orbitali degeneri disponibili, gli elettroni si distribuiscono uno per orbitale prima di fare coppie.
+
+Il manganese, per esempio, ha configurazione elettronica argon più tre d al quinto più quattro s al secondo, cioè diciotto elettroni dell'argon più cinque elettroni nel sottoguscio tre d più due elettroni nel quattro s, per un totale di venticinque elettroni. Questo lo colloca tra gli elementi di transizione, il gruppo degli elementi con il sottoguscio d parzialmente riempito.
+
+La tavola periodica organizza gli elementi in ordine crescente di numero atomico. Gli elementi in una stessa colonna, o gruppo, hanno configurazione elettronica esterna simile e quindi proprietà chimiche simili. Gli elementi nella stessa riga, o periodo, hanno lo stesso numero di livelli energetici occupati.
+
+I metalli alcalini nel gruppo uno hanno un solo elettrone nel livello esterno e sono molto reattivi. I metalli alcalino-terrosi nel gruppo due hanno due elettroni nel livello esterno. Il calcio è un metallo alcalino-terroso. Gli alogeni nel gruppo diciassette hanno sette elettroni nel livello esterno e reagiscono facilmente acquistando un elettrone per completare l'ottetto. I gas nobili nel gruppo diciotto hanno l'ottetto completo e sono inerti.
+
+L'elettronegatività è la tendenza di un atomo ad attrarre elettroni nel legame chimico. Aumenta da sinistra a destra lungo un periodo e diminuisce dall'alto in basso lungo un gruppo. Il fluoro è l'elemento più elettronegativo in assoluto. Il cesio è tra i meno elettronegativi.
+
+I legami chimici si formano quando gli atomi interagiscono per raggiungere una configurazione elettronica più stabile. Il legame covalente si forma quando due atomi condividono una o più coppie di elettroni. Se gli atomi sono identici o hanno la stessa elettronegatività, il legame è covalente puro o apolare. Se hanno elettronegatività diversa, il legame è covalente polare, e la coppia di elettroni condivisa è più vicina all'atomo più elettronegativo. Il legame ionico si forma quando la differenza di elettronegatività è molto grande: un atomo cede completamente uno o più elettroni all'altro, formando ioni di carica opposta che si attraggono elettrostaticamente. L'atomo più elettronegativo riceve gli elettroni e diventa anione, non li cede.
+
+La geometria delle molecole è determinata dalla teoria VSEPR: le coppie di elettroni attorno all'atomo centrale si dispongono in modo da minimizzare le repulsioni. Quattro coppie di legame senza coppie solitarie danno geometria tetraedrica con angoli di centonoveunovirgola cinque gradi. Tre coppie di legame senza coppie solitarie danno geometria triangolare planare con angoli di centoventi gradi. Quattro coppie di elettroni di cui due di legame e due solitarie, come nell'acqua, danno geometria angolare con angolo di centoquattrovirgolacinque gradi.
+
+L'ibridazione descrive la mescolanza di orbitali atomici per formare nuovi orbitali ibridi equivalenti. Il carbonio con ibridazione s p3 forma quattro legami singoli in geometria tetraedrica: è il caso del metano e degli alcani. Il carbonio con ibridazione s p2 forma tre legami sigma in geometria triangolare planare e ha un orbitale p non ibridato perpendicolare al piano che forma il doppio legame pi: è il caso degli alcheni. Il carbonio con ibridazione s p forma due legami sigma in geometria lineare e due orbitali p non ibridati che formano due legami pi, cioè un triplo legame: è il caso degli alchini.
+
+
+LEZIONE 9 - CHIMICA: ACIDI, BASI, pH E SOLUZIONI.
+
+Secondo la teoria di Bronsted e Lowry, un acido è una sostanza capace di donare un protone, cioè uno ione idrogeno, a un'altra molecola. Una base è una sostanza capace di accettare un protone. Quando un acido dona un protone, diventa la sua base coniugata. Quando una base accetta un protone, diventa il suo acido coniugato. L'acido e la sua base coniugata differiscono sempre di un solo protone.
+
+Il pH è la misura dell'acidità di una soluzione, definita come il logaritmo negativo della concentrazione degli ioni idrogeno. In una soluzione neutra a venticinque gradi centigradi il pH è sette. Valori di pH inferiori a sette indicano una soluzione acida, valori superiori a sette indicano una soluzione basica. Il prodotto ionico dell'acqua, cioè il prodotto delle concentrazioni di ioni idrogeno e ioni ossidrile, è sempre uguale a dieci alla meno quattordici a venticinque gradi centigradi, in qualsiasi soluzione acquosa.
+
+Gli acidi forti si dissociano completamente in acqua. Gli acidi deboli si dissociano solo parzialmente. La forza di un acido è espressa dalla costante di acidità Ka. Acidi con Ka grande sono più forti. Gli acidi cloridrico, nitrico, solforico, bromidrico, iodidrico e perclorico sono acidi forti. L'acido acetico, l'acido carbonico, l'acido fosforico e la maggior parte degli acidi organici sono acidi deboli.
+
+Le soluzioni tampone resistono alle variazioni di pH quando si aggiungono piccole quantità di acido o base. Sono composte da un acido debole e dalla sua base coniugata, oppure da una base debole e dal suo acido coniugato. Un esempio di tampone è la miscela di acido acetico e acetato di sodio. Un altro esempio è la miscela di ammoniaca e cloruro di ammonio. Un tampone non si può formare con un acido forte: per formare un tampone serve un acido debole e il suo sale, non una coppia acido forte-sale.
+
+Il sangue è mantenuto a un pH tra setteunotrenta e settevirgolacinquantaquattro grazie a diversi sistemi tampone, il principale dei quali è il tampone bicarbonato, formato da acido carbonico e ione bicarbonato. Questo sistema è regolato sia dai polmoni, che eliminano il diossido di carbonio con il respiro, che dai reni, che regolano l'escrezione di ioni bicarbonato.
+
+Le soluzioni sono miscele omogenee di un soluto disciolto in un solvente. La concentrazione molare, o molarità, esprime il numero di moli di soluto per litro di soluzione. Una soluzione al quindici percento in massa su volume contiene quindici grammi di soluto per cento millilitri di soluzione, il che corrisponde a un virgola cinque grammi per dieci millilitri. La soluzione fisiologica di cloruro di sodio allo zero virgola nove percento contiene nove grammi di cloruro di sodio per litro di soluzione.
+
+Le proprietà colligative sono proprietà delle soluzioni che dipendono solo dal numero di particelle di soluto e non dalla loro natura. La pressione osmotica è una di queste: è proporzionale alla concentrazione delle particelle di soluto. Una soluzione di cloruro di calcio zero virgola uno molare ha una pressione osmotica maggiore di una soluzione di cloruro di potassio zero virgola uno molare, che a sua volta ha pressione osmotica maggiore di una soluzione di fruttosio zero virgola uno molare. Questo perché il cloruro di calcio produce tre particelle per formula dissociandosi in un catione calcio e due anioni cloro, il cloruro di potassio produce due particelle, e il fruttosio, non essendo un elettrolita, produce una sola particella.
+
+Nelle reazioni di ossido-riduzione avviene un trasferimento di elettroni. L'ossidazione è la perdita di elettroni e corrisponde all'aumento del numero di ossidazione. La riduzione è l'acquisto di elettroni e corrisponde alla diminuzione del numero di ossidazione. Chi perde elettroni è il riducente; chi acquista elettroni è l'ossidante. Un ossidante forte ha grande tendenza ad acquistare elettroni. Un riducente forte ha grande tendenza a cedere elettroni.
+
+
+FINE DELLE LEZIONI DISCORSIVE.
+Queste lezioni coprono i principali argomenti di biologia e chimica degli esami di ammissione alle professioni sanitarie, in formato narrativo adatto alla lettura ad alta voce.
+
+
+LEZIONE 10 - LA CHIMICA ORGANICA.
+
+La chimica organica studia i composti del carbonio. Il carbonio è un elemento straordinario perché forma quattro legami covalenti stabili e può concatenarsi con se stesso in catene lunghissime, lineari, ramificate o cicliche, creando una varietà quasi infinita di molecole. Insieme al carbonio, i composti organici contengono principalmente idrogeno, ossigeno, azoto e in misura minore zolfo e fosforo.
+
+Gli idrocarburi sono composti formati solo da carbonio e idrogeno. Gli alcani sono idrocarburi saturi, cioè privi di doppi o tripli legami, con tutti i legami del carbonio impegnati in legami singoli con altri carboni o con idrogeni. La formula generale degli alcani è C n H due n più due: metano con uno, etano con due, propano con tre, butano con quattro, pentano con cinque, esano con sei, eptano con sette, ottano con otto carboni e via dicendo. Negli alcani ogni atomo di carbonio ha ibridazione s p3 e i legami formano angoli di centonoveunovirgola cinque gradi.
+
+Gli alcheni contengono almeno un doppio legame carbonio-carbonio. La formula generale è C n H due n. Il doppio legame è formato da un legame sigma, nel quale la densità elettronica è concentrata sull'asse tra i due atomi, e da un legame pi, in cui la densità elettronica è distribuita sopra e sotto il piano della molecola. I due carboni del doppio legame hanno ibridazione s p2 e gli angoli di legame sono di centoventi gradi. Il doppio legame rende la molecola reattiva verso le reazioni di addizione: sostanze come bromo, cloruro di idrogeno o acqua possono aggiungersi attraverso il doppio legame. La disidratazione di un alcol primario o secondario, cioè la rimozione di una molecola d'acqua per riscaldamento in presenza di acido solforico concentrato, porta alla formazione di un alchene.
+
+Gli alchini contengono un triplo legame carbonio-carbonio, formato da un legame sigma e due legami pi. I carboni del triplo legame hanno ibridazione s p e la geometria è lineare con angoli di centottanta gradi. L'acetilene è l'alchino più semplice.
+
+Gli areni sono idrocarburi che contengono l'anello benzenico. Il benzene è una molecola ciclica con sei carboni disposti in esagono, con i sei elettroni pi delocalizzati su tutto l'anello, che conferiscono al benzene una stabilità particolare chiamata aromaticità. Questa stabilità fa sì che il benzene preferisca le reazioni di sostituzione, in cui si mantiene l'aromaticità, piuttosto che le reazioni di addizione tipiche degli alcheni.
+
+I gruppi funzionali sono atomi o gruppi di atomi che conferiscono proprietà caratteristiche alla molecola. Gli alcoli hanno il gruppo idrossile, O H, legato a un carbonio sp3. Un alcol si dice primario se il carbonio che porta il gruppo idrossile è legato a un solo altro carbonio, secondario se è legato a due, terziario se è legato a tre. Negli alcoli secondari, il carbonio che porta il gruppo idrossile è legato a un solo atomo di idrogeno.
+
+Le aldeidi hanno il gruppo carbonile, cioè il doppio legame carbonio-ossigeno, all'estremità della catena, con almeno un idrogeno legato al carbonio carbonilico. I chetoni hanno il carbonile interno, tra due gruppi carboniosi. Il glucosio in forma lineare è un'aldeide, con il gruppo aldeidico al primo carbonio, mentre il fruttosio è un chetone, con il gruppo chetonico al secondo carbonio.
+
+Gli acidi carbossilici hanno il gruppo carbossile, formato da un carbonile e un gruppo idrossile sullo stesso carbonio, che si scrive COOH. Sono acidi deboli. Gli acidi grassi sono acidi carbossilici con catene lunghe.
+
+Gli esteri si formano dalla reazione di condensazione tra un acido carbossilico e un alcol, con perdita di acqua. I trigliceridi sono esteri del glicerolo con tre acidi grassi. La saponificazione è l'idrolisi basica degli esteri: un trigliceride trattato con idrossido di sodio produce glicerolo e i sali di sodio degli acidi grassi, cioè i saponi.
+
+Le ammine sono derivati dell'ammoniaca in cui uno o più atomi di idrogeno sono sostituiti da gruppi organici. Sono basi: il gruppo amminico accetta protoni. Gli amminoacidi contengono sia un gruppo amminico che un gruppo carbossilico e sono le unità costitutive delle proteine.
+
+
+LEZIONE 11 - I VIRUS E IL SISTEMA IMMUNITARIO.
+
+I virus sono entità biologiche al confine tra il vivente e il non vivente. Non sono cellule: non hanno metabolismo proprio, non crescono e non si riproducono autonomamente. Per replicarsi devono infettare una cellula ospite e sfruttarne il macchinario molecolare. Ogni particella virale, chiamata virione, è formata da acido nucleico, che può essere DNA o RNA, circondato da un guscio proteico chiamato capside. Il capside è composto da subunità proteiche chiamate capsomeri. Alcuni virus hanno anche un involucro lipidico esterno, detto envelope, derivato dalla membrana cellulare dell'ospite.
+
+I retrovirus, come il virus dell'immunodeficienza umana HIV, hanno come materiale genetico l'RNA a singolo filamento. Quando infettano una cellula, una loro proteina chiamata trascrittasi inversa converte l'RNA virale in DNA a doppio filamento, che poi si integra nel genoma della cellula ospite diventando provirus. Questa integrazione è permanente: la cellula porta il provirus per tutta la sua vita e lo può trasmettere alle cellule figlie.
+
+I batteri non sono virus: sono cellule procariotiche vere e proprie. Si riproducono per scissione binaria. Molte malattie batteriche sono causate non dal batterio direttamente ma dalle tossine che esso produce. Il botulismo è causato dalla tossina botulinica prodotta da Clostridium botulinum, che blocca il rilascio di acetilcolina alle sinapsi neuromuscolari causando paralisi flaccida. Il tetano è causato dalla tossina tetanica di Clostridium tetani, che blocca gli interneuroni inibitori causando spasmi muscolari. La mononucleosi invece è causata dal virus di Epstein-Barr, non da un batterio e non da una tossina batterica.
+
+Il sistema immunitario protegge l'organismo dai patogeni. Si divide in immunità innata, che è rapida ma non specifica, e immunità adattativa, che è specifica per ogni patogeno ma richiede giorni per svilupparsi e ha memoria immunologica.
+
+L'immunità innata comprende le barriere fisiche come la cute e le mucose, le cellule fagocitiche come i neutrofili e i macrofagi che ingoiano e distruggono i microorganismi, e il sistema del complemento, una cascata di proteine plasmatiche che marca i patogeni per la distruzione.
+
+L'immunità adattativa è basata sui linfociti. I linfociti B producono anticorpi quando vengono attivati dal contatto con l'antigene. Gli anticorpi sono glicoproteine, cioè proteine con catene zuccherine attaccate, con struttura a Y: due catene pesanti e due catene leggere tenute insieme da ponti disolfuro. La parte variabile dell'anticorpo riconosce e si lega specificamente all'antigene, mentre la parte costante determina la classe dell'anticorpo e le sue funzioni effettrici. Ci sono cinque classi di immunoglobuline: IgM, la prima a essere prodotta in una risposta immune; IgG, la più abbondante nel sangue e l'unica che attraversa la placenta proteggendo il feto; IgA, presente nelle secrezioni come saliva, latte materno e muco intestinale; IgE, coinvolta nelle reazioni allergiche; IgD, principalmente un recettore di membrana dei linfociti B.
+
+I linfociti T si dividono in linfociti T helper, che coordinano la risposta immunitaria producendo citochine, e linfociti T citotossici, che uccidono le cellule infettate da virus o le cellule tumorali. I linfociti T helper CD4 positivi sono il bersaglio preferenziale dell'HIV, che sfrutta la molecola CD4 come recettore di entrata. La progressiva distruzione di questi linfociti porta all'AIDS, cioè alla sindrome da immunodeficienza acquisita.
+
+Il sistema linfatico è una rete di vasi che raccoglie il liquido interstiziale in eccesso dai tessuti e lo restituisce al sangue. Lungo il percorso ci sono i linfonodi, dove i linfociti intercettano e combattono i patogeni. Il sistema linfatico trasporta anche i grassi assorbiti dall'intestino. Una funzione che il sistema linfatico non svolge è pompare il sangue: quella è la funzione del cuore.
+
+
+LEZIONE 12 - ANATOMIA E FISIOLOGIA.
+
+Il corpo umano è organizzato in livelli gerarchici di complessità crescente: cellule, tessuti, organi, apparati e organismo. I tessuti fondamentali sono quattro: epiteliale, connettivo, muscolare e nervoso.
+
+Il tessuto epiteliale riveste le superfici del corpo, sia esterne che interne. Le sue cellule sono strettamente adese tra loro e il tessuto non ha vasi sanguigni propri, cioè è avascolare: riceve nutrimento per diffusione dal tessuto connettivo sottostante. Le membrane mucose sono epiteli specializzati che rivestono le cavità del corpo che comunicano con l'ambiente esterno, come il tratto digestivo, le vie respiratorie e le vie urinarie. Le ghiandole esocrine secernono i loro prodotti verso superfici epiteliali attraverso dotti, mentre le ghiandole endocrine secernono ormoni direttamente nel sangue.
+
+Il tessuto connettivo è il più abbondante del corpo. Comprende una grande varietà di sottotipi: connettivo lasso, che riempie gli spazi tra gli organi; connettivo denso, che forma tendini e legamenti; tessuto adiposo, che accumula grassi; cartilagine, avascolare e ricca di proteoglicani; osso, mineralizzato con calcio e fosfato; e sangue, tecnicamente un tessuto connettivo liquido.
+
+Il tessuto muscolare si contrae per produrre movimento. Il muscolo scheletrico striato è volontario, formato da fibre giganti multinucleate, e si contrae grazie all'interazione tra filamenti di actina e miosina regolata dal calcio. Il muscolo cardiaco è striato ma involontario, formato da cellule ramificate unite da dischi intercalari che permettono la conduzione elettrica rapida in tutto il cuore. Il muscolo liscio è involontario, si trova nelle pareti degli organi cavi come vasi sanguigni, intestino e utero, e si contrae lentamente e in modo sostenuto.
+
+Il tessuto nervoso è composto dai neuroni, cellule specializzate nella conduzione dei segnali elettrici, e dalle cellule gliali, che supportano e proteggono i neuroni. Ogni neurone ha un corpo cellulare, i dendriti che ricevono i segnali in entrata e un assone che trasmette il segnale in uscita. La guaina mielinica che circonda molti assoni accelera la conduzione del segnale.
+
+Il sistema nervoso si divide in sistema nervoso centrale, che comprende l'encefalo e il midollo spinale, e sistema nervoso periferico, che comprende tutti i nervi che collegano il sistema nervoso centrale al resto del corpo. Il sistema nervoso autonomo regola le funzioni involontarie come la frequenza cardiaca, la digestione e la respirazione, e si divide in simpatico, che prepara l'organismo alla risposta di combattimento o fuga, e parasimpatico, che promuove le funzioni di riposo e digestione.
+
+Il sistema endocrino comunica attraverso ormoni trasportati dal sangue. L'ipotalamo controlla l'ipofisi producendo ormoni di rilascio e di inibizione. L'ipofisi produce numerosi ormoni tra cui l'ormone della crescita, la prolattina, il TSH che stimola la tiroide, l'ACTH che stimola la corteccia surrenale, e l'FSH e l'LH che regolano le gonadi. L'ossitocina è prodotta dall'ipotalamo ma viene immagazzinata e rilasciata dalla neuroipofisi, la parte posteriore dell'ipofisi. È prodotta sia dai maschi che dalle femmine, contrariamente a quanto si potrebbe pensare, e stimola le contrazioni uterine durante il parto e l'eiezione del latte durante l'allattamento, ma ha anche ruoli nel legame sociale.
+
+Il sistema cardiovascolare comprende il cuore e i vasi sanguigni. Il cuore ha quattro camere: atrio destro e ventricolo destro formano il cuore destro, che spinge il sangue verso i polmoni; atrio sinistro e ventricolo sinistro formano il cuore sinistro, che spinge il sangue verso tutto il corpo. Il sangue è composto da plasma, che è la parte liquida, ed elementi figurati: gli eritrociti che trasportano ossigeno grazie all'emoglobina, i leucociti che difendono il corpo e le piastrine che partecipano alla coagulazione. Gli eritrociti dei mammiferi sono anucleati e mancano di organelli, il che massimizza lo spazio disponibile per l'emoglobina.
+
+Il sistema respiratorio porta l'ossigeno ai polmoni dove viene scambiato con il diossido di carbonio prodotto dal metabolismo cellulare. Gli scambi gassosi avvengono negli alveoli polmonari. Il pulsossimetro, chiamato anche saturimetro o ossimetro, è uno strumento non invasivo che misura la saturazione di ossigeno dell'emoglobina nel sangue periferico: si applica di solito su un dito e funziona emettendo luce a due lunghezze d'onda diverse, sfruttando il fatto che l'emoglobina ossigenata e quella non ossigenata assorbono la luce in modo diverso.
+
+Il sistema urinario è formato dai reni, dagli ureteri, dalla vescica e dall'uretra. I reni filtrano il sangue eliminando i prodotti di rifiuto del metabolismo e regolando l'equilibrio idroelettrolitico e acido-base. La nefrologia è la specialità medica che si occupa dei reni. L'unità funzionale del rene è il nefrone, che filtra il sangue nel glomerulo, riassorbe le sostanze utili nel tubulo e produce l'urina concentrando i prodotti di scarto.
+
+Lo scheletro umano è formato da duecensettorrentassei ossa. La colonna vertebrale è composta da sette vertebre cervicali, dodici toraciche, cinque lombari, poi il sacro, che è un osso formato dalla fusione di cinque vertebre sacrali, e il coccige, formato dalla fusione di quattro o cinque vertebre coccigee. Tra le ossa del cranio, alcune sono pari, cioè presenti in due copie simmetriche: il parietale, il temporale, lo zigomatico. Altre sono impari, cioè uniche: il frontale, l'occipitale, lo sfenoide, l'etmoide e la mandibola.
+
+
+LEZIONE 13 - EVOLUZIONE E GENETICA DELLE POPOLAZIONI.
+
+La teoria dell'evoluzione è il fondamento unificante di tutta la biologia moderna. La selezione naturale è il meccanismo principale: gli individui di una popolazione variano tra loro, alcune variazioni sono ereditarie, e gli individui con varianti che aumentano la loro capacità di sopravvivere e riprodursi in un dato ambiente lasciano più discendenti. Nel tempo, le varianti vantaggiose diventano più frequenti nella popolazione.
+
+La teoria endosimbiotica, proposta da Lynn Margulis, spiega l'origine degli organelli delle cellule eucariotiche. Secondo questa teoria, i mitocondri derivano da antichi batteri aerobi fagocitati da cellule ospite ancestrali ma non digeriti, che invece stabilirono una relazione simbiotica vantaggiosa per entrambi. Allo stesso modo, i cloroplasti deriverebbero da cianobatteri. Le evidenze a supporto di questa teoria sono molteplici: i mitocondri e i cloroplasti hanno DNA circolare proprio, simile a quello batterico; hanno ribosomi settanta S come i batteri invece degli ottanta S del citoplasma eucariotico; si riproducono per scissione binaria, come i batteri; e hanno una doppia membrana.
+
+La filogenesi è la ricostruzione della storia evolutiva delle specie. Un albero filogenetico rappresenta le relazioni evolutive tra diversi organismi: i rami rappresentano le linee evolutive e i nodi rappresentano gli antenati comuni. La filogenesi molecolare utilizza le sequenze del DNA o delle proteine per costruire questi alberi, sfruttando il fatto che organismi più strettamente imparentati hanno sequenze più simili.
+
+La legge di Hardy-Weinberg descrive le condizioni in cui le frequenze alleliche in una popolazione rimangono costanti di generazione in generazione. Queste condizioni sono: popolazione grande, accoppiamento casuale, assenza di migrazione, assenza di mutazione e assenza di selezione naturale. In una popolazione che rispetta queste condizioni, se la frequenza dell'allele dominante è p e la frequenza dell'allele recessivo è q, le frequenze genotipiche saranno p quadro per l'omozigote dominante, due pq per l'eterozigote e q quadro per l'omozigote recessivo. Questa legge è utile per stimare la frequenza dei portatori di una malattia genetica recessiva nella popolazione.
+
+La deriva genetica è il cambiamento casuale delle frequenze alleliche in popolazioni piccole. A differenza della selezione naturale, non dipende dall'adattamento ma dal puro caso. In una popolazione molto piccola, un allele può scomparire del tutto o fissarsi completamente solo per effetto del caso. L'effetto collo di bottiglia si verifica quando una popolazione subisce una drastica riduzione del numero di individui: i pochi sopravvissuti portano solo una parte della variabilità genetica originale, e la popolazione che si ricostituisce sarà geneticamente impoverita e con frequenze alleliche diverse da quelle originali.
+
+
+LEZIONE 14 - CHIMICA: REAZIONI, STECHIOMETRIA ED EQUILIBRIO.
+
+Una reazione chimica trasforma le sostanze di partenza, chiamate reagenti, in nuove sostanze chiamate prodotti. Durante una reazione chimica gli atomi non vengono creati né distrutti: questa è la legge di conservazione della massa formulata da Lavoisier. La legge di Proust, o legge delle proporzioni definite, stabilisce invece che un composto puro ha sempre la stessa composizione percentuale in massa, indipendentemente da come viene preparato.
+
+Per bilanciare un'equazione chimica bisogna assicurarsi che il numero di atomi di ciascun elemento sia uguale nei reagenti e nei prodotti. Consideriamo per esempio la reazione tra nitrato ferrico e solfato di sodio che produce solfato ferrico e nitrato di sodio. Se bilanciamo troviamo che due molecole di nitrato ferrico reagiscono con tre molecole di solfato di sodio producendo una molecola di solfato ferrico e sei molecole di nitrato di sodio. In questa reazione bilanciata, i reagenti contengono complessivamente sei atomi di sodio, perché il solfato di sodio ne porta due per molecola e ne abbiamo tre molecole.
+
+La mole è l'unità di misura della quantità di sostanza. Una mole contiene seicento ventidue miliardi di miliardi di particelle, cioè il numero di Avogadro. La massa molare di una sostanza, espressa in grammi per mole, corrisponde numericamente alla sua massa molecolare in unità di massa atomica.
+
+I gas ideali seguono la legge dei gas ideali che mette in relazione pressione, volume, quantità in moli e temperatura assoluta. La legge di Boyle stabilisce che a temperatura costante la pressione e il volume di un gas ideale sono inversamente proporzionali: se raddoppio la pressione il volume si dimezza. La legge di Charles stabilisce che a pressione costante il volume è proporzionale alla temperatura assoluta. La legge di Gay-Lussac, che descrive la trasformazione isocora, stabilisce che a volume costante la pressione è proporzionale alla temperatura assoluta.
+
+L'equilibrio chimico è lo stato in cui le velocità della reazione diretta e della reazione inversa sono uguali, così le concentrazioni dei reagenti e dei prodotti non cambiano nel tempo. La costante di equilibrio K esprime il rapporto tra le concentrazioni dei prodotti e quelle dei reagenti all'equilibrio, ciascuna elevata al rispettivo coefficiente stechiometrico. La costante di equilibrio dipende solo dalla temperatura: non cambia se si aggiunge un catalizzatore, se si varia la pressione o se si cambia la concentrazione di uno dei componenti.
+
+Il principio di Le Chatelier descrive come un sistema all'equilibrio risponde a una perturbazione: si sposta nella direzione che tende a minimizzare la perturbazione. Se si aumenta la concentrazione di un reagente, l'equilibrio si sposta verso i prodotti. Se si aumenta la pressione in un sistema con gas, l'equilibrio si sposta verso il lato con meno moli di gas. Se si aumenta la temperatura di una reazione endotermica, l'equilibrio si sposta verso i prodotti.
+
+
+LEZIONE 15 - BIOTECNOLOGIE.
+
+Le biotecnologie moderni si basano sulla capacità di manipolare il DNA in modo preciso. La PCR, o reazione a catena della polimerasi, è una tecnica che permette di amplificare esponenzialmente una specifica sequenza di DNA a partire da una quantità minima di materiale. Venne sviluppata da Kary Mullis negli anni ottanta, che per questo ricevette il Premio Nobel per la Chimica nel 1993.
+
+La PCR funziona sfruttando il fatto che i due filamenti della doppia elica si separano a temperature elevate e si riassociano a temperature più basse. Un ciclo di PCR comprende tre fasi. La prima è la denaturazione, a circa novantacinque gradi centigradi: il DNA a doppio filamento si denatura e i due filamenti si separano. La seconda è l'annealing, o ibridazione, a una temperatura più bassa di circa cinquanta-sessantacinque gradi: due brevi sequenze di DNA sintetico, chiamate primer o inneschi, si ibridano ai filamenti stampo nelle regioni fiancheggianti la sequenza di interesse. La terza è l'estensione, a circa settantadue gradi: la Taq polimerasi, un enzima termostabile isolato dal batterio Thermus aquaticus, sintetizza nuovi filamenti di DNA a partire dai primer. Ripetendo questo ciclo trenta o quaranta volte, la sequenza bersaglio viene amplificata esponenzialmente, producendo miliardi di copie.
+
+Gli organismi geneticamente modificati, o OGM, sono organismi nel cui genoma è stato inserito uno o più geni provenienti da un altro organismo usando tecniche di ingegneria genetica. Questo è diverso dalla mutagenesi casuale indotta da radiazioni o sostanze chimiche, che introduce mutazioni in posizioni casuali del genoma senza inserire geni nuovi. Un organismo modificato con la mutagenesi casuale non è considerato un OGM.
+
+Il sequenziamento del DNA permette di determinare la sequenza esatta dei nucleotidi in una molecola di DNA. Il metodo di Sanger, sviluppato negli anni settanta, usa dideossinucleotidi per terminare la sintesi del DNA in posizioni specifiche. I metodi di sequenziamento di nuova generazione permettono di sequenziare contemporaneamente miliardi di frammenti di DNA, rendendo possibile il sequenziamento di un intero genoma umano in pochi giorni a costi sempre più accessibili.
+
+La tecnologia CRISPR-Cas9, per la quale Jennifer Doudna e Emmanuelle Charpentier hanno ricevuto il Nobel nel 2020, permette di modificare il DNA in modo molto preciso, inserendo, eliminando o sostituendo sequenze specifiche. Un RNA guida conduce il complesso proteico Cas9 fino alla sequenza bersaglio, dove l'enzima taglia entrambi i filamenti del DNA. La cellula ripara il taglio con meccanismi che possono essere sfruttati per introdurre le modificazioni desiderate. Le applicazioni spaziano dalla terapia genica per malattie ereditarie al miglioramento delle colture agricole.
+
+
+LEZIONE 16 - RIEPILOGO E CONCETTI CHIAVE PER L'ESAME.
+
+Ricapitolando i concetti più testati negli esami di ammissione alle professioni sanitarie, partiamo dalla biologia molecolare. Il DNA è a doppio filamento con basi appaiate secondo la regola di Watson e Crick: adenina con timina e guanina con citosina. L'RNA è tipicamente a singolo filamento e usa uracile al posto della timina. La trascrizione è la sintesi di RNA a partire dal DNA. La traduzione è la sintesi di proteine a partire dall'mRNA. La replicazione del DNA è semiconservativa. I frammenti di Okazaki si formano solo sul filamento ritardato, non sul filamento guida. La Taq polimerasi richiede un primer come tutte le DNA polimerasi.
+
+Riguardo agli organelli, i mitocondri producono la maggior parte dell'ATP tramite la fosforilazione ossidativa sulla membrana interna. Sono presenti sia nelle cellule animali che in quelle vegetali. Il nucleolo sintetizza l'rRNA e si trova all'interno del nucleo. I ribosomi sintetizzano le proteine e non sono delimitati da membrana. L'apparato di Golgi è particolarmente sviluppato nelle cellule secretorie.
+
+Il ciclo cellulare procede in ordine G1, S, G2, M. La fase S è quella in cui avviene la duplicazione del DNA. La colchicina blocca le cellule in metafase perché impedisce la formazione del fuso. Le cicline sono le proteine regolatrici che formano complessi con le CDK per guidare il ciclo cellulare.
+
+In genetica, un allele è la forma alternativa di un gene presente allo stesso locus dei cromosomi omologhi, non dei cromatidi fratelli. In un individuo diploide ci sono al massimo due alleli per locus, anche se nella popolazione possono esistere molti alleli diversi per quello stesso locus. Il figlio maschio eredita il cromosoma X dalla madre, non dal padre. L'anemia falciforme è causata da una singola mutazione nella beta-globina. La fibrosi cistica è autosomica recessiva. La corea di Huntington è autosomica dominante. L'aneuploidia è la presenza di un numero anomalo di cromosomi.
+
+In biochimica, la glicolisi avviene nel citoplasma e produce due ATP netti. Il ciclo di Krebs avviene nella matrice mitocondriale e produce due molecole di diossido di carbonio per ogni giro. La fotosintesi è un processo anabolico che usa NADPH, non NADH come la respirazione. Il glucosio nelle piante viene immagazzinato come amido, non come glicogeno. Gli anticorpi sono proteine, non cellule. I batteri si dividono per scissione binaria, non per mitosi. Il materiale genetico dell'HIV è RNA a singolo filamento. Il capside virale è formato da subunità proteiche.
+
+In chimica, il legame O-H nell'acqua è covalente polare. Il nucleo di Ossigeno nell'acqua ossigenata ha numero di ossidazione meno uno. La geometria tetraedrica ha angoli di centounvirgolaquattrocinque gradi. Gli alcheni hanno carboni sp2 con angoli di centoventi gradi. Il silicio è un metalloide e il suo ossido è acido, non basico. La costante di equilibrio Kc cambia solo con la temperatura, non con i catalizzatori. Un tampone è formato da un acido debole e il suo sale, mai da un acido forte. L'ossidante acquista elettroni e il riducente li cede. La legge di Proust riguarda le proporzioni definite dei composti. La soluzione fisiologica di cloruro di sodio allo zero virgola nove percento contiene nove grammi di sale per litro.
+
+Questi concetti ritornano sistematicamente negli esami anno dopo anno. La padronanza di questi punti, unita alla comprensione dei meccanismi sottostanti piuttosto che alla memorizzazione mnemonica, è la chiave per rispondere correttamente anche alle domande formulate in modo insolito o con trappole linguistiche.
+
+Buono studio.

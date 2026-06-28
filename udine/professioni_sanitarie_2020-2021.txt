@@ -1,0 +1,821 @@
+﻿CdL delle Professioni Sanitarie 
+
+ 
+
+  
+
+ 
+
+ PROVA DI AMMISSIONE AI CORSI DI LAUREA DELLE PROFESSIONI SANITARIE 
+ 
+
+Anno Accademico 2020/2021 
+ 
+
+ 
+
+Test di Ragionamento Logico e Cultura Generale 
+
+1. Qual è il tema affrontato nell’enciclica Laudato sii scritta da papa Francesco? 
+A) L’ecologia  
+B) La fede 
+C) La fede e la ragione 
+D) Il lavoro e l’uomo 
+E) La questione sociale 
+
+ 
+2. Quale termine corrisponde a entrambe le seguenti definizioni?  
+ “sistema ottico centrato convergente” 
+ “meta che si propone di raggiungere” 
+
+A) Obiettivo 
+B) Traguardo 
+C) Microscopio 
+D) Bersaglio 
+E) Proiettore 
+
+ 
+3. In quale giorno e mese da quest’anno viene celebrato il Dantedì? 
+
+A) 25 marzo 
+B) 14 settembre 
+C) 15 giugno 
+D) 27 gennaio 
+E) 15 agosto 
+
+ 
+4. In quale altro modo viene indicato il Meccanismo europeo di stabilità (MES)? 
+
+A) Fondo salva Stati 
+B) Next Generation 
+C) Recovery Fund 
+D) BTP Futura 
+E) Euro Bond 
+
+ 
+5. “La bandiera della Repubblica è il tricolore italiano: verde, bianco e rosso, a tre bande 
+
+verticali di eguali dimensioni”. La precedente affermazione dove viene sancita? 
+A) Da un articolo della Costituzione Italiana 
+B) Da una legge del Regno d’Italia del 1861 
+C) Da una legge del Regno d’Italia del 1925 
+D) Da una legge della Repubblica Italiana del 1948 
+E) Da una legge del Regno d’Italia del 1871 
+
+ 
+
+ 1
+
+
+
+ 
+
+6. Questo anno causa Covid 19 si è avuta un’impennata di vendite dello strumento che 
+misura l’ossigenazione del sangue. Con quale nome è noto tale strumento? 
+
+A) Saturimetro 
+B) Viscosimetro 
+C) Glucometro 
+D) Sfigmomanometro 
+E) Spettrometro 
+
+ 
+7. A quale secolo risale la riforma protestante attuata dal tedesco M. Lutero? 
+
+A) XVI 
+B) XV 
+C) XIV 
+D) XVII 
+E) XIII 
+
+ 
+8. Zeno Cosini è il nome del protagonista del romanzo La coscienza di Zeno. Chi è l’autore 
+
+del romanzo? 
+A) Italo Svevo 
+B) Luigi Pirandello 
+C) Gabriele D’Annunzio 
+D) Giuseppe Ungaretti 
+E) Umberto Saba 
+
+ 
+9. Quale architetto ha firmato il progetto della ricostruzione del viadotto del Polcevera a 
+
+Genova? 
+A) Renzo Piano 
+B) Stefano Boeri 
+C) Massimiliano Fuksas 
+D) Norman Foster 
+E) Mario Botta 
+
+ 
+10. Quale fra le seguenti parlamentari è stata la prima donna eletta Presidente del Senato 
+
+della Repubblica Italiana? 
+A) Maria Elisabetta Casellati 
+B) Nilde Iotti 
+C) Emma Bonino 
+D) Laura Boldrini 
+E) Irene Pivetti 
+
+ 
+11. Chi realizzò il primo generatore statico di energia elettrica? 
+
+A) Alessandro Volta  
+B) Luigi Galvani 
+C) Michael Faraday 
+D) André Marie Ampere 
+E) Charles Augustin de Coulomb 
+
+ 
+12. Chi fra i seguenti è stato per 42 anni la massima autorità della Libia? 
+
+A) Mu’ammar Gheddafi 
+B) Ruhollah Khomeyni 
+C) Osama bin Laden 
+D) Saddam Houssein 
+E) Abu Bakr al-Baghdadi 
+
+ 
+
+ 2
+
+
+
+ 
+CdL delle Professioni Sanitarie 
+
+ 
+
+  
+
+ 
+13. Le tavole di verità sono tabelle usate nella logica per determinare se, attribuiti i valori di 
+
+verità alle proposizioni che la compongono, una determinata proposizione è vera o falsa. 
+Le tabelle di verità della disgiunzione (∨) della doppia implicazione (⇔), e della negazione 
+non (¬) sono rispettivamente: 
+
+ 
+
+  
+ 
+
+  
+ 
+Qual è la tabella di verità della proposizione ((¬B ∨ A) ⇔ B) ∨ (¬A)? 
+
+A)  
+
+B)  
+
+C)  
+
+D)  
+
+E)  
+ 
+
+ 3
+
+
+
+ 
+
+14. Alice ha avuto tre figli due dei quali sono gemelli. Se la somma delle età dei tre figli è di 
+45 anni e la differenza fra l’età del figlio maggiore e quella di uno dei figli minori (i gemelli) 
+è 6, qual è l’età dei gemelli? 
+
+A) 13 
+B) 16 
+C) 19 
+D) 7 
+E) 11 
+
+ 
+15. L’azienda di Nicolò produce lavatrici. Il costo della produzione giornaliero di x lavatrici è, 
+
+in euro, C(x) = x2 – 30x, il prezzo di vendita è legato al numero di lavatrici vendute dalla 
+funzione R(x) = 800 + 40x. Qual è il massimo numero di lavatrici che l’azienda può 
+produrre giornalmente per non essere in perdita? 
+
+A) 80 
+B) 35 
+C) 10 
+D) 140 
+E) 70 
+
+ 
+16. Considerata la premessa: se Enea mangerà le carote a pranzo, Alice non potrà preparare 
+
+la torta di carote come dessert per la cena. Consideriamo le quattro opzioni: 
+ 
+
+A) Enea non ha mangiato le carote a pranzo quindi Alice ha preparato la torta per la cena 
+B) Alice ha preparato la torta di carote per la cena per cui Enea non ha mangiato le 
+carote a pranzo 
+
+C) Enea ha mangiato le carote a pranzo per cui alice non ha preparato la torta di carote 
+per la cena 
+
+D) Alice non ha preparato la torta di carote per la cena quindi Enea ha mangiato le carote 
+a pranzo  
+
+ 
+ Quale/i di queste, per la regola del modus ponens o del modus tollens, è/sono 
+
+logicamente corrette? 
+A) B e C 
+B) B e D 
+C) A, C e D 
+D) A e D 
+E) A, B e C 
+
+ 
+17. Giorgio acquista per il regalo di compleanno per Alice degli smalti per unghie di una 
+
+famosa marca francese. Fortunatamente per Giorgio Alice compie gli anni nel mese di 
+agosto e il grande magazzino in cui Giorgio deve effettuare l’acquisto vende gli smalti 
+con uno sconto del 30 %. Inoltre ad ogni cliente in possesso della tessera fedeltà del 
+magazzino viene applicato un ulteriore sconto del 20 % sul prezzo scontato degli articoli 
+in vendita. Se Giorgio che possiede la tessera fedeltà, spende per l’acquisto del regalo 
+per Alice 33,60 € qual è il prezzo di vendita, in euro, non scontato dello smalto? 
+
+A) 60 
+B) 42 
+C) 67,2 
+D) 76,4 
+E) 85 
+
+ 
+
+ 4
+
+
+
+ 
+CdL delle Professioni Sanitarie 
+
+ 
+
+  
+
+ 
+18. All’ultimo concerto dei BTS in uno stadio di Seul che ha una capienza di 66700 posti a 
+
+sedere i posti sugli spalti rimasti vuoti erano i 2/5 dei posti totali. Michele e Tommaso che 
+erano presenti all’evento assicurano che nel prato quelli che hanno assistito al concerto 
+erano il 75 % dei presenti sugli spalti. Quante persone erano presenti al concerto dei 
+BTS? 
+
+A) 70035 
+B) 46690 
+C) 50025 
+D) 33350 
+E) 66700 
+
+ 
+19. Quale dei seguenti casi non è possibile se qualche X è Y? 
+
+A) nessun Y sia X 
+B) ogni Y sia X 
+C) ogni X sia Y 
+D) qualche Y sia X 
+E) ogni X sia Y e ogni Y sia X 
+
+ 
+20. Quale tra le parole A, B, C, D, E condivide una proprietà con tutte le parole 1, 2 e 3? 
+ 1) Araba 
+ 2) Berbere 
+ 3) Colono 
+
+A) Dipinti 
+B) Tettoia 
+C) Truffa 
+D) Addio 
+E) Oncologia 
+
+ 
+21. 90 studenti della scuola frequentata da Emma partecipano alla corsa campestre, di 
+
+questi, fra cui Emma, il 40 % è stato selezionato per la fase provinciale. Sapendo che i 4/9 
+sono ragazze, quante sono le ragazze selezionate per la fase provinciale oltre a Emma? 
+
+A) 15 
+B) 20 
+C) 19 
+D) 16 
+E) 18 
+
+ 
+22. Tommaso ha 3.90 € per poter acquistare della frutta. Le mele costano € 0,60 ciascuna, le 
+
+banane € 0,80 le arance € 0,50 e le pere 0,75 €. Qual è il massimo numeri di frutti che 
+Tommaso può avere acquistato? 
+
+A) 7 
+B) 6 
+C) 5 
+D) 9 
+E) 4 
+
+ 
+
+ 5
+
+
+
+ 
+
+Test di Biologia 
+
+23. Quale tra le seguenti affermazioni relative agli α-amminoacidi NON è corretta? 
+A) Il carbonio α è sempre stereogenico 
+B) Il gruppo laterale può essere polare 
+C) Il gruppo laterale può essere elettricamente carico 
+D) Il carbonio α lega un gruppo amminico e uno carbossilico 
+E) Il gruppo laterale può essere aromatico 
+
+ 
+24. E’ corretto affermare che: 
+
+A) si può ottenere una molecola di DNA partendo da uno stampo di RNA 
+B) le basi azotate presenti nella molecola di RNA sono adenina, guanina, timina e uracile 
+C) nella molecola di DNA i nucleotidi delle due semieliche si appaiano in modo 
+
+complementare e sono uniti tra loro con 2 o 3 legami ionici 
+D) in un nucleotide lo zucchero e la base azotata sono uniti tra loro da un gruppo fosfato 
+E) dalla traduzione di un filamento di DNA si ottiene una molecola di mRNA 
+
+ 
+25. Nelle cellule eucariotiche: 
+
+A) la membrana nucleare è in continuità con il reticolo endoplasmatico ruvido 
+B) tutti gli organuli citoplasmatici sono delimitati da membrane tranne i lisosomi 
+C) i mitocondri sono presenti solo nelle cellule animali e i cloroplasti solo in quelle vegetali 
+D) i componenti essenziali del citoscheletro sono: microfibre, microtubuli e microfilamenti 
+E) l’apparato di Golgi è la sede della sintesi dei lipidi 
+
+ 
+26. Nel metabolismo energetico delle cellule eucariotiche: 
+
+A) la fosforilazione ossidativa produce la maggior parte dell’ATP di una cellula 
+B) la fosforilazione ossidativa avviene sulla membrana esterna dei mitocondri 
+C) nelle prime reazioni della glicolisi (fase d’investimento energetico) si producono due 
+
+molecole di ATP 
+D) la fermentazione lattica produce acido lattico e CO2 
+E) in un ciclo di Krebs si producono tre molecole di FADH2 e una di NADH 
+
+ 
+27. Una patologia congenita è sicuramente: 
+
+A) presente alla nascita 
+B) genetica 
+C) trasmessa da entrambi i genitori 
+D) trasmessa da un solo genitore 
+E) causata da una mutazione genica 
+
+ 
+28. Le membrane che rivestono la superficie interna di organi o cavità che comunicano con 
+
+l’esterno sono dette membrane: 
+A) mucose 
+B) sierose 
+C) epiteliali 
+D) endoteliali 
+E) linfatiche 
+
+ 
+29. A differenza delle arterie, solo le vene possiedono: 
+
+A) valvole 
+B) endotelio 
+C) muscolatura liscia 
+D) tessuto connettivo 
+E) elastina 
+
+ 
+
+ 6
+
+
+
+ 
+CdL delle Professioni Sanitarie 
+
+ 
+
+  
+
+ 
+30. Quale delle seguenti vitamine regola l’assorbimento di calcio e fosforo? 
+
+A) Vitamina D 
+B) Vitamina A 
+C) Vitamina C 
+D) Vitamina E 
+E) Vitamina K 
+
+ 
+31. La capsula di Bowman: 
+
+A) avvolge il glomerulo renale 
+B) riveste le ghiandole surrenali 
+C) circonda l’oocita maturo 
+D) avvolge i neuroni sensoriali 
+E) contiene i canali semicircolari 
+
+ 
+32. Quale dei seguenti composti NON è un neurotrasmettitore? 
+
+A) Melanina 
+B) Acetilcolina 
+C) Serotonina 
+D) Glutammato 
+E) Dopamina 
+
+ 
+33. Quale delle seguenti affermazioni è corretta? 
+
+A) La clavicola si articola con la scapola 
+B) L’omero è l’unico osso dell’avambraccio 
+C) Tutte le coste sono collegate allo sterno 
+D) Cuboide, astragalo e scafoide sono ossa del carpo 
+E) Le vertebre libere sono: 5 cervicali, 12 toraciche e 7 lombari 
+
+ 
+34. Una malattia genetica, autosomica dominante: 
+
+A) può essere trasmessa da un solo genitore 
+B) é sempre trasmessa alla progenie 
+C) può essere trasmessa solo ai figli maschi 
+D) é sempre trasmessa dalla madre 
+E) si manifesta solo in condizioni di omozigosi 
+
+ 
+35. Quando nella porzione codificante di un gene si verifica una mutazione silente: 
+
+A) non si producono cambiamenti nella sequenza amminoacidica della proteina codificata 
+B) non si producono cambiamenti nella sequenza nucleotidica del gene 
+C) si modifica la sequenza amminoacidica della proteina codificata, ma senza effetti sulla 
+
+sua funzionalità  
+D) il sequenziamento del DNA non è in grado di evidenziarla 
+E) un codone codificante è stato sostituito con uno di stop  
+
+ 
+36. La reazione a catena della polimerasi (PCR):  
+
+A) prevede l’utilizzo di una DNA polimerasi batterica 
+B) necessita di nucleotidi modificati con aggiunta di fluorocromi 
+C) può amplificare solo frammenti di DNA già completamente sequenziati 
+D) richiede una temperatura costante di 37° per tutta la durata del processo 
+E) prevede l’utilizzo d’inneschi proteici (primer) 
+
+ 
+
+ 7
+
+
+
+ 
+
+37. La pompa sodio-potassio: 
+A) trasporta ioni sodio verso l’esterno della cellula 
+B) é presente solo nei neuroni motori  
+C) agisce secondo gradiente di concentrazione 
+D) trasporta ioni potassio verso l’esterno della cellula 
+E) non necessita di ATP 
+
+ 
+38. Il codice genetico è: 
+
+A) degenerato 
+B) l’insieme dei geni di un organismo 
+C) uguale solo nei gemelli monozigoti 
+D) differente nei procarioti e negli eucarioti 
+E) ambiguo 
+
+ 
+39. NON è considerato organismo geneticamente modificato (OGM), in quanto non ottenuto 
+
+mediante tecniche d’ingegneria genetica: 
+A) la fragola ottoploide 
+B) il golden rice 
+C) il mais Bt 
+D) la soia resistente al glifosato 
+E) il batterio che produce insulina 
+
+ 
+40. Sia il D-glucosio che il D-fruttosio: 
+
+A) contengono sei atomi di carbonio 
+B) contengono un gruppo aldeidico 
+C) contengono un gruppo chetonico 
+D) nella forma ciclica hanno anelli a sei atomi 
+E) sono dei disaccaridi 
+
+ 
+
+Test di Chimica 
+
+41. Quale tra le seguenti affermazioni è corretta? 
+A) Il gruppo ossidrile forma legami idrogeno con l’acqua 
+B) In acqua, il gruppo amminico primario si ionizza comportandosi da acido 
+C) Il gruppo carbonilico dei chetoni è legato a un carbonio terminale 
+D) Il gruppo carbossilico delle aldeidi è legato a un carbonio terminale 
+E) Negli alogenuri alchilici un atomo di alogeno lega due atomi di carbonio 
+
+ 
+42. Quale tra le seguenti NON è una sostanza pura? 
+
+A) Acciaio 
+B) Saccarosio 
+C) Cloruro di sodio 
+D) Acqua ossigenata 
+E) Stagno 
+
+ 
+43. Un composto con formula empirica C2H5O ha massa molare 135 g/mol. Qual è la sua 
+
+formula molecolare? 
+A) C6H15O3 
+B) CH3CHOH 
+C) C4H10O2 
+D) C8H7O2 
+E) C6H9 · 3H2O 
+
+ 
+
+ 8
+
+
+
+ 
+CdL delle Professioni Sanitarie 
+
+ 
+
+  
+
+ 
+44. Dopo aver bilanciato la seguente reazione 
+ C3H8 + O2 → CO2 + H2O 
+ determinare qual è la resa massima di CO2 che si può ottenere da 7,5 moli di O2. 
+
+A) 4,5 moli 
+B) 7,5 moli 
+C) 5 moli 
+D) 2,5 moli 
+E) 15 moli 
+
+ 
+45. Qual è la formula del bicarbonato di ammonio, usato per la lievitazione dei dolci? 
+
+A) NH4HCO3 
+B) NH4CO3 
+C) (NH4)2CO3 
+D) NH3HCO3 
+E) NH3CO3 
+
+ 
+46. Nella molecola dell’etilene C2H4 gli atomi di carbonio presentano ibridazione di tipo: 
+
+A) sp2 
+B) sp 
+C) sp3 
+D) s2p 
+E) s3p 
+
+ 
+47. Secondo la teoria di Brønsted–Lowry, quale tra le seguenti coppie di sostanze 
+
+corrisponde a una coppia acido−base coniugata nella reazione  
+
+ HCOOH + H2O ⇌ H3O
++ + HCOO−  ? 
+
+A) H2O  ;  H3O
++ 
+
+B) HCOOH  ;  H2O 
+C) H3O
+
++  ;  HCOO− 
+D) HCOOH  ;  H3O
+
++ 
+E) H2O  ;  HCOO− 
+
+ 
+48. E’ possibile neutralizzare 25 mL di soluzione 0,04 M di KOH utilizzando: 
+
+A) 50 mL di soluzione di H2SO4  0,01M 
+B) 50 mL di soluzione di H2SO4  0,04M 
+C) 25 mL di soluzione di H2SO4  0,04M 
+D) 10 mL di soluzione di HCl 0,02M  
+E) 50 mL di soluzione di HCl 0,01M 
+
+ 
+49. Una reazione si definisce omogenea quando: 
+
+A) tutti i reagenti e i prodotti sono nella stessa fase 
+B) il numero delle moli complessive dei reagenti è uguale a quello delle moli complessive 
+
+dei prodotti 
+C) il coefficiente stechiometrico di tutti i reagenti e di tutti i prodotti e pari a 1 
+D) il numero delle specie chimiche reagenti è uguale a quello delle specie chimiche prodotte 
+E) é all’equilibrio 
+
+ 
+
+ 9
+
+
+
+ 
+
+50. Quale tra i seguenti abbinamenti tra il nome di un elemento chimico e il suo simbolo NON 
+è corretto? 
+
+A) Bromo – B 
+B) Cesio – Cs 
+C) Cromo – Cr 
+D) Rame – Cu 
+E) Zolfo – S 
+
+ 
+51. Quale delle seguenti affermazioni NON è riferibile alle soluzioni colloidali? 
+
+A) Le particelle disperse hanno dimensioni superiori a 10 µm 
+B) Presentano l’effetto Tyndall 
+C) Presentano moto browniano 
+D) Le particelle disperse possono essere separate dal solvente mediante dialisi 
+E) Per aggiunta di elettroliti o per variazione di temperatura possono coagulare 
+
+ 
+52. Qual è il numero di ossidazione del cromo nello ione Cr2O
+
+2−
+7  ? 
+
+A) +6 
+B) +7 
+C) +3 
+D) +2 
+E) −2 
+
+ 
+
+Test di Fisica e Matematica 
+
+53. Siano m ed n numeri interi relativi tali che m < 0 < n, quale delle seguenti affermazioni è 
+falsa? 
+
+1 1
+A) >  
+
+m n
+3 < 3
+
+B) m n  
+
+C) 3 m < 3 n  
+
+2m < 2nD)  
+E) −m > −n  
+
+ 
+54. Assegnati i punti A (−3 , 2) e B (2 , 7) quali sono le coordinate del punto M che divide il 
+
+segmento AB nel rapporto AM : MB = 3 : 2 
+A) M (0 , 5) 
+B) M (−2 , 3) 
+C) Non esiste nessun punto che soddisfa le richieste 
+D) M (1 , 6) 
+E) M (−1 , 4) 
+
+ 
+55. Come è classificato il triangolo ABC se i suoi lati misurano 15 cm, 13 cm e 5 cm? 
+
+A) Scaleno ottusangolo 
+B) Il triangolo non esiste 
+C) Scaleno rettangolo 
+D) Isoscele  
+E) Scaleno acutangolo  
+
+ 
+
+ 10
+
+
+
+ 
+CdL delle Professioni Sanitarie 
+
+ 
+
+  
+
+ 
+56. Quale/i, fra le seguenti coppie di funzioni: 
+ 
+
+y = 2ln x y = ln x y = 3ln x
+ A:    ;  B:    ; C:  
+
+y = ln 2 ln3
+x y = ln( 2
+
+x − x) − ln(x −1) y = x
+ 
+ è/sono composta/e da funzioni aventi lo stesso grafico? 
+
+A) Nessuna 
+B) Solo B 
+C) Solo C 
+D) Solo A 
+E) Tutte 
+
+ 
+57. Un automobile si muove per 30 km in direzione E successivamente si muove per 
+
+3
+10 10 km in direzione E α° N. Se senα =  qual è il modulo, in km, dello spostamento 
+
+10
+dell’automobile? 
+
+A) 50 
+
+B) 30+10 10  
+C) 70 
+
+D) 40 10  
+E) 10 
+
+ 
+58. Un punto si muove nel piano x y , le sue proiezioni sugli assi cartesiani seguono le leggi:  
+
+ x = 3t
+ 
+
+y = 2
+ 2t
+
+ 
+quale delle seguenti affermazioni relative al moto del punto è vera? 
+
+ A) Il moto è uniformemente accelerato con v0 = 3 m/s 
+B) Il moto è uniformemente accelerato con a = 2 m/s2 
+C) Il moto è uniformemente accelerato con a = 5 m/s2 
+D) Il moto è uniformemente accelerato con v0 = 5 m/s 
+E) Il moto è rettilineo uniformemente accelerato con legge oraria  s = 3t + 2t2  
+
+ 
+59. Un satellite artificiale della Terra ruota su un’orbita circolare di raggio R (misurato dal 
+
+centro della Terra) con periodo T. Di quale fattore deve essere modificato il raggio 
+T
+
+dell’orbita affinché il satellite possa ruotare con periodo  
+8
+
+A) R/4 
+B) 2R 
+C) R/2 
+D) 4R 
+E) R/8 
+
+ 
+
+ 11
+
+
+
+ 
+
+60. Due resistenze, rispettivamente di valore r e 2r, sono connesse in serie; quale valore R 
+devono avere due resistenze uguali che, connesse in parallelo, forniscono una resistenza 
+equivalente a quella prodotta dalle due resistenze in serie? 
+
+A) 6r 
+B) 3r/3 
+C) 3r 
+D) r/6 
+E) r/3 
+
+ 
+ 
+ 
+ 
+
+********** FINE DELLE DOMANDE ********** 
+ 
+ 
+ 
+
+In tutti i quesiti proposti la soluzione è la risposta alla lettera A) 
+
+ 12

@@ -1,0 +1,1492 @@
+CORSO AUDIO APPROFONDITO PER IL TEST DI AMMISSIONE ALLE PROFESSIONI SANITARIE
+Biologia, Anatomia e Fisiologia, Chimica, Fisica
+Volume 2 - Approfondimenti, collegamenti ed esercizi ragionati
+
+Pensato per essere trasformato in audiolibro.
+Stile: spiegazione chiara, progressiva, adatta all’ascolto durante attività fisica.
+Questo volume continua il Volume 1 e approfondisce argomenti molto frequenti nei test.
+
+======================================================================
+INTRODUZIONE AL VOLUME 2
+======================================================================
+
+Nel primo volume abbiamo costruito le fondamenta:
+cellula, DNA, membrana, apparati principali, chimica di base, fisica di base.
+
+In questo secondo volume facciamo un passo avanti.
+Non basta più sapere che cosa è un mitocondrio o che cosa è il pH.
+Ora dobbiamo capire i processi.
+
+Che cosa succede quando il glucosio viene demolito?
+Perché una mutazione può essere innocua o grave?
+Come funziona davvero l’immunità?
+Perché un ormone agisce solo su certe cellule?
+Come si ragiona su un esercizio di molarità?
+Come si interpreta una domanda di fisica senza farsi ingannare?
+
+Il test spesso non premia chi sa parole isolate.
+Premia chi sa ragionare velocemente.
+
+Una buona domanda da test è costruita così:
+ti dà una situazione,
+ti chiede una conseguenza,
+e mette tra le risposte alcuni distrattori plausibili.
+
+Per esempio:
+una cellula viene posta in soluzione ipertonica.
+Che cosa accade?
+La risposta corretta è: perde acqua.
+Ma tra le risposte potresti trovare:
+entra acqua,
+si divide,
+produce ATP,
+aumenta la sintesi proteica.
+Sono risposte apparentemente biologiche, ma non pertinenti.
+
+Per questo in questo volume useremo spesso il metodo:
+situazione,
+meccanismo,
+conseguenza.
+
+======================================================================
+PARTE PRIMA - BIOLOGIA CELLULARE E MOLECOLARE AVANZATA
+======================================================================
+
+LEZIONE 1 - CROMOSOMI, CROMATINA, CROMATIDI
+
+Il DNA nella cellula eucariotica non è libero come un filo disordinato.
+È organizzato in cromatina.
+
+La cromatina è DNA associato a proteine, soprattutto istoni.
+Gli istoni funzionano come rocchetti attorno a cui il DNA si avvolge.
+Questo permette di compattare una molecola lunghissima dentro il nucleo.
+
+Quando la cellula non si sta dividendo, il DNA è meno condensato.
+In questa fase si parla di cromatina.
+Quando la cellula si prepara alla divisione, la cromatina si condensa e forma cromosomi visibili.
+
+Un cromosoma è quindi una struttura formata da DNA e proteine.
+
+Attenzione a una distinzione molto importante:
+un cromosoma può essere formato da uno o da due cromatidi.
+
+Prima della duplicazione del DNA, ogni cromosoma ha un solo cromatidio.
+Dopo la duplicazione del DNA, ogni cromosoma ha due cromatidi fratelli.
+I cromatidi fratelli sono copie identiche, unite in una zona chiamata centromero.
+
+Durante la mitosi, i cromatidi fratelli si separano.
+Quando si separano, ognuno diventa un cromosoma indipendente.
+
+Questo crea molta confusione.
+Perciò ripetiamo:
+il numero di cromosomi si conta in base al numero di centromeri.
+Dopo la duplicazione, il DNA è raddoppiato, ma il numero di cromosomi non è ancora raddoppiato, perché i cromatidi fratelli restano uniti.
+
+Nell’uomo, una cellula somatica ha 46 cromosomi.
+Prima della fase S, ha 46 cromosomi, ciascuno con un cromatidio.
+Dopo la fase S, ha ancora 46 cromosomi, ma ciascuno con due cromatidi.
+Durante l’anafase della mitosi, i cromatidi si separano e temporaneamente nella cellula ci sono 92 cromosomi, perché ogni cromatidio è diventato cromosoma.
+Alla fine, ogni cellula figlia riceve 46 cromosomi.
+
+Domanda da test:
+Dopo la duplicazione del DNA, una cellula umana ha 92 cromosomi?
+Risposta: no. Ha 46 cromosomi duplicati, cioè 46 cromosomi formati da due cromatidi fratelli.
+
+Tranello:
+duplicare il DNA non significa immediatamente duplicare il numero di cromosomi.
+
+
+LEZIONE 2 - REGOLAZIONE DEL CICLO CELLULARE E TUMORI
+
+Il ciclo cellulare è controllato.
+Una cellula non dovrebbe dividersi quando vuole.
+
+Esistono punti di controllo, chiamati checkpoint.
+I checkpoint verificano che la cellula sia pronta a procedere.
+
+Un checkpoint controlla se il DNA è danneggiato.
+Un altro controlla se il DNA è stato duplicato correttamente.
+Un altro controlla se i cromosomi sono agganciati correttamente al fuso mitotico.
+
+Se qualcosa non va, il ciclo si arresta.
+La cellula può riparare il danno.
+Se il danno è troppo grave, può andare incontro ad apoptosi.
+
+L’apoptosi è morte cellulare programmata.
+Non è una morte casuale.
+È un processo ordinato, utile all’organismo.
+
+L’apoptosi serve nello sviluppo embrionale, nel rinnovamento dei tessuti e nell’eliminazione di cellule danneggiate.
+
+Un tumore nasce quando alcune cellule perdono il controllo della proliferazione.
+Si dividono troppo.
+Non rispondono bene ai segnali di arresto.
+Possono evitare l’apoptosi.
+Possono accumulare mutazioni.
+
+Ci sono due grandi categorie di geni importanti nei tumori:
+proto-oncogeni e geni oncosoppressori.
+
+I proto-oncogeni normalmente stimolano crescita e divisione quando serve.
+Se mutano e diventano troppo attivi, possono trasformarsi in oncogeni.
+Un oncogene è come un acceleratore bloccato.
+
+I geni oncosoppressori normalmente frenano la divisione o favoriscono la riparazione del DNA.
+Se vengono inattivati, si perde il freno.
+Un gene oncosoppressore mutato è come un freno rotto.
+
+Per sviluppare un tumore di solito non basta una sola mutazione.
+Servono più alterazioni accumulate.
+
+Tumore benigno e tumore maligno non sono sinonimi.
+Un tumore benigno resta localizzato e non invade altri tessuti.
+Un tumore maligno può invadere e dare metastasi.
+
+Metastasi significa diffusione di cellule tumorali in sedi distanti.
+
+Domanda da test:
+Un gene che normalmente frena la proliferazione cellulare si chiama?
+Risposta: gene oncosoppressore.
+
+Domanda da test:
+La morte cellulare programmata si chiama?
+Risposta: apoptosi.
+
+
+LEZIONE 3 - MUTAZIONI E RIPARAZIONE DEL DNA
+
+Una mutazione è un cambiamento stabile nella sequenza del DNA.
+
+Le mutazioni possono avvenire spontaneamente oppure essere indotte.
+Possono essere causate da errori di duplicazione, radiazioni, sostanze chimiche, virus o altri fattori.
+
+Non tutte le mutazioni sono uguali.
+
+Una mutazione puntiforme cambia una singola base.
+Per esempio, una A viene sostituita da una G.
+
+Una delezione elimina uno o più nucleotidi.
+Un’inserzione aggiunge uno o più nucleotidi.
+
+Se inserzioni o delezioni non sono multiple di tre, possono alterare la cornice di lettura.
+Questo si chiama frameshift.
+Una mutazione frameshift spesso ha effetti gravi, perché cambia tutti i codoni successivi.
+
+Le mutazioni possono essere:
+silenti,
+missenso,
+nonsenso.
+
+Una mutazione silente non cambia l’amminoacido.
+Questo è possibile perché il codice genetico è degenerato: più codoni possono codificare lo stesso amminoacido.
+
+Una mutazione missenso cambia un amminoacido.
+Può avere effetti piccoli o grandi, a seconda della posizione e del tipo di amminoacido.
+
+Una mutazione nonsenso introduce un codone di stop.
+La proteina viene troncata.
+
+Le cellule hanno sistemi di riparazione del DNA.
+Questi sistemi correggono molti errori.
+Ma non tutti.
+Se un errore resta e viene trasmesso alle cellule figlie, diventa mutazione stabile.
+
+Le mutazioni nelle cellule somatiche possono contribuire a tumori o malattie locali.
+Le mutazioni nelle cellule germinali possono essere trasmesse ai figli.
+
+Domanda da test:
+Quale mutazione introduce uno stop prematuro?
+Risposta: mutazione nonsenso.
+
+Domanda da test:
+Quale mutazione sposta la cornice di lettura?
+Risposta: frameshift, spesso causata da inserzione o delezione non multipla di tre.
+
+
+LEZIONE 4 - ESPRESSIONE GENICA E DIFFERENZIAMENTO CELLULARE
+
+Tutte le cellule del corpo hanno, in generale, lo stesso DNA.
+Eppure una cellula nervosa è diversa da una cellula muscolare.
+Una cellula del fegato è diversa da una cellula della pelle.
+
+Perché?
+Perché non tutti i geni sono attivi in tutte le cellule.
+
+L’espressione genica è il processo con cui l’informazione di un gene viene usata per produrre RNA o proteina.
+
+Una cellula muscolare attiva geni necessari alla contrazione.
+Una cellula pancreatica attiva geni per produrre enzimi digestivi o ormoni.
+Un neurone attiva geni per sinapsi, canali ionici e neurotrasmissione.
+
+Il differenziamento cellulare è il processo con cui una cellula acquisisce caratteristiche specializzate.
+Durante lo sviluppo embrionale, cellule inizialmente simili diventano progressivamente diverse.
+
+Una cellula staminale è una cellula capace di dividersi e differenziarsi.
+Le cellule staminali embrionali sono pluripotenti, cioè possono dare origine a molti tipi cellulari.
+Le cellule staminali adulte sono più limitate, ma importanti per riparazione e rinnovo dei tessuti.
+
+La regolazione dell’espressione genica può avvenire a molti livelli:
+accessibilità del DNA,
+trascrizione,
+maturazione dell’RNA,
+traduzione,
+modifiche della proteina,
+degradazione della proteina.
+
+Negli eucarioti, l’RNA messaggero appena prodotto viene modificato.
+Subisce:
+aggiunta del cappuccio,
+aggiunta della coda poli-A,
+splicing.
+
+Lo splicing rimuove introni e unisce esoni.
+Gli esoni sono le parti che restano nell’RNA maturo.
+Gli introni vengono eliminati.
+
+Lo splicing alternativo permette di produrre proteine diverse dallo stesso gene.
+Questo aumenta la complessità biologica.
+
+Domanda da test:
+Perché cellule diverse dello stesso organismo hanno funzioni diverse pur avendo lo stesso DNA?
+Risposta: perché esprimono geni diversi.
+
+
+LEZIONE 5 - VIRUS, BATTERI E CELLULE: DIFFERENZE FONDAMENTALI
+
+I batteri sono organismi cellulari procarioti.
+I virus non sono cellule.
+
+Un batterio ha membrana, citoplasma, ribosomi, DNA e metabolismo proprio.
+Può riprodursi per divisione binaria.
+Può essere coltivato, in molti casi, su terreni nutritivi.
+
+Un virus è molto più semplice.
+È formato da materiale genetico, DNA o RNA, racchiuso in un capside proteico.
+Alcuni virus hanno anche un involucro lipidico esterno chiamato envelope.
+
+Il virus non ha ribosomi.
+Non ha metabolismo autonomo.
+Non produce ATP.
+Non si riproduce da solo.
+Deve entrare in una cellula ospite e usare i suoi meccanismi.
+
+Per questo i virus sono parassiti endocellulari obbligati.
+Endocellulari significa che devono vivere dentro una cellula.
+Obbligati significa che non possono completare il ciclo replicativo fuori dalla cellula.
+
+Un batterio può essere colpito da antibiotici.
+Gli antibiotici agiscono su strutture o processi batterici, come parete cellulare, ribosomi batterici, sintesi del DNA batterico.
+I virus non rispondono agli antibiotici.
+Per i virus servono antivirali specifici o la risposta immunitaria.
+
+I batteri possono essere patogeni, ma molti sono utili o innocui.
+Il microbiota intestinale è formato da microrganismi che vivono nell’intestino e contribuiscono alla digestione, alla produzione di alcune vitamine e alla protezione contro patogeni.
+
+Domanda da test:
+Perché gli antibiotici non funzionano contro i virus?
+Risposta: perché i virus non hanno le strutture e i processi cellulari batterici bersaglio degli antibiotici.
+
+Domanda da test:
+I virus hanno ribosomi?
+Risposta: no.
+
+
+LEZIONE 6 - CICLO LITICO E CICLO LISOGENO
+
+Molti virus, specialmente i batteriofagi, possono seguire due tipi di ciclo:
+litico e lisogeno.
+
+Il ciclo litico porta rapidamente alla produzione di nuovi virus e alla rottura della cellula ospite.
+
+Fasi generali:
+attacco alla cellula;
+ingresso del materiale genetico;
+replicazione del genoma virale;
+produzione delle proteine virali;
+assemblaggio di nuovi virioni;
+lisi della cellula e liberazione dei virus.
+
+Nel ciclo litico, la cellula ospite viene distrutta.
+
+Nel ciclo lisogeno, il materiale genetico virale si integra nel genoma della cellula ospite o resta in forma latente.
+La cellula continua a vivere e replicarsi.
+Ogni volta che la cellula si divide, copia anche il materiale virale.
+In certe condizioni, il virus può riattivarsi e passare al ciclo litico.
+
+Il concetto chiave è:
+litico significa produzione immediata e distruzione;
+lisogeno significa latenza o integrazione, con possibile riattivazione.
+
+Alcuni virus animali possono restare latenti nell’organismo.
+Questo spiega perché certe infezioni possono riattivarsi.
+
+Domanda da test:
+Nel ciclo litico la cellula ospite viene distrutta?
+Risposta: sì.
+
+Domanda da test:
+Nel ciclo lisogeno il genoma virale può restare integrato o latente?
+Risposta: sì.
+
+
+LEZIONE 7 - METABOLISMO: CATABOLISMO E ANABOLISMO
+
+Il metabolismo è l’insieme delle reazioni chimiche dell’organismo.
+
+Si divide in:
+catabolismo,
+anabolismo.
+
+Il catabolismo demolisce molecole complesse.
+Libera energia.
+Esempio: demolizione del glucosio nella respirazione cellulare.
+
+L’anabolismo costruisce molecole complesse.
+Consuma energia.
+Esempio: sintesi di proteine da amminoacidi.
+
+La cellula deve bilanciare catabolismo e anabolismo.
+Non può solo demolire.
+Non può solo costruire.
+Deve ricavare energia e usarla per mantenersi, crescere, riparare e dividersi.
+
+L’ATP collega catabolismo e anabolismo.
+Il catabolismo produce ATP.
+L’anabolismo usa ATP.
+
+L’ATP è adenosina trifosfato.
+Ha tre gruppi fosfato.
+Quando perde un fosfato, diventa ADP e libera energia.
+
+ATP non è un deposito energetico a lungo termine.
+È una moneta energetica immediata.
+Il deposito a lungo termine sono grassi e, in parte, glicogeno.
+
+NADH e FADH2 sono trasportatori di elettroni.
+Si caricano durante la demolizione dei nutrienti.
+Portano elettroni alla catena respiratoria.
+La catena respiratoria usa questi elettroni per produrre ATP.
+
+Domanda da test:
+Quale processo consuma energia per costruire molecole complesse?
+Risposta: anabolismo.
+
+Domanda da test:
+Quale molecola è la principale moneta energetica immediata della cellula?
+Risposta: ATP.
+
+
+LEZIONE 8 - GLICOLISI, KREBS, CATENA RESPIRATORIA
+
+La respirazione cellulare aerobica demolisce glucosio in presenza di ossigeno.
+Produce anidride carbonica, acqua e ATP.
+
+Le fasi principali sono:
+glicolisi,
+ossidazione del piruvato,
+ciclo di Krebs,
+catena di trasporto degli elettroni e fosforilazione ossidativa.
+
+La glicolisi avviene nel citoplasma.
+Una molecola di glucosio, con 6 atomi di carbonio, viene divisa in due molecole di piruvato, ciascuna con 3 atomi di carbonio.
+La glicolisi produce poco ATP e NADH.
+Non richiede ossigeno direttamente.
+
+Il piruvato entra nel mitocondrio.
+Viene trasformato in acetil-CoA.
+In questa fase si libera CO2 e si produce NADH.
+
+L’acetil-CoA entra nel ciclo di Krebs.
+Il ciclo di Krebs avviene nella matrice mitocondriale.
+Qui si libera CO2 e si producono NADH e FADH2.
+Si produce anche una piccola quantità di ATP o GTP.
+
+NADH e FADH2 portano elettroni alla catena di trasporto degli elettroni.
+La catena si trova nella membrana interna del mitocondrio.
+Gli elettroni passano attraverso complessi proteici.
+L’energia del passaggio serve a pompare protoni nello spazio intermembrana.
+Si crea un gradiente di protoni.
+
+I protoni rientrano attraverso ATP sintasi.
+L’ATP sintasi usa il flusso di protoni per produrre ATP.
+Questo meccanismo si chiama chemiosmosi.
+
+L’ossigeno è l’accettore finale degli elettroni.
+Si combina con elettroni e protoni formando acqua.
+
+Senza ossigeno, la catena si blocca.
+Se la catena si blocca, NADH non può scaricare elettroni.
+Se NADH non si rigenera a NAD+, anche il metabolismo rallenta.
+
+Domanda da test:
+Dove avviene la glicolisi?
+Risposta: nel citoplasma.
+
+Domanda da test:
+Qual è l’accettore finale degli elettroni nella respirazione aerobica?
+Risposta: ossigeno.
+
+
+LEZIONE 9 - FERMENTAZIONE E ACIDO LATTICO
+
+Se manca ossigeno, la cellula non può usare pienamente la respirazione aerobica.
+Ma alcune cellule possono continuare temporaneamente a produrre ATP attraverso glicolisi e fermentazione.
+
+La glicolisi produce ATP anche senza ossigeno.
+Il problema è che la glicolisi richiede NAD+.
+Durante la glicolisi, NAD+ diventa NADH.
+Se tutto il NAD+ si esaurisce, la glicolisi si ferma.
+
+La fermentazione serve a rigenerare NAD+.
+Nell’uomo, la fermentazione lattica trasforma piruvato in lattato.
+In questo modo NADH torna a NAD+.
+
+La fermentazione lattica non produce molto ATP.
+L’ATP viene dalla glicolisi.
+La fermentazione serve soprattutto a mantenere attiva la glicolisi.
+
+Durante sforzi intensi, quando la richiesta di energia supera la capacità aerobica, aumenta la produzione di lattato.
+Il lattato non è semplicemente “spazzatura”.
+Può essere trasportato e riutilizzato, per esempio dal fegato o da altri tessuti.
+
+Nei lieviti può avvenire fermentazione alcolica.
+Il piruvato viene trasformato in etanolo e CO2.
+Questo è importante nella produzione di pane, vino e birra.
+
+Domanda da test:
+A che cosa serve la fermentazione?
+Risposta: a rigenerare NAD+ permettendo alla glicolisi di continuare.
+
+Domanda da test:
+La fermentazione lattica avviene nei mitocondri?
+Risposta: no, avviene nel citoplasma.
+
+
+======================================================================
+PARTE SECONDA - GENETICA, EREDITARIETÀ, EVOLUZIONE
+======================================================================
+
+LEZIONE 10 - LEGGE DELLA SEGREGAZIONE DI MENDEL
+
+Mendel osservò che i caratteri ereditari sono determinati da fattori che oggi chiamiamo geni.
+Ogni individuo ha due copie di un gene, una ereditata da ciascun genitore.
+
+La legge della segregazione dice:
+i due alleli di un gene si separano durante la formazione dei gameti.
+Ogni gamete riceve un solo allele.
+
+Esempio:
+Un individuo Aa produce gameti A e gameti a.
+Non produce gameti Aa.
+Il gamete porta una sola copia.
+
+Quando due gameti si uniscono, lo zigote torna ad avere due alleli.
+
+Se incrociamo Aa con Aa:
+gameti del primo: A oppure a.
+gameti del secondo: A oppure a.
+Combinazioni:
+AA,
+Aa,
+Aa,
+aa.
+
+Rapporto genotipico: 1:2:1.
+Rapporto fenotipico, se A domina su a: 3:1.
+
+Il quadrato di Punnett aiuta a visualizzare gli incroci.
+Ma bisogna capire la logica, non solo disegnare la tabella.
+
+Domanda da test:
+Un eterozigote per un carattere produce quali gameti?
+Risposta: metà con un allele, metà con l’altro, se non ci sono altri fattori.
+
+LEZIONE 11 - LEGGE DELL’ASSORTIMENTO INDIPENDENTE
+
+La seconda legge di Mendel, o legge dell’assortimento indipendente, riguarda geni diversi.
+
+Dice che gli alleli di geni diversi si distribuiscono nei gameti indipendentemente l’uno dall’altro, se i geni sono su cromosomi diversi o abbastanza lontani sullo stesso cromosoma.
+
+Esempio:
+Un individuo AaBb può produrre gameti:
+AB,
+Ab,
+aB,
+ab.
+
+Se i geni assortiscono indipendentemente, questi gameti sono prodotti in proporzioni uguali.
+
+Attenzione:
+questa legge non vale sempre.
+Se due geni sono vicini sullo stesso cromosoma, possono essere associati.
+Si dice che sono linked, cioè concatenati.
+Il crossing-over può separarli, ma più sono vicini, meno spesso vengono separati.
+
+L’assortimento indipendente ha base nella meiosi.
+Le coppie di cromosomi omologhi si orientano casualmente durante la metafase I.
+Questo crea combinazioni diverse di cromosomi materni e paterni.
+
+Domanda da test:
+L’assortimento indipendente avviene soprattutto per geni su cromosomi diversi?
+Risposta: sì.
+
+Domanda da test:
+Due geni molto vicini sullo stesso cromosoma seguono sempre l’assortimento indipendente?
+Risposta: no.
+
+
+LEZIONE 12 - CARATTERI LEGATI AL SESSO
+
+Nell’uomo, i cromosomi sessuali sono X e Y.
+Le femmine hanno XX.
+I maschi hanno XY.
+
+Il cromosoma X contiene molti geni.
+Il cromosoma Y è più piccolo e contiene meno geni.
+
+Un carattere legato al cromosoma X ha modalità ereditaria particolare.
+I maschi hanno un solo cromosoma X.
+Se ricevono un allele recessivo patologico sull’X, non hanno un secondo X che possa compensare.
+Per questo molte malattie recessive legate all’X sono più frequenti nei maschi.
+
+Esempi classici:
+daltonismo rosso-verde,
+emofilia, in alcune forme.
+
+Una femmina può essere portatrice sana se ha un allele normale e uno mutato.
+Un maschio con l’allele mutato sull’X manifesta il carattere.
+
+Esempio:
+Madre portatrice X normale X mutato.
+Padre sano X normale Y.
+
+Figli maschi:
+possono ricevere X normale dalla madre e Y dal padre: sani.
+Oppure X mutato dalla madre e Y dal padre: affetti.
+
+Figlie:
+ricevono X normale dal padre.
+Dalla madre possono ricevere X normale o X mutato.
+Quindi possono essere sane non portatrici o portatrici.
+
+Domanda da test:
+Perché i maschi manifestano più spesso malattie recessive legate all’X?
+Risposta: perché hanno un solo cromosoma X.
+
+
+LEZIONE 13 - EVOLUZIONE, ADATTAMENTO, FITNESS
+
+L’evoluzione è cambiamento delle frequenze genetiche in una popolazione nel tempo.
+
+Non evolve il singolo individuo.
+Evolve la popolazione.
+
+La selezione naturale agisce su differenze ereditarie.
+Se un carattere aumenta sopravvivenza o riproduzione in un certo ambiente, gli individui che lo possiedono tendono a lasciare più discendenti.
+Quel carattere può diventare più frequente.
+
+La fitness non significa forza fisica.
+In biologia evolutiva, fitness significa successo riproduttivo.
+Un organismo con alta fitness lascia più copie dei propri geni alla generazione successiva.
+
+L’adattamento è un carattere che aumenta la fitness in un certo ambiente.
+Ma un adattamento è sempre relativo all’ambiente.
+Un carattere utile in un ambiente può essere inutile o dannoso in un altro.
+
+La selezione naturale non produce organismi perfetti.
+Lavora con variazioni disponibili.
+È vincolata dalla storia evolutiva.
+Non ha intenzione, progetto cosciente o scopo finale.
+
+Altri meccanismi evolutivi:
+mutazione,
+deriva genetica,
+flusso genico,
+selezione sessuale.
+
+La deriva genetica è cambiamento casuale delle frequenze alleliche.
+È più forte nelle popolazioni piccole.
+
+Il flusso genico è scambio di geni tra popolazioni, dovuto a migrazione e riproduzione.
+
+Domanda da test:
+La selezione naturale agisce direttamente sul genotipo o sul fenotipo?
+Risposta: agisce sul fenotipo, ma modifica nel tempo le frequenze genetiche.
+
+======================================================================
+PARTE TERZA - ANATOMIA E FISIOLOGIA AVANZATA
+======================================================================
+
+LEZIONE 14 - SISTEMA ENDOCRINO: LOGICA GENERALE
+
+Il sistema endocrino comunica tramite ormoni.
+Gli ormoni sono messaggeri chimici liberati nel sangue.
+
+Un ormone può raggiungere tutto il corpo, ma agisce solo sulle cellule che hanno il recettore adatto.
+Questo è fondamentale:
+il sangue distribuisce,
+il recettore seleziona.
+
+Ci sono ormoni idrosolubili e liposolubili.
+
+Gli ormoni idrosolubili, come molti ormoni peptidici, non attraversano facilmente la membrana.
+Si legano a recettori sulla superficie cellulare.
+Attivano secondi messaggeri intracellulari.
+
+Gli ormoni liposolubili, come gli steroidi e gli ormoni tiroidei, attraversano la membrana.
+Si legano a recettori intracellulari o nucleari.
+Possono modificare l’espressione genica.
+
+Gli ormoni spesso funzionano con feedback negativo.
+Feedback negativo significa che il risultato finale riduce lo stimolo iniziale.
+
+Esempio:
+Se aumenta la glicemia, il pancreas produce insulina.
+L’insulina abbassa la glicemia.
+Quando la glicemia scende, diminuisce lo stimolo alla secrezione di insulina.
+
+Altro esempio:
+Asse ipotalamo-ipofisi-tiroide.
+L’ipotalamo produce TRH.
+L’ipofisi produce TSH.
+La tiroide produce ormoni tiroidei.
+Quando gli ormoni tiroidei sono sufficienti, inibiscono ipotalamo e ipofisi.
+Questo è feedback negativo.
+
+Domanda da test:
+Perché un ormone agisce solo su alcune cellule?
+Risposta: perché solo quelle cellule hanno il recettore specifico.
+
+
+LEZIONE 15 - TIROIDE, PARATIROIDI, CALCIO
+
+La tiroide produce ormoni tiroidei, T3 e T4.
+Questi ormoni aumentano il metabolismo basale.
+Influenzano consumo di ossigeno, produzione di calore, crescita e sviluppo.
+
+Per produrre ormoni tiroidei serve iodio.
+Lo iodio è un componente essenziale di T3 e T4.
+
+La tiroide è controllata dall’ipofisi tramite TSH.
+TSH stimola la tiroide.
+T3 e T4, quando sono alti, riducono TSH tramite feedback negativo.
+
+La tiroide produce anche calcitonina.
+La calcitonina tende ad abbassare il calcio nel sangue, favorendo il deposito nelle ossa.
+Nell’uomo adulto il ruolo della calcitonina è meno centrale rispetto al paratormone.
+
+Le paratiroidi producono paratormone, o PTH.
+Il PTH aumenta il calcio nel sangue.
+Agisce su ossa, reni e indirettamente intestino.
+
+Sulle ossa, favorisce liberazione di calcio.
+Nei reni, aumenta riassorbimento di calcio.
+Favorisce anche l’attivazione della vitamina D, che aumenta l’assorbimento intestinale di calcio.
+
+Il calcio è importante per:
+contrazione muscolare,
+trasmissione nervosa,
+coagulazione,
+segnalazione cellulare,
+struttura ossea.
+
+Domanda da test:
+Quale ormone aumenta il calcio nel sangue?
+Risposta: paratormone.
+
+Domanda da test:
+Quale elemento è necessario per produrre ormoni tiroidei?
+Risposta: iodio.
+
+
+LEZIONE 16 - SURRENI: CORTISOLO, ALDOSTERONE, ADRENALINA
+
+Le ghiandole surrenali si trovano sopra i reni.
+Hanno due parti principali:
+corticale,
+midollare.
+
+La corticale surrenalica produce ormoni steroidei.
+I principali sono:
+cortisolo,
+aldosterone,
+androgeni.
+
+Il cortisolo è un glucocorticoide.
+Aiuta l’organismo a rispondere allo stress.
+Aumenta disponibilità di glucosio.
+Influenza metabolismo di proteine e grassi.
+Ha effetto antinfiammatorio e immunosoppressivo.
+
+L’aldosterone è un mineralcorticoide.
+Agisce sul rene.
+Aumenta riassorbimento di sodio e acqua.
+Aumenta secrezione di potassio.
+Contribuisce ad aumentare volume sanguigno e pressione arteriosa.
+
+La midollare surrenalica produce adrenalina e noradrenalina.
+Questi ormoni preparano alla risposta acuta di stress.
+Aumentano frequenza cardiaca.
+Dilatazione bronchiale.
+Mobilizzazione di energia.
+
+Il sistema simpatico e la midollare surrenalica sono collegati.
+Il simpatico attiva la midollare, che libera adrenalina nel sangue.
+
+Domanda da test:
+Quale ormone surrenalico aumenta il riassorbimento di sodio nel rene?
+Risposta: aldosterone.
+
+Domanda da test:
+Quale parte del surrene produce adrenalina?
+Risposta: midollare.
+
+
+LEZIONE 17 - APPARATO RIPRODUTTORE E GAMETOGENESI
+
+La riproduzione umana è sessuata.
+Richiede gameti:
+spermatozoi,
+cellule uovo.
+
+I gameti sono aploidi.
+Contengono 23 cromosomi.
+Quando si uniscono nella fecondazione, formano uno zigote diploide con 46 cromosomi.
+
+La spermatogenesi avviene nei testicoli.
+Produce spermatozoi.
+Inizia dalla pubertà e continua per gran parte della vita.
+Da una cellula germinale si possono formare quattro spermatozoi funzionali.
+
+L’oogenesi avviene nelle ovaie.
+Produce cellule uovo.
+È un processo asimmetrico.
+Da una cellula germinale si forma una cellula uovo grande e corpi polari piccoli.
+Questo serve a conservare citoplasma e risorse nella cellula uovo.
+
+Gli ormoni principali della riproduzione includono:
+GnRH,
+FSH,
+LH,
+estrogeni,
+progesterone,
+testosterone.
+
+L’ipotalamo produce GnRH.
+L’ipofisi produce FSH e LH.
+
+Nella donna, FSH stimola crescita follicolare.
+LH induce ovulazione.
+Il follicolo produce estrogeni.
+Dopo l’ovulazione, il corpo luteo produce progesterone.
+
+Il progesterone prepara e mantiene l’endometrio.
+Se non avviene gravidanza, il corpo luteo regredisce, progesterone ed estrogeni diminuiscono e avviene la mestruazione.
+
+Nell’uomo, LH stimola le cellule di Leydig a produrre testosterone.
+FSH contribuisce alla spermatogenesi.
+
+Domanda da test:
+Quale ormone induce l’ovulazione?
+Risposta: LH.
+
+Domanda da test:
+Quale ormone prepara l’endometrio dopo l’ovulazione?
+Risposta: progesterone.
+
+
+LEZIONE 18 - IMMUNITÀ INNATA
+
+L’immunità innata è la prima linea di difesa.
+È rapida.
+È presente fin dalla nascita.
+Riconosce caratteristiche generali dei patogeni, non antigeni specifici come l’immunità adattativa.
+
+Barriere fisiche:
+pelle,
+mucose,
+muco,
+ciglia respiratorie.
+
+Barriere chimiche:
+acidità gastrica,
+enzimi come lisozima,
+sostanze antimicrobiche.
+
+Cellule dell’immunità innata:
+neutrofili,
+macrofagi,
+cellule dendritiche,
+natural killer.
+
+I neutrofili sono fagociti rapidi.
+Arrivano presto nei siti di infezione.
+Ingeriscono e distruggono microrganismi.
+
+I macrofagi fagocitano, producono segnali infiammatori e presentano antigeni.
+Le cellule dendritiche sono importanti ponte tra immunità innata e adattativa.
+Catturano antigeni e li presentano ai linfociti.
+
+Le cellule natural killer uccidono cellule infettate da virus o cellule tumorali alterate.
+
+L’infiammazione è una risposta locale.
+Segni classici:
+rossore,
+calore,
+gonfiore,
+dolore,
+perdita di funzione.
+
+Il rossore e il calore dipendono da aumento del flusso sanguigno.
+Il gonfiore dipende da aumento della permeabilità dei vasi.
+Il dolore dipende da mediatori chimici e pressione sui tessuti.
+
+Domanda da test:
+Quale immunità è rapida e aspecifica?
+Risposta: immunità innata.
+
+Domanda da test:
+Quali cellule uccidono cellule infettate senza riconoscimento antigenico specifico classico?
+Risposta: cellule natural killer.
+
+
+LEZIONE 19 - IMMUNITÀ ADATTATIVA, ANTICORPI, MEMORIA
+
+L’immunità adattativa è specifica.
+Richiede più tempo al primo incontro.
+Produce memoria.
+
+Le cellule principali sono:
+linfociti B,
+linfociti T.
+
+I linfociti B possono diventare plasmacellule.
+Le plasmacellule producono anticorpi.
+
+Gli anticorpi sono proteine che riconoscono antigeni.
+Si legano in modo specifico.
+Possono neutralizzare tossine o virus, facilitare fagocitosi, attivare complemento.
+
+I linfociti T si dividono in varie categorie.
+I T helper coordinano la risposta immunitaria.
+I T citotossici uccidono cellule infettate.
+I T regolatori aiutano a controllare e limitare la risposta.
+
+La memoria immunitaria è fondamentale.
+Dopo il primo incontro con un antigene, restano cellule della memoria.
+Al secondo incontro, la risposta è più rapida e più forte.
+
+Questo principio è alla base della vaccinazione.
+Un vaccino espone il sistema immunitario a un antigene o a una sua forma sicura.
+L’obiettivo è generare memoria senza causare la malattia naturale nella sua forma pericolosa.
+
+Attenzione:
+l’immunità adattativa è molto potente, ma se mal regolata può causare problemi.
+Nelle allergie, il sistema reagisce in modo eccessivo a sostanze innocue.
+Nelle malattie autoimmuni, reagisce contro componenti proprie dell’organismo.
+
+Domanda da test:
+Quali cellule producono anticorpi?
+Risposta: plasmacellule derivate dai linfociti B.
+
+Domanda da test:
+Perché la seconda risposta a un antigene è più rapida?
+Risposta: per la presenza di cellule della memoria.
+
+
+======================================================================
+PARTE QUARTA - CHIMICA APPROFONDITA ED ESERCIZI
+======================================================================
+
+LEZIONE 20 - REAZIONI REDOX
+
+Le reazioni redox sono reazioni di ossidoriduzione.
+Coinvolgono trasferimento di elettroni.
+
+Ossidazione significa perdita di elettroni.
+Riduzione significa acquisto di elettroni.
+
+Una frase utile:
+OIL RIG.
+Oxidation Is Loss.
+Reduction Is Gain.
+Ossidazione è perdita.
+Riduzione è guadagno.
+
+Se una sostanza perde elettroni, si ossida.
+Se una sostanza acquista elettroni, si riduce.
+
+Nelle reazioni biologiche, spesso non vediamo elettroni liberi.
+Vediamo trasferimento di idrogeni o cambiamenti nei legami.
+Ma il concetto è lo stesso: gli elettroni vengono spostati.
+
+NAD+ si riduce a NADH.
+Perché acquista elettroni.
+FAD si riduce a FADH2.
+
+Quando il glucosio viene demolito, viene ossidato.
+Gli elettroni passano a NAD+ e FAD.
+Poi arrivano alla catena respiratoria.
+Alla fine l’ossigeno viene ridotto ad acqua.
+
+Quindi nella respirazione cellulare:
+il glucosio si ossida;
+l’ossigeno si riduce.
+
+Domanda da test:
+NAD+ che diventa NADH viene ossidato o ridotto?
+Risposta: ridotto.
+
+Domanda da test:
+Nella respirazione cellulare, l’ossigeno è l’accettore finale di elettroni. Viene ossidato o ridotto?
+Risposta: ridotto.
+
+
+LEZIONE 21 - EQUILIBRIO CHIMICO
+
+Molte reazioni chimiche sono reversibili.
+Questo significa che possono andare sia dai reagenti ai prodotti sia dai prodotti ai reagenti.
+
+A un certo punto può stabilirsi un equilibrio chimico.
+All’equilibrio, la velocità della reazione diretta è uguale alla velocità della reazione inversa.
+
+Attenzione:
+equilibrio non significa che le concentrazioni siano uguali.
+Significa che non cambiano nel tempo perché le due velocità sono uguali.
+
+Il principio di Le Chatelier dice:
+se un sistema all’equilibrio viene perturbato, reagisce opponendosi alla perturbazione.
+
+Esempio semplice:
+se aggiungo reagente, il sistema tende a consumarlo formando più prodotto.
+Se rimuovo prodotto, il sistema tende a produrne altro.
+Se aumento la pressione in un equilibrio gassoso, il sistema tende a spostarsi verso il lato con meno moli di gas.
+
+Questo principio è utile anche in biologia.
+L’emoglobina lega ossigeno in modo reversibile.
+Nei polmoni, dove l’ossigeno è abbondante, l’emoglobina si carica.
+Nei tessuti, dove l’ossigeno è più basso e la CO2 più alta, lo rilascia.
+
+Domanda da test:
+All’equilibrio chimico le reazioni si fermano?
+Risposta: no. Continuano, ma alla stessa velocità nelle due direzioni.
+
+
+LEZIONE 22 - SOLUBILITÀ, PRECIPITAZIONE, IONI
+
+Una sostanza è solubile se si scioglie in un solvente.
+La solubilità dipende da natura del soluto, natura del solvente, temperatura e, per i gas, pressione.
+
+Regola generale:
+il simile scioglie il simile.
+Solventi polari sciolgono bene sostanze polari o ioniche.
+Solventi apolari sciolgono bene sostanze apolari.
+
+L’acqua scioglie bene il sale perché è polare.
+L’olio non si scioglie bene in acqua perché è apolare.
+
+Quando un sale ionico si scioglie, si dissocia in ioni.
+NaCl in acqua diventa Na più e Cl meno.
+
+Una precipitazione avviene quando ioni in soluzione formano un composto poco solubile.
+Il composto insolubile appare come solido.
+
+Esempio concettuale:
+se un catione e un anione formano un sale insolubile, questo precipita.
+
+La solubilità dei gas in un liquido aumenta con la pressione.
+Questo è importante per capire fenomeni come gas disciolti nel sangue o nelle bevande gassate.
+
+Domanda da test:
+Perché olio e acqua non si mescolano bene?
+Risposta: perché l’acqua è polare e l’olio è apolare.
+
+
+LEZIONE 23 - ESERCIZI DI MOLI E MOLARITÀ RAGIONATI
+
+Esercizio 1.
+Quante moli ci sono in 36 grammi di acqua?
+
+Dati:
+massa = 36 g.
+Massa molare acqua = 18 g/mol.
+
+Formula:
+moli = massa / massa molare.
+
+Calcolo:
+36 / 18 = 2.
+
+Risposta:
+2 moli.
+
+Esercizio 2.
+Qual è la molarità di una soluzione che contiene 0,5 moli in 2 litri?
+
+Formula:
+M = moli / litri.
+
+Calcolo:
+0,5 / 2 = 0,25.
+
+Risposta:
+0,25 M.
+
+Esercizio 3.
+Quante moli servono per preparare 500 mL di soluzione 2 M?
+
+Attenzione:
+500 mL = 0,5 L.
+
+Formula:
+moli = M per L.
+
+Calcolo:
+2 per 0,5 = 1 mole.
+
+Risposta:
+1 mole.
+
+Esercizio 4.
+Hai 100 mL di soluzione 1 M e la diluisci a 500 mL. Qual è la nuova molarità?
+
+Formula:
+M1 V1 = M2 V2.
+
+M1 = 1 M.
+V1 = 100 mL.
+V2 = 500 mL.
+
+M2 = M1 V1 / V2.
+M2 = 1 per 100 / 500 = 0,2 M.
+
+Risposta:
+0,2 M.
+
+Metodo mentale:
+se il volume aumenta di 5 volte, la concentrazione diminuisce di 5 volte.
+
+Domanda da test:
+Quando diluisci una soluzione, che cosa resta costante?
+Risposta: le moli di soluto, se non aggiungi o togli soluto.
+
+
+LEZIONE 24 - ESERCIZI DI pH
+
+Ricorda:
+pH basso = acido.
+pH alto = basico.
+pH 7 = neutro.
+La scala è logaritmica.
+
+Esercizio 1.
+Quale soluzione è più acida: pH 3 o pH 5?
+Risposta: pH 3.
+
+Di quanto è più acida?
+Differenza di 2 unità.
+Ogni unità vale 10 volte.
+10 per 10 = 100.
+pH 3 è 100 volte più acida di pH 5.
+
+Esercizio 2.
+Una soluzione passa da pH 8 a pH 6.
+Diventa più acida o più basica?
+Il pH diminuisce, quindi diventa più acida.
+
+Di quanto aumenta la concentrazione di H più?
+Differenza di 2 unità.
+Aumenta 100 volte.
+
+Esercizio 3.
+Il sangue ha pH circa 7,4.
+È acido, neutro o leggermente basico?
+Risposta: leggermente basico.
+
+Attenzione:
+leggermente basico non significa “molto alcalino”.
+Il corpo regola il pH del sangue in modo stretto.
+
+Domanda da test:
+Una soluzione a pH 2 rispetto a una a pH 4 è quante volte più acida?
+Risposta: 100 volte.
+
+
+======================================================================
+PARTE QUINTA - FISICA APPROFONDITA ED ESERCIZI
+======================================================================
+
+LEZIONE 25 - LEVE E CORPO UMANO
+
+Una leva è una macchina semplice.
+È formata da:
+fulcro,
+forza applicata,
+resistenza.
+
+Nel corpo umano, le ossa possono funzionare da leve.
+Le articolazioni sono fulcri.
+I muscoli applicano forza.
+Il peso del segmento corporeo o dell’oggetto è la resistenza.
+
+Esistono leve di primo, secondo e terzo genere.
+
+Leva di primo genere:
+il fulcro è tra forza e resistenza.
+Esempio classico: altalena.
+Nel corpo: alcuni movimenti della testa sul collo.
+
+Leva di secondo genere:
+la resistenza è tra fulcro e forza.
+Esempio: carriola.
+Nel corpo: sollevarsi sulle punte dei piedi può essere interpretato come leva di secondo genere.
+
+Leva di terzo genere:
+la forza è tra fulcro e resistenza.
+È molto frequente nel corpo umano.
+Esempio: flessione dell’avambraccio con il bicipite.
+Il gomito è fulcro.
+Il bicipite applica forza vicino al fulcro.
+Il peso nella mano è la resistenza.
+
+Le leve di terzo genere favoriscono velocità e ampiezza del movimento, ma richiedono più forza muscolare.
+
+Domanda da test:
+Nel braccio che solleva un peso con il bicipite, che tipo di leva è generalmente rappresentata?
+Risposta: leva di terzo genere.
+
+
+LEZIONE 26 - PRESSIONE NEI LIQUIDI E SISTEMA CIRCOLATORIO
+
+La pressione in un liquido dipende dalla profondità.
+p = ρ g h.
+
+Questo significa che più si scende, più aumenta la pressione.
+Nel corpo umano, la gravità influenza la pressione del sangue.
+Quando una persona è in piedi, la pressione nelle gambe è maggiore rispetto a zone più alte, a causa della colonna di sangue.
+
+Le vene hanno valvole.
+Le valvole venose aiutano il ritorno del sangue al cuore.
+Impediscono il reflusso verso il basso.
+
+Anche i muscoli aiutano.
+Quando i muscoli delle gambe si contraggono, comprimono le vene e spingono il sangue verso l’alto.
+Questo si chiama pompa muscolare.
+
+Pressione e flusso sono collegati.
+In modo semplificato:
+flusso = differenza di pressione / resistenza.
+
+Se la differenza di pressione aumenta, il flusso tende ad aumentare.
+Se la resistenza aumenta, il flusso tende a diminuire.
+
+Nei vasi sanguigni, la resistenza aumenta moltissimo se il raggio diminuisce.
+Un piccolo restringimento può ridurre molto il flusso.
+
+Questo è importante in medicina:
+un vaso stenotico, cioè ristretto, può limitare il flusso di sangue ai tessuti.
+
+Domanda da test:
+Che cosa accade al flusso se aumenta la resistenza e la pressione resta uguale?
+Risposta: diminuisce.
+
+
+LEZIONE 27 - GAS, PRESSIONE E RESPIRAZIONE
+
+I gas esercitano pressione.
+La pressione di un gas dipende dagli urti delle molecole contro le pareti del contenitore.
+
+Legge di Boyle, a temperatura costante:
+pressione e volume sono inversamente proporzionali.
+Se il volume aumenta, la pressione diminuisce.
+Se il volume diminuisce, la pressione aumenta.
+
+Questa legge aiuta a capire la respirazione.
+
+Durante l’inspirazione, il volume della cavità toracica aumenta.
+La pressione nei polmoni diminuisce.
+L’aria entra.
+
+Durante l’espirazione, il volume diminuisce.
+La pressione aumenta.
+L’aria esce.
+
+La diffusione dei gas dipende da gradienti di pressione parziale.
+L’ossigeno passa dagli alveoli al sangue perché la pressione parziale dell’ossigeno è maggiore negli alveoli.
+La CO2 passa dal sangue agli alveoli perché la sua pressione parziale è maggiore nel sangue venoso.
+
+Domanda da test:
+Secondo la legge di Boyle, se il volume di un gas aumenta, che cosa succede alla pressione, a temperatura costante?
+Risposta: diminuisce.
+
+
+LEZIONE 28 - OTTICA DI BASE: LENTI, OCCHIO, DIFETTI VISIVI
+
+La luce può essere riflessa e rifratta.
+La rifrazione è il cambiamento di direzione della luce quando passa da un mezzo a un altro.
+
+L’occhio usa la rifrazione per mettere a fuoco le immagini sulla retina.
+Le strutture principali coinvolte sono cornea e cristallino.
+
+La cornea fornisce gran parte del potere diottrico.
+Il cristallino modifica la sua forma per mettere a fuoco oggetti a diverse distanze.
+Questo processo si chiama accomodazione.
+
+Nella miopia, l’immagine di oggetti lontani si forma davanti alla retina.
+La persona vede male da lontano.
+Si corregge con lenti divergenti.
+
+Nell’ipermetropia, l’immagine tende a formarsi dietro la retina.
+La persona può avere difficoltà soprattutto da vicino.
+Si corregge con lenti convergenti.
+
+Nella presbiopia, con l’età, il cristallino perde elasticità.
+Diventa difficile mettere a fuoco da vicino.
+Si corregge con lenti convergenti per la visione da vicino.
+
+Domanda da test:
+La miopia si corregge con lenti convergenti o divergenti?
+Risposta: divergenti.
+
+Domanda da test:
+Che cosa fa il cristallino?
+Risposta: modifica la messa a fuoco cambiando forma.
+
+
+LEZIONE 29 - RADIOATTIVITÀ E RADIAZIONI
+
+La radioattività è l’emissione spontanea di particelle o radiazioni da nuclei instabili.
+
+Tipi principali:
+alfa,
+beta,
+gamma.
+
+La radiazione alfa è formata da nuclei di elio, cioè due protoni e due neutroni.
+Ha bassa capacità di penetrazione, ma può essere molto dannosa se la sorgente è interna al corpo.
+
+La radiazione beta è formata da elettroni o positroni.
+Ha penetrazione intermedia.
+
+La radiazione gamma è radiazione elettromagnetica ad alta energia.
+Ha alta capacità di penetrazione.
+
+Il tempo di dimezzamento è il tempo necessario perché metà dei nuclei radioattivi decadano.
+Se una sostanza ha tempo di dimezzamento di 10 giorni, dopo 10 giorni resta metà della quantità iniziale.
+Dopo 20 giorni resta un quarto.
+Dopo 30 giorni resta un ottavo.
+
+Le radiazioni ionizzanti possono danneggiare il DNA.
+Per questo sono importanti in medicina, sia come rischio sia come strumento diagnostico e terapeutico.
+
+Domanda da test:
+Dopo due tempi di dimezzamento, quale frazione della sostanza radioattiva resta?
+Risposta: un quarto.
+
+
+======================================================================
+PARTE SESTA - MINI-SIMULAZIONE RAGIONATA
+======================================================================
+
+DOMANDA 1
+Una cellula animale viene immersa in una soluzione ipertonica. Che cosa accade?
+
+Ragionamento:
+ipertonica significa più soluti fuori.
+L’acqua va verso dove ci sono più soluti.
+Quindi l’acqua esce dalla cellula.
+La cellula si raggrinzisce.
+
+Risposta:
+perde acqua e si raggrinzisce.
+
+
+DOMANDA 2
+Un enzima viene riscaldato molto oltre la sua temperatura ottimale. Che cosa accade?
+
+Ragionamento:
+gli enzimi sono proteine.
+La temperatura alta rompe interazioni che mantengono la forma.
+La proteina si denatura.
+Il sito attivo perde forma.
+
+Risposta:
+l’enzima si denatura e perde attività.
+
+
+DOMANDA 3
+Una mutazione inserisce una base in una sequenza codificante. Quale effetto può avere?
+
+Ragionamento:
+il codice genetico si legge a triplette.
+L’inserzione di una sola base sposta la cornice di lettura.
+Tutti i codoni successivi possono cambiare.
+
+Risposta:
+può causare frameshift.
+
+
+DOMANDA 4
+Perché il sangue diventa più acido se aumenta la CO2?
+
+Ragionamento:
+CO2 reagisce con acqua contribuendo alla formazione di acido carbonico.
+Il sistema produce più H più.
+Più H più significa pH più basso.
+
+Risposta:
+perché aumenta la concentrazione di ioni idrogeno tramite il sistema bicarbonato.
+
+
+DOMANDA 5
+Una soluzione passa da pH 6 a pH 3. Quanto aumenta l’acidità?
+
+Ragionamento:
+differenza di 3 unità di pH.
+Ogni unità equivale a fattore 10.
+10 per 10 per 10 = 1000.
+
+Risposta:
+aumenta di 1000 volte.
+
+
+DOMANDA 6
+Se una massa di 5 kg subisce una forza risultante di 20 N, qual è l’accelerazione?
+
+Formula:
+F = m a.
+Quindi a = F / m.
+a = 20 / 5 = 4 m/s².
+
+Risposta:
+4 m/s².
+
+
+DOMANDA 7
+Perché l’ossigeno è indispensabile nella respirazione aerobica?
+
+Ragionamento:
+l’ossigeno è accettore finale degli elettroni.
+Se manca, la catena di trasporto si blocca.
+Se la catena si blocca, cala la produzione di ATP.
+
+Risposta:
+perché accetta gli elettroni alla fine della catena respiratoria.
+
+
+DOMANDA 8
+Un ormone circola nel sangue ma agisce solo su alcune cellule. Perché?
+
+Ragionamento:
+il sangue distribuisce l’ormone ovunque.
+Ma solo le cellule con il recettore specifico rispondono.
+
+Risposta:
+perché solo le cellule bersaglio hanno il recettore adatto.
+
+
+DOMANDA 9
+Una madre portatrice sana di carattere recessivo legato all’X ha figli maschi. Che rischio hanno i maschi di essere affetti, se il padre è sano?
+
+Ragionamento:
+la madre ha un X normale e un X mutato.
+Il padre dà Y ai figli maschi.
+Ogni figlio maschio riceve l’X dalla madre.
+C’è 50% di probabilità di ricevere l’X mutato.
+
+Risposta:
+50%.
+
+
+DOMANDA 10
+Perché nei circuiti in parallelo la resistenza equivalente diminuisce?
+
+Ragionamento:
+aggiungere rami offre più vie alla corrente.
+Più vie significano minore opposizione complessiva.
+Quindi la resistenza equivalente diminuisce.
+
+Risposta:
+perché la corrente ha più percorsi disponibili.
+
+
+======================================================================
+RIPASSO FINALE DEL VOLUME 2
+======================================================================
+
+Cromatina significa DNA associato a proteine.
+Il cromosoma duplicato ha due cromatidi fratelli.
+Il ciclo cellulare è controllato da checkpoint.
+L’apoptosi è morte cellulare programmata.
+I proto-oncogeni sono acceleratori della crescita.
+I geni oncosoppressori sono freni.
+Le mutazioni possono essere silenti, missenso, nonsenso o frameshift.
+Cellule diverse esprimono geni diversi.
+I virus non sono cellule e non hanno ribosomi.
+I batteri sono cellule procariotiche.
+Gli antibiotici non funzionano contro virus.
+Il ciclo litico distrugge la cellula.
+Il ciclo lisogeno può restare latente.
+Il catabolismo libera energia.
+L’anabolismo consuma energia.
+La glicolisi avviene nel citoplasma.
+Il ciclo di Krebs avviene nella matrice mitocondriale.
+La catena respiratoria avviene nella membrana interna del mitocondrio.
+L’ossigeno è l’accettore finale degli elettroni.
+La fermentazione rigenera NAD+.
+Mendel: gli alleli segregano nei gameti.
+L’assortimento indipendente vale per geni non associati.
+Le malattie recessive legate all’X sono più frequenti nei maschi.
+La selezione naturale agisce sul fenotipo e modifica le frequenze genetiche.
+Gli ormoni agiscono su cellule con recettori.
+Gli ormoni steroidei attraversano la membrana.
+Gli ormoni peptidici usano recettori di membrana.
+Il paratormone aumenta il calcio nel sangue.
+L’aldosterone aumenta riassorbimento di sodio.
+LH induce ovulazione.
+Il progesterone prepara l’endometrio.
+L’immunità innata è rapida e aspecifica.
+L’immunità adattativa è specifica e ha memoria.
+Gli anticorpi sono prodotti da plasmacellule.
+Ossidazione significa perdita di elettroni.
+Riduzione significa acquisto di elettroni.
+All’equilibrio chimico le reazioni non si fermano.
+La molarità è moli diviso litri.
+La diluizione conserva le moli di soluto.
+Le leve del corpo umano sono spesso di terzo genere.
+La legge di Boyle collega pressione e volume.
+La miopia si corregge con lenti divergenti.
+Il tempo di dimezzamento dimezza la quantità residua a ogni intervallo.
+
+======================================================================
+CONCLUSIONE DEL VOLUME 2
+======================================================================
+
+Ora il quadro diventa più ricco.
+
+La biologia molecolare spiega come l’informazione viene conservata, copiata, letta e talvolta alterata.
+La genetica spiega come i caratteri passano alle generazioni successive.
+Il metabolismo spiega come la cellula ricava e usa energia.
+L’immunologia spiega come il corpo distingue e combatte ciò che considera estraneo.
+L’endocrinologia spiega come il corpo coordina funzioni lente e diffuse.
+La chimica spiega perché le molecole reagiscono, si sciolgono, si ossidano, si riducono e modificano il pH.
+La fisica spiega pressione, flusso, gas, leve, luce, energia e radiazioni.
+
+Per il test devi imparare a fare una cosa:
+trasformare ogni domanda in un meccanismo.
+
+Non chiederti solo:
+qual è la definizione?
+
+Chiediti:
+qual è la causa?
+qual è l’effetto?
+che cosa aumenta?
+che cosa diminuisce?
+dove avviene?
+quale struttura serve a quella funzione?
+quale risposta è plausibile ma sbagliata?
+
+Questa è la mentalità giusta.
+
+Fine del Volume 2.

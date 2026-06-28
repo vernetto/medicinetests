@@ -1,0 +1,3136 @@
+== MITOSI
+
+La mitosi è il meccanismo biologico attraverso il quale il nostro organismo rimpiazza le cellule somatiche (pelle, muscoli, sangue) che ogni giorno invecchiano e muoiono (circa 50-100 miliardi al giorno). Il processo parte da una singola cellula madre e produce due cellule figlie geneticamente identiche tra loro e alla madre.
+
+Il ciclo si divide in 5 fasi principali:
+
+1. Interfase
+È la fase di preparazione in cui la cellula non si moltiplica ma si duplica. Si divide a sua volta in tre sotto-fasi:
+
+Fase G1: La fase più lunga. Il DNA si trova nel nucleo sotto forma di cromosomi a singolo cromatidio. La cellula produce gli enzimi necessari alla successiva duplicazione.
+
+Fase S: Avviene la vera e propria duplicazione del DNA.
+
+Fase G2: Il DNA si spiralizza di nuovo e la cellula esegue un controllo di integrità del DNA duplicato; se ci sono danni il processo si interrompe, altrimenti si passa alla mitosi vera e propria.
+
+2. Profase
+Il DNA si condensa e si impacchetta attorno alle proteine formando i cromosomi.
+
+A causa della duplicazione avvenuta nella fase S, i cromatidi ora sono doppi (cromatidi fratelli) e sono legati in un punto centrale detto centromero.
+
+Il centrosoma si duplica e le due parti migrano ai poli opposti della cellula, iniziando a produrre i microtubuli che formeranno la rete del fuso mitotico.
+
+3. Metafase
+La membrana del nucleo si dissolve, lasciando liberi i cromosomi all'interno della cellula.
+
+I microtubuli del fuso si allungano e si agganciano al centromero di ciascun cromosoma. Ogni cromatidio fratello è così legato a uno dei due poli opposti.
+
+I cromosomi si allineano perfettamente al centro della cellula lungo la cosiddetta piastra equatoriale.
+
+4. Anafase
+I cromatidi fratelli si separano.
+
+I microtubuli iniziano ad accorciarsi e a ritirarsi, trascinando i singoli cromatidi verso i due centrosomi ai poli opposti della cellula.
+
+In questo modo, il DNA si spartisce equamente in due gruppi speculari.
+
+5. Telofase
+È la fase conclusiva: i cromatidi raggiungono i poli e si "spacchettano", tornando allo stato di cromatina meno condensata.
+
+Si riformano le membrane nucleari attorno ai due nuovi set di cromatidi e il fuso mitotico scompare.
+
+Infine, lungo l'equatore della cellula si forma un anello di proteine che stringe e strozza la cellula fino a dividerla materialmente in due cellule figlie distinte.
+
+
+Ecco il riepilogo delle 20 domande del quiz sulla mitosi con indicata esclusivamente la risposta corretta per ciascuna:
+
+A quale scopo principale serve il processo di mitosi nel corpo umano?
+
+A rimpiazzare le cellule somatiche che invecchiano e muoiono.
+
+Cosa sono le cellule somatiche?
+
+Cellule che compongono tessuti come pelle, muscoli e sangue.
+
+In quante fases principali viene diviso il processo complessivo descritto nella lezione?
+
+5 fasi.
+
+Qual è la caratteristica genetica delle due cellule figlie nate dalla mitosi?
+
+Sono geneticamente identiche tra loro e identiche alla cellula madre.
+
+Cosa fa la cellula durante l'Interfase?
+
+Non si moltiplica, ma si prepara alla duplicazione.
+
+In quale sotto-fase dell'Interfase avviene la vera e propria duplicazione del DNA?
+
+Fase S.
+
+Qual è la sotto-fase più lunga dell'Interfase?
+
+Fase G1.
+
+Cosa accade nella fase G2 se la cellula riscontra che il DNA è danneggiato?
+
+Il processo si interrompe.
+
+Durante la Profase, come si comporta il DNA all'interno del nucleo?
+
+Si condensa e si impacchetta attorno alle proteine formando i cromosomi.
+
+Cosa sono i "cromatidi fratelli" visibili nella Profase?
+
+I cromatidi doppi risultanti dalla duplicazione del DNA, legati insieme.
+
+Come si chiama il punto preciso che lega insieme i due cromatidi fratelli?
+
+Centromero.
+
+Quale struttura si duplica durante la Profase per poi migrare ai poli opposti della cellula?
+
+Il centrosoma.
+
+Che cos'è il "fuso mitotico"?
+
+Una rete di filamenti (microtubuli) che guiderà i cromosomi.
+
+Quale evento cruciale segna l'inizio della Metafase?
+
+Il dissolvimento della membrana del nucleo.
+
+Dove si allineano i cromosomi durante la Metafase?
+
+Al centro della cellula, lungo la piastra equatoriale.
+
+Cosa accade ai microtubuli del fuso durante la Metafase?
+
+Si allungano e si agganciano al centromero di ciascun cromosoma.
+
+Qual è l'evento caratteristico dell'Anafase?
+
+I cromatidi fratelli si separano e vengono trascinati ai poli opposti.
+
+Cosa permette il movimento dei cromatidi verso i poli opposti durante l'Anafase?
+
+L'accorciamento e il ritiro dei microtubuli del fuso.
+
+Cosa succede ai cromatidi durante la Telofase?
+
+Si "spacchettano", tornando a uno stato di cromatina meno condensata.
+
+In quale fase e in che modo avviene la separazione fisica finale delle due cellule figlie?
+
+In Telofase, grazie a un anello di proteine che stringe e strozza la cellula al centro.
+
+
+Cromatina = materiale genetico degli eucarioti formato da: DNA + proteine istoniche
+Gli istoni sono proteine attorno alle quali il DNA si avvolge, come un filo attorno a rocchetti. Questo serve a compattare e organizzare il DNA dentro il nucleo.
+DNA rilassato nel nucleo = cromatina
+Cromatina molto condensata durante divisione = cromosomi
+
+Codone: Una sequenza di tre nucleotidi che codifica per uno specifico amminoacido o rappresenta un segnale di arresto ✅
+Attenzione alla differenza: codone → sta sull’mRNA, anticodone → sta sul tRNA
+
+== SPLICING
+
+Lo splicing avviene sull’RNA appena trascritto, cioè sul pre-mRNA o trascritto primario:
+DNA gene eucariotico
+        ↓ trascrizione
+pre-mRNA / trascritto primario
+contiene: esoni + introni
+        ↓ splicing
+mRNA maturo
+contiene: solo esoni
+        ↓ traduzione
+proteina
+
+Lo splicing taglia gli introni dal pre-mRNA e lascia gli esoni nell’mRNA maturo.
+
+
+
+
+== MEIOSI
+
+La meiosi è il processo con cui una cellula diploide produce cellule aploidi, cioè cellule con metà dei cromosomi.
+
+Nell’uomo serve a produrre i gameti:
+
+spermatozoi nell’uomo
+ovociti nella donna
+
+La frase chiave è:
+
+meiosi = da 2n a n
+	​
+
+
+Nell’uomo:
+
+cellula diploide = 46 cromosomi
+gamete aploide = 23 cromosomi
+
+1. Prima della meiosi: replicazione del DNA
+
+Prima che inizi la meiosi vera e propria, la cellula duplica il DNA.
+
+Quindi ogni cromosoma diventa formato da due cromatidi fratelli.
+
+Schema:
+
+cromosoma semplice
+      ↓ replicazione DNA
+cromosoma duplicato: due cromatidi fratelli
+
+Attenzione: questa replicazione avviene una volta sola.
+
+Poi arrivano due divisioni:
+
+meiosi I
+meiosi II
+
+Quindi:
+
+1 replicazione + 2 divisioni
+
+Meiosi I: divisione riduzionale
+
+La meiosi I è la più importante da capire, perché qui il numero dei cromosomi viene dimezzato.
+Da 2n si passa a n . Per questo si chiama divisione riduzionale.
+
+2. Profase I: appaiamento e crossing-over
+
+Qui succede una cosa fondamentale: i cromosomi omologhi si appaiano.
+
+Cromosomi omologhi significa:
+
+uno viene dalla madre
+uno viene dal padre
+
+Per esempio, tu hai due cromosomi 1:
+
+cromosoma 1 materno
+cromosoma 1 paterno
+
+Durante la profase I si mettono vicini e possono scambiarsi pezzi. Questo scambio si chiama:
+
+crossing-over
+	​
+
+
+Schema grezzo:
+
+cromosoma materno:  AAAA
+cromosoma paterno:  BBBB
+
+dopo crossing-over:
+
+materno:  AABB
+paterno:  BBAA
+
+Il crossing-over serve ad aumentare la variabilità genetica.
+
+Cioè i figli non sono copie esatte dei genitori.
+
+3. Metafase I: gli omologhi si dispongono al centro
+
+Le coppie di cromosomi omologhi si mettono al centro della cellula.
+
+Qui avviene anche l’assortimento indipendente: ogni coppia può orientarsi in modo casuale.
+
+Questo significa che nei gameti finiranno combinazioni miste di cromosomi materni e paterni.
+
+Esempio semplificato:
+
+gamete 1: cromosomi materni + paterni mescolati
+gamete 2: altra combinazione
+gamete 3: altra combinazione ancora
+
+Anche questo aumenta la variabilità genetica.
+
+4. Anafase I: si separano i cromosomi omologhi
+
+Qui non si separano ancora i cromatidi fratelli.
+
+Si separano i cromosomi omologhi.
+
+Schema:
+
+coppia di omologhi:
+
+Xmaterno   Xpaterno
+
+si separano:
+
+Xmaterno  → una cellula
+Xpaterno  → altra cellula
+
+Ogni cromosoma è ancora duplicato, cioè ha ancora due cromatidi.
+
+5. Telofase I: si formano due cellule aploidi
+
+Alla fine della meiosi I si ottengono:
+
+2 cellule aploidi
+
+Però attenzione: ogni cromosoma è ancora formato da due cromatidi fratelli.
+
+Quindi dopo meiosi I:
+
+numero cromosomi dimezzato
+DNA ancora duplicato
+
+Meiosi II: divisione equazionale
+
+La meiosi II assomiglia molto alla mitosi.
+
+Qui non si dimezza ulteriormente il numero dei cromosomi. Si separano i cromatidi fratelli.
+
+6. Metafase II
+
+I cromosomi si dispongono al centro della cellula.
+
+X   X   X
+
+7. Anafase II
+
+Si separano i cromatidi fratelli.
+
+X → | |
+
+cioè i due cromatidi vanno in direzioni opposte
+
+8. Telofase II: risultato finale
+
+Alla fine si ottengono:
+
+4 cellule aploidi
+
+Nell’uomo, nel maschio, da una cellula germinale si ottengono di solito:
+
+4 spermatozoi
+
+Nella donna invece il processo è asimmetrico: si forma un grande ovocita e piccoli globuli polari.
+
+Differenza fondamentale tra mitosi e meiosi
+Processo	Risultato	A cosa serve
+Mitosi	2 cellule uguali, diploidi	crescita, riparazione, ricambio cellulare
+Meiosi	4 cellule diverse, aploidi	produzione di gameti
+
+Schema secco:
+
+MITOSI
+cellula 2n → 2 cellule 2n uguali
+
+MEIOSI
+cellula 2n → 4 cellule n diverse
+
+Perché la meiosi è importantissima?
+
+Per tre motivi.
+
+Primo: produce gameti con metà cromosomi.
+
+spermatozoo = 23 cromosomi
+ovocita = 23 cromosomi
+
+Quando si uniscono nella fecondazione:
+
+23 + 23 = 46
+
+Così si ricostruisce il numero normale di cromosomi dell’uomo.
+
+Secondo: crea variabilità genetica grazie al crossing-over.
+
+Terzo: crea variabilità genetica grazie all’assortimento indipendente dei cromosomi.
+
+Frase da ricordare per i quiz
+La meiosi produce cellule aploidi geneticamente diverse tra loro.
+
+
+E ancora più secca:
+
+meiosi = 1 replicazione del DNA + 2 divisioni cellulari → 4 cellule aploidi
+
+
+Il linkage significa: due geni stanno sullo stesso cromosoma, quindi tendono a essere ereditati insieme. Però può intervenire il crossing-over, cioè uno scambio di pezzi tra cromosomi omologhi durante la meiosi.
+
+
+== MEIOSI AMOEBA SISTERS
+
+Ecco un riassunto completo e chiaro del video delle Amoeba Sisters sulla meiosi, il processo di divisione cellulare specializzato nella creazione di variabilità genetica e nella produzione di cellule sessuali (spermatofiti e ovuli).
+
+Mitosi vs. Meiosi: La differenza principale
+Il video inizia confrontando la meiosi con la mitosi, due processi dai nomi simili ma dalle funzioni molto diverse:
+
+Mitosi: Crea cellule del corpo identiche (come quelle della pelle o dello stomaco) ed è fondamentale per la crescita e la riparazione dei tessuti.
+
+Meiosi: Produce sperma e cellule uovo, noti collettivamente come gameti.
+
+Mentre le normali cellule del corpo umano contengono 46 cromosomi, i gameti ne contengono solo 23. Per questo motivo la meiosi viene definita una divisione di riduzione: si parte da una cellula con 46 cromosomi per arrivare a cellule finali con una quantità dimezzata. Questa riduzione è fondamentale affinché, al momento della fecondazione, l'unione di uno spermatozoo (23) e di un ovulo (23) dia origine a un nuovo individuo con il corretto corredo umano di 46 cromosomi.
+
+La fase di preparazione: L'interfase
+Prima che la meiosi abbia inizio, la cellula attraversa l'interfase. Durante questo stadio la cellula cresce, svolge le sue normali funzioni e duplica il proprio DNA.
+
+Il trucco del conteggio: Quando i 46 cromosomi si duplicano, i "cromatidi fratelli" che si sono formati rimangono uniti. Poiché i biologi contano i cromosomi in base al numero di centromeri (il punto centrale di giunzione), si dice che la cellula ha ancora 46 cromosomi, anche se la quantità di materiale genetico è raddoppiata (da 46 a 92 cromatidi).
+
+Il processo: Due cicli di divisione
+Per riuscire a dimezzare il numero di cromatidi, la cellula deve attraversare le classiche fasi della divisione cellulare (PMAT: Profase, Metafase, Anafase, Telofase) per ben due volte.
+
+🔬 Meiosi I (La prima divisione)
+Profase 1: I cromosomi si condensano e si ispessiscono, andandosi ad allineare con i rispettivi cromosomi omologhi (ovvero cromosomi della stessa dimensione e che contengono gli stessi tipi di geni nelle stesse posizioni).
+
+Crossing over: Durante questo appaiamento avviene un processo straordinario: i cromosomi omologhi si scambiano reciprocamente parti di materiale genetico. Questo rimescolamento crea dei cromosomi ricombinanti ed è il motore principale della diversità genetica.
+
+Metafase 1: I cromosomi si spostano al centro della cellula. A differenza di quanto avviene nella mitosi, qui si dispongono al centro in coppie e non in fila indiana.
+
+Anafase 1: Le coppie di cromosomi omologhi vengono separate dalle fibre del fuso mitotico e trascinate verso i lati opposti della cellula.
+
+Telofase 1: Si formano due nuovi nuclei ai poli opposti. Segue la citocinesi (la divisione del citoplasma), che conclude la prima fase dividendo la cellula di partenza in due nuove cellule.
+
+🔬 Meiosi II (La seconda divisione)
+Profase 2: Si formano nuovamente le fibre del fuso. Questa fase è molto più lineare rispetto alla precedente perché non ci sono coppie omologhe e non avviene il crossing over.
+
+Metafase 2: I cromosomi si allineano di nuovo al centro della cellula ma, questa volta, si dispongono in fila indiana (proprio perché non sono più in coppia).
+
+Anafase 2: In questa fase sono i singoli cromatidi fratelli a venire separati e trascinati verso i poli opposti della cellula.
+
+Telofase 2: I nuclei si riformano e il citoplasma si divide un'ultima volta. Il risultato finale della meiosi è la nascita di quattro cellule uniche.
+
+L'obiettivo finale: La varietà genetica
+Grazie al crossing over e all'assortimento indipendente (il modo del tutto casuale in cui i cromosomi si allineano e si separano), nessuna delle quattro cellule finali è identica alla cellula di partenza, e nessuna è identica alle altre.
+
+È proprio questa incredibile varietà il motivo per cui fratelli e sorelle nati dagli stessi genitori biologici possono avere un aspetto molto diverso tra loro: ognuno di essi si è sviluppato dall'unione di un ovulo e di uno spermatozoo assolutamente unici e irripetibili.
+
+Quando qualcosa va storto: La non-disgiunzione
+Il video si conclude accennando a cosa succede se i cromosomi non si separano correttamente durante le fasi di anafase. Questo errore prende il nome di non-disgiunzione. Se si verifica, i gameti risultanti possono contenere troppi o troppo pochi cromosomi, una condizione che è alla base di diverse anomalie genetiche studiate dagli scienziati.
+
+
+
+== SISTEMA IMMUNITARIO. 
+
+Vediamolo come una difesa militare intelligente, ma non troppo perfetta: il sistema immunitario deve riconoscere il nemico, reagire, ricordarselo, ma anche evitare di attaccare il proprio corpo.
+
+La grande divisione è questa:
+
+sistema immunitario innato+sistema immunitario adattativo
+	​
+
+1. Prima difesa: le barriere
+
+Prima ancora delle cellule immunitarie, il corpo cerca di impedire l’ingresso dei microbi.
+
+Esempi:
+
+pelle
+mucose
+muco
+ciglia respiratorie
+acidità dello stomaco
+lacrime
+saliva
+flora batterica normale
+
+La pelle è come il muro di cinta. Le mucose sono più delicate, ma producono muco, enzimi, anticorpi locali, sostanze antimicrobiche.
+
+2. Sistema immunitario innato
+
+È la difesa rapida, presente fin dalla nascita.
+
+Non è molto specifica: riconosce caratteristiche generali dei patogeni.
+
+Per esempio dice:
+
+"Questo assomiglia a un batterio"
+"Questo assomiglia a un virus"
+"Qui c'è danno tissutale"
+
+Non riconosce “quel preciso virus con quel preciso antigene” come fa invece il sistema adattativo.
+
+Cellule principali dell’immunità innata
+Neutrofili
+
+Sono tra i primi ad arrivare in caso di infezione batterica.
+
+Fanno soprattutto fagocitosi, cioè mangiano e distruggono microbi.
+
+batterio
+   ↓
+neutrofilo lo ingloba
+   ↓
+lo distrugge
+
+Sono importantissimi nel pus. Il pus contiene molti neutrofili morti, batteri, detriti cellulari.
+
+Macrofagi
+
+Sono grandi cellule “spazzine”.
+
+Fanno tre cose fondamentali:
+
+1. mangiano microbi e detriti
+2. producono sostanze infiammatorie
+3. presentano antigeni ai linfociti T
+
+Quindi il macrofago è sia operaio che sentinella.
+
+Cellule dendritiche
+
+Sono importantissime perché fanno da ponte tra immunità innata e adattativa.
+
+Catturano antigeni nei tessuti e poi vanno nei linfonodi a presentarli ai linfociti T.
+
+Schema:
+
+patogeno nel tessuto
+   ↓
+cellula dendritica prende antigeni
+   ↓
+va nel linfonodo
+   ↓
+presenta antigene ai linfociti T
+
+Cellule NK
+
+NK significa Natural Killer.
+
+Uccidono cellule sospette, soprattutto:
+
+cellule infettate da virus
+cellule tumorali
+
+Non hanno bisogno dello stesso riconoscimento specifico dei linfociti T. Sono una risposta più immediata.
+
+3. Infiammazione
+
+Quando un tessuto viene danneggiato o infettato, parte l’infiammazione.
+
+I segni classici sono:
+
+rossore
+calore
+gonfiore
+dolore
+perdita di funzione
+
+Perché succede?
+
+Perché i vasi sanguigni si dilatano e diventano più permeabili. Così arrivano più cellule immunitarie e più sostanze difensive.
+
+Schema:
+
+infezione o danno
+   ↓
+rilascio di mediatori chimici
+   ↓
+vasodilatazione
+   ↓
+arrivo di neutrofili, macrofagi, proteine del sangue
+   ↓
+lotta contro il patogeno
+
+L’infiammazione quindi non è “il male” in sé. È una risposta difensiva. Però se è eccessiva o cronica può diventare dannosa.
+
+4. Complemento
+
+Il sistema del complemento è un gruppo di proteine presenti nel sangue.
+
+Serve a:
+
+marcare i microbi
+attirare cellule immunitarie
+bucare alcune membrane batteriche
+potenziare l’infiammazione
+
+Una funzione importante è l’opsonizzazione.
+
+Opsonizzare significa più o meno:
+
+"mettere un'etichetta sul microbo: mangiatelo!"
+
+Così i fagociti riconoscono meglio il bersaglio.
+
+5. Sistema immunitario adattativo
+
+Questo è più lento all’inizio, ma molto più specifico.
+
+È formato soprattutto da:
+
+linfociti B
+linfociti T
+
+Si chiama adattativo perché si adatta al nemico specifico.
+
+La sua grande forza è:
+
+specificit
+a
+ˋ
+ + memoria
+	​
+
+
+Cioè riconosce un antigene preciso e poi se lo ricorda.
+
+6. Che cos’è un antigene?
+
+Un antigene è una molecola, o parte di molecola, che può essere riconosciuta dal sistema immunitario.
+
+Può essere un pezzo di:
+
+virus
+batterio
+fungo
+parassita
+tossina
+cellula estranea
+
+Per esempio, una proteina sulla superficie di un virus può fare da antigene.
+
+7. Linfociti B
+
+I linfociti B servono soprattutto a produrre anticorpi.
+
+Quando un linfocita B riconosce il suo antigene, può attivarsi e trasformarsi in plasmacellula.
+
+linfocita B
+   ↓ riconosce antigene
+si attiva
+   ↓
+plasmacellula
+   ↓
+produce anticorpi
+
+Gli anticorpi sono proteine che si legano in modo specifico agli antigeni.
+
+Per esempio:
+
+anticorpo anti-virus X
+   ↓
+si lega al virus X
+   ↓
+lo neutralizza o lo rende più facile da eliminare
+
+Gli anticorpi possono:
+
+neutralizzare virus e tossine
+favorire la fagocitosi
+attivare il complemento
+bloccare l'adesione dei patogeni alle cellule
+
+8. Linfociti T
+
+I linfociti T non producono anticorpi.
+
+Hanno altre funzioni.
+
+I principali sono:
+
+T helper
+T citotossici
+T regolatori
+Linfociti T helper
+
+Li abbiamo già visti: sono i coordinatori.
+
+Riconoscono antigeni presentati da altre cellule e poi producono citochine, cioè messaggi chimici.
+
+Servono ad attivare:
+
+linfociti B
+macrofagi
+linfociti T citotossici
+altre cellule immunitarie
+
+Frase da quiz:
+
+Il T helper coordina la risposta immunitaria.
+	​
+
+Linfociti T citotossici
+
+Sono detti anche T killer.
+
+Uccidono cellule del nostro corpo che sono diventate pericolose, per esempio:
+
+cellule infettate da virus
+cellule tumorali
+
+Il punto importante è questo: un virus spesso si nasconde dentro le cellule. L’anticorpo può bloccare il virus quando è fuori dalla cellula, ma se il virus è già dentro, bisogna eliminare la cellula infettata.
+
+Schema:
+
+cellula infettata da virus
+   ↓
+espone antigeni virali
+   ↓
+T citotossico la riconosce
+   ↓
+la uccide
+Linfociti T regolatori
+
+Servono a frenare la risposta immunitaria.
+
+Perché è importante?
+
+Perché il sistema immunitario non deve diventare una belva impazzita.
+
+I T regolatori aiutano a evitare:
+
+autoimmunità
+infiammazione eccessiva
+danni ai tessuti
+9. Presentazione dell’antigene: il punto chiave
+
+Il linfocita T non riconosce di solito l’antigene libero così com’è.
+
+Ha bisogno che una cellula glielo presenti.
+
+Le cellule presentano pezzi di proteine tramite molecole chiamate MHC.
+
+Ci sono due grandi tipi:
+
+MHC I
+MHC II
+MHC I
+
+È presente su quasi tutte le cellule nucleate.
+
+Serve a dire:
+
+"Guarda cosa sto producendo dentro di me"
+
+Se una cellula è infettata da un virus, presenterà pezzi virali su MHC I.
+
+I linfociti T citotossici controllano MHC I.
+
+cellula infettata
+   ↓ presenta antigene su MHC I
+T citotossico riconosce
+   ↓
+uccide la cellula
+MHC II
+
+È presente soprattutto sulle cellule presentanti l’antigene:
+
+macrofagi
+cellule dendritiche
+linfociti B
+
+Serve a presentare antigeni ai T helper.
+
+cellula dendritica mangia batterio
+   ↓
+presenta pezzi del batterio su MHC II
+   ↓
+T helper riconosce
+   ↓
+si attiva
+10. Risposta primaria e risposta secondaria
+
+La prima volta che incontri un patogeno, la risposta è più lenta.
+
+primo incontro
+   ↓
+riconoscimento
+   ↓
+attivazione linfociti specifici
+   ↓
+proliferazione
+   ↓
+risposta efficace
+
+Ci vuole tempo.
+
+Ma dopo rimangono cellule della memoria.
+
+La seconda volta, la risposta è molto più rapida e forte.
+
+secondo incontro con lo stesso antigene
+   ↓
+cellule memoria lo riconoscono subito
+   ↓
+risposta rapida
+   ↓
+spesso non ti ammali nemmeno
+
+Questo è il principio dei vaccini.
+
+11. Immunità umorale e immunità cellulare
+
+Questa distinzione è molto importante.
+
+Immunità umorale
+
+È basata sugli anticorpi.
+
+Coinvolge soprattutto:
+
+linfociti B
+plasmacellule
+anticorpi
+
+È molto utile contro patogeni o tossine presenti nei liquidi corporei:
+
+sangue
+linfa
+spazi extracellulari
+Immunità cellulare
+
+È basata sulle cellule, soprattutto linfociti T.
+
+È importante contro:
+
+virus dentro le cellule
+cellule tumorali
+alcuni patogeni intracellulari
+12. Esempio completo: entra un batterio
+
+Immagina una ferita con ingresso di batteri.
+
+batterio entra
+   ↓
+macrofagi e neutrofili lo riconoscono
+   ↓
+infiammazione
+   ↓
+fagocitosi
+   ↓
+cellule dendritiche portano antigeni ai linfonodi
+   ↓
+attivazione T helper
+   ↓
+attivazione linfociti B
+   ↓
+produzione anticorpi
+   ↓
+batteri neutralizzati, fagocitati, eliminati
+   ↓
+rimangono cellule memoria
+13. Esempio completo: entra un virus
+
+Con un virus la faccenda cambia un po’.
+
+virus entra
+   ↓
+infetta cellule
+   ↓
+cellule infettate espongono antigeni virali su MHC I
+   ↓
+T citotossici le riconoscono
+   ↓
+le uccidono
+
+Intanto gli anticorpi possono bloccare i virus ancora liberi fuori dalle cellule:
+
+virus libero
+   ↓
+anticorpo si lega
+   ↓
+virus neutralizzato
+
+Quindi contro i virus lavorano insieme:
+
+anticorpi
+T citotossici
+cellule NK
+interferoni
+14. Le citochine: i messaggeri
+
+Le citochine sono sostanze prodotte dalle cellule immunitarie per comunicare.
+
+Sono come messaggi:
+
+"Vieni qui"
+"Attivati"
+"Prolifera"
+"Produci anticorpi"
+"Frena la risposta"
+"Aumenta l'infiammazione"
+
+Tra le citochine ci sono per esempio:
+
+interleuchine
+interferoni
+TNF
+chemochine
+
+Le chemochine servono soprattutto a richiamare cellule in un punto.
+
+15. Self e non-self
+
+Il sistema immunitario deve distinguere:
+
+self = roba mia
+non-self = roba estranea
+
+Ma questa distinzione non è sempre banale.
+
+Se il sistema immunitario attacca il self, si possono avere malattie autoimmuni.
+
+Esempi:
+
+diabete tipo 1
+lupus
+artrite reumatoide
+sclerosi multipla
+tiroidite autoimmune
+
+Quindi il sistema immunitario deve essere aggressivo contro il nemico, ma tollerante verso il proprio corpo.
+
+16. Allergie
+
+L’allergia è una risposta immunitaria esagerata contro sostanze normalmente innocue.
+
+Per esempio:
+
+pollini
+acari
+alimenti
+veleni di insetti
+farmaci
+
+Spesso sono coinvolti:
+
+IgE
+mastociti
+istamina
+
+Schema semplificato:
+
+allergene
+   ↓
+IgE
+   ↓
+mastociti
+   ↓
+rilascio istamina
+   ↓
+prurito, gonfiore, muco, broncospasmo, ecc.
+17. Riassunto secco da esame
+
+Da ricordare bene:
+
+Immunità innata:
+rapida, generica, senza memoria specifica forte
+neutrofili, macrofagi, NK, complemento, infiammazione
+
+Immunità adattativa:
+più lenta all'inizio, specifica, con memoria
+linfociti B, linfociti T, anticorpi
+
+Linfociti B:
+producono anticorpi diventando plasmacellule
+
+T helper:
+coordinano la risposta con citochine
+
+T citotossici:
+uccidono cellule infettate o tumorali
+
+Macrofagi:
+fagocitosi + presentazione antigene + infiammazione
+
+Cellule dendritiche:
+presentano antigeni ai linfociti T nei linfonodi
+
+Anticorpi:
+neutralizzano, opsonizzano, attivano complemento
+
+Vaccini:
+creano memoria immunitaria senza dover subire la malattia completa
+
+La frase più importante è questa:
+
+Il sistema immunitario riconosce, elimina e ricorda gli agenti estranei, cercando di non danneggiare il self.
+	
+Leucociti:
+	
+Tipo	Categoria	Idea principale
+Neutrofili	(50-70%) granulociti	attaccano soprattutto batteri (fagocitosi), formano pus
+Linfociti	(20-40%) agranulociti	immunità specifica: anticorpi, cellule infette, memoria
+Monociti	(2-8%) agranulociti	grandi. diventano macrofagi, “mangiano” patogeni e detriti
+Eosinofili	(1-4%) granulociti	difesa contro parassiti e allergie. si colorano bene con eosina, un colorante acido.
+Basofili	(< 1%) granulociti	reazioni allergiche/infiammatorie. Liberano sostanze come istamina ed eparina. si colorano con basi.
+
+granulociti: granuli visibili al microscopio. Agranulociti: non hanno grani visibili al microscopio
+
+Granulociti = NEB
+Neutrofili, Eosinofili, Basofili
+
+Agranulociti = LiMo
+Linfociti, Monociti.
+
+== RESPIRAZIONE
+
+La catena respiratoria è una specie di centrale elettrica microscopica dentro i mitocondri. Serve a trasformare l’energia contenuta negli elettroni di NADH e FADH₂ in ATP.
+
+La trovi nella membrana interna del mitocondrio.
+
+Immagina così:
+
+Glucosio / grassi / proteine
+        ↓
+glicolisi + ciclo di Krebs
+        ↓
+NADH e FADH₂ carichi di elettroni
+        ↓
+catena respiratoria
+        ↓
+gradiente di H⁺
+        ↓
+ATP sintasi
+        ↓
+ATP
+1. Da dove arrivano NADH e FADH₂?
+
+Prima della catena respiratoria avvengono processi come:
+
+glicolisi
+ossidazione del piruvato
+ciclo di Krebs
+beta-ossidazione degli acidi grassi
+
+Questi processi “smontano” molecole energetiche come glucosio e grassi.
+
+Durante questo smontaggio si producono molecole cariche di elettroni:
+
+NAD⁺ + elettroni + H⁺ → NADH
+FAD + elettroni + H⁺ → FADH₂
+
+Quindi NADH e FADH₂ sono come camioncini carichi di energia.
+
+Portano elettroni alla catena respiratoria.
+
+2. Dove avviene la catena respiratoria?
+
+Nel mitocondrio.
+
+Schema:
+
+Mitocondrio
+
+Spazio intermembrana
+↑ ↑ ↑ ↑ ↑ protoni H⁺ accumulati qui
+-------------------------------
+Membrana interna mitocondriale
+-------------------------------
+Matrice mitocondriale
+NADH, FADH₂, ciclo di Krebs
+
+La catena respiratoria è inserita nella membrana interna.
+
+Questa membrana è fondamentale perché permette di separare due zone:
+
+matrice mitocondriale
+spazio intermembrana
+
+La catena pompa protoni H⁺ dalla matrice verso lo spazio intermembrana.
+
+3. I protagonisti della catena respiratoria
+
+Ci sono quattro complessi principali:
+
+Complesso I
+Complesso II
+Complesso III
+Complesso IV
+
+E due trasportatori mobili:
+
+Coenzima Q
+Citocromo c
+
+Poi c’è il grande finale:
+
+ATP sintasi
+
+Schema generale:
+
+NADH → Complesso I → Coenzima Q → Complesso III → Citocromo c → Complesso IV → O₂
+
+FADH₂ → Complesso II → Coenzima Q → Complesso III → Citocromo c → Complesso IV → O₂
+4. Prima strada: NADH entra dal Complesso I
+
+Il NADH arriva e cede elettroni al Complesso I.
+
+NADH → NAD⁺ + H⁺ + 2 elettroni
+
+Il NADH si ossida, cioè perde elettroni.
+
+Gli elettroni entrano nella catena.
+
+Il Complesso I usa l’energia di questi elettroni per pompare protoni:
+
+H⁺ dalla matrice → spazio intermembrana
+
+Quindi il Complesso I fa due cose:
+
+prende elettroni dal NADH
+pompa protoni H⁺ fuori dalla matrice
+
+Schema:
+
+Matrice
+NADH → Complesso I → elettroni avanti
+              ↓
+          pompa H⁺ fuori
+5. Seconda strada: FADH₂ entra dal Complesso II
+
+Il FADH₂ entra invece dal Complesso II.
+
+Attenzione: il Complesso II è anche un enzima del ciclo di Krebs, chiamato succinato deidrogenasi.
+
+Il FADH₂ cede elettroni al Complesso II:
+
+FADH₂ → FAD + 2H⁺ + 2 elettroni
+
+Però c’è una cosa importante:
+
+il Complesso II non pompa protoni.
+
+Quindi gli elettroni del FADH₂ producono meno ATP rispetto a quelli del NADH.
+
+Perché?
+
+Perché saltano il Complesso I.
+
+NADH  → Complesso I → più pompaggio H⁺ → più ATP
+FADH₂ → Complesso II → meno pompaggio H⁺ → meno ATP
+6. Il Coenzima Q: il traghettatore
+
+Gli elettroni provenienti da Complesso I e Complesso II arrivano al Coenzima Q, chiamato anche ubichinone.
+
+Il Coenzima Q è mobile nella membrana interna.
+
+Fa da navetta:
+
+Complesso I  \
+              → Coenzima Q → Complesso III
+Complesso II /
+
+Quindi il Coenzima Q raccoglie elettroni da più punti e li porta al Complesso III.
+
+7. Complesso III: altra pompa di protoni
+
+Il Complesso III riceve gli elettroni dal Coenzima Q.
+
+Poi li passa al citocromo c.
+
+Nel frattempo usa energia per pompare altri protoni H⁺ nello spazio intermembrana.
+
+Coenzima Q → Complesso III → Citocromo c
+                    ↓
+              pompa H⁺ fuori
+8. Citocromo c: piccolo corriere
+
+Il citocromo c è una piccola proteina mobile.
+
+Trasporta elettroni dal Complesso III al Complesso IV.
+
+Complesso III → citocromo c → Complesso IV
+
+È come un fattorino che porta un elettrone alla volta.
+
+9. Complesso IV: qui entra l’ossigeno
+
+Il Complesso IV è l’ultimo della catena.
+
+Qui gli elettroni arrivano finalmente all’ossigeno.
+
+L’ossigeno è l’accettore finale degli elettroni.
+
+Reazione semplificata:
+
+O₂ + elettroni + H⁺ → H₂O
+
+Più precisamente:
+
+O
+2
+	​
+
++4e
+−
++4H
++
+→2H
+2
+	​
+
+O
+
+Quindi l’ossigeno viene ridotto ad acqua.
+
+Questo è fondamentale.
+
+Senza ossigeno, gli elettroni non saprebbero più dove andare. La catena si bloccherebbe.
+
+E se si blocca la catena:
+
+NADH non scarica gli elettroni
+↓
+NAD⁺ non si rigenera
+↓
+ciclo di Krebs rallenta/blocca
+↓
+produzione di ATP crolla
+
+Ecco perché abbiamo bisogno di respirare ossigeno.
+
+Non perché l’ossigeno “brucia” direttamente il glucosio come una fiamma, ma perché fa da accettore finale degli elettroni.
+
+10. Il gradiente di protoni: la diga energetica
+
+Durante il passaggio degli elettroni, alcuni complessi pompano protoni H⁺ fuori dalla matrice.
+
+Pompano protoni soprattutto:
+
+Complesso I
+Complesso III
+Complesso IV
+
+Non il Complesso II.
+
+Risultato:
+
+Spazio intermembrana: molti H⁺
+Matrice: meno H⁺
+
+Si crea una differenza di concentrazione e di carica.
+
+È come una diga:
+
+Spazio intermembrana
+H⁺ H⁺ H⁺ H⁺ H⁺ H⁺ H⁺
+-------------------------
+membrana interna
+-------------------------
+Matrice
+pochi H⁺
+
+I protoni “vorrebbero” rientrare nella matrice.
+
+Ma non possono attraversare liberamente la membrana interna.
+
+Possono passare soprattutto attraverso una macchina speciale:
+
+ATP sintasi
+
+11. ATP sintasi: la turbina
+
+L’ATP sintasi è come una turbina idroelettrica.
+
+I protoni H⁺ rientrano nella matrice passando attraverso di lei.
+
+Il flusso dei protoni fornisce energia per produrre ATP:
+
+ADP + Pi → ATP
+
+Dove:
+
+ADP = adenosina difosfato
+Pi = fosfato inorganico
+ATP = adenosina trifosfato
+
+Schema:
+
+H⁺ H⁺ H⁺ nello spazio intermembrana
+        ↓
+    ATP sintasi
+        ↓
+ADP + Pi → ATP
+
+Quindi la catena respiratoria non produce direttamente ATP in grande quantità.
+
+Fa prima una cosa intermedia:
+
+energia degli elettroni → gradiente di protoni
+
+Poi:
+
+gradiente di protoni → ATP
+12. Perché si chiama fosforilazione ossidativa?
+
+Il nome sembra difficile, ma è logico.
+
+Fosforilazione perché si aggiunge un fosfato all’ADP:
+
+ADP + Pi → ATP
+
+Ossidativa perché tutto dipende da reazioni di ossidoriduzione, cioè passaggio di elettroni.
+
+NADH e FADH₂ si ossidano:
+
+NADH → NAD⁺
+FADH₂ → FAD
+
+L’ossigeno si riduce:
+
+O₂ → H₂O
+
+Quindi:
+
+fosforilazione ossidativa = produzione di ATP grazie a ossidazioni e riduzioni
+
+13. Schema globale semplice
+NADH cede elettroni
+FADH₂ cede elettroni
+        ↓
+gli elettroni scorrono nella catena
+        ↓
+Complessi I, III, IV pompano H⁺
+        ↓
+si accumulano H⁺ nello spazio intermembrana
+        ↓
+gli H⁺ rientrano attraverso ATP sintasi
+        ↓
+ADP + Pi diventa ATP
+        ↓
+l’ossigeno prende gli elettroni finali
+        ↓
+si forma acqua
+14. Disegno riassuntivo
+SPAZIO INTERMEMBRANA
+     H⁺        H⁺        H⁺        H⁺
+     ↑         ↑         ↑
+     |         |         |
+   Compl I   Compl III  Compl IV
+     |         |         |
+NADH → I → Q → III → cyt c → IV → O₂ → H₂O
+          ↑
+       Compl II
+          ↑
+        FADH₂
+
+---------------- membrana interna ----------------
+
+MATRICE MITOCONDRIALE
+
+H⁺ rientrano attraverso ATP sintasi:
+
+SPAZIO INTERMEMBRANA
+H⁺ H⁺ H⁺
+   ↓
+ATP sintasi
+   ↓
+ADP + Pi → ATP
+MATRICE
+15. Quanta ATP produce?
+
+I valori moderni approssimativi sono:
+
+1 NADH  → circa 2,5 ATP
+1 FADH₂ → circa 1,5 ATP
+
+Perché il NADH entra dal Complesso I e genera più pompaggio di protoni.
+
+Il FADH₂ entra dal Complesso II e salta il Complesso I.
+
+16. La frase da ricordare all’esame
+
+La catena respiratoria serve a:
+
+trasferire elettroni da NADH e FADH₂ all’ossigeno, pompando protoni attraverso la membrana interna mitocondriale; il gradiente protonico così creato alimenta l’ATP sintasi, che produce ATP.
+
+Versione super breve:
+
+NADH/FADH₂ scaricano elettroni → H⁺ vengono pompati → H⁺ rientrano nella ATP sintasi → si forma ATP → O₂ diventa H₂O.
+
+
+Fotosintesi: non usa principalmente NADH, ma NADPH.
+respirazione nei mitocondri, fotosintesi nei cloroplasti.
+fotosintesi = processo anabolico, costruisce zuccheri; respirazione = processo catabolico, demolisce zuccheri.
+
+
+
+== ESTERI ALDEIDI ALCOL
+
+estere : R–COO–R’  (es CH₃CH₂–COO–CH₃ )
+
+etere: R–O–R’ ( CH₃–O–CH₃ )
+
+chetoni R–CO–R’  con il gruppo carbonile C=O (es CH₃–CO–CH₃ )
+
+Aldeidi R–CHO , es. acetaldeide CH₃–CHO. Anche qui c’è il gruppo carbonile C=O, ma il carbonio del carbonile è legato anche a un idrogeno.
+
+Anidridi R–CO–O–CO–R’ due carbonili , es CH₃–CO–O–CO–CH₃ anidride acetica 
+
+Alcol R—CH₂OH 
+
+acido carbossilico R—COOH 
+
+Un alcol secondario è un alcol in cui il carbonio che porta il gruppo -OH è legato a:
+2 atomi di carbonio
+1 atomo di idrogeno
+1 gruppo -OH
+alcol primario:    R–CH2–OH      → carbonio con -OH ha 2 H
+alcol secondario:  R–CH(OH)–R'   → carbonio con -OH ha 1 H
+alcol terziario:   R–C(OH)(R')–R'' → carbonio con -OH ha 0 H
+
+
+
+== LEGAMI
+
+Il legame glicosidico è il legame che unisce tra loro due monosaccaridi, cioè due zuccheri semplici.
+
+Esempio: Glucosio + glucosio → maltosio
+Glucosio + fruttosio → saccarosio
+Glucosio + galattosio → lattosio
+
+carboidrati → legame glicosidico
+proteine → legame peptidico
+acidi nucleici → legame fosfodiesterico
+trigliceridi → legame estere
+idrocarburi → legami C–C e C–H
+
+== VITAMINE
+
+B₆ → piridossale
+D → vitamina D
+C → acido ascorbico
+A → retinolo
+B₁₂ → cobalamina.
+
+== INTESTINO
+
+L’intestino è un lungo tubo muscolare che continua lo stomaco e termina con l’ano. La sua grande funzione è trasformare il cibo già parzialmente digerito in sostanze assorbibili, assorbirle, recuperare acqua e sali, formare le feci ed eliminarle.
+
+Si divide in due grandi parti: intestino tenue e intestino crasso
+
+
+L’intestino tenue è la parte più lunga e più importante per la digestione chimica e soprattutto per l’assorbimento dei nutrienti. Si chiama “tenue” non perché sia corto, ma perché ha un diametro minore rispetto al colon.
+
+È diviso in: duodeno, digiuno, ileo
+
+
+Il duodeno è il primo tratto dell’intestino tenue, subito dopo lo stomaco.
+
+Qui arriva il cibo già mescolato ai succhi gastrici, chiamato chimo.
+
+Il duodeno è un punto fondamentale perché riceve:
+
+la bile, prodotta dal fegato e conservata nella cistifellea;
+il succo pancreatico, prodotto dal pancreas;
+secrezioni proprie della mucosa intestinale.
+
+La sua funzione è quindi importantissima: neutralizzare l’acidità dello stomaco e completare la digestione chimica.
+
+Lo stomaco manda nel duodeno un contenuto molto acido. Il pancreas riversa bicarbonato, che serve a tamponare l’acidità. Poi gli enzimi pancreatici digeriscono proteine, grassi e carboidrati.
+
+La bile invece non è un enzima: serve soprattutto a emulsionare i grassi, cioè a dividerli in goccioline più piccole, in modo che gli enzimi possano lavorare meglio.
+
+In pratica, nel duodeno si fa il “grosso lavoro chimico” della digestione.
+
+
+Il digiuno è il tratto intermedio dell’intestino tenue. Qui avviene gran parte dell’assorbimento.
+Vengono assorbiti: 
+
+zuccheri semplici, come il glucosio;
+amminoacidi, derivati dalle proteine;
+acidi grassi e glicerolo, derivati dai grassi;
+vitamine;
+sali minerali;
+molta acqua.
+
+Il digiuno ha una parete molto specializzata per assorbire. Non è un tubo liscio: internamente ha pieghe, villi e microvilli.
+
+Queste strutture aumentano enormemente la superficie di contatto con il contenuto intestinale.
+
+Immagina un asciugamano molto pieghettato invece di una superficie liscia: assorbe molto di più.
+
+
+L’ileo è l’ultimo tratto dell’intestino tenue, prima del colon.
+
+Continua ad assorbire nutrienti, ma ha alcune funzioni particolarmente importanti.
+
+Assorbe soprattutto:
+
+vitamina B12;
+sali biliari, che poi vengono riportati al fegato e riutilizzati;
+acqua e sali;
+nutrienti residui.
+
+L’ileo contiene anche molto tessuto immunitario, chiamato placche di Peyer.
+
+Questo è importante perché l’intestino è pieno di batteri, sostanze estranee, frammenti alimentari. Quindi deve assorbire ciò che serve, ma allo stesso tempo deve difendersi.
+
+Tra ileo e colon c’è una valvola: la valvola ileocecale.
+
+Serve a regolare il passaggio del contenuto intestinale dall’ileo al cieco e a evitare che il materiale del colon torni indietro nel tenue.
+
+
+L’intestino crasso è più corto del tenue, ma ha diametro maggiore.
+
+La sua funzione principale non è più digerire e assorbire nutrienti in grande quantità. La sua funzione principale è:
+
+riassorbire acqua e sali, ospitare la flora batterica, compattare le feci e prepararle all’eliminazione.
+
+Si divide in:
+
+cieco
+colon ascendente
+colon trasverso
+colon discendente
+colon sigmoideo
+retto
+canale anale
+
+
+Il cieco è la prima parte del colon.
+
+Riceve il materiale che arriva dall’ileo attraverso la valvola ileocecale.
+Inizia il riassorbimento di acqua e sali minerali
+
+Al cieco è attaccata l’appendice vermiforme.
+
+L’appendice non è completamente inutile, come si diceva un tempo. Contiene tessuto linfatico e probabilmente contribuisce alla funzione immunitaria e al mantenimento della flora batterica intestinale.
+
+Però non è indispensabile alla vita: si può vivere senza appendice.
+
+Colon ascendente
+
+Il colon ascendente sale lungo il lato destro dell’addome.
+
+Qui inizia un importante riassorbimento di acqua e sali minerali.
+
+Il materiale che arriva dall’intestino tenue è ancora abbastanza liquido. Nel colon ascendente comincia a diventare più denso.
+
+In questa zona lavorano anche molti batteri intestinali, che fermentano residui alimentari non digeriti.
+
+Colon trasverso
+
+Il colon trasverso attraversa l’addome da destra verso sinistra.
+
+Continua il riassorbimento di acqua e sali.
+
+Qui la flora batterica produce anche alcune sostanze utili, tra cui certe vitamine, come la vitamina K e alcune vitamine del gruppo B.
+
+La funzione del colon trasverso è quindi sia di assorbimento sia di trasformazione del contenuto fecale.
+
+Colon discendente
+
+Il colon discendente scende lungo il lato sinistro dell’addome.
+
+Qui il contenuto è ormai più solido.
+
+La funzione principale è il trasporto e l’ulteriore compattazione delle feci.
+
+Colon sigmoideo
+
+Il colon sigmoideo, o sigma, è l’ultimo tratto del colon prima del retto.
+
+Ha una forma a “S”.
+
+È una zona di deposito temporaneo delle feci.
+
+Quando il sigma si contrae, spinge il materiale fecale verso il retto.
+
+È anche una zona dove possono comparire frequentemente diverticoli, soprattutto con l’età: piccole estroflessioni della parete intestinale.
+
+Retto
+
+Il retto è il tratto finale dell’intestino crasso.
+
+Serve come serbatoio temporaneo delle feci prima dell’espulsione.
+
+Quando le feci arrivano nel retto, le pareti si distendono. Questa distensione attiva il riflesso della defecazione, cioè lo stimolo ad andare in bagno.
+
+Il retto quindi non serve principalmente ad assorbire, ma a contenere e segnalare.
+
+Canale anale e ano
+
+Il canale anale è l’ultimo tratto.
+
+È controllato da due sfinteri:
+
+sfintere anale interno
+sfintere anale esterno
+
+Lo sfintere interno è involontario: funziona automaticamente.
+
+Lo sfintere esterno è volontario: lo possiamo controllare coscientemente, almeno in condizioni normali.
+
+La funzione del canale anale è permettere l’eliminazione controllata delle feci.
+
+Struttura della parete intestinale
+
+Tutto l’intestino ha una parete organizzata a strati.
+
+Dall’interno verso l’esterno troviamo:
+
+mucosa
+sottomucosa
+tonaca muscolare
+sierosa o avventizia
+Mucosa
+
+La mucosa è lo strato più interno, quello a contatto con il contenuto intestinale.
+
+Serve a:
+
+produrre muco;
+secernere enzimi o sostanze protettive;
+assorbire nutrienti;
+difendere dall’ingresso di microbi e sostanze dannose.
+
+Nel tenue la mucosa è specializzata per assorbire, quindi ha villi e microvilli.
+
+Nel colon invece non ci sono villi come nel tenue, ma ci sono molte ghiandole che producono muco. Il muco serve a lubrificare il passaggio delle feci.
+
+Villi e microvilli
+
+Questi sono fondamentali.
+
+I villi intestinali sono piccole sporgenze della mucosa, come minuscole dita.
+
+I microvilli sono ancora più piccoli e stanno sulla superficie delle cellule intestinali.
+
+Servono ad aumentare enormemente la superficie di assorbimento.
+
+Dentro ogni villo ci sono:
+
+capillari sanguigni;
+un piccolo vaso linfatico, chiamato vaso chilifero.
+
+Gli zuccheri e gli amminoacidi entrano soprattutto nel sangue.
+
+Molti grassi entrano invece nei vasi linfatici.
+
+Sottomucosa
+
+La sottomucosa è uno strato di sostegno.
+
+Contiene:
+
+vasi sanguigni;
+vasi linfatici;
+nervi;
+tessuto connettivo.
+
+È importante perché porta nutrimento alla mucosa e partecipa alla regolazione dei movimenti intestinali.
+
+Tonaca muscolare
+
+La tonaca muscolare contiene muscolatura liscia.
+
+Di solito ha due strati:
+
+uno circolare interno;
+uno longitudinale esterno.
+
+Questi muscoli permettono due movimenti fondamentali:
+
+peristalsi
+segmentazione
+
+La peristalsi spinge il contenuto in avanti.
+
+La segmentazione mescola il contenuto, per metterlo meglio a contatto con gli enzimi e con la parete assorbente.
+
+Quindi l’intestino non è un tubo passivo: si muove continuamente.
+
+Sierosa o avventizia
+
+È lo strato più esterno.
+
+Serve a rivestire e proteggere l’intestino.
+
+Quando l’intestino è coperto dal peritoneo, si parla di sierosa. Dove invece è fissato ad altre strutture, si parla più propriamente di avventizia.
+
+La flora batterica intestinale
+
+Nel colon vive una grande quantità di batteri, chiamata spesso microbiota intestinale.
+
+Questi batteri non sono semplicemente “ospiti”: svolgono funzioni utili.
+
+Aiutano a:
+
+fermentare fibre e residui alimentari;
+produrre alcune vitamine;
+proteggere da batteri patogeni;
+modulare il sistema immunitario;
+produrre sostanze come acidi grassi a catena corta, utili per le cellule del colon.
+
+Però l’equilibrio è delicato. Antibiotici, dieta, infezioni, malattie intestinali e stress possono alterarlo.
+
+Schema molto semplice
+Parte	Funzione principale
+Duodeno	Riceve bile e succo pancreatico; neutralizza l’acido; digestione chimica
+Digiuno	Assorbimento principale di nutrienti
+Ileo	Assorbe vitamina B12 e sali biliari; difesa immunitaria
+Cieco	Riceve il contenuto dall’ileo; appendice
+Colon ascendente	Riassorbe acqua e sali; inizio compattazione
+Colon trasverso	Continua assorbimento e fermentazione batterica
+Colon discendente	Trasporto e compattazione delle feci
+Sigma	Deposito temporaneo delle feci
+Retto	Serbatoio finale; stimolo alla defecazione
+Ano	Eliminazione controllata
+Riassunto finale
+
+L’intestino tenue è soprattutto l’organo dell’assorbimento dei nutrienti.
+
+Il duodeno digerisce, il digiuno assorbe moltissimo, l’ileo completa l’assorbimento e recupera vitamina B12 e sali biliari.
+
+L’intestino crasso invece serve soprattutto a recuperare acqua, ospitare il microbiota, trasformare il materiale residuo in feci e permetterne l’eliminazione.
+
+Quindi, detto brutalmente:
+
+tenue = digestione finale e assorbimento dei nutrienti;
+crasso = acqua, batteri, feci ed eliminazione.
+
+
+== STEROIDI
+
+sono lipidi, poco solubili in acqua e più solubili nei grassi/solventi organici. colesterolo testosterone estrogeni cortisolo aldosterone
+alcuni steroidi funzionano anche come ormoni, per esempio testosterone, estrogeni e cortisolo. Ma dal punto di vista chimico-biologico si classificano tra i lipidi.
+
+
+== OCCHIO
+
+A) Iride
+Parte colorata dell’occhio. Regola la quantità di luce che entra modificando il diametro della pupilla.
+
+B) Sclerotica
+È la parte bianca dell’occhio. È una membrana resistente, protettiva, che dà forma al bulbo oculare.
+Da ricordare: sclerotica = “guscio bianco resistente”.
+
+C) Cornea
+È la parte trasparente davanti all’occhio. Fa entrare la luce e contribuisce molto alla sua rifrazione, cioè la devia verso l’interno per aiutare la messa a fuoco.
+Da ricordare: cornea = finestra trasparente e prima lente dell’occhio.
+
+D) Retina
+È la membrana interna sensibile alla luce, posta sul fondo dell’occhio. Contiene i fotorecettori: coni e bastoncelli. Trasforma la luce in impulsi nervosi, che poi viaggiano nel nervo ottico verso il cervello.
+Da ricordare: retina = pellicola/sensore fotografico.
+
+E) Cristallino
+È una lente trasparente interna. Cambia forma per mettere a fuoco oggetti vicini o lontani. Questo processo si chiama accomodazione.
+Da ricordare: cristallino = lente regolabile.
+
+Riassunto brutale da quiz:
+
+Iride        → regola la luce
+Sclerotica   → protegge e dà forma
+Cornea       → finestra trasparente davanti all’occhio, fa entrare e devia la luce
+Retina       → riceve la luce e la trasforma in segnale nervoso
+Cristallino  → mette a fuoco
+nervo ottico → trasporta il segnale al cervello
+I bastoncelli sono più importanti per la visione con poca luce e sono più distribuiti nella periferia della retina.
+La retina contiene i fotorecettori, cioè le cellule sensibili alla luce. 
+La fovea è la zona dove la visione è più precisa, una piccola area centrale della retina, ricca di coni.
+
+
+
+
+== LEVE
+
+I genere:   F in mezzo → può essere vantaggiosa o svantaggiosa
+II genere:  R in mezzo → sempre vantaggiosa
+III genere: P in mezzo → sempre svantaggiosa
+
+
+== GHIANDOLE 
+
+IPOFISI
+
+L’ipofisi è una piccola ghiandola alla base del cervello, ma è importantissima: viene spesso chiamata “ghiandola maestra” perché comanda molte altre ghiandole endocrine.
+
+Sta sotto l’ipotalamo, che è una zona del cervello che le dà ordini.
+
+Schema:
+
+ipotalamo → ipofisi → altre ghiandole → ormoni nel sangue
+
+L’ipofisi produce ormoni che regolano molte funzioni:
+
+1. Crescita corporea
+Produce il GH, ormone della crescita.
+Serve per la crescita delle ossa e dei tessuti.
+
+2. Tiroide
+Produce il TSH, che stimola la tiroide a produrre ormoni tiroidei.
+Questi regolano metabolismo, energia, temperatura corporea.
+
+3. Surreni
+Produce l’ACTH, che stimola le ghiandole surrenali a produrre cortisolo.
+Il cortisolo serve nella risposta allo stress, metabolismo, pressione, infiammazione.
+
+4. Gonadi: ovaie e testicoli
+Produce FSH e LH.
+Servono per ovulazione, ciclo mestruale, produzione di spermatozoi, testosterone, estrogeni e progesterone.
+
+5. Allattamento
+Produce la prolattina, che stimola la produzione di latte.
+
+Poi c’è la parte posteriore dell’ipofisi, che rilascia due ormoni prodotti dall’ipotalamo:
+
+ADH
+Regola il riassorbimento di acqua nei reni. Se manca, si urina moltissimo.
+
+Ossitocina
+prodotto dall’ipotalamo e rilasciato dall’ipofisi posteriore. Serve nelle contrazioni del parto e nell’espulsione del latte durante l’allattamento. Presente in maschi e femmine.
+
+Riassunto da quiz:
+
+Ipofisi → ghiandola endocrina che controlla crescita, tiroide,
+surreni, gonadi, lattazione e bilancio idrico.
+
+Da ricordare bene:
+
+Ipofisi = centrale di comando ormonale del corpo.
+
+
+Surrene
+adrenalina, noradrenalina, cortisolo, aldosterone
+
+Pancreas
+insulina, glucagone, somatostatina
+
+Tiroide
+T3, T4, calcitonina
+
+
+
+== GRUPPO SANGUIGNO
+
+AB = eterozigote, A e B sono codominanti, e sono due alleli diversi, si esprimono entrambi
+
+== ORBITALI
+
+I numeri quantici servono a descrivere lo stato di un elettrone in un atomo, cioè in quale orbitale si trova e con quali caratteristiche.
+
+I principali numeri quantici sono quattro:
+
+n = numero quantico principale
+Indica il livello energetico, cioè il “guscio”: 1, 2, 3, ecc.
+l = numero quantico secondario o azimutale
+Indica il tipo di orbitale:
+s, p, d, f
+m = numero quantico magnetico
+Indica l’orientamento dell’orbitale nello spazio.
+s = numero quantico di spin
+Indica il verso dello spin dell’elettrone: +1/2 oppure -1/2.
+
+== VERTEBRE 
+
+sono 33: 
+
+7 cervicali
+12 toracice (o dorsali)
+5 lombari
+5 sacrali
+3-5 coccigee (fuse assieme)
+
+cervicali + toraciche + lombari = 24 vertebre mobili
+
+Le sacrali e le coccigee sono invece saldate tra loro.
+
+
+== SPECIE
+
+Regno → Phylum → Classe → Ordine → Famiglia → Genere → Specie
+Re Filippo Correva Oggi Facendo Grandi Salti
+
+
+== MONOSACCARIDI
+
+Monosaccaridi importanti: glucosio, fruttosio, galattosio (isomeri)
+Disaccaridi importanti: saccarosio, lattosio, maltosio
+Polisaccaridi importanti: amido, glicogeno, cellulosa, amilosio
+
+fruttosio C6​H12​O6​ -> 6 C -> chetoesoso, con gruppo C=O 
+glucosio e galattosio -> aldoesoso, gruppo CHO
+
+trioso = 3 carboni
+tetroso = 4 carboni
+pentoso = 5 carboni
+esoso = 6 carboni
+
+
+Amido:  (C6H10O5)n  polisaccaride, cioè una lunga catena formata da tante unità di glucosio unite tra loro.
+Quando tanti glucosi si uniscono, perdono molecole d’acqua tramite reazioni di condensazione:
+
+n(C6H12O6) → (C6​ H10 O5)n + nH2O  (reazione di CONDENSAZIONE, in cui una molecola piu grande viene prodotta e H2O viene emessa... l'opposti si chiama IDROLISI: molecola grande + H2O -> molecole piu piccole)
+
+== RETICOLO ENDOPLASMATICO
+
+Reticolo endoplasmatico rugoso — RER. sulla sua superficie ci sono tanti ribosomi attaccati.
+produrre proteine → modificarle un po’ → mandarle verso l’apparato di Golgi
+
+Reticolo endoplasmatico liscio — REL
+
+Si chiama liscio perché non ha ribosomi sulla superficie.
+Serve soprattutto a:
+
+produrre lipidi, cioè grassi e fosfolipidi;
+produrre alcuni ormoni steroidei;
+detossificare sostanze, soprattutto nel fegato;
+immagazzinare calcio, specialmente nelle cellule muscolari.
+
+== DIGESTIONE
+
+Nello stomaco il cibo viene trasformato in una specie di poltiglia acida chiamata chimo. La digestione gastrica è soprattutto meccanica + chimica, e riguarda principalmente le proteine.
+
+1. Arrivo del cibo nello stomaco
+
+Il cibo arriva dall’esofago attraverso il cardias, una valvola che separa esofago e stomaco.
+
+Lo stomaco comincia a rimescolare il cibo con movimenti muscolari: è come una “betoniera biologica”.
+
+2. Produzione del succo gastrico
+
+Le ghiandole della parete dello stomaco producono succo gastrico, che contiene soprattutto:
+
+acido cloridrico HCl
+rende l’ambiente molto acido, circa pH 1-2.
+
+pepsinogeno
+è la forma inattiva dell’enzima pepsina.
+
+muco
+protegge la parete dello stomaco dall’acido.
+
+fattore intrinseco
+serve più avanti per assorbire la vitamina B12 nell’intestino.
+
+3. L’acido attiva la pepsina
+
+Questa è una cosa importantissima per i quiz:
+
+HCl + pepsinogeno → pepsina
+
+Il pepsinogeno è inattivo. L’ambiente acido lo trasforma in pepsina, che è l’enzima attivo.
+
+La pepsina digerisce le proteine, spezzandole in frammenti più piccoli chiamati peptidi.
+
+Schema:
+
+proteine → peptidi
+
+Non arriviamo ancora agli amminoacidi completi: quello avverrà soprattutto nell’intestino tenue.
+
+4. L’acido uccide molti batteri
+
+Il pH acido dello stomaco serve anche come difesa:
+
+acidità gastrica → distruzione di molti microrganismi
+
+Non tutti, ma molti sì.
+
+5. Lo stomaco rimescola il cibo
+
+Le pareti dello stomaco fanno contrazioni. Queste contrazioni mescolano:
+
+cibo + HCl + enzimi + muco
+
+Il risultato è il chimo, una massa semiliquida acida.
+
+6. Uscita verso il duodeno
+
+Quando il chimo è pronto, passa poco alla volta attraverso il piloro, la valvola tra stomaco e duodeno.
+
+Quindi:
+
+stomaco → piloro → duodeno
+
+Nel duodeno arriveranno bile e succo pancreatico, e lì la digestione diventerà molto più completa.
+
+Riassunto da test:
+
+Nello stomaco:
+
+il cibo viene rimescolato;
+HCl rende l’ambiente acido;
+HCl attiva il pepsinogeno in pepsina;
+la pepsina inizia la digestione delle proteine;
+il muco protegge la parete gastrica;
+si forma il chimo;
+il chimo passa nel duodeno attraverso il piloro.
+
+Formula mentale:
+
+Stomaco = acido + pepsina + proteine → chimo.
+
+== SISTEMA IMMUNITARIO
+
+Una immunoglobulina è un anticorpo.
+
+Cioè una proteina prodotta dai linfociti B — più precisamente dalle plasmacellule — per riconoscere e legarsi a sostanze estranee chiamate antigeni.
+
+Esempio:
+
+batterio / virus / tossina → antigene → anticorpo/immunoglobulina si lega all’antigene
+
+Immaginala come una specie di pinza molecolare o chiave specializzata: ogni immunoglobulina riconosce un bersaglio abbastanza specifico.
+
+La struttura classica dell’anticorpo è a forma di Y:
+
+le due “braccia” della Y riconoscono l’antigene;
+il “gambo” della Y può richiamare altre parti del sistema immunitario.
+
+A cosa servono?
+
+Possono:
+
+neutralizzare virus e tossine;
+legarsi ai batteri e renderli più riconoscibili ai fagociti;
+attivare il sistema del complemento;
+partecipare alla memoria immunitaria.
+
+Le principali classi sono:
+
+Classe	Funzione principale
+IgG	le più abbondanti nel sangue; memoria immunitaria; attraversano la placenta
+IgM	prime prodotte in una risposta immunitaria
+IgA	presenti nelle mucose, saliva, lacrime, latte materno
+IgE	allergie e difesa contro parassiti
+IgD	presenti sui linfociti B, funzione più regolatoria
+
+Per il test ricordati:
+
+immunoglobulina = anticorpo = proteina prodotta dai linfociti B/plasmacellule contro un antigene.
+
+
+Interferone = proteina-segnale prodotta dalle cellule, soprattutto quando c’è un’infezione virale.
+
+Serve a dire alle cellule vicine:
+
+“Attenzione, c’è un virus: preparatevi a difendervi.”
+
+Gli interferoni fanno parte delle citochine, cioè molecole che le cellule immunitarie usano per comunicare.
+
+Funzioni principali:
+
+rallentano la replicazione virale;
+attivano cellule difensive come macrofagi e natural killer;
+aumentano la presentazione degli antigeni, cioè aiutano il sistema immunitario a “vedere” meglio il nemico.
+
+
+==
+
+Solfuro CaS, Solfito CaSO₃, Solfato CaSO₄
+
+H₂CO₃ ⇄ H⁺ + HCO₃⁻  sistema tampone del sangue, basato su acido carbonico ⇄ ione idrogeno + bicarbonato
+
+
+== TRIGONOMETRIA
+
+sin(2x) = 2 sin(x) cos(x)
+
+cos²x = 1 − sin²x
+
+cos(a + b) = cos(a) · cos(b) – sen(a) · sen(b)
+
+
+
+== SANGUE
+
+Gli eritrociti sono i globuli rossi, le cellule del sangue specializzate nel trasporto dell'ossigeno.
+Caratteristiche principali:
+
+Forma: disco biconcavo, senza nucleo nei mammiferi adulti
+Contenuto: pieni di emoglobina (~270 milioni di molecole per cellula)
+Funzione: trasportano O₂ dai polmoni ai tessuti, e CO₂ in senso inverso
+Vita media: circa 120 giorni
+Produzione: nel midollo osseo rosso (eritropoiesi)
+
+Il plasma è la parte liquida del sangue quando il sangue non ha coagulato.
+
+Contiene:
+
+acqua, circa 90%; sali minerali; proteine plasmatiche; albumina; globuline; fibrinogeno;
+altri fattori della coagulazione; sostanze nutritive, ormoni, prodotti di scarto.
+
+Nel plasma sono sospesi: globuli rossi; globuli bianchi; piastrine.
+
+Il siero è ciò che resta del plasma dopo la coagulazione.
+Plasma = con fibrinogeno
+Siero = senza fibrinogeno
+
+Il fibrinogeno è una proteina del plasma sanguigno fondamentale per la coagulazione.
+L’enzima che trasforma il fibrinogeno in fibrina si chiama trombina.
+La fibrina, invece, forma una specie di rete di fili, che intrappola:
+globuli rossi; piastrine; altre cellule del sangue.
+Così si forma il coagulo.
+
+
+== SISTEMA NERVOSO
+
+
+Il sistema nervoso si può dividere in modo ordinato così:
+
+Sistema nervoso
+│
+├── 1. Sistema nervoso centrale
+│   ├── encefalo
+│   └── midollo spinale
+│
+└── 2. Sistema nervoso periferico
+    ├── sistema nervoso somatico
+    └── sistema nervoso autonomo / vegetativo
+        ├── simpatico
+        ├── parasimpatico
+        └── enterico
+1. Sistema nervoso centrale
+
+È il “centro di comando”.
+
+Comprende:
+
+Encefalo
+= cervello, cervelletto, tronco encefalico.
+
+Midollo spinale
+= passa dentro la colonna vertebrale e collega encefalo e resto del corpo.
+
+Il sistema nervoso centrale riceve informazioni, le elabora e manda risposte.
+
+Esempio: tocchi qualcosa di caldo → il segnale arriva al midollo/cervello → ritiri la mano.
+
+2. Sistema nervoso periferico
+
+È tutto ciò che sta fuori da encefalo e midollo spinale.
+
+Comprende i nervi che collegano il sistema nervoso centrale al corpo.
+
+Il sistema nervoso periferico si divide in:
+
+A. Sistema nervoso somatico
+
+È quello più “volontario”.
+
+Controlla soprattutto:
+
+muscoli scheletrici;
+movimenti volontari;
+sensibilità cosciente: tatto, dolore, temperatura, posizione del corpo.
+
+Esempi:
+
+Alzo un braccio.
+Cammino.
+Sento dolore se mi pungo.
+Contraggio volontariamente un muscolo.
+
+Quindi:
+
+somatico = relazione con il mondo esterno e movimento volontario.
+
+B. Sistema nervoso autonomo o vegetativo
+
+È quello più “automatico”.
+
+Controlla funzioni che normalmente non comandiamo volontariamente, come:
+
+battito cardiaco;
+pressione arteriosa;
+digestione;
+sudorazione;
+diametro delle pupille;
+respirazione in parte;
+secrezioni delle ghiandole;
+movimenti intestinali.
+
+Si chiama autonomo perché lavora in gran parte da solo.
+
+Si chiama anche vegetativo perché regola le funzioni vitali di base, quelle “automatiche”.
+
+Il sistema autonomo si divide in:
+
+1. Simpatico
+
+È il sistema dell’allarme, dell’azione, dello stress, della fuga o combattimento.
+
+In inglese spesso si dice: fight or flight.
+
+Quando si attiva il simpatico:
+
+aumenta la frequenza cardiaca;
+aumenta la pressione;
+si dilatano i bronchi;
+si dilatano le pupille;
+aumenta la sudorazione;
+viene liberato glucosio nel sangue;
+la digestione rallenta;
+il sangue viene diretto di più ai muscoli.
+
+Esempio: vedi un pericolo, devi scappare, fai uno sforzo intenso, hai paura.
+
+Il corpo dice:
+
+“Prepariamoci all’azione.”
+
+2. Parasimpatico
+
+È il sistema del riposo, recupero, digestione.
+
+In inglese: rest and digest.
+
+Quando si attiva il parasimpatico:
+
+rallenta il battito cardiaco;
+favorisce la digestione;
+stimola la salivazione;
+stimola i movimenti intestinali;
+restringe le pupille;
+favorisce il recupero energetico.
+
+Esempio: hai mangiato, sei tranquillo, riposi.
+
+Il corpo dice:
+
+“Calma, digeriamo, recuperiamo energia.”
+
+3. Sistema enterico
+
+È il sistema nervoso dell’intestino.
+
+Controlla molte funzioni digestive:
+
+movimenti intestinali;
+secrezioni digestive;
+coordinamento della digestione.
+
+È così sviluppato che a volte viene chiamato “secondo cervello”, anche se ovviamente non pensa come il cervello.
+
+Lavora in parte da solo, ma comunica con simpatico e parasimpatico.
+
+Schema facile da ricordare
+Somatico = volontario
+Autonomo = automatico
+
+Simpatico = accelera, allarme, azione
+Parasimpatico = rallenta, riposo, digestione
+Enterico = intestino
+Esempio concreto
+
+Immagina di essere inseguito da un cane feroce.
+
+Si attiva il simpatico:
+
+cuore più veloce;
+respiro più ampio;
+muscoli pronti;
+pupille dilatate;
+digestione bloccata.
+
+Quando sei salvo e ti siedi a mangiare, prevale il parasimpatico:
+
+cuore più calmo;
+digestione attiva;
+saliva;
+intestino lavora.
+
+Quindi la coppia fondamentale è:
+
+simpatico = emergenza / prestazione
+parasimpatico = calma / digestione / recupero
+
+
+== STRUTTURA DELLA CELLULA
+
+La cellula è come una piccola “fabbrica vivente”.
+
+Le parti principali sono:
+
+1. Membrana cellulare
+È il confine della cellula. Decide cosa entra e cosa esce.
+
+2. Citoplasma
+È il materiale gelatinoso interno, dove si trovano gli organuli.
+
+3. Nucleo
+Contiene il DNA, cioè le istruzioni genetiche della cellula.
+
+4. Mitocondri
+Producono energia. Sono le “centrali energetiche” della cellula.
+
+5. Ribosomi
+Costruiscono le proteine.
+
+6. Reticolo endoplasmatico rugoso
+Ha ribosomi attaccati. Produce e trasporta proteine.
+
+7. Reticolo endoplasmatico liscio
+Produce lipidi e partecipa alla detossificazione.
+
+8. Apparato di Golgi
+Modifica, impacchetta e spedisce sostanze prodotte dalla cellula.
+
+9. Lisosomi
+Digeriscono materiali di scarto e sostanze da eliminare.
+
+10. Citoscheletro
+È l’impalcatura interna: dà forma, sostegno e aiuta il movimento.
+
+È formato soprattutto da tre tipi di strutture:
+
+Microfilamenti,	actina,	movimento, forma cellulare, contrazione
+Microtubuli,	tubulina,	trasporto interno, fuso mitotico, ciglia e flagelli
+Filamenti intermedi,	proteine fibrose,	resistenza meccanica
+
+I microfilamenti di actina sono i più sottili. Servono per il movimento della cellula, per cambiare forma e, insieme alla miosina, per la contrazione muscolare.
+
+I microtubuli sono più grossi, come piccoli tubicini. Servono come “binari” lungo cui vengono trasportate vescicole e organuli. Durante la divisione cellulare formano il fuso mitotico, che separa i cromosomi.
+
+I filamenti intermedi sono una specie di “cavi resistenti”. Non servono tanto al movimento, ma alla stabilità: impediscono che la cellula si rompa facilmente.
+
+
+Nelle cellule vegetali trovi anche:
+
+11. Parete cellulare
+Struttura rigida esterna alla membrana.
+
+12. Cloroplasti
+Fanno la fotosintesi.
+
+13. Grande vacuolo centrale
+Contiene acqua e sostanze di riserva.
+
+
+Il nucleolo è una regione dentro il nucleo dove si produce soprattutto RNA ribosomiale, cioè rRNA.
+Serve a preparare i componenti dei ribosomi.
+
+I batteri sono procarioti: sono privi di un nucleo ben definito. Il loro DNA non è chiuso dentro un nucleo con membrana nucleare, ma si trova in una zona chiamata nucleoide.
+
+
+La membrana plasmatica è la “pellicola” che delimita la cellula, e si trova in tutte le cellule. È una sottile barriera che separa l’interno della cellula dall’ambiente esterno e controlla ciò che entra e ciò che esce.
+La membrana plasmatica è il rivestimento esterno della cellula, formato da un doppio strato di fosfolipidi con proteine, che regola gli scambi tra cellula e ambiente esterno.
+
+È fatta soprattutto da:
+
+1. Fosfolipidi: Formano un doppio strato lipidico. Immaginalo come un muro flessibile fatto di grassi.
+
+2. Proteine: Sono inserite nella membrana e servono per trasportare sostanze, ricevere segnali, riconoscere altre cellule, ecc.
+
+3. Colesterolo: Serve a regolare la fluidità della membrana, rendendola né troppo rigida né troppo molle.
+
+4. Carboidrati: Spesso legati a proteine o lipidi, servono anche per il riconoscimento cellulare.
+
+La cosa fondamentale è questa:
+La membrana plasmatica è semipermeabile o selettivamente permeabile.
+
+Vuol dire che non lascia passare tutto liberamente. Alcune sostanze passano facilmente, altre hanno bisogno di canali o trasportatori.
+
+Esempi:
+
+Passano facilmente: ossigeno, anidride carbonica, alcune molecole piccole e liposolubili.
+Passano con difficoltà: ioni, glucosio, molecole grandi o cariche.
+
+Schema semplice:
+
+ambiente esterno
+↓
+membrana plasmatica = filtro intelligente
+↓
+citoplasma della cellula
+
+== ENZIMI
+
+Un enzima accelera una reazione biologica legando il substrato nel sito attivo e trasformandolo in prodotto. Il sito allosterico è una zona diversa dal sito attivo, dove si legano molecole regolatrici che possono attivare o inibire l’enzima.
+Gli inibitori di tipo competitivo riducono l’attività di un enzima legandosi al sito attivo dell’enzima.
+
+Taq polimerasi è un enzima usato nella PCR. deriva dal batterio Thermus aquaticus, che vive in ambienti caldi; resiste ad alte temperature; funziona bene circa a 72 °C; costruisce nuovo DNA aggiungendo nucleotidi; è formata da una sola catena polipeptidica.
+Un termociclatore è una macchina da laboratorio usata per fare la PCR, cioè per amplificare il DNA.
+1) Denaturazione,    temperatura alta, circa 95 °C    ↓
+   i due filamenti del DNA si separano
+
+2) Annealing / appaiamento,    temperatura più bassa, circa 50-65 °C    ↓
+   i primer si attaccano al DNA stampo
+
+3) Estensione,    circa 72 °C    ↓
+   la DNA polimerasi costruisce il nuovo DNA 
+   
+
+L’elettroforesi del DNA, serve a separare frammenti di DNA in base alla loro lunghezza.
+
+
+DNA da copiare    ↓
+ELICASI apre la doppia elica del DNA, separa i filamenti.  ↓
+PRIMASI mette il primer (RNA)   ↓
+POLIMERASI allunga il nuovo DNA partendo dal primer (costruisce il nuovo filamento di DNA. Aggiunge nucleotidi uno dopo l’altro, seguendo il filamento stampo.)   ↓
+LIGASI unisce i frammenti di DNA, fondamentale soprattutto sul filamento lento, dove si formano i frammenti di Okazaki.
+NUCLEASI taglia DNA/RNA, per degradare, correggere o rimuovere tratti di DNA/RNA
+
+
+== RNA
+La trascrizione è il processo che: porta alla sintesi dell’RNA a partire da uno stampo di DNA
+
+1. Replicazione
+DNA → DNA
+È la duplicazione del DNA.
+
+2. Trascrizione
+DNA → RNA
+Si copia l’informazione dal DNA all’RNA.
+
+3. Traduzione
+RNA → proteina
+Il ribosoma legge l’mRNA e costruisce la proteina.
+
+
+Aneuploidia significa: numero anomalo di singoli cromosomi.
+cromosoma in più → trisomia (trisomia 21 = sindrome di Down)
+cromosoma in meno → monosomia
+
+
+Aneuploidia	uno o pochi cromosomi in più o in meno
+Poliploidia	interi assetti cromosomici in più, tipo 3n, 4n
+Diploidia	condizione normale con due serie di cromosomi, 2n
+Monosomia	manca un cromosoma di una coppia
+Aploidia	una sola serie di cromosomi, n, come nei gameti
+
+
+
+== GRUPPI SANGUIGNI
+
+AB sempre eterozigote
+0 sempre omozigote recessivo
+Rh+ dominante, Rh- recessivo
+
+== ORBITALI
+
+Per il carbonio:
+
+4 legami singoli → sp³, tetraedrica, 109,5°
+Esempio: CH₄ metano
+
+1 doppio legame → sp², trigonale planare 120°
+Esempio: CH₂=CH₂ etene
+
+1 triplo legame → sp , lineare 180°
+Esempio: HC≡CH etino
+
+== COMPOSTI
+
+H₃PO₄ acido fosforico
+PO₄³⁻ → ione fosfato
+HPO₄²⁻ idrogenofosfato
+
+ossido di metallo → di solito ossido basico
+ossido di non metallo → di solito ossido acido / anidride
+
+legge delle proporzioni definite fu formulata da Joseph Louis Proust
+Lavoisier → conservazione della massa
+Dalton → teoria atomica / proporzioni multiple (quando due elementi formano più composti diversi, le masse di uno dei due elementi che si combinano con una massa fissa dell’altro stanno tra loro in rapporti semplici e interi.)
+Avogadro → numero di Avogadro / volumi uguali di gas
+Charles → legge dei gas: volume e temperatura
+
+Una coppia acido-base coniugata è una coppia di sostanze che differiscono per un solo protone H⁺.
+Secondo Brønsted-Lowry: acido = dona H⁺, base = accetta H⁺
+Quando un acido perde H⁺, diventa la sua base coniugata: HCl → H⁺ + Cl⁻
+NH₃ + H⁺ → NH₄⁺  : NH₃ è una base, perché prende H⁺, NH₄⁺ è il suo acido coniugato
+
+
+1 bar = 10^5 Pa
+1 atm = 1,013 × 10^5 Pa
+1 atm = 760 torr (o mm Hg)
+1 Pa = 1 N/m2
+
+area del cerchio: A = πr²
+circonferenza: C = 2πr
+
+a^(1/n) = radice n-esima di a
+
+
+== CUORE
+
+Il cuore è una pompa muscolare che spinge il sangue in due circuiti:
+
+piccola circolazione: cuore → polmoni → cuore
+grande circolazione: cuore → tutto il corpo → cuore
+
+È diviso in quattro cavità:
+
+atrio destro
+ventricolo destro
+atrio sinistro
+ventricolo sinistro
+
+Schema generale
+
+Immaginalo così:
+
+Sangue povero di ossigeno dal corpo
+        ↓
+Vene cave
+        ↓
+Atrio destro
+        ↓ valvola tricuspide
+Ventricolo destro
+        ↓ valvola polmonare
+Arteria polmonare
+        ↓
+Polmoni
+        ↓
+Vene polmonari
+        ↓
+Atrio sinistro
+        ↓ valvola mitrale
+Ventricolo sinistro
+        ↓ valvola aortica
+Aorta
+        ↓
+Tutto il corpo
+Lato destro del cuore
+
+Il lato destro riceve sangue povero di ossigeno, cioè sangue che ha già ceduto ossigeno ai tessuti.
+
+Questo sangue arriva al cuore tramite due grandi vene:
+
+vena cava superiore, che porta sangue dalla parte alta del corpo;
+vena cava inferiore, che porta sangue dalla parte bassa del corpo.
+
+Entrambe arrivano nell’atrio destro.
+
+Dall’atrio destro il sangue passa nel ventricolo destro attraverso la:
+
+valvola tricuspide
+
+Poi il ventricolo destro si contrae e manda il sangue nei polmoni attraverso l’arteria polmonare.
+
+Prima dell’arteria polmonare c’è la:
+
+valvola polmonare
+
+Attenzione: l’arteria polmonare è una particolarità, perché è un’arteria ma trasporta sangue povero di ossigeno.
+
+Polmoni
+
+Nei polmoni il sangue:
+
+elimina anidride carbonica, CO₂;
+prende ossigeno, O₂.
+
+Dopo essere stato ossigenato, torna al cuore attraverso le: VENE POLMONARI
+
+Anche qui c’è una particolarità: le vene polmonari sono vene, ma trasportano sangue ricco di ossigeno.
+
+Lato sinistro del cuore
+
+Il sangue ossigenato arriva nell’atrio sinistro.
+
+Dall’atrio sinistro passa nel ventricolo sinistro attraverso la:
+
+valvola mitrale, detta anche bicuspide
+
+Poi il ventricolo sinistro si contrae fortemente e manda il sangue nell’aorta, la grande arteria che distribuisce il sangue a tutto il corpo.
+
+Prima dell’aorta c’è la: valvola aortica
+
+Il ventricolo sinistro ha una parete muscolare molto più spessa del destro, perché deve spingere il sangue in tutto il corpo, non solo fino ai polmoni.
+
+Le quattro valvole
+
+Le valvole servono a far andare il sangue in una sola direzione. Impediscono il reflusso, cioè che il sangue torni indietro.
+
+Valvola	Dove si trova	Funzione
+Tricuspide	tra atrio destro e ventricolo destro	fa passare sangue da atrio destro a ventricolo destro
+Polmonare	tra ventricolo destro e arteria polmonare	fa uscire sangue verso i polmoni
+Mitrale	tra atrio sinistro e ventricolo sinistro	fa passare sangue da atrio sinistro a ventricolo sinistro
+Aortica	tra ventricolo sinistro e aorta	fa uscire sangue verso tutto il corpo
+Arterie e vene: regola importante
+
+Non devi pensare:
+
+arteria = sangue ossigenato
+vena = sangue povero di ossigeno
+
+Questa regola ha eccezioni.
+
+La regola vera è:
+
+arterie = portano il sangue via dal cuore
+vene = portano il sangue verso il cuore
+
+Quindi:
+
+Vaso	Direzione
+Arterie	dal cuore verso organi e tessuti
+Vene	da organi e tessuti verso il cuore
+
+Per questo l’arteria polmonare è comunque un’arteria: parte dal cuore e va ai polmoni, anche se porta sangue povero di ossigeno.
+
+Riassunto super utile
+
+Corpo → vene cave → atrio destro → ventricolo destro → arteria polmonare → polmoni → vene polmonari → atrio sinistro → ventricolo sinistro → aorta → corpo
+
+Memorizzalo come una strada circolare.
+Il sangue fa sempre questo giro.
+
+Le valvole semilunari sono due:
+
+valvola polmonare
+valvola aortica
+
+Si chiamano semilunari perché le loro cuspidi, cioè i loro lembi, hanno forma di mezzaluna.
+
+Servono a impedire che il sangue, dopo essere uscito dai ventricoli, torni indietro dentro il cuore.
+
+Dove si trovano
+Valvola semilunare	Dove si trova	Cosa impedisce
+Polmonare	tra ventricolo destro e arteria polmonare	impedisce al sangue di tornare dall’arteria polmonare al ventricolo destro
+Aortica	tra ventricolo sinistro e aorta	impedisce al sangue di tornare dall’aorta al ventricolo sinistro
+Come funzionano
+
+Quando i ventricoli si contraggono, cioè durante la sistole ventricolare, la pressione dentro i ventricoli aumenta.
+
+Allora:
+
+ventricoli si contraggono
+→ la pressione aumenta
+→ le valvole semilunari si aprono
+→ il sangue esce
+
+Poi, quando i ventricoli si rilassano, cioè durante la diastole, la pressione nei ventricoli scende.
+
+Allora il sangue tenderebbe a tornare indietro dall’aorta e dall’arteria polmonare, ma:
+
+il sangue torna leggermente indietro
+→ riempie le taschette delle valvole semilunari
+→ le valvole si chiudono
+→ il reflusso viene bloccato
+Differenza con tricuspide e mitrale
+
+Le valvole tricuspide e mitrale sono dette valvole atrioventricolari, perché stanno tra atri e ventricoli.
+
+Le valvole polmonare e aortica sono dette semilunari, perché stanno all’uscita dei ventricoli verso le grandi arterie.
+
+Tipo di valvola	Quali sono	Posizione
+Atrioventricolari	tricuspide, mitrale	tra atri e ventricoli
+Semilunari	polmonare, aortica	tra ventricoli e arterie
+
+Quindi ricordati così:
+
+atri → ventricoli: tricuspide e mitrale
+ventricoli → arterie: polmonare e aortica, cioè semilunari
+
+
+
+Le valvole atrioventricolari sono le valvole che stanno tra atri e ventricoli.
+
+Sono due:
+
+Valvola	Dove si trova
+Tricuspide	tra atrio destro e ventricolo destro
+Mitrale o bicuspide	tra atrio sinistro e ventricolo sinistro
+
+Servono a far passare il sangue dagli atri ai ventricoli, ma impediscono che il sangue torni indietro nei rispettivi atri quando i ventricoli si contraggono.
+
+Schema:
+
+Atrio destro
+   ↓ valvola tricuspide
+Ventricolo destro
+
+
+Atrio sinistro
+   ↓ valvola mitrale
+Ventricolo sinistro
+
+Durante la diastole, cioè quando i ventricoli si rilassano e si riempiono, le valvole atrioventricolari sono aperte:
+
+atri → ventricoli
+
+Durante la sistole ventricolare, cioè quando i ventricoli si contraggono, le valvole atrioventricolari si chiudono:
+
+ventricoli si contraggono
+→ il sangue vorrebbe tornare negli atri
+→ tricuspide e mitrale si chiudono
+→ il sangue non torna indietro
+
+Una cosa importante: queste valvole sono tenute in posizione da strutture chiamate corde tendinee, collegate ai muscoli papillari. Servono a impedire che la valvola “si ribalti” all’indietro dentro l’atrio durante la contrazione del ventricolo.
+
+Riassunto:
+
+Valvole atrioventricolari = tricuspide + mitrale
+Funzione = permettono il passaggio atrio → ventricolo e impediscono il ritorno ventricolo → atrio
+
+== TAVOLA PERIODICA
+
+Gruppo 1 = metalli alcalini
+Gruppo 2 = metalli alcalino-terrosi
+Gruppi 3–12 = metalli di transizione
+Gruppo 17 = alogeni (ex VIIA)
+Gruppo 18 = gas nobili (ex VIIIA)
+
+
+== EMOFILIA (recessivi X, come DALTONISMO)
+
+femmina sana XHXH, maschio malato XhY -> il maschio sempre sano, puo' nascere femmina portatrice, 
+femmina sana XHXH, maschio sano XHY -> tutti sani
+femmina portatrice XhXH, maschio malato XhY -> puo' nascere maschio malato, femmina malata o portatrice
+femmina portatrice XhXH, maschio sano XHY -> puo' nascere maschio malato, puo' nascere femmina portatrice
+femmina malata XhXh, maschio malato XhY -> maschio sempre malato, femmina sempre malata
+femmina malata XhXh, maschio sano XHY -> maschio sempre malato, femmina sempre portatrice
+
+se il maschio e' malato, la femmina e' sempre almeno portatrice
+se la femmina e' malata, il maschio e' sempre malato
+
+== ANEMIA FALCIFORME
+
+causata da una mutazione nella catena beta dell'emoglobina.
+Emoglobina normale: HbA; falciforme: HbS
+emoglobina=2 catene α+2 catene β 
+nella catena β al posto dell’acido glutammico entra la valina
+
+
+==
+
+Il botulismo è causato dalla tossina botulinica, prodotta dal batterio Clostridium botulinum.
+Mononucleosi Malattia infettiva Virus di Epstein-Barr
+Malaria Malattia parassitaria Protozoo Plasmodium
+Rabbia Malattia virale Virus della rabbia
+Epatite B Malattia virale Virus HBV
+
+Il materiale genetico dei retrovirus come l’HIV è RNA a singolo filamento che viene usato come stampo per la sintesi di DNA
+
+Nell’eredità poligenica due o più geni influenzano un singolo carattere fenotipico
+
+
+Metilcicloesano:  cicloesano (C6H12) + Metil (CH3) = C7H14 (cicloalcani CnH2n)
+
+
+== TERMODINAMICA
+
+Principio zero della termodinamica
+
+Dice che se due corpi sono separatamente in equilibrio termico con un terzo corpo, allora sono in equilibrio termico anche tra loro.
+
+Primo principio della termodinamica
+
+Il calore fornito a un sistema può aumentare la sua energia interna oppure trasformarsi in lavoro. ΔU = Q - L
+
+Secondo principio della termodinamica
+
+Il calore passa spontaneamente dal corpo più caldo al corpo più freddo, non il contrario. In un sistema isolato: l’entropia tende ad aumentare
+
+Terzo principio della termodinamica
+Quando la temperatura si avvicina allo zero assoluto, l’entropia di un cristallo perfetto tende a zero.
+
+
+== GEOMETRIA
+
+Se il punto è: P = (x₀, y₀)
+la distanza del punto dalla retta è: d = |a x₀ + b y₀ + c| / √(a² + b²)
+
+== COSTITUZIONE ITALIANA
+
+Per il test di infermieristica non serve sapere tutta la Costituzione nei dettagli: conviene conoscere struttura, principi fondamentali, diritti/doveri, organizzazione dello Stato e articoli sanitari/sociali.
+
+Costituzione italiana: riassunto da esame
+
+La Costituzione italiana è la legge fondamentale dello Stato. È entrata in vigore il 1° gennaio 1948, dopo la caduta del fascismo e la nascita della Repubblica.
+
+È una Costituzione:
+
+scritta, perché è raccolta in un testo ufficiale;
+rigida, perché non può essere modificata con una legge ordinaria, ma solo con una procedura aggravata;
+lunga, perché non si limita a descrivere gli organi dello Stato, ma contiene anche diritti sociali, economici e civili;
+democratica, perché fonda il potere sulla sovranità popolare;
+compromissoria, perché nacque dall’accordo tra diverse culture politiche: cattolica, liberale, socialista e comunista.
+
+Struttura
+
+La Costituzione è composta da 139 articoli più alcune disposizioni transitorie e finali.
+
+Si divide così:
+
+Parte	Contenuto
+Principi fondamentali	articoli 1-12
+Parte I	Diritti e doveri dei cittadini, articoli 13-54
+Parte II	Ordinamento della Repubblica, articoli 55-139
+Disposizioni transitorie e finali	norme per il passaggio dal vecchio al nuovo ordinamento
+
+PRINCIPI FONDAMENTALI: articoli 1-12
+
+Articolo 1
+
+L’Italia è una Repubblica democratica, fondata sul lavoro.
+
+La sovranità appartiene al popolo, che la esercita nelle forme previste dalla Costituzione.
+
+Significa che il potere politico non appartiene a un re, a una classe sociale o a un partito, ma ai cittadini.
+
+Articolo 2
+
+La Repubblica riconosce e garantisce i diritti inviolabili dell’uomo, sia come singolo sia nelle formazioni sociali.
+
+Qui troviamo due idee fondamentali:
+
+diritti inviolabili, cioè diritti che lo Stato deve rispettare;
+doveri di solidarietà, cioè il cittadino non è isolato, ma ha responsabilità verso gli altri.
+
+È importante per sanità, assistenza, volontariato, welfare.
+
+Articolo 3
+
+Tutti i cittadini hanno pari dignità sociale e sono uguali davanti alla legge, senza distinzione di sesso, razza, lingua, religione, opinioni politiche, condizioni personali e sociali.
+
+Poi aggiunge che la Repubblica deve rimuovere gli ostacoli economici e sociali che impediscono l’uguaglianza sostanziale.
+
+Quindi ci sono due tipi di uguaglianza:
+
+Uguaglianza formale:	tutti sono uguali davanti alla legge
+Uguaglianza sostanziale:	lo Stato deve aiutare chi parte svantaggiato
+
+Esempio sanitario: non basta dire “tutti possono curarsi”; bisogna anche garantire ospedali, medici, assistenza, accesso alle cure.
+
+Articolo 4
+
+La Repubblica riconosce il diritto al lavoro e promuove le condizioni che lo rendano effettivo.
+
+Ogni cittadino ha anche il dovere di svolgere un’attività che contribuisca al progresso della società.
+
+Articolo 5
+
+La Repubblica è una e indivisibile, ma riconosce e promuove le autonomie locali.
+
+Quindi l’Italia è uno Stato unitario, ma ci sono Regioni, Province, Comuni e Città metropolitane.
+
+Articolo 6
+
+Tutela le minoranze linguistiche.
+
+Articolo 7
+
+Regola i rapporti tra Stato e Chiesa cattolica.
+
+Stato e Chiesa sono indipendenti e sovrani, ciascuno nel proprio ordine.
+
+Articolo 8
+
+Tutte le confessioni religiose sono ugualmente libere davanti alla legge.
+
+Articolo 9
+
+La Repubblica promuove cultura, ricerca scientifica e tecnica.
+Tutela paesaggio, patrimonio storico e artistico, ambiente, biodiversità ed ecosistemi.
+
+Articolo 10
+
+L’ordinamento italiano si conforma alle norme del diritto internazionale generalmente riconosciute.
+
+Prevede anche tutela dello straniero e diritto d’asilo.
+
+Articolo 11
+
+L’Italia ripudia la guerra come strumento di offesa alla libertà degli altri popoli e come mezzo di risoluzione delle controversie internazionali.
+
+È l’articolo del pacifismo costituzionale.
+
+Articolo 12
+
+La bandiera italiana è il tricolore: verde, bianco e rosso.
+
+PARTE I: DIRITTI E DOVERI DEI CITTADINI
+
+La Parte I va dagli articoli 13 a 54.
+
+Si divide in quattro blocchi ("titoli"):
+
+Titolo I "Rapporti civili":	libertà personali
+Titolo II "Rapporti etico-sociali":	famiglia, salute, scuola
+Titolo III "Rapporti economici":	lavoro, proprietà, impresa
+Titolo IV "Rapporti politici":	voto, partiti, doveri civici
+
+Diritti civili
+Libertà personale — articolo 13
+
+La libertà personale è inviolabile.
+
+Nessuno può essere arrestato, perquisito o detenuto se non nei casi previsti dalla legge e con atto motivato dell’autorità giudiziaria.
+
+Domicilio — articolo 14
+
+Il domicilio è inviolabile.
+
+Libertà di comunicazione — articolo 15
+
+La libertà e la segretezza della corrispondenza e di ogni altra forma di comunicazione sono inviolabili.
+
+Libertà di circolazione — articolo 16
+
+Ogni cittadino può circolare e soggiornare liberamente nel territorio nazionale, salvo limitazioni previste dalla legge per motivi di sanità o sicurezza.
+
+Questo può interessare anche la sanità pubblica: quarantene, emergenze epidemiche, misure sanitarie.
+
+Libertà di riunione e associazione — articoli 17 e 18
+
+I cittadini possono riunirsi pacificamente e associarsi liberamente, purché non perseguano fini vietati dalla legge.
+
+Libertà religiosa — articolo 19
+
+Tutti possono professare liberamente la propria fede religiosa.
+
+Libertà di manifestazione del pensiero — articolo 21
+
+Tutti hanno diritto di manifestare liberamente il proprio pensiero con parola, scritto e ogni altro mezzo di diffusione.
+
+Rapporti etico-sociali
+
+Questa parte è molto importante per un test sanitario.
+
+Famiglia — articoli 29-31
+
+La Repubblica riconosce i diritti della famiglia come società naturale fondata sul matrimonio.
+
+Tutela maternità, infanzia e gioventù.
+
+Salute — articolo 32
+
+È l’articolo più importante per infermieristica.
+
+La Repubblica tutela la salute come:
+
+fondamentale diritto dell’individuo
+e
+interesse della collettività.
+
+Garantisce cure gratuite agli indigenti.
+
+Nessuno può essere obbligato a un trattamento sanitario se non per disposizione di legge.
+
+La legge non può in nessun caso violare i limiti imposti dal rispetto della persona umana.
+
+Concetti da ricordare:
+
+Concetto	Significato
+Diritto individuale	ogni persona ha diritto alla salute
+Interesse collettivo	la salute riguarda tutta la società
+Cure agli indigenti	lo Stato aiuta chi non può pagare
+Trattamenti obbligatori	possibili solo se previsti dalla legge
+Rispetto della persona	limite invalicabile
+
+Esempi collegabili: vaccini, TSO, consenso informato, sanità pubblica.
+
+Scuola — articoli 33-34
+
+L’arte e la scienza sono libere e libero ne è l’insegnamento.
+
+La scuola è aperta a tutti.
+
+L’istruzione inferiore è obbligatoria e gratuita.
+
+I capaci e meritevoli, anche se privi di mezzi, hanno diritto di raggiungere i gradi più alti degli studi.
+
+Rapporti economici
+Lavoro — articoli 35-40
+
+La Repubblica tutela il lavoro in tutte le sue forme.
+
+Riconosce il diritto alla retribuzione proporzionata e sufficiente.
+
+Tutela la donna lavoratrice, i minori, la sicurezza sul lavoro e il diritto di sciopero.
+
+Articoli importanti:
+
+Articolo	Tema
+35	tutela del lavoro
+36	giusta retribuzione
+37	donna lavoratrice e minori
+38	assistenza e previdenza
+39	sindacati
+40	sciopero
+Assistenza sociale — articolo 38
+
+Ogni cittadino inabile al lavoro e sprovvisto dei mezzi necessari ha diritto al mantenimento e all’assistenza sociale.
+
+I lavoratori hanno diritto alla previdenza in caso di infortunio, malattia, invalidità, vecchiaia e disoccupazione involontaria.
+
+Importante per capire il welfare: sanità, assistenza, pensioni, invalidità, sicurezza sociale.
+
+Rapporti politici
+Diritto di voto — articolo 48
+
+Sono elettori tutti i cittadini, uomini e donne, che hanno raggiunto la maggiore età.
+
+Il voto è:
+
+personale, perché non si può votare al posto di un altro;
+eguale, perché ogni voto vale uno;
+libero, perché nessuno può costringere l’elettore;
+segreto, perché nessuno deve sapere per chi voti.
+
+Partiti politici — articolo 49
+
+Tutti i cittadini hanno diritto di associarsi liberamente in partiti per concorrere con metodo democratico a determinare la politica nazionale.
+
+Doveri fiscali — articolo 53
+
+Tutti devono concorrere alle spese pubbliche in ragione della loro capacità contributiva.
+
+Il sistema tributario è informato a criteri di progressività.
+
+Cioè chi ha di più contribuisce di più.
+
+Fedeltà alla Repubblica — articolo 54
+
+Tutti i cittadini hanno il dovere di essere fedeli alla Repubblica e di osservarne la Costituzione e le leggi.
+
+PARTE II: ORDINAMENTO DELLA REPUBBLICA
+
+La Parte II spiega come funziona lo Stato.
+
+Gli organi principali sono:
+
+Parlamento:	fa le leggi
+Governo:	dirige la politica ed esercita il potere esecutivo
+Presidente della Repubblica:	rappresenta l’unità nazionale
+Magistratura:	esercita la funzione giudiziaria
+Corte costituzionale:	controlla la conformità delle leggi alla Costituzione
+Regioni ed enti locali:	amministrazione territoriale
+
+PARLAMENTO
+
+Il Parlamento è composto da due Camere:
+
+Camera	Sede
+Camera dei deputati	Montecitorio
+Senato della Repubblica	Palazzo Madama
+
+Il Parlamento esercita il potere legislativo, cioè fa le leggi.
+
+In Italia c’è il bicameralismo perfetto, cioè Camera e Senato hanno funzioni molto simili: una legge deve essere approvata da entrambe.
+
+Governo
+
+Il Governo esercita il potere esecutivo.
+
+È composto da:
+
+Presidente del Consiglio dei ministri,
+Ministri,
+Consiglio dei ministri.
+
+Il Governo:
+
+governa il Paese;
+attua le leggi;
+dirige la pubblica amministrazione;
+può emanare decreti-legge e decreti legislativi nei casi previsti.
+
+Presidente della Repubblica
+
+È il Capo dello Stato e rappresenta l’unità nazionale.
+
+Viene eletto dal Parlamento in seduta comune, con la partecipazione dei delegati regionali.
+
+Resta in carica 7 anni.
+
+Funzioni principali:
+
+nomina il Presidente del Consiglio;
+promulga le leggi;
+può sciogliere le Camere;
+presiede il Consiglio superiore della magistratura;
+comanda le Forze armate;
+può concedere la grazia.
+
+Magistratura
+
+La Magistratura esercita il potere giudiziario.
+
+È autonoma e indipendente da ogni altro potere.
+
+I giudici devono applicare la legge e garantire giustizia.
+
+Corte costituzionale
+
+La Corte costituzionale controlla che le leggi siano conformi alla Costituzione.
+
+Può dichiarare incostituzionale una legge.
+
+Si occupa anche di conflitti tra poteri dello Stato, conflitti tra Stato e Regioni, accuse contro il Presidente della Repubblica e ammissibilità dei referendum abrogativi.
+
+Regioni, Province, Comuni
+
+La Repubblica riconosce le autonomie locali.
+
+Gli enti principali sono:
+
+Regioni,
+Province,
+Città metropolitane,
+Comuni.
+
+Le Regioni hanno competenze legislative in alcune materie. La sanità, in particolare, è molto legata all’organizzazione regionale.
+
+Questo è importante: il Servizio sanitario nazionale è nazionale nei principi, ma molte funzioni pratiche sono organizzate dalle Regioni.
+
+Revisione costituzionale
+
+La Costituzione è rigida.
+
+Per modificarla non basta una legge normale. Serve la procedura dell’articolo 138.
+
+La legge di revisione costituzionale deve essere approvata due volte da ciascuna Camera, con intervallo di almeno tre mesi.
+
+In certi casi può esserci un referendum costituzionale.
+
+Articolo 139
+
+La forma repubblicana non può essere oggetto di revisione costituzionale.
+
+Cioè l’Italia non può tornare monarchia modificando semplicemente la Costituzione.
+
+Articoli più importanti da memorizzare
+
+Articolo	Contenuto
+1	Repubblica democratica fondata sul lavoro
+2	diritti inviolabili e doveri di solidarietà
+3	uguaglianza formale e sostanziale
+4	diritto al lavoro
+5	unità della Repubblica e autonomie locali
+9	cultura, ricerca, ambiente
+11	ripudio della guerra
+13	libertà personale
+21	libertà di pensiero
+32	diritto alla salute
+34	scuola aperta a tutti
+36	giusta retribuzione
+38	assistenza e previdenza
+48	diritto di voto
+53	dovere fiscale
+54	fedeltà alla Repubblica
+138	revisione costituzionale
+139	Repubblica non modificabile
+In super-sintesi da ricordare
+
+La Costituzione italiana nasce dopo il fascismo e fonda l’Italia come Repubblica democratica.
+
+I suoi valori fondamentali sono:
+
+democrazia,
+lavoro,
+uguaglianza,
+solidarietà,
+libertà,
+tutela della persona,
+pace,
+autonomie locali,
+diritto alla salute,
+diritto all’istruzione,
+tutela del lavoro.
+
+Per infermieristica l’articolo chiave è il 32, perché definisce la salute come diritto fondamentale dell’individuo e interesse della collettività
+
+
+
+=============
+
+
+https://youtu.be/ijLc52LmFQg  Khan Academy Phases of Meiosis
+
+https://it.wikipedia.org/wiki/Ciclo_di_Krebs  Ciclo di Krebs
+
+=======
+
+DA RIVEDERE
+
+Se una cellula che in fase G1 contiene una quantità di DNA pari a x si divide per meiosi,
+quale sarà il contenuto di DNA di ogni singola cellula in profase II?
+
+
+

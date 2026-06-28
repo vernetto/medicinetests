@@ -1,0 +1,749 @@
+=== Mitosi
+
+La mitosi (detta anche cariocinesi) è un processo di riproduzione asessuata delle cellule eucariotiche grazie al quale da una singola cellula si formano 2 cellule figlie geneticamente identiche alla progenitrice.
+
+Il termine mitosi deriva dal greco mìtos, "filo": nome dovuto all'aspetto filiforme dei cromosomi durante la profase.
+
+La mitosi è molto simile alla meiosi, ma si distingue da essa poiché forma 2 cellule figlie con lo stesso numero di cromosomi (46 nel caso di cellula di H. sapiens) della cellula madre, mentre nella meiosi si formano 4 cellule figlie con il corredo cromosomico dimezzato (23, sempre nel caso dell'essere umano).
+
+La mitosi riguarda le cellule somatiche dell'organismo (ossia tutte le cellule fuorché quelle che hanno funzione riproduttiva: i gametociti primari, i quali utilizzano la meiosi) e le cellule germinali ancora indifferenziate. 
+
+Il ciclo cellulare si suddivide in tre fasi: l'interfase, in cui la cellula svolge le sue funzioni vitali e si prepara alla divisione; la mitosi, periodo di gran lunga più breve, in cui la cellula si divide; la citocinesi (citodieresi), cioè la divisione del citoplasma della cellula per formare due cellule figlie identiche tra loro. La mitosi vera e propria è molto piccola rispetto all'intero processo del ciclo cellulare, infatti la maggior parte del processo del ciclo cellulare che si divide in 4 fasi è formato da tre fasi che fanno parte dell'interfase e da una fase che è la mitosi vera e propria.
+
+Tra i fattori proteici importanti per la mitosi, citiamo le chinasi Aurora: esse giocano un ruolo critico nella divisione cellulare, poiché controllano la segregazione cromatidica. 
+
+Durante l'interfase la cellula svolge le sue specifiche funzioni e si accresce; gli organuli della cellula aumentano e ne permettono la duplicazione. L'interfase si suddivide in tre sottofasi: due fasi di controllo, durante le quali la cellula verifica che il DNA non abbia subito mutazioni gravi (GAP1 e 2), ed una fase di sintesi. Nella fase G1 avviene la sintesi di molecole specifiche della cellula (metabolismo specifico) ed è la fase della vita stessa della cellula; nella fase S la cellula duplica il suo DNA tramite un processo definito duplicazione del DNA, in cui i cromosomi ottengono, per ciascuno, due cromatidi fratelli identici, che nella fase di massima condensazione sono associati tra loro al livello del centromero. Infine vi è la fase G2, durante la quale avviene la polimerizzazione ed organizzazione per gli organuli e si svolgono gli ultimi controlli dell'integrità del DNA. Se non vi sono mutazioni o alterazioni gravi si procede con la mitosi vera e propria 
+
+
+La mitosi si divide in cinque fasi più una, chiamate:
+
+    profase
+    prometafase
+    metafase
+    anafase
+    telofase
+    citodieresi (che è diversa dalle precedenti perché non interessa il nucleo, come quelle sopraindicate, ma interessa l'intera cellula)
+	
+
+Profase
+
+In questa fase vi è la condensazione della cromatina, che avviene grazie alla presenza di proteine istoniche che fungono da centri primari di organizzazione del riavvolgimento del DNA (primo ordine di spiralizzazione) e della topoisomerasi II, che, oltre alla sua funzione catalitica, agisce come centro di organizzazione del secondo ordine di spiralizzazione. Segue un terzo ordine di cui non si conoscono le proteine implicate; forse è conseguenza della tensione accumulata dalle precedenti spiralizzazioni. Questo grosso superfilamento viene impaccato formando delle anse che si riuniscono formando il cromosoma visibile. Ogni cromosoma visibile (che negli esseri umani ha la tipica forma a X ad eccezione del piccolo cromosoma sessuale y) è composto in realtà da due cromatidi fratelli identici, i quali possono essere considerati a loro volta un cromosoma. Intanto il centrosoma si duplica ed entrambi i centromeri cominciano a dirigersi ai poli opposti della cellula. Da essi si originano i microtubuli (filamenti formati da dimeri di sub-unità proteiche tubulina alfa e beta) che andranno a formare il fuso mitotico, la struttura che dirigerà tutti i successivi movimenti dei cromosomi. La durata media di questo meccanismo di riproduzione cellulare varia in media, negli organismi superiori, dalle 15 alle 30 ore. 
+
+
+Prometafase
+
+a) I microtubuli cromosomici si collegano al centromero del cromosoma
+
+b) I cromosomi si muovono verso l'equatore del fuso 
+
+Metafase
+
+Questa fase inizia attraverso una sub-fase (chiamata prometafase) in cui avviene "l'improvvisa" dissoluzione della membrana nucleare, che si frammenta in tante vescicolette. Questo processo viene innescato dalla fosforilazione, attraverso delle chinasi, delle proteine delle lamine (filamenti intermedi) che costituiscono la lamina nucleare; in conseguenza della fosforilazione i filamenti si dissociano negli elementi costitutivi.
+
+I due centrosomi, giunti ai poli opposti della cellula, agiscono come centri di organizzazione microtubulare, catalizzando l'allungamento ed assicurando il corretto orientamento dei microtubuli che andranno a legarsi ai cromosomi in una regione chiamata centromero. Ogni centrosoma si lega ad uno dei due cromatidi gemelli per ogni cromosoma. In questa fase si possono verificare degli errori e due microtubuli si possono agganciare allo stesso cromatidio dando poi origine ad una cellula figlia con un diverso numero di cromosomi che in genere è mutilata e non vitale.
+
+Le coppie di cromatidi vengono portate nella parte mediana della cellula dove si allineano formando la piastra equatoriale, in cui un piano immaginario, passante per i centromeri, divide le coppie di DNA. È questo il momento più favorevole per lo studio dei cromosomi, che sono ora al massimo della loro spiralizzazione (condensazione) ed affiancati ordinatamente lungo la piastra equatoriale posta al centro della cellula. 
+
+Anafase
+
+Durante l'anafase, i cromatidi fratelli si separano tra loro e migrano verso i due centrosomi ai poli opposti della cellula. Si riconoscono due momenti, chiamati anafase A e anafase B. Nella prima si assiste alla separazione dei due cromatidi fratelli ad opera di un enzima, chiamato separasi, con relativa migrazione degli stessi grazie a proteine motorie (tipo dineine citoplasmatiche) presenti al livello del cinetocore. Nell'anafase B si assiste al reciproco scorrimento dei microtubuli polari del fuso mitotico con conseguente allontanamento dei due centrosomi verso direzioni opposte. Pertanto si ottiene il ripristino, per ogni polo, del numero originario di cromosomi. 
+
+
+Telofase
+
+
+In quest'ultima fase della mitosi, i cromosomi si despiralizzano (decondensano). Intorno ai due nuovi complessi cromosomici ricompaiono le membrane nucleari e gli organuli si ricompongono. La telofase si conclude con una sottofase: la citodieresi, in cui si separa il citoplasma in modo equivalente in entrambe le nuove cellule. La cellula si divide al centro formando due cellule figlie, esattamente identiche alla cellula madre ma più piccole. Questo avviene grazie ad un anello di actina creatosi al centro della cellula madre che, contraendosi, stringe la cellula al centro. A tal punto le proteine specializzate operano la fusione e la separazione della membrana in punti specifici e le due cellule si separano.
+
+In alcune cellule si verifica una mitosi mutilata: la telofase non avviene e si accumulano all'interno di uno stesso nucleo di una stessa cellula da due ad alcune decine di corredi cromosomici. Questo tipo di cellule si chiama plasmodio. L'esempio principale sono i protozoi del genere plasmodium come il P. malariae. Anche cellule umane vanno incontro a questo processo o patologicamente, come le cellule tumorali, o fisiologicamente come nel megacariocita. 
+
+
+Citodieresi o Citochinesi
+
+In genere, la mitosi è seguita dalla citodieresi, un processo che divide il citoplasma ripartendolo in due nuove cellule, ciascuna contenente non solo un nucleo completo di tutti i cromosomi, ma anche metà circa del citosol e degli organuli della cellula madre ottenuti grazie alla fase G2 dell'interfase. 
+
+
+=== Meiosi
+
+La meiosi è un processo mediante il quale una cellula eucariota con corredo cromosomico diploide dà origine a quattro cellule con corredo cromosomico aploide.
+
+Da una cellula madre si formano quattro cellule figlie, tutte diverse fra loro. Tale processo potrebbe sembrare molto simile alla mitosi ma, al contrario di questa, si ha la riduzione del corredo cromosomico in doppia copia a corredo a singola copia. Tramite poi il cosiddetto crossing-over (incrocio esterno), si ha lo scambio e la ricombinazione genetica dei cromosomi, uno dei principali eventi alla base dell'evoluzione degli organismi eucarioti.
+
+La meiosi è fondamentale nella riproduzione sessuale, la ricombinazione dell'informazione genetica proveniente dalle cellule di due individui differenti (maschio e femmina) della stessa specie, produce risultati ogni volta diversi, e naturalmente diversi anche dai due genitori.
+
+Ogni genitore fornisce un corredo cromosomico "semplice" aploide (detto anche "dimezzato"), cellula ovulo nella femmina e spermatozoo nel maschio; la fusione (fecondazione) dei due corredi dimezzati (materno e paterno) e "rimescolati" ricostituisce il corredo intero e dà origine ad una singola nuova cellula, detta zigote, che diverrà il nuovo individuo. 
+
+
+Fasi della divisione cellulare meiotica
+
+Ad una duplicazione del materiale genetico nelle cellule germinali, che avviene nella fase pre-meiotica S, corrispondono due divisioni nucleari:
+
+    Fase riduzionale: prima divisione meiotica o meiosi I
+    Fase equazionale: seconda divisione meiotica o meiosi II
+
+Fase meiotica S o interfase I
+
+Avviene la duplicazione del materiale genetico: da ogni cromosoma risultano due cromatidi fratelli identici, attaccati in corrispondenza dei centromeri mediante molecole di coesina. Si ha quindi una duplicazione del materiale genetico seguita da due divisioni.
+Meiosi I
+
+La prima divisione meiotica o meiosi I è chiamata riduzionale poiché da una cellula (2n) si generano due cellule aploidi (dal punto di vista informazionale), ma ancora formate da cromosomi costituiti da due cromatidi.
+Profase I
+
+La meiosi I si apre con la profase, il processo più lungo e complicato della profase mitotica. Si suddivide in 5 stadi:
+
+    Leptotene, in cui il materiale genetico si condensa a formare strutture bastoncellari in forma di filamenti sottili, allungati, non scissi longitudinalmente. Durante questa fase avvengono i DSB (Double Strand Breaks), punti di rottura controllata della doppia elica che corrispondono alle zone dove si potrà andare incontro al crossing-over nelle fasi successive;
+    Zigotene, durante il quale avviene la sinapsi dei cromosomi omologhi a formare una struttura denominata bivalente (o tetrade o duplex). L'appaiamento dei cromosomi omologhi avviene grazie ad una struttura submicroscopica proteica, il complesso sinaptinemale;
+    Pachitene: "precoce" in cui si completa l'appaiamento degli omologhi o "avanzato" in cui i cromosomi si accorciano, si inspessiscono e avviene il crossing-over, che però ancora non è visibile in quanto i cromosomi sono ancora in stretto contatto fra loro;
+    Diplotene: in questo stadio i cromosomi omologhi di ciascun bivalente cominciano a separarsi (desinapsi), soprattutto a livello del centromero, per la progressiva scomparsa del complesso sinaptinemale. Tuttavia i due cromatidi di ciascuna coppia di omologhi restano in contatto grazie a connessioni chiamate chiasmi, segni visibili dell'avvenuto crossing-over. È bene notare che negli umani in ogni coppia di omologhi debba, in condizioni normali, avvenire per forza almeno un chiasmo, che ha un importante ruolo strutturale;
+    Diacinesi, nel corso del quale i cromosomi completano la loro condensazione e sono chiaramente visibili. Ormai è ben formata la tetrade o bivalente e avviene la dissoluzione della membrana nucleare e del nucleolo.
+
+Durante la profase I, inoltre, si sviluppa il fuso, costituito da due coppie di centrioli, situate ai poli opposti della cellula, da cui fuoriescono fibre di microtubuli. Tali fibre agganciano i cromosomi mediante il cinetocore, una piastra proteica situata a livello del centromero. La profase I può durare per giorni o anche più a lungo e occupa il 90% del tempo richiesto per quasi tutta la divisione meiotica.
+Metafase I
+
+Le fibre del fuso si collegano ai cromosomi: ogni cromosoma, diviso in 2 cromatidi tenuti insieme dal centromero, è legato tramite gli asteridi alle fibre del fuso. Le fibre allineano tutti i cromosomi lungo la piastra equatoriale (linea immaginaria al centro della cellula).
+Anafase I
+
+A differenza dell'anafase mitotica, durante questa fase i cromatidi fratelli restano attaccati per mezzo dei centromeri, mentre i cromosomi omologhi si staccano e migrano ai poli opposti della cellula. In questo modo si ha un corredo cromosomico aploide proprio perché sono gli omologhi parentali a separarsi.
+Telofase I
+
+La telofase I può variare a seconda della specie. In seguito alla migrazione dei cromosomi omologhi verso i poli opposti della cellula, si può verificare la formazione della membrana nucleare e la citodieresi con la conseguente scissione cellulare, come avveniva nella mitosi; oppure vi è la semplice migrazione dei cromosomi senza scissione.
+Interfase
+
+In alcuni casi, terminata la meiosi I, può avvenire l'Interfase (o interchinesi) in cui i cromosomi si despiralizzano; in molte specie si passa invece direttamente dalla telofase I alla profase II.
+Meiosi II
+
+La seconda divisione meiotica è identica alla mitosi: i cromatidi fratelli si separano e sono generate quattro cellule aploidi con lo stesso materiale genetico delle due cellule madri, ovvero le due cellule aploidi risultanti dalla Meiosi I.
+Profase II
+
+Compaiono nuovamente le fibre del fuso che agganciano i cinetocori dei cromosomi. Nel caso si sia verificata una scissione durante la telofase I, la membrana nucleare si dissolve affinché i microtubuli del fuso possano attaccarsi ai cromosomi.
+Metafase II
+
+I cromosomi si toccano sulla piastra equatoriale; ogni cromosoma è costituito da due cromatidi fratelli.
+Anafase II
+
+I centromeri dei cromosomi dei cromatidi fratelli si staccano e i cromatidi si dividono, migrando ai poli della cellula.
+Telofase II
+
+Ai poli opposti della cellula si cominciano a formare i nuclei e avviene la citodieresi, con la conseguente scissione cellulare e i microtubuli del fuso scompaiono. I quattro nuclei contengono un numero aploide di cromosomi.
+
+Ricapitolando: nella meiosi si passa da una cellula immatura con patrimonio genetico (corredo cromosomico) diploide 2n con contenuto di cromatina 4C a quattro cellule mature aploidi n con contenuto di cromatina 1C.
+Sinapsi e crossing-over
+
+La sinapsi è quel processo mediante il quale i cromosomi omologhi si mettono in coppia durante la profase I. Ciascun cromosoma è formato da due cromatidi, e quindi quattro cromatidi formano una tetrade. In seguito alla sinapsi degli omologhi può avvenire il crossing-over, un processo mediante il quale i cromatidi non fratelli di cromosomi omologhi si scambiano parti equivalenti, determinando nuove combinazioni di geni e favorendo l'evoluzione. Il risultato visibile del crossing-over è una struttura a croce chiamata chiasma. In ciascun chiasma i cromosomi omologhi possono scambiarsi segmenti di cromatidi.
+Meiosi umana
+
+Come negli altri organismi aventi una riproduzione sessuata, nell'essere umano i gameti subiscono due divisioni meiotiche al fine di dimezzare il corredo diploide e renderlo aploide, prima di giungere a maturazione completa e quindi essere pronti per la fecondazione.
+
+Nell'uomo avviene la spermatogenesi, al termine della quale giunge a piena maturazione lo spermatozoo, il gamete maschile:
+
+    spermatogonio → spermatocita I → spermatocita II → spermatidi → spermatozoo
+
+Nelle donne avviene l'ovogenesi, al termine della quale giunge a piena maturazione l'ovulo, il gamete femminile:
+
+    ovogonio → ovocita I → ovocita II + un globulo polare → ovulo + tre globuli polari (che verranno poi degenerati)
+
+Il processo meiotico rimane sospeso fino alla pubertà, quando vengono meno gli stimoli inibitori che mantengono gli ovociti bloccati in Profase I.[1]
+
+Ovviamente nelle cellule somatiche (si intendono per somatiche le normali cellule del soma (corpo) con corredo diploide e non coinvolte quindi nella produzione dei gameti) questi processi non avvengono. La loro riproduzione segue infatti un sistema di duplicazione semplice detto "mitosi". 
+
+
+
+
+=== Cellula
+
+
+La cellula è l'unità morfologico-funzionale degli organismi viventi[2] nonché la più piccola struttura ad essere classificabile come vivente (definizione ormai accettata all'unanimità).
+
+Alcuni organismi, come ad esempio i batteri o i protozoi, sono costituiti da una singola cellula e definiti unicellulari. Gli altri, come l'uomo [formato da circa 100.000 miliardi (1014) di cellule], sono invece pluricellulari. I principali organismi pluricellulari appartengono tipicamente ai regni animale, vegetale e dei funghi.
+
+Le cellule degli organismi unicellulari presentano caratteri morfologici solitamente uniformi. Con l'aumentare del numero di cellule di un organismo, invece, le cellule che lo compongono si differenziano in forma, grandezza, rapporti e funzioni specializzate, fino alla costituzione di tessuti ed organi. 
+
+
+Il termine "cellula" è legato all'analogia che Robert Hooke immaginò tra le microstrutture che osservò nel sughero, utilizzando un microscopio di sua invenzione, e le piccole camere che caratterizzano molti monasteri. Il suo libro Micrographia del 1664, in cui descrive la morfologia delle cavità lasciate vuote dalle cellule del sughero, ormai morte, è dunque il primo testo in cui tale termine viene usato in riferimento ad un'unità biologica.[3] Soltanto due secoli più tardi furono gettate le basi della moderna teoria cellulare. Nel 1831 il botanico scozzese Robert Brown descrisse ad un congresso il primo organulo ad esser stato individuato: il nucleo.[4] Successivamente sarebbe anche stato proposto l'uso del termine citoplasma per indicare lo spazio cellulare interno compreso tra la membrana plasmatica e il nucleo.
+
+Alla fine del decennio, Matthias Jakob Schleiden e Theodor Schwann misero a punto le idee originarie della teoria cellulare, secondo cui tutti gli organismi sono composti da una o più cellule. Secondo tale teoria, tutte le funzioni vitali di base di un organismo si svolgono all'interno delle cellule, che possiedono l'informazione genetica necessaria per regolare le funzioni cellulari e per trasmettere l'informazione alla generazione successiva. In particolare, secondo i successivi assunti di Rudolph Virchow (1855), ogni cellula può provenire solo da cellule preesistenti (omnis cellula ex cellula).[5]
+Cenni generali
+Cellule di topo coltivate su piastra. Le cellule, che si dispongono in masse compatte, presentano tutte un diametro uniforme e non superiore a 10 micron
+
+Ogni cellula può esser definita come un'entità chiusa ed autosufficiente: essa è infatti in grado di assumere nutrienti, di convertirli in energia, di svolgere funzioni specializzate e di riprodursi se necessario. Per fare ciò, ogni cellula contiene al suo interno tutte le informazioni necessarie. Nelle cellule è presente il DNA.
+
+Le cellule si distinguono in primo luogo in due tipi: eucariotiche, cioè dotate di membrana che separa il nucleo vero e proprio dal citoplasma, e procariotiche, prive di tale membrana e con il DNA libero nel citoplasma, in una regione chiamata nucleoide. Al secondo tipo appartengono unicamente organismi monocellulari, come i batteri, i cianobatteri (conosciuti volgarmente come alghe azzurre) e gli archeobatteri. Le prime sono tendenzialmente più grandi ed organizzate e, pur comparendo anche in organismi monocellulari (noti come protisti), sono caratteristiche degli organismi multicellulari.
+
+Tutte le cellule mostrano alcune caratteristiche comuni:[6]
+
+    la riproduzione attraverso divisione cellulare (scissione binaria/mitosi o meiosi);
+    l'utilizzo di enzimi ed altre proteine (o acidi nucleici) prodotti a partire dai geni presenti sul DNA, utilizzando come intermedio DNA/proteine un trascritto di RNA (dogma centrale della biologia molecolare);
+    il metabolismo, che permette alle cellule di incorporare materiali grezzi e di costruirvi componenti cellulari, di ricavarvi energia e di rilasciare i prodotti di scarto; il funzionamento di una cellula dipende dalla sua capacità di estrarre ed utilizzare l'energia chimica contenuta nelle molecole organiche (tale energia viene rilasciata durante i pathway metabolici);
+    la risposta a stimoli interni ed esterni, come variazioni di temperatura, pH o nei livelli di nutrienti od ormoni;
+    il contenuto cellulare racchiuso in una membrana plasmatica, composta da un doppio foglietto fosfolipidico.
+
+Alcune cellule procariote contengono importanti compartimenti interni racchiusi all'interno di membrane,[7] ma sono solo quelle eucariote a presentare in genere diverse compartimentazioni interne racchiuse da membrane fosfolipidiche (definite organelli). Lo scambio di materiali tra queste diverse regioni è garantito da complessi sistemi di trasporto di piccole vescicole, come quello delle chinesine.[8]
+Dimensioni della cellula
+
+Le dimensioni della maggior parte delle cellule variano da 1 micrometro ad alcune decine, il che le rende solitamente non identificabili ad occhio nudo. Fanno eccezione molte uova. Tra gli organismi esistenti, le cellule più grandi sono i tuorli delle uova di struzzo, delle dimensioni di una palla da baseball, quelle più lunghe sono probabilmente delle cellule nervose presenti nel collo delle giraffe, che possono raggiungere i 3 metri.[9]
+
+Ci sono dei motivi fisiologici all'origine delle dimensioni della maggior parte delle cellule: un aumento di diametro di n volte comporterebbe un aumento della superficie cellulare di circa n² volte, con conseguente maggiore possibilità di scambi con l'esterno (sia in termini di nutrimento che di eliminazione dei rifiuti) ma anche un aumento del volume di n³ volte. Non essendo l'aumento della superficie cellulare proporzionale a quello del volume, quindi, una cellula troppo grande rischierebbe di morire per denutrizione o per uno smaltimento inefficiente dei prodotti di scarto. Le membrane di molte cellule sono ampiamente ripiegate per permettere un aumento della superficie di scambio senza un elevato incremento del volume interno (e quindi delle necessità).
+Forma della cellula
+La forma di una cellula dipende da fattori fisici e funzionali. Se una cellula si trova in ambiente acquoso, questa tende ad assumere una forma sferica per effetto della tensione superficiale; le cellule possono anche avere una forma appiattita se risentono della pressione degli strati cellulari sovrastanti (come nel caso delle cellule epiteliali). Esiste inoltre una stretta relazione tra la forma di una cellula e la sua funzione: le fibre muscolari sono alquanto allungate per poter svolgere la contrazione; i neuroni possiedono una struttura fortemente ramificata per poter ricevere (attraverso i dendriti) le informazioni provenienti da ogni parte del corpo. 
+
+
+La tabella sottostante riporta le principali differenze tra cellule procariotiche ed eucariotiche. 
+
+Cellula procariote 	Cellula eucariote
+Organismi tipici 	Batteri ed archeobatteri 	Protisti, funghi, piante ed animali
+Dimensioni tipiche 	~ 1-10 µm 	~ 10-100 µm (con poche eccezioni, come la cellula uovo e i neuroni motori spinali)
+Tipo di nucleo cellulare 	Nucleoide: nessun nucleo davvero definito 	Nucleo racchiuso da doppia membrana
+DNA 	Cromosoma singolo, circolare, spesso presenti plasmidi in aggiunta 	Cromosomi multipli, lineari, complessati da istoni
+Sintesi di RNA e proteine 	Accoppiate nel citoplasma 	Sintesi dell'RNA nel nucleo e delle proteine nel reticolo endoplasmatico rugoso
+Ribosomi 	50S+30S 	60S+40S
+Strutture citoplasmatiche 	Poche strutture 	Numerose strutture racchiuse da membrane e citoscheletro
+Movimento cellulare 	Flagelli composti di flagellina 	Flagelli e ciglia composte di tubulina
+Mitocondri 	Nessuno 	Da uno a diverse migliaia (con alcune eccezioni)
+Cloroplasti 	Nessuno 	Nelle alghe e nelle piante
+Parete cellulare 	Presente 	Presente nelle piante e in alcuni funghi
+Organizzazione 	Solitamente unicellulare 	Unicellulare, a colonie e in organismi pluricellulari (contenenti cellule specializzate)
+Divisione cellulare 	Scissione binaria 	Mitosi (fissione o gemmazione) e meiosi
+
+
+Cellula procariote
+
+Ci sono due tipi di cellula procariote che, secondo la proposta tassonomica del 1990 di Carl Woese, costituiscono due dei tre domini viventi: gli Eubacteria (a volte, semplicemente, Bacteria) e gli Archaea. Tra questi due domini non ci sono tuttavia differenze strutturali sostanziali. Le principali strutture che caratterizzano le cellule procariote sono tre.
+
+    La presenza di una o più appendici chiamate flagelli e/o pili (strutture proteiche che protrudono dalla superficie cellulare).
+    Un contenitore cellulare costituito da parete cellulare e/o da capsula, barriere supplementari nei confronti dell'esterno. I componenti del contenitore possono essere estremamente variabili. Se la membrana plasmatica è presente in tutte le cellule procariotiche, esse presentano grandi differenze relativamente alla presenza e/o alla composizione di capsula e parete. La parete delle cellule procariotiche può essere di due tipi: Gram-positivo o Gram-negativo. Le pareti Gram-positive se colorate tramite il colorante cristalvioletto, e poi risciacquate, mantengono la colorazione. Mentre quelle Gram-negative no. La differenza sta tutta nella composizione della parete. Sia i Gram-positivi che i Gram-negativi, possiedono uno strato esterno detto peptidoglicano, che è il frutto dell'unione di due acidi e alcuni residui aminoacidici. Il peptidoglicano dei Gram-positivi è molto spesso, mentre quello dei Gram-negativi, oltre ad essere più sottile, è sormontato da uno strato LPS (lipopolisaccaridico).
+    Una regione citoplasmatica priva di nucleo e/o organelli, che contiene principalmente il genoma ed i ribosomi. Un cromosoma procariote è solitamente una molecola circolare. Anche senza un vero nucleo, il DNA è condensato in un nucleoide. I procarioti possono avere elementi di DNA extracromosomico chiamati plasmidi, che sono solitamente circolari e che possono apportare capacità aggiuntive come la resistenza agli antibiotici. Le funzioni che gli organelli svolgono negli eucarioti, nei procarioti sono svolte a cavallo della membrana plasmatica.
+
+Cellula eucariote
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: Eukaryota.
+
+Una tipica cellula eucariotica presenta solitamente una dimensione circa 10 volte maggiore rispetto ad una tipica cellula procariotica, con un volume cellulare complessivo che può essere dunque anche 1000 volte maggiore. La principale caratteristica delle cellule eucariote, che le distingue da quelle procariote, è la presenza di una notevole compartimentazione interna, costituita dalla presenza di vescicole ed invaginazioni racchiuse da membrane fosfolipidiche nelle quali hanno luogo specifiche attività metaboliche. Il compartimento più importante è senza dubbio il nucleo cellulare, un organulo in cui viene conservato il DNA cellulare e che dà il nome alla cellula stessa (dal greco ευ, bene/vero e κάρυον, nucleo).
+
+A livello strutturale, le cellule eucariote presentano differenze rilevanti dai procarioti in tre regioni.
+
+    La membrana plasmatica è del tutto simile a quella procariotica nella struttura e nella funzione. La parete cellulare non è invece presente, se non nella cellula vegetale (che presenta tuttavia una composizione profondamente diversa).
+    Il DNA eucariotico è organizzato in molecole lineari chiamate cromosomi, associate ad istoni e contenute interamente nel nucleo. Anche alcuni organelli eucariotici (come i mitocondri ed i cloroplasti) possono contenere DNA.
+    Gli eucarioti possono utilizzare ciglia e flagelli per muoversi, sebbene la loro struttura sia decisamente più complessa di quella delle protrusioni procariotiche.
+
+Cellula animale
+Schema di una cellula animale
+Animal cell optical microscope view.jpg
+
+La cellula animale è una cellula eucariotica che, per via di alcuni aspetti, è differente dalla cellula vegetale:
+
+    L'assenza di una parete cellulare, ma la sola presenza di una membrana cellulare.
+    La presenza dei lisosomi: rappresentano il sistema digerente della cellula in quanto sono responsabili della degradazione e della digestione cioè (distruzione) di molecole estranee e macromolecole ingerite dalla cellula stessa via endocitosi così come di macromolecole endogene.
+    La presenza dei centrioli: intervengono al momento della duplicazione cellulare e sono responsabili di un'ordinata disposizione degli organuli cellulari.
+    La presenza di flagelli: permettono alla cellula di compiere movimenti di vario tipo.
+    L'assenza dei plastidi e dei vacuoli, tipici delle cellule vegetali.
+    La presenza di vacuoli micropinocitici utili a inglobare goccioline di sostanze liquide (pinocitosi).
+	
+	
+Cellula vegetale
+
+Le cellule eucariote, come già detto, possono assumere morfologie molto differenti tra loro. In particolare, la maggior parte delle differenze intercorrono tra le cellule vegetali e le cellule animali 
+
+
+Anatomia della cellula
+
+
+Tutte le cellule, sia procarioti che eucarioti, sono racchiuse da una membrana che le protegge dall'ambiente esterno e ne preserva il potenziale elettrico. All'interno della membrana è presente il citoplasma, una sostanza salina che occupa la maggior parte del volume. Tutte le cellule utilizzano acidi nucleici (DNA ed RNA) per conservare e trasmettere l'informazione genetica necessaria a produrre proteine ed enzimi necessari per il funzionamento della cellula. Sono numerose le altre biomolecole e le compartimentazioni presenti all'interno della cellula. Di seguito sono riportate alcune delle più importanti. 
+
+
+La membrana cellulare (detta anche membrana plasmatica o plasmalemma) è un sottile rivestimento che delimita tutte le cellule, separandole e proteggendole dall'ambiente esterno. Tale rivestimento è composto in prevalenza da un doppio strato di fosfolipidi, molecole contenenti regioni idrofobiche (rivolte verso l'interno della membrana) ed idrofile (rivolte verso l'esterno). Per tale motivo, la membrana è spesso definita come doppio foglietto fosfolipidico o bilayer fosfolipidico.
+
+Numerose molecole proteiche e glicoproteiche (oltre al colesterolo e a diversi glicolipidi) sono inserite all'interno della struttura lipidica della membrana. Tali macromolecole, che possono spostarsi liberamente all'interno della membrana stessa (motivo per il quale la sua struttura è definita a mosaico fluido), possono agire come canali o pompe che trasportano le molecole all'interno o all'esterno della cellula. Sulla superficie della membrana sono presenti anche numerosi recettori, proteine che permettono alla cellula di rispondere prontamente ai segnali (tipicamente ormonali) provenienti dall'esterno.
+Schema della membrana cellulare
+
+La membrana è detta semi-permeabile, dal momento che è in grado di permettere ad una sostanza di passare liberamente, di passare in una determinata quantità o di non passare affatto. Negli organismi procarioti è ricoperta da un rivestimento protettivo chiamato parete cellulare, assente invece negli eucarioti animali; nelle cellule eucariotiche vegetali essa è presente sotto forma di una parete cellulare primaria (composta principalmente da pectina) e di una parete cellulare secondaria (composta principalmente da lignina).
+Il citoplasma ed il citoscheletro
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: Citoplasma, Citoscheletro e Centrosoma.
+
+Il citoplasma è una soluzione acquosa dalla consistenza gelatinosa al cui interno ci sono i vari organuli che compongono la cellula. Tali organelli sono ancorati ad una struttura proteica, nota come citoscheletro. Esso ha in primo luogo la funzione di organizzare e mantenere la forma della cellula. Tra le altre funzioni, esso contribuisce in modo determinante al trasporto delle molecole all'interno della cellula, convogliandole verso il compartimento corretto, alla citodieresi ed al già citato sostegno ed ancoraggio degli organelli.
+
+Il citoscheletro eucariotico è composto dai microfilamenti (composti essenzialmente di actina), dai filamenti intermedi e dai microtubuli (composti di tubulina). Il citoscheletro procariotico è meno studiato, ma è coinvolto anch'esso nel mantenimento della forma cellulare e nella citodieresi.[10]
+
+Il centrosoma è la struttura da cui si dipartono i microtubuli e che, per questo motivo, ha un ruolo fondamentale per tutto il citoscheletro. Esso dirige infatti il trasporto attraverso il reticolo endoplasmatico e l'apparato del Golgi. I centrosomi sono composti da due centrioli, che si separano durante la divisione cellulare e collaborano alla formazione del fuso mitotico. Nelle cellule animali è presente un solo centrosoma. Centrosomi sono presenti anche in alcuni funghi ed alghe unicellulari.
+Le ciglia ed i flagelli
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: Ciglia (biologia) e Flagello (biologia).
+
+Le ciglia ed i flagelli sono estroflessioni cellulari che ne permettono il movimento. Le ciglia sono generalmente numerose e possono creare correnti nella soluzione intorno alla cellula, in modo da indirizzare le sostanze nutrienti verso il luogo in cui verrà digerito (come succede per esempio nelle spugne). I flagelli sono invece presenti in numero singolo o comunque ridotto, fino al numero massimo di 5.
+
+La parte interna di un ciglio o di un flagello è detta assonema o centriolo ed è costituito da una membrana che racchiude 9 coppie di microtubuli alla periferia più due microtubuli non accoppiati al centro. Questa struttura, detta 9+2, si ritrova in quasi tutte le forme di ciglia e flagelli eucariotici, dai protozoi all'uomo. L'assonema si attacca al corpuscolo basale, anch'esso formato da microtubuli, con una struttura leggermente diversa da quella dell'assonema: ci sono 9 triplette ai lati e 2 microtubuli singoli al centro.
+Organuli
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: Organelli e compartimentazione cellulare.
+
+Le cellule eucariotiche contengono numerosi piccoli organi (chiamati appunto organuli) specializzati nello svolgere specifiche funzioni necessarie alla sopravvivenza delle cellule stesse.
+Il nucleo
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: Nucleo cellulare, Gene, DNA e RNA.
+Schema del nucleo di una cellula eucariote. È evidente il nucleolo all'interno
+
+Il nucleo è l'organello più complesso presente all'interno delle cellule eucariotiche e può essere considerato il centro di comando da cui partono tutti gli ordini che regolano la vita della cellula, presso cui è conservato il DNA sotto forma di cromatina ed hanno luogo la replicazione del DNA nucleare e la sua trascrizione ad RNA.
+
+All'interno del nucleo, il nucleolo è la regione responsabile della sintesi dell'RNA ribosomiale (rRNA). Si tratta di una struttura fibrosa e granulare presente in una o più copie, soprattutto nelle cellule che presentano una attiva sintesi proteica. Al microscopio ottico appare come un granulo rotondeggiante, non delimitato da membrana e circondato da uno strato di cromatina condensata. È costituito da tratti di DNA che codificano per l'RNA ribosomiale, da filamenti di rRNA nascenti e da proteine.
+
+L'informazione genetica presente nel nucleo è protetta da eventuali molecolecisterna perinucleare e caratterizzata dalla presenza di pori che permettono il passaggio di determinate sostanze.
+
+Il materiale genetico eucariotico è racchiuso all'interno del nucleo, dove è organizzato in differenti cromosomi lineari. Anche alcuni organelli, come mitocondri e cloroplasti, possono contenere materiale genetico addizionale. Il materiale genetico nei procarioti è invece contenuto in una semplice molecola circolare (il cromosoma batterico) situata in una regione del citoplasma detta nucleoide (che non può però essere considerata un organello).
+
+Sintetizzando, fino a poco tempo fa si pensava che il nucleo fosse il cervello della cellula; Da ormai qualche anno invece si è scoperto che il vero cervello della cellula è la membrana nucleare che trasduce in un modo intelligente i segnali che arrivano dall'ambiente esterno e riporta al suo interno il giusto corredo di informazioni atte a generare le giuste proteine.
+Il reticolo endoplasmatico e l'apparato di Golgi
+Diagramma di un sistema di endomembrane (come il reticolo endoplasmatico)
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: Reticolo endoplasmatico e Apparato di Golgi.
+
+Il reticolo endoplasmatico (RE) è costituito da una serie di membrane ripiegate l'una sull'altra a formare tubuli e sacchetti che hanno il compito di raccogliere le proteine sintetizzate dai ribosomi, di trasportarle e smistarle, a seconda che siano destinate a subire determinate modificazioni o dirette verso specifiche destinazioni cellulari (ad esempio l'apparato di Golgi).
+
+Si differenziano due regioni di RE: il reticolo endoplasmatico ruvido, sulla cui superficie sono contenuti i ribosomi (i corpuscoli riboproteici responsabili della sintesi proteica), e quello liscio, che ne è privo ed è maggiormente impegnato ad operare modificazioni post-traduzionali sulle proteine.
+
+L'apparato di Golgi è adibito a rifinire e rendere fruibili le proteine prodotte da RE, prima che siano utilizzate dalla cellula stessa o espulse da essa. Tra le funzioni che svolge figurano dunque la modificazione di proteine e lipidi, la sintesi di carboidrati e l'impacchettamento delle molecole destinate alla secrezione all'esterno della cellula.
+
+Formato da sacche membranose impilate le une sulle altre, la morfologia dell'apparato può variare leggermente a seconda delle cellule in esame, anche se in linea di massima la sua struttura è pressoché uniforme. Esso è infatti formato quasi sempre da dittiosomi, strutture costituite a loro volta da piccole sacche appiattite, e da formazioni cave, chiamate vescicole golgiane.
+
+Sintetizzando l'apparato di Golgi è un insieme di vescicole appiattite a fisarmonica.
+Mitocondri e cloroplasti
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: Mitocondrio e Cloroplasto.
+Diagramma schematico della struttura di un mitocondrio animale
+
+I mitocondri possono essere considerati le centrali energetiche della cellula e sono presenti in quasi tutte le cellule eucariote[11] in numero variabile (tipicamente ne sono presenti circa 2000 per cellula, rappresentandone circa un quinto del volume totale).[12]
+
+Ogni mitocondrio è racchiuso da due membrane, che ne individuano cinque regioni dalle proprietà differenti: la membrana esterna, lo spazio intermembrana, la membrana interna, lo spazio delle creste (formate dalle inflessioni della membrana interna) e la matrice.
+Lisosomi e perossisomi
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: Lisosoma e Perossisoma.
+
+I lisosomi sono organuli che contengono enzimi idrolitici (capaci di idrolizzare, cioè di rompere, i legami delle macromolecole biologiche), adibiti alla digestione in ambiente acido delle sostanze inutili o dannose alla cellula. Tali reazioni avvengono in un organello ad hoc per evitare la degradazione o l'acidificazione del citoplasma. I lisosomi hanno un ruolo fondamentale ad esempio nei globuli bianchi, dove collaborano alla distruzione delle macromolecole di microorganismi patogeni.
+
+I perossisomi hanno un ruolo simile a quello dei lisosomi. Anch'essi infatti svolgono reazioni particolari in un ambiente confinato. In particolare, i perossisomi si occupano di degradare i perossidi (come l'acqua ossigenata), attraverso enzimi noti come perossidasi.
+I vacuoli
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: Vacuolo.
+
+I vacuoli sono organelli in grado di conservare al loro interno nutrienti e sostanze di scarto. Alcuni vacuoli possono anche contenere acqua di riserva. Alcune cellule, come quelle del genere Amoeba, hanno vacuoli contrattili, in grado di pompare acqua all'esterno della cellula qualora ce ne sia di surplus.
+Fisiologia della cellula
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: Segnalazione cellulare.
+
+La cellula, sia essa intesa come organismo unicellulare o sia essa parte di un organismo pluricellulare, è un sistema dinamico, auto-regolato, e dotato di un corredo di sistemi di segnalazione cellulare (intra- e inter-cellulare, nei pluricellulari), atti a sostenere le principali funzioni della cellula stessa:
+
+    l'omeostasi cellulare: il mantenimento delle condizioni necessarie alla sopravvivenza del sistema-organismo entro un range di valori accettabili;
+    le funzioni "dinamiche" della cellula: crescita, differenziazione, divisione cellulare, morte cellulare;
+    la coordinazione con altre cellule per espletare funzioni multicellulari: tissutali, d'organo mitocondriale o sistemiche; questa funzione fa in genere largo uso di sistemi specializzati di segnalazione, come il sistema nervoso e il sistema endocrino (ormoni).
+
+
+
+=== Cellula gametica
+
+Una cellula gametica, anche chiamata cellula sessuale o più semplicemente gamete (dal greco γαμέτης gametes "marito" / γαμετή gameté "moglie"), è una cellula riproduttiva o germinale matura. Quasi tutti gli eucarioti presentano due tipi di gameti: maschile (detto negli animali spermatozoo) o femminile (detto negli animali ovocita o cellula uovo). Negli animali l'ovocita, o cellula uovo, può essere enorme, come ad esempio l'uovo di struzzo. La cellula uovo viene penetrata da un solo spermatozoo nell'atto della fecondazione.
+
+Nei vegetali si dà anche il nome di anterozoide all'elemento riproduttore maschile, e di oosfera all'elemento riproduttore femminile.
+
+I gameti hanno corredo cromosomico aploide, cioè dimezzato, atto all'unione con un altro gamete.
+
+Al momento della fecondazione i due gameti mettono in comune i due corredi e ricostituiscono il corredo diploide, cioè completo del nuovo individuo. 
+
+Gameti uguali e gameti diversi
+
+Il gamete è un involucro che contiene il corredo aploide, quindi in teoria sembrerebbe sufficiente che i due gameti che si congiungono siano uguali. In realtà questo accade in organismi piuttosto primitivi, come ad esempio alcuni tipi di alghe (isogamia). Tale sistema però è scarsamente efficiente.
+
+Tutte le forme viventi superiori hanno seguito un'altra via, quella della specializzazione delle funzioni in due gameti diversi, prodotti in organi specifici detti gonadi: 
+
+
+Specializzazione dei gameti
+
+Uno dei due gameti, oltre al proprio corredo aploide, ha un elementare sistema di produzione dell'energia: contiene infatti organuli detti mitocondri. Tali organuli, estranei alla meiosi, hanno un loro microscopico corredo genetico che non ha subito dimezzamento. All'inizio il gamete, con l'energia del sistema mitocondriale, provvede a dare energia alla fecondazione, quando il corredo genetico diploide verrà ricostituito e leggerà se stesso i mitocondri in replicazione con le cellule continueranno a dare energia, che proviene dall'utilizzo di materiale di scorta, per la costituzione del nuovo individuo.
+
+Appare evidente che tutta questa dotazione debba avere una struttura di dimensioni e volume adeguato, il gamete sarà quindi piuttosto grande ed immobile, è detto ovulo. Il gamete così costituito è detto femmina.
+
+La specializzazione del secondo gamete è quello di recare la propria metà di corredo, spostandosi dalla sua sede a quella dell'altro ovulo perché possano combinarsi.
+
+Avrà quindi, racchiuso in un piccolo ma robusto involucro, il corredo di sua parte, ed un sistema per il solo movimento, adeguato e necessario a raggiungere l'altro gamete, introdurre il proprio corredo nell'ovulo presso il corredo dell'altro gamete, e permettere così che l'altro gamete prosegua per quanto gli compete; il gamete così costituito, sostanzialmente più piccolo di quello femmina è detto maschio. Si ha quindi una perfetta specializzazione dei due gameti.
+Individui uguali e individui diversi
+
+Di norma l'individuo, o la parte, che produce gameti maschili è detto maschio, e quello che produce gameti femminili è detto femmina.
+
+Se l'incombenza dell'individuo è solo di produrre gameti, di un tipo o dell'altro, è evidente che possano non essere necessarie diversità sostanziali nella struttura del corpo dell'individuo stesso, soprattutto se la fecondazione è esterna, (possono essere citati ad esempio i pesci, o ad esempio nelle piante).
+
+Diversa è la questione se la fecondazione, e magari anche lo sviluppo del nuovo individuo, avviene all'interno del corpo dell'individuo che ha in possesso l'ovulo fecondato (la femmina). In tal caso l'individuo femmina finisce con l'essere nettamente specifico per tale funzione, e quindi può divergere anche profondamente come forma dall'individuo di sesso opposto.
+Qualità e quantità
+
+Le strategie evolutive della costituzione del sistema gametico sono innumerevoli e sono basate sugli ugualmente innumerevoli sistemi vitali.
+
+L'utilizzo della fecondazione esterna pone un problema fondamentale: i gameti sono rilasciati in un ambiente esterno ostile e devono essere tutti dotati di quanto necessario a svolgere la funzione. Ad esempio nei pesci ogni singola deposizione di uova di una trota riguarda migliaia di uova (ovuli) di circa 4 mm di diametro, (questo accade perché ogni ovulo deve comunque contenere tutto il necessario per sviluppare il nuovo individuo, anche se ogni ovulo ha poche possibilità di andare a buon fine). I gameti maschili sono rilasciati in ambiente esterno e devono essere in numero enorme dato che le probabilità globali di successo nell'incontro con l'altro gamete sono piuttosto basse, (semplicemente i gameti sono dispersi nell'acqua) solo pochi individui si formeranno, sulle migliaia di teoricamente possibili.
+
+Per contro, in gran parte, le cure parentali si esauriscono rapidamente e spesso sono limitate alla sola emissione dei gameti.
+
+Nella fecondazione interna la questione è completamente diversa, caso limite si ha anche nelle specie umana, dove la emissione di gameti maschili è inferiore in numero, e ancor di più lo è quella dei gameti femminili, emessi in numero massimo ogni volta da uno a (raramente o molto raramente) due o tre per emissione, per un totale in tutta la vita fertile della femmina di circa 400; le dimensioni dell'ovulo inoltre sono minime (pochi decimi di millimetro). Chiaramente le dotazioni dell'ovulo in tal caso non sono quelle necessarie allo sviluppo del nuovo individuo, ma solo quelle a permettere l'impianto in una struttura specifica che provvederà allo sviluppo ulteriore, come quella placentare. Sicuramente questo è molto importante
+
+Quindi nella specie umana l'investimento in quantità dei gameti è notevolmente ridotto, ed è invece particolarmente ottimizzato ed efficiente quello in qualità, è da notare che però sono enormemente aumentati gli oneri degli impianti successivi, organici e comportamentali (cure parentali); come conseguenza le probabilità di successo sono molto elevate (i pochi gameti coinvolti hanno elevate probabilità di successo). 
+
+
+=== Leucocita
+
+I leucociti (dal greco λευκός, leukós, «bianco» e κύτος, cýtos, «cellula») o globuli bianchi o WBC (dall'inglese White Blood Cells), sono cellule mature della porzione corpuscolata del sangue. Essi sono presenti nella maggior parte dei distretti tissutali del corpo e viaggiano attraverso vasi linfatici e sanguigni.[1]
+
+Il numero di leucociti nel sangue è spesso un indicatore di malattia, e quindi la conta dei globuli bianchi è un sottogruppo importante del totale emocromocitometrico. Il normale conteggio dei globuli bianchi è in genere tra 4 × 109 / L e 1.1 × 1010 / L. Solitamente viene espresso da 4.000 a 11.000 globuli bianchi per microlitro di sangue.[2]
+
+La funzione principale dei leucociti è quella di preservare l'integrità biologica dell'organismo tramite l'attuazione dell'immunità cellulare. In particolare, una volta oltrepassate le barriere anatomiche dell'immunità innata (costituite principalmente dalla cute e dalle mucose) i microrganismi patogeni (virus, batteri, miceti, parassiti) e i corpi estranei penetrati nell'organismo sono riconosciuti e processati dai leucociti.
+
+    I meccanismi di immunità innata (naturale, aspecifica) sono garantiti dai granulociti e monociti;
+    I meccanismi di immunità acquisita (adattativa, specifica) sono garantiti dai linfociti.[3]
+
+In oncologia essi rappresentano un fattore prognostico importante andando a costituire parte dei TILs (Linfociti infiltranti il tumore). 
+
+Origine staminale dei Leucociti
+
+Tutti i leucociti derivano una cellula staminale multipotente (l'emocitoblasto) custodita all'interno un tessuto linfoide e mieloide primario (il midollo osseo rosso). 
+
+Leucociti Maturi
+
+Il termine generico leucociti comprende citotipi assai differenti tra loro. Essi possono essere raggruppati in base alle caratteristiche morfologiche del loro nucleo e alla presenza/assenza di granuli specifici. Distinguiamo infatti:
+
+    Granulociti Polimorfonucleati, caratterizzati da un nucleo dalla forma variabile; esso può essere scomposto in sotto-domini definiti "lobi". Posseggono granuli specifici della loro funzione.
+    Agranulociti Mononucleati, caratterizzati da un nucleo dalla forma regolare. Non posseggono granuli specifici.[3]
+
+Leucociti Polimorfonucleati o Granulociti
+
+    granulociti neutrofili
+    granulociti basofili
+    granulociti eosinofili
+
+Leucociti Mononucleati o Agranulociti
+
+    monociti, dai quali derivano i macrofagi tissutali;
+    linfociti, ulteriormente classificabili in diverse sottopopolazioni.
+
+Motilità dei leucociti
+I leucociti sono accomunati da alcune importantissime caratteristiche funzionali, tra le quali quella della motilità. Tali cellule, infatti, oltre che essere trasportate passivamente nel torrente circolatorio, sono in grado di sviluppare una locomozione attiva, utilizzando alcune proteine del citoscheletro. I leucociti, inoltre, sono estremamente deformabili: questa proprietà ne permette la fuoriuscita dai vasi sanguigni tramite un processo chiamato extravasazione leucocitaria. La fuoriuscita dei leucociti dai vasi si verifica nelle sedi dell'organismo dove è richiesta la loro azione ed è mediata da un insieme di stimoli di natura chimica (costituiti principalmente da citochine e chemochine). 
+
+Presenza di leucociti nel sangue
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: Formula leucocitaria.
+
+Nel sangue periferico i leucociti sono presenti con una quantità che varia dai 4.500 ai 9.500 per mm3,[4] a seconda del sesso, dell'età e delle condizioni di salute. Una conta leucocitaria al di sotto dei normali valori viene definita leucopenia, mentre un eccesso di leucociti di morfologia normale nel sangue periferico si definisce leucocitosi.
+
+La presenza di valori superiori di globuli bianchi può essere determinata da infiammazioni o infezioni: se aumentano i neutrofili l'infezione è di natura batterica, se aumentano i linfociti è tendenzialmente di origine virale, se aumentano gli eosinofili si può sospettare un'allergia o un'infestazione da parassiti.
+
+La leucemia non è un eccesso di globuli bianchi nel sangue, ma la presenza nel sangue periferico, anche in quantità esigue, di elementi anomali detti blasti.
+
+Un calo di leucociti si può trovare in quadri di infezione molto gravi, sintomatici di stati di esaurimento del sistema di difesa, di danni al midollo osseo, che è anche il tessuto in cui si formano, (ad esempio a causa di esposizione a sostanze chimiche o a radiazioni ionizzanti), in molte infezioni da virus e in alcune malattie del sistema sanguigno.
+
+La durata della vita dei globuli bianchi varia da poche ore per i granulociti, a mesi per i monociti, ad anni per alcuni tipi di linfociti. 
+
+=== DNA
+
+
+L'acido desossiribonucleico o deossiribonucleico (in sigla DNA, dall'inglese DeoxyriboNucleic Acid; meno comunemente, in italiano, anche ADN[1][2][3]) è un acido nucleico che contiene le informazioni genetiche necessarie alla biosintesi di RNA e proteine, molecole indispensabili per lo sviluppo ed il corretto funzionamento della maggior parte degli organismi viventi.[4]
+
+Dal punto di vista chimico, il DNA è un polimero organico costituito da monomeri chiamati nucleotidi (desossiribonucleotidi o deossiribonucleotidi). Tutti i nucleotidi sono costituiti da tre componenti fondamentali: un gruppo fosfato, il desossiribosio (o deossiribosio) (zucchero pentoso) e una base azotata che si lega al desossiribosio con legame N-glicosidico. Le basi azotate che possono essere utilizzate nella formazione dei nucleotidi da incorporare nella molecola di DNA sono quattro: adenina, guanina, citosina e timina mentre nell'RNA, al posto della timina, è presente l'uracile.
+
+Il DNA può essere più correttamente definito come una doppia catena polinucleotidica (A, T, C, G), antiparallela, orientata, complementare, spiralizzata, informazionale.
+
+L'ordine nella disposizione sequenziale dei nucleotidi costituisce l'informazione genetica, la quale è tradotta con il codice genetico negli amminoacidi corrispondenti. La sequenza amminoacidica prodotta, detta polipeptide, forma le proteine. Il processo di traduzione genetica (comunemente chiamata sintesi proteica) è possibile solo in presenza di una molecola intermedia di RNA, che è generata per complementarità con le quattro basi dei nucleotidi del DNA in un processo noto come trascrizione. Tale processo non genera solo filamenti di RNA destinati alla traduzione, ma anche frammenti già in grado di svolgere svariate funzioni biologiche (ad esempio all'interno dei ribosomi, dove l'RNA ha una funzione strutturale). L'informazione genetica è duplicata prima della divisione cellulare, attraverso un processo noto come replicazione del DNA, che evita la perdita di informazione nel passaggio tra diverse generazioni cellulari.
+
+Negli eucarioti, il DNA si complessa all'interno del nucleo in strutture chiamate cromosomi. Negli altri organismi, privi di nucleo, esso può essere organizzato in cromosomi o meno (nei batteri è presente un'unica molecola di DNA circolare a doppia catena, mentre i virus possono avere genomi a DNA oppure ad RNA). All'interno dei cromosomi, le proteine della cromatina come gli istoni, le coesine e le condensine, organizzano il DNA e lo avvolgono in strutture ordinate. Queste strutture guidano l'interazione tra il codice genetico e le proteine responsabili della trascrizione, contribuendo al controllo della trascrizione genica. 
+
+
+Il DNA fu inizialmente isolato dal biochimico svizzero Friedrich Miescher, il quale, nel 1869, individuò una sostanza microscopica contenuta nel pus di bende chirurgiche utilizzate. Dal momento che tale molecola aveva la sua localizzazione nel nucleo, egli la chiamò nucleina.[5] Nel 1919 Phoebus Levene individuò la struttura del nucleotide, composta da base azotata, zucchero e fosfato.[6] Levene suggerì che il DNA consistesse in un filamento di nucleotidi legati tra loro attraverso i fosfati. Egli, però, era convinto che tale filamento fosse corto e che le basi fossero disposte secondo un preciso ordine ripetuto. Nel 1937 William Astbury presentò i primi risultati di alcuni studi di diffrazione a raggi X, i quali dimostrarono che il DNA ha una struttura estremamente regolare[7]. Nel 1944 Erwin Schrödinger asserì che, visto che secondo la fisica quantistica i sistemi di pochi atomi hanno un comportamento disordinato, il materiale genetico doveva essere costituito da una grande molecola non ripetitiva, sufficientemente stabile da mantenere l'informazione genetica, chiamata "cristallo aperiodico"[8].
+
+Nel 1928 Frederick Griffith scoprì che i caratteri della forma smooth ("liscia") di Pneumococcus potevano essere trasferiti alla forma rough ("rugosa"), miscelando i resti di batteri smooth morti con batteri rough vivi.[9] Questo sistema, pur non fornendo nessuna evidenza su quale fosse la sostanza che determinava il cambiamento, mostrava che qualcosa potesse trasportare l'informazione genetica dai resti dei batteri morti a quelli vivi. Si parlò quindi di un principio trasformante in grado di modificare i batteri vivi. Nel 1943 Oswald Theodore Avery dimostrò, in un celebre esperimento insieme a Colin MacLeod e Maclyn McCarty, che il DNA è il principio trasformante alla base di questo fenomeno.[10] Il ruolo del DNA nell'ereditarietà è stato provato, infine, nel 1953 da Alfred Hershey e Martha Chase attraverso un altro classico esperimento, che dimostrò che il materiale genetico del fago T2 è effettivamente il DNA.[11]
+James Watson (a sinistra) e Francis Crick (a destra), scopritori della struttura a doppia elica del DNA.
+
+Il 1953 è anche l'anno in cui, attraverso ulteriori immagini da diffrazione a raggi X[12] realizzate da Rosalind Franklin, chimica-fisica inglese, James Watson e Francis Crick presentarono[12], sulla rivista Nature, quello che è oggi accertato come il primo modello accurato della struttura del DNA,[13] ovvero il modello a doppia elica. A disegnarne il bozzetto fu Odile Speed, pittrice e moglie di Crick. Le evidenze sperimentali a supporto del modello di Watson e Crick furono riportate in una serie di cinque articoli pubblicati sullo stesso numero di Nature.[14] Tra questi figurava l'articolo della Franklin e di Raymond Gosling, che conteneva i dati di diffrazione a raggi X, fondamentale per sostenere il modello.[15][16] Tale numero conteneva anche un articolo sulla struttura del DNA scritto da Maurice Wilkins.[17] Nel 1962, dopo la morte di Rosalind Franklin (a causa di un tumore provocato, probabilmente, dalle alte dosi di raggi X a cui si era esposta nel corso dei suoi esperimenti), Watson, Crick e Wilkins ricevettero congiuntamente il Premio Nobel per la medicina.[18] Dal momento che la scoperta del modello si basò essenzialmente sui dati di Rosalind Franklin, ancora oggi esistono pareri molto eterogenei nella comunità scientifica su chi avrebbe dovuto ricevere tale premio.
+
+In un'importante presentazione del 1957, Crick propose il dogma centrale della biologia molecolare, che fissa le relazioni tra DNA, RNA e proteine.[19] La conferma finale del meccanismo di replicazione basato sulla struttura a doppia elica fu fornita nel 1958 dall'esperimento di Meselson-Stahl.[20] Un successivo lavoro di Crick dimostrò come il codice genetico fosse basato su triplette di basi non sovrapposte, permettendo ad Har Gobind Khorana, Robert Holley e Marshall Warren Nirenberg di decifrarlo.[21] Queste scoperte sono alla base della moderna biologia molecolare.
+
+Nel 1961 Marshall Nirenberg e Severo Ochoa scoprono che ogni tripletta di nucleotidi codifica per uno specifico amminoacido.
+Composizione
+Struttura a doppia elica del DNA. Sono messi in evidenza gli accoppiamenti tra le quattro basi azotate.
+
+Il DNA è un lungo polimero costituito da unità ripetute di nucleotidi.[22][23] La catena del DNA è larga tra i 22 ed i 26 Ångström (da 2,2 a 2,6 nanometri) ed ogni unità nucleotidica è lunga 3,3 Ångstrom (0,33 nanometri).[24] Sebbene ogni unità occupi uno spazio decisamente ridotto, la lunghezza dei polimeri di DNA può essere sorprendentemente elevata, dal momento che ogni filamento può contenere diversi milioni di nucleotidi. Ad esempio, il più grande cromosoma umano (il cromosoma 1) contiene quasi 250 milioni di paia di basi.[25]
+
+Negli organismi viventi, il DNA non è quasi mai presente sotto forma di singolo filamento, ma come una coppia di filamenti saldamente associati tra loro.[13][26] Essi si intrecciano tra loro a formare una struttura definita doppia elica. Ogni nucleotide è costituito da uno scheletro laterale, che ne permette il legame covalente con i nucleotidi adiacenti, e da una base azotata, che instaura legami idrogeno con la corrispondente base azotata presente sul filamento opposto. Il composto formato da una base azotata legata allo zucchero è definito nucleoside; un nucleotide è invece un nucleoside a cui sono legati uno o più gruppi fosfato.[27]
+
+La struttura laterale del DNA è composta da unità ripetute ed alternate di gruppi fosfato e di 2-deossiribosio,[28] uno zucchero pentoso (a cinque atomi di carbonio) che si lega ai fosfati adiacenti attraverso legami fosfodiesterici presso il terzo ed il quinto carbonio; in pratica, ogni molecola di fosfato forma un ponte molecolare collegando, attraverso legami fosfodiesterici, il carbonio in posizione 3′ di una molecola di deossiribosio con quello in posizione 5′ dello zucchero successivo. Conseguenza di questi legami asimmetrici è che ogni filamento di DNA ha un senso, determinato dalla direzione dei legami fosfodiesterici. Le basi azotate, invece, si uniscono in posizione 1' dello zucchero desossiribosio con legami N-glicosidici. In una doppia elica, il senso di un filamento è opposto a quello del filamento complementare. Per tale motivo, i due filamenti che costituiscono una doppia elica sono detti antiparalleli. Le estremità asimmetriche di un filamento di DNA sono definite estremità 5′ (cinque primo) ed estremità 3′ (tre primo). La principale differenza tra il DNA e l'RNA è lo zucchero pentoso utilizzato: l'RNA, infatti, utilizza il ribosio.[26]
+
+La doppia elica del DNA è stabilizzata dai legami idrogeno che si instaurano tra le basi azotate presenti sui due filamenti.[29] Le quattro basi che sono presenti nel DNA sono l'adenina (abbreviata con la lettera A), la citosina (C), la guanina (G) e la timina (T). Tutte e quattro le basi hanno struttura eterociclica, ma adenina e guanina sono, dal punto di vista strutturale, derivate della purina, e pertanto dette basi puriniche, mentre citosina e timina sono correlate alla pirimidina e dette basi pirimidiniche.[26] Esiste una quinta base, di tipo pirimidinico, chiamata uracile (U), ma essa non è di norma presente nelle catene di DNA. L'uracile è altresì presente nei filamenti di RNA al posto della timina, dalla quale si differenzia per la mancanza di un gruppo metile. L'uracile è presente nel DNA solo come prodotto della degradazione della citosina. Solo nel batteriofago PBS1 tale base può essere utilizzata all'interno del DNA.[30] Al contrario, è molto più frequente individuare la timina all'interno di molecole di RNA, a causa della metilazione enzimatica di diversi uracili. Questo evento avviene solitamente a carico di RNA con funzione strutturale o enzimatica (rRNA e tRNA).[31]
+
+La doppia elica è una spirale destrorsa. Con l'avvitarsi su sé stessi dei due filamenti, restano esposti dei solchi tra i diversi gruppi fosfato. Il solco maggiore è largo 22 Å, mentre il solco minore è largo 12 Å.[32] La differente ampiezza dei due solchi si traduce concretamente in una differente accessibilità delle basi, a seconda che si trovino nel solco maggiore o minore. Proteine che legano il DNA, come i fattori di trascrizione, dunque, solitamente prendono contatto con le basi presenti nel solco maggiore.[33][34]
+Appaiamento delle basi
+In alto, un appaiamento GC, caratterizzato da tre legami idrogeno. In basso, un appaiamento AT con due legami idrogeno.
+
+Ogni tipo di base presente su un filamento forma un legame con la base posta sul filamento opposto. Tale evento è noto come appaiamento complementare. Le basi puriniche formano legami idrogeno con le basi pirimidiniche: A può legare solo T e G può legare solo C. L'associazione di due basi viene comunemente chiamata paio di basi ed è l'unità di misura maggiormente utilizzata per definire la lunghezza di una molecola di DNA. Dal momento che i legami idrogeno non sono covalenti, essi possono esser rotti e riuniti in modo relativamente semplice, poiché questi sono legami ad alta energia. I due filamenti possono essere allontanati tra loro, come avviene per una cerniera, sia dalle alte temperature che da un'azione meccanica (come avviene durante la replicazione del DNA).[35] Conseguenza di questa complementarità è che tutte le informazioni contenute nella doppia elica possono essere duplicate a partire da entrambi i filamenti, evento fondamentale per una corretta replicazione del DNA.[22]
+
+I due tipi di paia di basi formano un numero differente di legami idrogeno: A e T ne formano due, G e C tre. Per tale motivo, la stabilità del legame GC è decisamente maggiore di quello AT. Di conseguenza, la stabilità complessiva di una molecola di DNA è direttamente correlata alla frequenza di GC presenti nella molecola stessa, nonché alla lunghezza dell'elica: una molecola di DNA è dunque tanto più stabile quanto più contiene GC ed è lunga.[36] Un'altra conseguenza di tale evento è il fatto che le regioni di DNA che devono essere separate facilmente contengono un'elevata concentrazione di A e T, come avviene ad esempio per il Pribnow box dei promotori batterici, la cui sequenza è infatti TATAAT.[37]
+
+In laboratorio, la stabilità dell'interazione tra filamenti è misurata attraverso la temperatura necessaria a rompere tutti i legami idrogeno, chiamata temperatura di melting (o Tm). Quando tutti i legami idrogeno sono rotti, i singoli filamenti si separano e possono assumere strutture molto variegate.[38]
+
+La stabilizzazione della doppia elica, in ogni caso, non è dovuta ai soli legami idrogeno, ma anche ad interazioni idrofobiche e di pi stacking.[39]
+Senso e antisenso
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: Senso (biologia molecolare).
+Struttura chimica del DNA. Le sequenze possono essere definite senso e non senso.
+
+Una sequenza di DNA è definita senso se la sua sequenza è la stessa del relativo mRNA. La sequenza posta sul filamento opposto è invece detta antisenso. Dal momento che le RNA polimerasi lavorano producendo una copia complementare, il filamento necessario per la trascrizione è l'antisenso. Sia nei procarioti che negli eucarioti vengono prodotte numerose molecole di RNA antisenso a partire dalle sequenze senso. La funzione di questi RNA non codificanti non è stata ancora completamente chiarita.[40] Si ritiene che gli RNA antisenso possano giocare un ruolo nella regolazione dell'espressione genica.[41]
+
+Esistono alcune sequenze di DNA, sia in procarioti che in eucarioti (ma soprattutto nei plasmidi e nei virus) in cui la differenza tra sequenze senso ed antisenso è meno chiara, dal momento che le sequenze di alcuni geni si sovrappongono tra loro.[42] In questi casi, dunque, alcune sequenze rivestono un doppio compito: codificare una proteina se lette in direzione 5'→3′ su un filamento; codificarne un'altra se lette sull'altro (sempre in direzione 5'→3′). Nei batteri, questa sovrapposizione genica è spesso coinvolta nella regolazione della trascrizione,[43] mentre nei virus il fenomeno è dovuto alla necessità di contenere in un piccolo genoma un'elevata quantità di informazioni.[44] Un altro modo di ridurre le dimensioni genomiche è quello individuato da altri virus, che contengono molecole di DNA lineare o circolare a singolo filamento.[45][46]
+Superavvolgimento
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: Superavvolgimento del DNA.
+
+Il DNA può essere distorto come avviene per una corda attraverso un processo definito superavvolgimento. Quando il DNA è in uno stato rilassato, un filamento percorre un giro completo intorno all'asse ogni 10.4 paia di basi. Se invece il DNA è distorto, il numero di basi può aumentare o diminuire.[47] Lo stato di superavvolgimento in cui si trova una molecola di DNA è definito topologia. Se il DNA si avvolge nella direzione dell'elica, si parla di superavvolgimento positivo, con le basi strette tra loro in modo più marcato. In caso contrario, si parla di superavvolgimento negativo. In natura, la maggior parte delle molecole di DNA presentano un lieve superavvolgimento negativo, introdotto da enzimi definiti topoisomerasi.[48] Questi enzimi sono anche necessari in processi come la trascrizione e la replicazione del DNA, dal momento che sono in grado di risolvere gli stress topologici indotti dai processi stessi.[49]
+Strutture alternative a doppia elica
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: conformazioni del DNA.
+Le strutture del DNA A, B e Z
+
+Il DNA esiste in diversi tipi di conformazioni. Esse sono denominate A-DNA, B-DNA, C-DNA, D-DNA,[50] E-DNA,[51] H-DNA,[52] L-DNA,[50] P-DNA[53] e Z-DNA.[28][54] In ogni caso, solo le conformazioni A-DNA, B-DNA e Z-DNA sono state osservate nei sistemi biologici naturali. La conformazione del DNA può dipendere dalla sequenza, dal superavvolgimento, dalla presenza di modificazioni chimiche delle basi o dalle condizioni del solvente, come la concentrazione di ioni metallici.[55] Di tali conformazioni, la conformazione B è la più frequente nelle condizioni standard delle cellule.[56] Le due conformazioni alternative sono differenti dal punto di vista della geometria e delle dimensioni.
+
+La forma A è un'ampia spirale destrorsa (il solco minore è largo ma poco profondo, quello maggiore è più stretto e profondo), con un passo di 2,9 nm (circa 11bp) ed un diametro di 2,5 nm. Tale conformazione è presente in condizioni non fisiologiche, quando il DNA viene disidratato. In condizioni fisiologiche, questa conformazione caratterizza gli eteroduplex di DNA e RNA e i complessi formati dalle associazioni DNA-proteina.[57][58]
+
+La conformazione Z è tipica invece delle sequenze che presentano modificazioni chimiche come la metilazione, e dei tratti di DNA ricchi di basi C e G. Essa assume un andamento sinistrorso, opposto rispetto alla conformazione B.[59] Ha un passo di 4,6 nm ed un diametro di 1,8 nm, il solco maggiore più superficiale e quello minore più stretto; deve il suo nome all'andamento a zig-zag che la caratterizza. Queste strutture inusuali possono essere riconosciute da specifiche Z-DNA-binding proteins, con conseguenze notevoli nella regolazione della trascrizione, anche se non ne sono stati trovati esempi in natura.[60]
+Strutture alternative alla doppia elica
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: G-quadruplex e DNA a tripla elica.
+La struttura di un quadruplex di DNA formato da ripetizioni di telomeri. La conformazione dello scheletro laterale è ampiamente differente rispetto alla tipica struttura ad elica. In verde sono evidenziati ioni potassio che stabilizzano la struttura.[61]
+
+Le regioni terminali dei cromosomi lineari sono sequenze ripetute dette telomeri. La funzione principale di tali regioni è quella di permettere alla cellula di replicare le estremità dei cromosomi senza che ci sia perdita di informazioni geniche, dal momento che le DNA polimerasi coinvolte nella replicazione del DNA non sono in grado di replicare le estremità 3' dei cromosomi.[62] Se un cromosoma non avesse telomeri, infatti, diventerebbe un po' più corto ad ogni replicazione, con il rischio di perdere sequenze codificanti. Attraverso un particolare tipo di DNA polimerasi (detto telomerasi), invece, i telomeri mantengono costantemente la loro lunghezza, proteggendo così la parte interna del cromosoma. Nelle cellule umane, i telomeri sono composti da alcune migliaia di ripetizioni di una semplice sequenza costituita da TTAGGG.[63]
+
+Questa sequenza ricca in guanina può stabilizzare le estremità dei cromosomi formando strutture insolite, composte da unità di quattro basi azotate al posto delle canoniche due. Ciò è dovuto all'interazione tra quattro guanine, che formano una struttura planare che si impila sopra ad altre strutture dello stesso tipo, ad ottenere un filamento stabile definito G-quadruplex structure.[64] Tali strutture sono stabilizzate dalla formazione di legami idrogeno che si instaurano tra le sommità delle basi e dalla chelazione con uno ione metallico, situato al centro di ogni unità di quattro basi.[65]
+
+Oltre a queste, i telomeri generano anche strutture circolari, chiamate telomere-loops o T-loops. In questo caso, il singolo filamento di DNA si piega a formare ampie circonferenze, stabilizzate da proteine specifiche che legano i telomeri.[66] Al termine del T-loop, il singolo filamento di DNA prende contatto con un doppio filamento, che si apre e forma una struttura a tripla elica. Questa struttura è chiamata displacement-loop o D-loop.[64] La sua struttura è stata paragonata ad una lunghissima scala a pioli attorcigliata su sé stessa e composta da due montanti (filamenti costituiti da molecole di acido fosforico e di desossiribosio) e da tanti gradini (formati da quattro composti, detti basi azotate: adenina, guanina, citosina e timina). Le basi azotate si legano secondo una regola ben precisa: l'adenina si lega solamente con la timina. La guanina si lega esclusivamente con la citosina. Si dice perciò che le basi azotate adenina-timina e guanina-citosina sono complementari.
+
+L'insieme di acido fosforico + zucchero desossiribosio + base azotata costituisce l'unità di base del DNA: questo insieme è detto nucleotide e si ripete in ciascun filamento per tutta la sua lunghezza. Ogni essere vivente possiede il proprio DNA, che contiene tutte le informazioni genetiche necessarie per controllare le attività dell'organismo. La particolare struttura del DNA ne consente la duplicazione e quindi la sostituzione di eventuali parti mancanti perfettamente uguali all'originale; ciò avviene durante l'interfase quando i cromosomi sono dispersi nel nucleo e hanno l'opportunità di duplicarsi.
+
+La formazione delle proteine, detta sintesi delle proteine o traduzione, avviene nel citoplasma e segue fasi ben precise: il DNA nel nucleo fa da stampo per la formazione dell'RNA messaggero, mediante un processo chiamato trascrizione che è un meccanismo simile a quello della duplicazione. In questo modo la sequenza dei nucleotidi nel mRNA risulta complementare a quella del DNA con la base U al posto della base T.
+Modificazioni chimiche
+Modificazioni di basi
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: metilazione del DNA.
+Left alt text
+Center alt text
+Right alt text
+Struttura della citosina senza (a sinistra) e con (al centro) il gruppo metile in posizione 5. In seguito ad una deaminazione, la 5-metilcitosina (al centro) acquisisce la stessa struttura della timina (a destra).
+
+L'espressione genica di un determinato locus è influenzata dalla struttura che la cromatina assume presso il locus stesso. Regioni eterocromatiniche (caratterizzate da una espressione scarsa o assente) sono estesamente metilate sulle citosine. La metilazione della citosina, ad esempio, è fondamentale per l'inattivazione del cromosoma X.[67] Il livello medio di metilazione è molto variabile tra i diversi organismi: Caenorhabditis elegans non presenta metilazione delle citosine, mentre i vertebrati mostrano livelli maggiori, con circa l'1% del genoma contenente 5-metilcitosina.[68] La 5-metilcitosina, essendo suscettibile di deaminazione spontanea, è una base presso cui l'incidenza di mutazioni è elevatissima.[69]
+
+Ulteriori modificazioni di basi sono la metilazione dell'adenina (presente nei batteri) e la glicosilazione dell'uracile che produce le cosiddette basi J nei cinetoplastidi.[70][71]
+Danni al DNA
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: Mutazione.
+Il benzopirene è il maggiore agente mutageno presente nel fumo di tabacco. In quest'immagine è riportato un addotto al DNA generato dalla molecola.[72]
+
+Il DNA può essere alterato dall'azione di numerosi agenti, genericamente definiti mutageni; è fondamentale notare però come una mutazione -ovverosia un cambiamento raro, casuale, che alteri la sequenza di basi azotate- non sia necessariamente un evento pernicioso ma anzi sia alla base dell'evoluzione: suddetta mutazione dovrà però farsi spazio nella fittissima rete cibernetica cellulare nonché nell'ambiente nel quale vive ed opera l'organismo vivente in questione; qualora vengano superati questi punti di restrizione (altamente selettivi vista la loro complessità intrinseca, la stragrande maggioranza delle mutazioni difatti si rivela non vantaggiosa od anche neutra), si avrà un organismo arricchito dalla mutazione. Tra gli agenti alteranti figurano ad esempio agenti ossidanti, agenti alchilanti ed anche radiazioni ad alta energia, come i raggi X e gli UV. Il tipo di danno causato al DNA dipende dal tipo di agente: gli UV, ad esempio, danneggiano il DNA generando la formazione di dimeri di timina, costituiti da ponti aberranti che si instaurano tra basi pirimidiniche adiacenti.[73] Agenti ossidanti come i radicali liberi o il perossido di idrogeno, invece, producono danni di tipo più eterogeneo, come modificazioni di basi (in particolare di guanine) o rotture del DNA a doppio filamento.[74] Secondo diversi studi, in ogni cellula umana almeno 500 basi al giorno sono sottoposte a danni ossidativi.[75][76] Di tali lesioni, le più pericolose sono le rotture a doppio filamento, dal momento che tali danni sono i più difficili da riparare e costituiscono l'origine primaria delle mutazioni puntiformi e frameshift che si accumulano sulle sequenze genomiche, nonché delle traslocazioni cromosomiche.[77]
+
+Molti agenti devono il loro potere mutageno alla capacità di intercalarsi tra due basi azotate consecutive. Gli intercalanti sono tipicamente molecole planari e aromatiche, come l'etidio, la daunomicina, la doxorubicina o la talidomide. Perché un intercalante possa trovare posto tra le due basi, occorre che la doppia elica si apra e perda la sua conformazione standard. Tali modifiche strutturali inibiscono sia la trascrizione che la replicazione del DNA ed aumentano la possibilità di insorgenza di mutazioni. Per tale motivo, gli intercalanti sono considerati molecole cancerogene, come dimostrato da numerosi studi su molecole come il benzopirene, l'acridina, l'aflatossina ed il bromuro di etidio.[78][79][80] In ogni caso, proprio grazie alla loro capacità di inibire trascrizione e replicazione, tali molecole sono anche utilizzate in chemioterapia per inibire la rapida crescita delle cellule neoplastiche.[81]
+Disposizione del DNA
+
+Negli eucarioti, il DNA è solitamente presente all'interno di cromosomi lineari (circolari nei procarioti). La somma di tutti i cromosomi di una cellula ne costituisce il genoma; il genoma umano conta circa 3 miliardi di paia di basi contenute in 46 cromosomi.[82]
+
+La disposizione finale a cromosomi segue precise regole gerarchiche di impacchettamento. Nelle cellule, infatti, il doppio filamento di DNA non può essere disposto a casaccio, ma deve seguire precise regole di ordinamento. Tali accorgimenti si rivelano necessari perché la lunghezza dei filamenti di DNA è solitamente molto elevata e creerebbe seri problemi alla cellula ospite. Ad esempio, il cromosoma di Escherichia coli, il procariote più studiato nella storia della biomedicina, misura circa 1 mm. In una cellula lunga solo 2 µm, come quella di E.coli, la disposizione casuale di un cromosoma del genere potrebbe generare problemi. Se una molecola di questa lunghezza si disponesse casualmente, infatti, ci sarebbe bisogno di una cellula grande almeno 1000 volte tanto. Le modalità di impacchettamento sono differenti tra gli organismi procarioti e quelli eucarioti.
+Procarioti
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: Procarioti.
+DNA in una cellula procariote.
+
+Nella maggior parte delle cellule batteriche il DNA è disposto su un unico cromosoma circolare (e presenta, come molti altri batteri, un'unica origine di replicazione), come previsto da numerosi esperimenti di linkage ed infine evidenziato in cellule cresciute con timina marcata con tritio.
+
+I meccanismi messi in atto dalla cellula procariote per ridurre lo spazio necessario consistono anzitutto nel mascheramento delle cariche negative presenti sul DNA attraverso la sua associazione con poliammine cariche positivamente, come la spermina e la spermidina. Oltre a queste, il DNA procariote prende contatto anche con numerose piccole proteine, che compattano la struttura complessiva del DNA. Tra di esse, figura H-NS, un dimero con funzioni molto simili agli istoni eucariotici. In ogni cellula di E.coli esistono in media 20000 molecole di H-NS, che si dispongono lungo il DNA a distanza di circa 400bp.
+
+Il DNA di E.coli è inoltre molto superavvolto. Tale fenomeno contribuisce ulteriormente al compattamento del DNA, permettendo ad esso di disporsi comodamente all'interno della cellula.
+Eucarioti
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: Eucarioti.
+DNA in una cellula eucariote.
+
+Negli eucarioti l'impacchettamento è ottenuto attraverso diversi accorgimenti. Il DNA è associato ad un gran numero di proteine: l'associazione complessiva DNA-proteine è definita cromatina, la cui struttura è ampiamente conservata tra tutti gli organismi eucarioti.
+
+Le proteine cromatiniche più abbondanti sono gli istoni, una famiglia di polipeptidi basici presenti nel nucleo. Le principali proteine istoniche sono H1, H2A, H2B, H3 e H4. La basicità degli istoni è dovuta alla grande quantità di amminoacidi carichi positivamente (lisina e arginina), in grado di instaurare interazioni elettrostatiche con i gruppi fosfato del DNA. Le proteine istoniche sono anche pesantemente modificate, proprio sui residui carichi, da modificazioni post-traduzionali, tra cui l'aggiunta di acetili, di fosfati e di metili, che neutralizzano la carica positiva o la rendono negativa.
+
+Le sequenze amminoacidiche di quattro dei cinque istoni (H2A, H2B, H3 e H4) sono altamente conservate, anche tra specie molto diverse. La sequenza di H1 presenta invece maggiori variazioni lungo l'evoluzione: in alcuni organismi, H1 non è nemmeno presente in tutti i tessuti (ad esempio negli eritrociti degli uccelli H1 è sostituita da un sesto istone, chiamato H5). La presenza di differenti H1, in ogni caso, non modifica sostanzialmente la struttura complessiva dell'apparato istonico (definito nucleosoma), che resta ampiamente conservato nell'architettura nella quasi totalità degli eucarioti.
+Funzioni biologiche
+
+Nel genoma, l'informazione è conservata in sequenze di DNA chiamate geni. La trasmissione dell'informazione contenuta nei geni è garantita dalla presenza di sequenze di basi azotate complementari. Infatti, durante la trascrizione, l'informazione può essere facilmente copiata in un filamento complementare di RNA. Solitamente, tale copia di RNA è utilizzata per sintetizzare una proteina, attraverso un processo definito traduzione (o sintesi proteica). In alternativa, una cellula può semplicemente duplicare l'informazione genetica attraverso un processo definito replicazione del DNA.
+Struttura del genoma
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: nucleo cellulare, cromatina, cromosoma, gene e DNA non codificante.
+
+Negli organismi eucarioti, il DNA genomico è localizzato all'interno del nucleo cellulare, nonché in piccole quantità all'interno di mitocondri e cloroplasti. Nei procarioti, il DNA è invece racchiuso in un organello irregolare, privo di membrana, contenuto nel citoplasma, chiamato nucleoide.[83] L'informazione è contenuta all'interno dei geni, unità ereditarie in grado di influire sul fenotipo dell'organismo. Ogni gene contiene un open reading frame (regione in grado di essere trascritta a RNA) ed una regione regolatoria, costituita sia da un promotore che da enhancers.
+
+In molte specie, solo una piccola frazione della sequenza totale di un genoma può essere trascritta e tradotta. Ad esempio, solo l'1,5% del genoma umano è costituito da esoni codificanti una proteina, mentre più del 50% consiste di sequenze ripetute di DNA non codificante.[84] La ragione per cui ci sia una tale quantità di DNA non codificante non è tuttora completamente chiara ed è stata definita come enigma del C-value.[85] In ogni caso, le sequenze di DNA che non codificano una proteina possono essere trascritte in RNA non codificante, coinvolto nella regolazione dell'espressione genica.[86]
+Una T7 RNA polimerasi (blu) mentre produce una molecola di mRNA (verde) a partire da uno stampo di DNA (arancione).[87]
+
+Alcune sequenze non codificanti ricoprono un ruolo strutturale per i cromosomi. Le regioni telomeriche e centromeriche contengono solitamente pochissimi geni, ma sono necessarie per la funzione e la stabilità dei cromosomi.[88] Nell'uomo, grandi quantità di DNA non codificante si ritrovano negli pseudogeni, copie di geni rese inattive dalla presenza di una mutazione.[89] Queste sequenze sono considerate come fossili molecolari, anche se esistono evidenze secondo le quali si può ipotizzare che siano una sorta di materiale grezzo necessario per la creazione di nuovi geni attraverso i processi di duplicazione genica e di evoluzione divergente.[90]
+Trascrizione e traduzione
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: codice genetico, trascrizione (biologia) e sintesi proteica.
+
+Un gene è una sequenza di DNA che contiene le informazioni in grado di influire sulle caratteristiche del fenotipo dell'organismo. All'interno di un gene, la sequenza di basi di DNA è utilizzata come stampo per la sintesi di una molecola di RNA che, nella maggior parte dei casi, è tradotta in una molecola peptidica.
+
+Il meccanismo attraverso il quale la sequenza nucleotidica di un gene è copiata in un filamento di RNA è detto trascrizione ed avviene per mezzo dell'enzima RNA polimerasi. Il filamento di RNA può andare incontro a destini differenti: alcune molecole di RNA hanno, infatti, funzioni di tipo strutturale (come quelle che si trovano all'interno del ribosoma) o catalitica (molecole note come ribozimi); gli RNA più noti, tuttavia, subiscono un processo di maturazione per produrre mRNA, molecole destinate ad esser tradotte in proteina.
+
+Il processo di traduzione avviene nel citoplasma, dove gli mRNA si associano ai ribosomi, ed è mediato dal codice genetico. Il ribosoma permette la lettura sequenziale dei codoni del mRNA, favorendone il riconoscimento e l'interazione con specifici tRNA, molecole che trasportano gli amminoacidi corrispondenti ad ogni singolo codone.
+Il codice genetico
+
+Il codice genetico consiste di parole di tre lettere chiamate codoni, costituite dalla sequenza di tre nucleotidi (ad esempio ACU, CAG, UUU), presenti sull'mRNA, ognuna delle quali è associata ad un particolare amminoacido. Ad esempio la timina ripetuta in una serie di tre (UUU) codifica la fenilalanina. Utilizzando gruppi di tre lettere si possono avere fino a 64 combinazioni diverse ( 4 3 {\displaystyle 4^{3}} 4^{3}), in grado di codificare i venti diversi amminoacidi esistenti. Poiché esistono 64 triplette possibili e solo 20 amminoacidi, il codice genetico è detto ridondante (o degenere): alcuni amminoacidi possono infatti essere codificati da più triplette diverse. Non è invece vero il contrario: ad ogni tripletta corrisponderà un solo amminoacido (senza possibilità di ambiguità). Esistono infine tre triplette che non codificano alcun amminoacido, ma rappresentano codoni di stop (o nonsense), ovvero indicano il punto in cui, all'interno del gene, termina la sequenza che codifica la proteina corrispondente: si tratta dei codoni UAA, UGA e UAG.
+Replicazione
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: Replicazione del DNA.
+La replicazione del DNA: la doppia elica è aperta dalle elicasi e dalle topoisomerasi; in seguito, una DNA polimerasi genera un filamento complementare sul filamento veloce; un'altra DNA polimerasi lega invece il filamento lento, generando segmenti discontinui (detti frammenti di Okazaki) che verranno uniti da una DNA ligasi.
+
+La divisione cellulare, necessaria ad un organismo per crescere, richiede una duplicazione del DNA cellulare, in modo che le cellule figlie possano avere la stessa informazione genetica della cellula madre. La struttura a doppia elica del DNA permette un meccanismo estremamente semplice per la replicazione del DNA. I due filamenti, infatti, sono separati e da ognuno viene creato un filamento complementare, ad opera di un enzima chiamato DNA polimerasi. Con questo meccanismo, le basi presenti sul filamento figlio sono determinate da quelle presenti sul filamento parentale: è proprio attraverso questo meccanismo che le cellule figlie presentano genoma identico alla cellula madre (salvo errori avvenuti durante il processo, che portano alla comparsa di mutazioni). Tale tipo di replicazione, che porta a doppie eliche costituite da un filamento preesistente e uno neoformato è detta semiconservativa.
+
+Per iniziare la replicazione, occorre anzitutto l'apertura della forca replicativa, attraverso la parziale denaturazione del DNA a doppia elica, portata a termine dalle elicasi e dalle single-strand-binding proteins (SSBPs): le elicasi sono enzimi che separano attivamente i due filamenti usando l'energia dell'ATP; le SSBPs sono in grado di mantenere la denaturazione del DNA legandosi esclusivamente alle porzioni a singolo filamento e stabilizzandole. Nelle molecole di DNA circolari dei procarioti si ha una sola regione di origine della replicazione dalla quale partono due forche replicative (la struttura prende il nome di bolla di replicazione). Quando le due forche si incontrano dal lato opposto la replicazione è completata. Negli eucarioti la replicazione di ogni cromosoma inizia invece in più punti.
+
+Le DNA polimerasi, enzimi capaci di costruire una nuova catena solo in direzione 5'-3', sono stati individuati per la prima volta da Arthur Kornberg, il quale, grazie ad un suo famoso esperimento,[91] identificò la DNA polimerasi I in Escherichia coli. La reazione della DNA polimerasi è diretta dallo stampo, perché produce un nuovo filamento di DNA esattamente complementare ad uno preesistente che funge, appunto, da stampo. La DNA polimerasi non è in grado di iniziare la sintesi di un filamento ex novo, mentre può allungare un filamento polinucleotidico preesistente. In una cellula in replicazione, dunque, è indispensabile la presenza di un filamento preesistente (detto primer), che consiste solitamente in un breve segmento di RNA complementare allo stampo, sintetizzato da enzimi specifici detti primasi.
+
+Dal momento che le DNA polimerasi sono in grado di svolgere la loro attività solo in direzione 5'-3', esse hanno messo a punto diversi meccanismi per copiare i due filamenti della doppia elica.[92] Un filamento (chiamato filamento guida) può essere replicato in modo quasi continuo, man mano che viene esposto, l'altro (filamento lento) risulta invece disseminato da brevi filamenti di DNA di nuova sintesi (i frammenti di Okazaki), ognuno dei quali presenta un innesco iniziale di RNA. I nuovi filamenti devono essere quindi completati mediante la rimozione degli inneschi da parte di endonucleasi e il riempimento degli spazi rimasti ad opera di polimerasi di riparazione. Successivamente tutti questi frammenti di DNA di nuova sintesi del filamento lento vengono legati dalle DNA ligasi.
+Interazioni con proteine
+
+Tutte le funzioni del DNA dipendono dalle sue interazioni con specifiche proteine. Tali interazioni possono sia essere aspecifiche, sia prevedere un legame estremamente specifico della proteina ad una singola sequenza di DNA. Sono numerosi anche gli enzimi che possono legare il DNA e, tra questi, sono particolarmente importanti le polimerasi che copiano le sequenze nella trascrizione e nella replicazione del DNA.
+Proteine che legano il DNA
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: DNA-binding protein.
+Nucleosome 2.jpg
+Interazione del DNA con gli istoni (in bianco, nell'immagine in alto). Gli amminoacidi basici di queste proteine (in blu nell'immagine in basso a sinistra) legano in modo non covalente i gruppi fosfato del DNA, acid (in rosso in basso a destra).
+
+Le proteine strutturali che legano il DNA sono esempi delle interazioni aspecifiche tra DNA e proteine. All'interno dei cromosomi, il DNA è associato a complessi di natura proteica, che si organizzano tra loro a formare una struttura compatta chiamata cromatina. Negli eucarioti, questa struttura presuppone il legame del DNA a piccoli complessi proteici basici chiamati istoni; nei procarioti, invece, sono coinvolti diversi tipi di differenti proteine.[93][94] Gli istoni formano un complesso a forma di disco chiamato nucleosoma, che instaura interazioni di tipo ionico (tra i residui basici degli istoni e lo scheletro fosforico acido del DNA) con circa duecento paia di basi di DNA, che si avvolgono intorno al disco formando due giri completi, indipendentemente dalla sequenza che li caratterizza.[95] Questi residui basici possono subire metilazioni, fosforilazioni e acetilazioni:[96] tali modificazioni chimiche alterano l'interazione tra gli istoni e il DNA, rendendolo così più o meno accessibile ai fattori di trascrizione e modulando la velocità della trascrizione stessa.[97]
+
+Altre DNA-binding proteins (DNAbp) di tipo aspecifico, anch'esse presenti nella cromatina, sono le high-mobility group proteins, che legano preferenzialmente il DNA ripiegato o distorto.[98] Queste proteine hanno un ruolo fondamentale nel ripiegamento delle file di nucleosomi e nel loro impacchettamento all'interno di strutture cromatiniche più complesse.[99]
+
+Un ulteriore gruppo di DNAbp sono le single-strand-binding proteins (SSBP), che si legano esclusivamente ad una molecola di DNA a singolo filamento. Nell'uomo, la RPA (replication protein A) è il membro meglio caratterizzato di questa famiglia ed è essenziale per la maggior parte dei processi che richiedono una separazione della doppia elica, tra cui la replicazione del DNA, la sua ricombinazione e la sua riparazione.[100] Queste DNAbp sono in grado di stabilizzare la forma a singolo filamento, impedendo che la molecola si ripieghi a formare stem loops o venga degradata dall'azione delle nucleasi.
+Il repressore lambda, con la sua caratteristica struttura elica-giro-elica, legato al proprio DNA bersaglio[101]
+
+A differenza di quelle finora presentate, esistono anche numerose proteine che legano specificamente determinate sequenze di DNA. Quelle maggiormente studiate sono i fattori di trascrizione (TF), proteine in grado di regolare la trascrizione. Ognuna di esse si lega ad una o più sequenze specifiche, poste solitamente nei pressi del promotore di un gene, attivando o inibendo la trascrizione del gene stesso. Tale processo viene svolto attraverso due tipi di meccanismo: anzitutto, i TF sono in grado di legare, direttamente o attraverso proteine adattatrici, la RNA polimerasi responsabile della trascrizione, localizzandola presso il sito di inizio della trascrizione e favorendone dunque l'avvio;[102] un'altra modalità consiste nel legame tra i TF ed enzimi in grado di modulare metilazioni ed acetilazioni degli istoni presenti presso il promotore, modificando dunque l'accessibilità di quella regione alla polimerasi.[103]
+
+Dal momento che un TF può avere numerose sequenze bersaglio, cambiamenti di attività di un TF possono avere effetti sull'espressione di migliaia di geni.[104] Di conseguenza, queste proteine sono spesso i bersagli finali delle cascate di trasduzione del segnale, che mediano le risposte cellulari agli stimoli interni ed esterni alla cellula. La specificità dei TF per il DNA è legato ai contatti multipli che si instaurano tra la proteina ed il solco maggiore, dove le basi azotate sono maggiormente accessibili.[33]
+Enzimi che modificano il DNA
+Nucleasi e ligasi
+L'enzima di restrizione EcoRV (verde) in complesso con il suo DNA substrato[105]
+
+Le nucleasi sono enzimi in grado di tagliare filamenti di DNA, dal momento che catalizzano l'idrolisi del legame fosfodiesterico. Le nucleasi che idrolizzano il DNA partendo dai nucleotidi situati alle estremità dei filamenti sono definite esonucleasi. Sono endonucleasi, invece, quelle che tagliano direttamente all'interno del filamento. Le nucleasi più utilizzate in biologia molecolare, dette enzimi di restrizione, tagliano il DNA in corrispondenza di specifiche sequenze. L'enzima EcoRV, ad esempio, riconosce la sequenza di sei basi 5′-GAT|ATC-3′ ed effettua il taglio presso la linea verticale. In natura, questo enzima protegge i batteri dalle infezioni fagiche, digerendo il DNA del fago quando esso fa il suo ingresso nella cellula batterica.[106] Generalmente, le nucleasi di restrizione riconoscono particolari sequenze nucleotidiche palindromiche, note come siti di restrizione, nelle quali la stessa sequenza si ripete in direzioni opposte sulle due eliche complementari, e quindi producono dei tagli su entrambi i filamenti. Tali enzimi sono utilizzati ampiamente nelle tecniche che prevedono il subclonaggio di DNA all'interno di vettori. Si crede che le sequenze palindromiche possano essere, oltre a sti di restrizione, anche segnali di riconoscimento per alcune proteine di regolazione oppure segnalare il sito di avvio della replicazione del DNA.
+
+Le DNA ligasi sono enzimi in grado di riunire filamenti di DNA precedentemente tagliati o spezzati, utilizzando energia chimica proveniente da ATP o da NAD.[107] Le ligasi sono particolarmente importanti nella replicazione del filamento lento, dal momento che esse riuniscono i frammenti di Okazaki in un filamento unico. Esse rivestono un ruolo importante anche nella riparazione del DNA e nella ricombinazione genetica.[107]
+Topoisomerasi ed elicasi
+
+Le topoisomerasi sono enzimi che presentano sia un'attività nucleasica che una ligasica. Queste proteine sono in grado di modificare le proprietà topologiche del DNA. Alcune di esse svolgono tale funzione tagliando l'elica di DNA e permettendole di ruotare, riducendo il suo grado di superavvolgimento, per poi procedere alla ligazione delle due estremità.[48] Altre topoisomerasi sono invece in grado di tagliare l'elica e far passare attraverso il sito di rottura una seconda elica, prima di ligare il filamento spezzato.[108] Le topoisomerasi sono necessarie per molti processi che coinvolgono il DNA, come ad esempio la replicazione del DNA e la trascrizione.[49]
+
+Le elicasi sono proteine in grado di utilizzare l'energia chimica presente nei nucleosidi trifosfato, soprattutto ATP, per rompere i legami idrogeno che si instaurano tra le basi azotate, permettendo l'apertura della doppia elica di DNA in singoli filamenti.[109] Questi enzimi sono essenziali per la maggior parte dei processi biologici che coinvolgono enzimi che richiedono un diretto contatto con le basi del DNA.
+Polimerasi
+
+Le polimerasi sono enzimi che sintetizzano catene polinucleotidiche a partire dal nucleosidi trifosfato. Esse funzionano aggiungendo nucleotidi al 3′-OH del precedente nucleotide presente sul filamento. Come conseguenza di ciò, tutte le polimerasi lavorano in direzione 5′-3′.[110] Nel sito attivo di questi enzimi, il nucleoside trifosfato si appaia ad un nucleotide presente su un filamento usato come stampo: ciò permette alle polimerasi di sintetizzare in modo accurato filamenti fedelmente complementari agli stampi. Le polimerasi sono classificate sulla base del tipo di stampo che utilizzano.
+
+La replicazione del DNA richiede una DNA polimerasi DNA-dipendente, in grado cioè di realizzare una perfetta copia di una sequenza di DNA. L'accuratezza è fondamentale in questo processo, motivo per cui molte di queste polimerasi presentano anche un'attività di proofreading (dall'inglese, correzione di bozze). Esse sono infatti in grado di rilevare un errore di appaiamento (o mismatch) tra basi azotate ed attivare un'azione 3' o 5' esonucleasica per rimuovere la base scorretta.[111] Nella maggior parte degli organismi, le DNA polimerasi funzionano all'interno di un più ampio complesso proteico definito replisoma, che consiste anche di numerose subunità accessorie come ad esempio le elicasi.[112]
+
+Le DNA polimerasi RNA-dipendenti sono una classe di polimerasi specializzate nella sintesi di una copia di DNA, usando come stampo un frammento di RNA. Tra di esse figurano la trascrittasi inversa, un enzima virale coinvolto nell'infezione dei retrovirus, e la telomerasi, necessaria per la replicazione dei telomeri.[62][113] La telomerasi è una polimerasi inusuale, dal momento che contiene una sequenza stampo di RNA all'interno della propria struttura.
+
+La trascrizione è invece svolta da RNA polimerasi DNA-dipendenti, che legano il DNA presso il promotore di un gene e separano i due filamenti. Successivamente, l'enzima genera una molecola di mRNA fino al raggiungimento del terminatore, dove si interrompe la trascrizione e l'enzima si distacca dal DNA. Come avviene per le DNA polimerasi DNA-dipendenti, anche queste polimerasi operano all'interno di un ampio complesso proteico, composto di molecole accessorie e regolatorie.[114]
+Ricombinazione genetica
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: Ricombinazione genetica.
+La ricombinazione consiste di una rottura e successiva riunione di due cromosomi (M ed F) a produrre due cromosomi riarrangiati (C1 e C2).
+Holliday Junction.svg
+Holliday junction coloured.png
+Struttura di una giunzione di Holliday, intermedio di una reazione di ricombinazione genetica. I quattro singoli filamenti di DNA sono colorati di rosso, blu, verde e giallo.[115]
+
+Un filamento di DNA solitamente non interagisce con altri segmenti di DNA e, nelle cellule umane, i differenti cromosomi occupano addirittura regioni separate del nucleo (territori cromosomici).[116] Tale separazione fisica è fondamentale per permettere al DNA di essere un archivio stabile e sicuro dell'informazione genetica. L'interazione tra diversi segmenti di DNA è invece possibile e frequente attraverso il fenomeno del crossing-over, che permette la ricombinazione genetica attraverso la rottura di due eliche, lo scambio di segmenti tra di esse ed il ricongiungimento finale.
+
+La ricombinazione permette ai cromosomi di scambiare informazioni genetiche e produrre nuove combinazioni di geni, con il risultato di aumentare l'efficienza della selezione naturale e di facilitare l'evoluzione di nuove proteine.[117] La ricombinazione genetica può anche essere coinvolta nella riparazione del DNA, in particolare come risposta cellulare in seguito a rotture a doppio filamento.[118]
+
+La principale forma di crossing-over cromosomico è la ricombinazione omologa, nella quale i due cromosomi coinvolti condividono sequenze molto simili. Le ricombinazioni non omologhe, invece, possono essere dannose per la cellula, perché in grado di produrre traslocazioni cromosomiche e anomalie genetiche. La reazione di ricombinazione è catalizzata da enzimi noti come ricombinasi.[119] Il primo passaggio del processo di ricombinazione consiste nella rottura a singolo filamento provocata da una endonucleasi o da un danno al DNA.[120] Una serie di passaggi successivi, in parte catalizzati dalla ricombinasi, porta all'unione tra due eliche attraverso la formazione di una giunzione di Holliday, nella quale un segmento a singolo filamento di ogni elica è appaiato al filamento complementare presente sull'altra elica. La reazione di ricombinazione è quindi interrotta dalla rottura della giunzione e dalla re-ligazione del DNA così ottenuto.[121] L'esistenza della giunzione di Holliday è stata dimostrata da fotografie al microscopio elettronico di molecole di DNA in ricombinazione.
+Evoluzione del metabolismo del DNA
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: Ipotesi del mondo a RNA.
+
+Il DNA contiene l'informazione genetica che permette a tutti gli organismi viventi (esclusi i virus, la cui ammissibilità tra i viventi è tuttavia ampiamente dibattuta) di funzionare, crescere e riprodursi. In ogni caso, non è stato ancora chiarito in quale momento della storia della vita il DNA abbia assunto tale ruolo fondamentale. È generalmente accettato dalla comunità scientifica, infatti, l'ipotesi che il DNA non sia stato il primo acido nucleico ad essere utilizzato dai viventi: tale ruolo spetterebbe infatti all'RNA.[122][123] L'RNA potrebbe aver giocato un ruolo centrale del metabolismo cellulare ancestrale, dal momento che può avere sia un ruolo nella conservazione dell'informazione genetica, sia uno catalitico (ad esempio attraverso i ribozimi), sia uno strutturale (all'interno dei ribosomi).[124] Il mondo a RNA, basato su un unico tipo di molecola avente funzioni genetiche, catalitiche e strutturali, potrebbe avere avuto un'influenza sullo sviluppo dell'attuale codice genetico, basato proprio su quattro nucleotidi. Tale numero potrebbe essere un compromesso tra la necessità da una parte di ridurre la quantità di basi possibili, per migliorare l'accuratezza della replicazione, e dall'altra di aumentarla, per incrementare l'efficacia catalitica dei ribozimi.[125]
+
+Non si conoscono fossili di DNA risalenti all'origine della vita (dopo il mondo a RNA) per poterne studiare l'evoluzione molecolare, dal momento che è impossibile recuperare DNA dai fossili. Ciò è dovuto al fatto che il DNA può sopravvivere nell'ambiente per meno di un milione di anni e, se in soluzione, si degrada rapidamente in piccoli frammenti.[126] Sebbene ci siano stati diversi annunci di scoperte di DNA antichissimo, tra cui quella relativa all'isolamento di un batterio vivo da un cristallo di sale risalente a 250 milioni di anni fa,[127] queste affermazioni sono controverse.[128][129]
+Utilizzi del DNA
+Ingegneria genetica
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: Ingegneria genetica, DNA ricombinante e Organismi geneticamente modificati.
+
+La moderna biologia e biochimica fa un uso intensivo del DNA. Con il termine di DNA ricombinante ci si riferisce a segmenti di DNA realizzati e assemblati artificialmente. Essi possono essere inseriti all'interno di organismi viventi sotto forma di plasmidi o mediante altri tipi di vettori.[130] Gli organismi così prodotti sono detti geneticamente modificati e possono essere utilizzati per la produzione di proteine ricombinanti, necessarie per la ricerca biomedica,[131] o per le coltivazioni agricole.[132][133]
+Medicina forense
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: Impronta genetica e Medicina forense.
+
+La medicina forense si serve del DNA, generalmente isolato dal sangue, dalla pelle, dalla saliva, dai capelli e da altri tessuti e fluidi biologici, per identificare i responsabili di atti criminosi, come delitti o violenze. Il processo utilizzato è il fingerprinting genetico: tale tecnica consiste nel comparare la lunghezza delle sezioni variabili del DNA ripetitivo, come le short tandem repeats ed i minisatelliti, che possono risultare molto diverse tra un individuo e l'altro. La comparazione tra due campioni di DNA in esame, non si basa perciò sull'analisi di tutta la sequenza desossiribonucleotidica, ma solo su tali sezioni. Infatti, due individui non legati da rapporti di parentela hanno in comune ben il 99,9% di sequenza di DNA. Tale metodo è solitamente molto affidabile,[134] anche se a volte l'identificazione dei criminali può risultare complicata qualora la scena sia contaminata dal DNA di diverse persone.[135] Questo metodo, sviluppato nel 1984 dal genetista britannico Sir Alec Jeffreys,[136] fu usato per la prima volta nel 1988 per incriminare Colin Pitchfork. Nella pratica attuale, spesso i sospettati sono invitati a fornire un campione di DNA per il confronto con eventuali reperti biologici presenti sulla scena del delitto. Il fingerprinting genetico può essere utilizzato anche per identificare le vittime di incidenti di massa.
+
+L'acquisizione del DNA senza consenso viene indicato con il termine di Gene theft.
+Bioinformatica
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: Bioinformatica.
+
+La bioinformatica è una branca della biologia che comprende la manipolazione, la ricerca ed il data mining dei dati relativi a sequenze di DNA. Lo sviluppo di tecniche utili ad immagazzinare e ricercare sequenze di DNA, infatti, ha condotto ad ampi sviluppi dell'informatica applicata alla biologia molecolare, specialmente per quanto riguarda gli algoritmi di ricerca di stringhe e l'apprendimento automatico.[137] Gli algoritmi di ricerca (o appaiamento) di stringhe, in grado di individuare la presenza di una sequenza di lettere all'interno di sequenze molto più ampie, furono inizialmente sviluppati per la ricerca di specifiche sequenze nucleotidiche.[138]
+
+Esistono da molto tempo, ovviamente, semplici algoritmi in grado di affrontare questi problemi (quelli presenti, ad esempio, negli editor di testo), ma l'analisi del DNA, che si presenta come composto di sole quattro lettere, richiede programmi più elaborati. Il problema immediatamente correlato dell'allineamento di sequenze si pone come obiettivo quello di identificare le sequenze omologhe ed individuare le specifiche mutazioni che le rendono differenti. Queste tecniche, in particolare l'allineamento di sequenze multiple, sono utilizzate per studiare le relazioni filogenetiche e la funzione delle proteine.[139] Esistono anche algoritmi di ricerca genetica.
+
+La grande quantità di dati ottenuta da progetti come il progetto genoma umano è infatti di difficile utilizzo senza una prima analisi che permetta di localizzare i geni e le regioni regolatorie sui cromosomi. Tali algoritmi, dunque, sono in grado di riconoscere regioni putative di presenza di geni codificanti RNA o proteine.[140]
+DNA in informatica e nanotecnologie
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: Computer a DNA.
+La struttura di DNA presente a sinistra è in grado di autoassemblarsi nella configurazione presente a destra. L'uso del DNA nelle nanotecnologie sfrutta le proprietà di riconoscimento molecolare tipiche del DNA[141]
+
+Il DNA è stato utilizzato in informatica per la prima volta per risolvere un semplice problema di cammino hamiltoniano, un problema NP-completo.[142] Il calcolo attraverso il DNA è più vantaggioso rispetto a quello classico per via elettronica sia dal punto di vista dell'energia consumata, sia da quello dello spazio utilizzato: strutture di questo genere sono infatti in grado di svolgere calcoli in modalità parallele che permettono di risolvere agevolmente numerosi altri problemi quali la simulazione di macchine astratte, il problema di soddisfacibilità booleana e la versione bounded del problema del commesso viaggiatore.[143] Grazie alla sua compattezza, il DNA presenta anche un ruolo (almeno teorico) nel campo della crittografia, nella quale permetterebbe in particolare la costituzione e l'utilizzo efficiente di cifrari di Vernam sicuri.[144]
+
+Il DNA è utilizzato anche nel campo delle nanotecnologie poiché presenta proprietà di riconoscimento molecolare che lo rendono in grado di auto-assemblarsi in strutture complesse di tipo bidimensionale o poliedrico. Tali assemblati sono utilizzati con funzioni essenzialmente strutturali e non come vettori di informazione biologica.[145]
+Storia e antropologia
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: Filogenetica.
+Albero filogenetico delle miosine[146]
+
+Dal momento che il DNA è sottoposto nel tempo a mutazioni che vengono ereditate, esso contiene informazioni preziose che possono essere utilizzate dai genetisti per studiare l'evoluzione degli organismi e la loro filogenesi.[147] Sulla base delle diverse mutazioni presenti in geni estremamente conservati tra gli organismi (oppure, tramite algoritmi comparativi bioinformatici più avanzati, confrontando direttamente interi genomi) i genetisti sono in grado di ricostruire alberi filogenetici in grado di descrivere l'evoluzione di diverse specie anche molto diverse tra loro.[148][149] Studiando le mutazioni accumulatesi nel tempo, è anche possibile ricostruire alberi che descrivano l'evoluzione all'interno di famiglie di proteine.
+
+Comparando le sequenze di DNA all'interno di una stessa specie, inoltre, è possibile studiare la storia genetica di particolari popolazioni. Ciò presenta una notevole rilevanza sia per analisi ecologiche sia per studi antropologici: il DNA è stato usato, ad esempio, per ricostruire la vicenda delle dieci tribù perdute d'Israele.[150] 	
+
+
+=== Citoplasma
+
+Con il termine citoplasma si intende tutta la porzione di una cellula contenuta all'interno della membrana cellulare presente sia nelle cellule eucariote sia in quelle procariote. È costituito da organuli cellulari dispersi in una matrice fluida detta citosol. È di conseguenza fluida.
+
+Ne sono sinonimi i termini sarcoplasma, riferito al citoplasma dei miociti, ed assoplasma, riferito a quello dei neuroni. 
+
+l citoplasma occupa circa la metà del volume totale della cellula e vi si trovano all'interno tutte le sostanze chimiche vitali tra cui sali, ioni, zuccheri, una grande quantità di enzimi e proteine e la maggior parte dell'RNA. Il liquido (sostanza) costituisce circa il 75-85 per cento delle sostanze contenute nel citoplasma, ed è formato inoltre da sali minerali, sostanze organiche e inorganiche. La matrice citoplasmatica può essere definita plasmagel o plasmasol a seconda dello stato di aggregazione delle proteine.
+
+Nelle cellule eucariote, il citoplasma contiene un'intelaiatura formata da una complessa rete di filamenti costituiti da proteine fibrose e/o globulari che costituiscono il citoscheletro. Il citoscheletro conferisce alla cellula la sua forma caratteristica, rende possibili gli spostamenti degli organuli cellulari e coordina funzioni biologiche fondamentali. Il rapporto nucleo/citoplasma varia notevolmente da un tipo cellulare all’altro. Per esempio, nello spermatozoo il citoplasma è scarso ed altamente specializzato(con presenza di particolari enzimi); mentre nei linfociti è scarso e non altamente specializzato. Invece la cellula uovo contiene molto più citoplasma in rapporto con il nucleo (poiché funziona da magazzino in quanto sono contenute tutte le sostanza nutritive per lo sviluppo dell'embrione).
+Principali organuli del citoplasma
+
+Gli organuli cellulari principali contenuti nel citoplasma sono:
+
+    mitocondri,
+    ribosomi,
+    lisosomi,
+    perossisomi,
+    reticolo endoplasmatico liscio e rugoso,
+    apparato del Golgi,
+    centrioli (non presenti in tutte le cellule eucariote).
+
+Funzioni
+È proprio nel citoplasma che si svolgono le principali attività della vita cellulare (metabolismo, respirazione cellulare, movimenti della cellula, assorbimento, glicolisi, processi di sintesi, modificazioni della forma della cellula, fagocitosi, apoptosi). 
+
+=== Ribosoma
+
+
+I ribosomi sono complessi macromolecolari, immersi nel citoplasma o ancorati al reticolo endoplasmatico ruvido o contenuti in altri organuli (mitocondri e cloroplasti), responsabili della sintesi proteica. La loro funzione è quella di leggere le informazioni contenute nella catena di RNA messaggero (m-RNA).
+
+Furono messi in evidenza nel 1953 al microscopio elettronico dal biologo rumeno George Emil Palade[1], scoperta che gli valse il Premio Nobel. Il termine ribosoma fu invece proposto nel 1958 da Richard B. Roberts[2]. 
+
+I ribosomi vengono sintetizzati nel nucleolo. Sono formati da quattro molecole di RNA ribosomiale e da proteine che si associano a formare due subunità di dimensioni differenti (una più grande dell'altra). I ribosomi dei batteri, degli archea e degli eucarioti differiscono sensibilmente tra loro sia per la struttura sia per le sequenze di RNA.
+
+Un ribosoma batterico ha una massa di circa 2700 kDa, un diametro di circa 20nm ed un coefficiente di sedimentazione di 70 S.
+Esso si può suddividere in due parti o subunità, una più grande ed una più piccola:
+
+    una subunità grande di 50 S avente almeno 34 proteine (L1-L34) e due molecole di RNA (23 S e 5 S),
+    una subunità piccola di 30 S contenente almeno 21 proteine (S1-S21) ed un RNA di 16 S.
+
+Il ribosoma della cellula eucariota (fatta eccezione per quelli contenuti nei mitocondri detti mitoribosomi, e nei cloroplasti), invece, è più grande ed ha una massa molecolare di 4000 kDa, un diametro di 23 nm ed un coefficiente di sedimentazione di 80 S.
+
+Anch'esso è composto da due subunità, maggiore a 60 S e minore a 40 S:
+
+    la subunità maggiore è costituita da tre molecole di rRNA, una a 28 S, una a 5,8 S, un'ultima a 5 S e circa 45 proteine.
+    la minore consta di una sola catena di rRNA 18 S e da 33 proteine.
+
+Nel complesso si arriva a circa 80 proteine.
+
+Le singole molecole di rRNA (tranne la 5 S) vengono sintetizzate nei nucleoli come RNA 45 S. Il DNA contenuto nel nucleolo viene trascritto dalla RNA polimerasi I a partire da più punti della catena di DNA, in strutture (i cistroni) che vengono dette ad "albero di Natale": il tronco verrebbe rappresentato dal DNA, i rami dalle molte catene di rRNA che vengono trascritte nello stesso momento. rRNA 45 S appena trascritto è detto pre-rRNA; in seguito a tagli, esso darà origine a rRNA 18 S (per la subunità minore del ribosoma) e 32 S, il quale verrà tagliato ulteriormente in 28 S e 5,8 S. Nel pre-rRNA sono presenti pseudouridine e basi azotate metilate. La funzione di queste modifiche nelle basi si pensa sia di evitare il taglio enzimatico, o favorire le interazioni dell'RNA interne alla catena o con altre molecole.
+Disposizione
+
+La loro disposizione all'interno della cellula varia a seconda del tipo di cellula ed è collegata alla funzione di quest'ultima:
+
+    se la cellula secerne le proteine prodotte, possiede solo ribosomi attaccati al reticolo endoplasmatico (che occupa gran parte del citosol) e alla membrana nucleare;
+    se la cellula immagazzina queste proteine, possiede ribosomi liberi nel citoplasma.
+
+I ribosomi liberi
+
+Sono così denominati i ribosomi che si trovano liberi nel citoplasma o che fanno parte dei mitocondri o dei cloroplasti. Generalmente sono deputati alla sintesi di proteine che verranno rilasciate ed utilizzate nel citoplasma o nella parte interna della membrana degli organuli ove i ribosomi sono presenti ed anche nei perossisomi. Più ribosomi sono in grado di unirsi tra loro utilizzando come legame una stessa molecola di RNA messaggero, attraverso la quale si muovono dal codone iniziale fino a quello finale in direzione 3', a formare un poliribosoma (o polisoma).
+I ribosomi legati alle membrane
+
+Si trovano legati alle membrane costituenti il nucleo cellulare od il reticolo endoplasmatico ruvido. Si occupano di sintetizzare e rilasciare proteine all'interno delle membrane di queste strutture, dove poi saranno condotte alla loro destinazione finale che può essere sia intra- che extracellulare (nel qual caso vengono spesso espulse per esocitosi). È da segnalare che i ribosomi adesi alle membrane sono una sezione dell'insieme dei ribosomi liberi, la quale viene poi reclutata non appena iniziano a sintetizzare proteine specifiche.
+Processo di traduzione
+
+Le due subunità del ribosoma si uniscono tra loro ed operano insieme per tradurre un RNA messaggero in una catena polipeptidica durante la sintesi proteica. La parte più importante del ribosoma, sotto quest'aspetto, sono le molecole di RNA ribosomiale le quali da sole sono in grado, seppur lentamente, d'operare il processo di traduzione, comportandosi da ribozima. Questo lascia ipotizzare che la componente proteica agisca in modo tale da potenziare e velocizzare l'azione dell'RNA ribosomiale.
+
+Prima che le subunità si uniscano insieme per incominciare a tradurre la molecola di m-RNA, vi è la necessità che il complesso di pre-inizio si leghi alla subunità inferiore; a questo punto il ribosoma si può collegare alla molecola dell'RNA messaggero, e una volta che la subunità minore riconosce la tripletta di inizio, si staccano i fattori di pre-inizio, le due subunità si collegano ed il ribosoma può incominciare a sintetizzare la proteina. La subunità superiore è composta da tre siti, in ordine: sito A (amminoacidico), P (peptididico) e sito E ("exit", di uscita). Si ricordi che la subunità inferiore possiede solo un sito d'attacco predisposto per l'mRNA.
+
+Il primo transfert si va ad inserire nel sito A, a questo punto arriva un ulteriore transfert il quale si andrà a posizionare nel sito P, ora il ribosoma scorre di una tripletta, portando gli amminoacidi tradotti dal sito A, a legarsi nel sito P. La tripletta codificata da P a questo punto passa al sito E, dove verrà rilasciato. In sintesi:
+
+    Il sito A è il sito che attende l'arrivo di nuove triplette da codificare;
+    Il sito P tiene salda la sequenza polipeptidica, rilasciandola solamente quando il sito A ha tradotto un ulteriore amminoacido;
+
+L'ipotesi del segnale
+Come si è visto i ribosomi liberi e quelli legati alle membrane sintetizzano due classi di proteine tra loro differenti. Ma come può la cellula operare una simile distinzione? L'ipotesi del segnale, sviluppata nel 1971, afferma che l'informazione che permette di operare tale processo è contenuta nella sezione N-terminale della catena polipeptidica, che è la prima ad emergere dal ribosoma. Successivamente a quest'ipotesi si sono aggiunti dei dati di supporto che permisero di arrivare al seguente modello.
+Il filamento di RNA messaggero da tradurre arriva al ribosoma che in quel momento è libero e contenuto nel citoplasma. Una volta iniziata la traduzione, nella parte N-terminale (anche se in alcuni polipeptidi è più interna) è contenuta una sequenza di 6-20 amminoacidi non polari. Tale sequenza viene riconosciuta da una particella di riconoscimento del segnale (SRP), una struttura formata da una molecola di RNA (RNA 7SL) e 6 catene polipetidiche, che vi si lega e blocca il suo prematuro ripiegamento e la continuazione della sintesi proteica. Ciò fa sì che il ribosoma possa arrivare alle membrane del reticolo endoplasmatico rugoso, invece di completare la traduzione della proteina che altrimenti sarebbe rilasciata nel citoplasma. La particella di riconoscimento del segnale legata agisce come un ligando che va a legarsi a due recettori che si trovano sulla membrana citoplasmatica del reticolo endoplasmatico, uno per la SRP e l'altro per il ribosoma. Per creare il legame tra SRP ed il suo recettore è necessario che ad SRP si leghi una molecola di guanosina trifosfato (GTP). Successivamente l'SRP viene staccata dalla sequenza segnale e poi dal ribosoma, per idrolisi del GTP in guanosina difosfato (GDP) mentre la sequenza segnale va a legarsi ad una sezione d'un canale proteico transmembrana. Essendosi staccato l'SRP il ribosoma riprende la sintesi proteica ma la catena polipeptidica viene traslocata attraverso il canale e penetra nel reticolo endoplasmatico (traslocazione). Successivamente la sequenza segnale viene tagliata da un enzima proteolitico, la peptidasi del segnale, ed il resto della proteina viene sottoposta ad appositi processi di ripiegamento e di formazione di legami disolfuro. 
+
+

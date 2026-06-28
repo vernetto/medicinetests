@@ -1,0 +1,650 @@
+﻿Università degli Studi di UDINE 
+CdL delle Professioni Sanitarie 
+
+ PROVA DI AMMISSIONE AI CORSI DI LAUREA DELLE PROFESSIONI SANITARIE 
+
+Anno Accademico 2022/2023 
+
+Test di Competenze di  lettura e conoscenze acquisite negli studi 
+
+Brano 1 
+
+Leggere il brano e rispondere a ogni quesito solo in base alle informazioni contenute (esplicitamente o implicitamente) nel brano e non in 
+base a quanto il candidato eventualmente conosca sull’argomento. 
+“Se non si fosse prodotto un tale fatto, noi non saremmo qui a parlarne.” Nella descrizione dell’universo a varie riprese ci si imbatte in eventi, in 
+apparenza fortuiti, che sembrano indispensabili alla comparsa dell’essere umano. Una concordanza del tutto straordinaria fra vari parametri nucleari ha 
+reso possibile la nascita del carbonio nelle giganti rosse. Le popolazioni relative dei fotoni e dei nucleoni danno all’universo la longevità che si richiede 
+per la comparsa della vita e al tempo stesso consentono la formazione delle stelle e delle galassie ecc. È molto lungo l’elenco di queste “coincidenze 
+miracolose”.  
+Il principio antropico è stato inventato, se non per spiegare, almeno per illuminare un po’ questa situazione sorprendente. Esso può essere formulato 
+press’a poco nel modo seguente: “dato che esiste un osservatore, l’universo ha le proprietà che si richiedono per generarlo”. La cosmologia deve tener 
+conto dell’esistenza del cosmologo. Queste domande non si sarebbero poste in un universo che non avesse avuto queste proprietà… 
+Si obietterà a ragione che la materia possiede capacità di adattamento straordinarie. Uno sguardo ai pianeti vicini ci dimostra nondimeno che 
+quest’adattabilità ha dei limiti. L’aridità della Luna e di Mercurio, le alte temperature di Venere hanno avuto ragione della frenesia vitale. Persino 
+Marte, le cui condizioni non sono così dure, sembra sterile. 
+
+(Hubert Reeves, L’evoluzione cosmica, traduzione di Libero Sosio di Patience dans l’azur, Milano, Rizzoli, 1995, pp. 185-186) 
+
+1. In base alle informazioni fornite nel Brano 1, come può essere sintetizzato il principio
+antropico?
+
+A) Perché sia possibile a un essere vivente porsi domande sull’universo, l’universo deve
+essere fatto in modo da ospitare esseri viventi
+
+B) La comparsa prima della vita e poi degli esseri umani all’interno dell’universo è un
+processo inevitabile
+
+C) Alcuni parametri nucleari hanno reso impossibile la comparsa della vita nell’universo
+D) Ogni possibile universo deve avere caratteristiche fisiche tali da rendere possibile la
+
+comparsa della vita al suo interno
+E) Se l’universo avesse caratteristiche tali da rendere impossibile la vita, al suo interno
+
+sarebbe comunque possibile a un osservatore interrogarsi sulla cosmologia
+
+2. Nel contesto del Brano 1, per quale motivo l’autore presenta l’esempio di Marte?
+A) Per mostrare che, per quanto la vita sia adattabile, bastano condizioni leggermente
+
+diverse da quelle della Terra per renderla impossibile
+B) Per far vedere in quali condizioni la vita potrebbe nascere facilmente, grazie alla sua
+
+adattabilità
+C) Per chiarire le conseguenze della formazione delle stelle e delle galassie
+D) Per mostrare come le proprietà dell’universo producano in altri contesti conseguenze
+
+diverse da quelle che hanno prodotto sulla Terra
+E) Per sintetizzare le condizioni dei pianeti più vicini alla Terra
+
+3. Cosa regola il titolo II della prima parte della Costituzione Italiana?
+A) I rapporti etico-sociali
+B) I principi fondamentali
+C) I rapporti economici
+D) I rapporti politici
+E) Il presidente della repubblica
+
+1
+
+
+
+4. Cosa si intende con l’aggettivo “divisivo”?
+A) Che crea divisioni o contrapposizioni, impedendo di preservare o di raggiungere un'unità
+
+di punti di vista e di intenti
+B) Che crea uno spettro distorto dell’orizzonte visibile ad occhio nudo
+C) Che permette la conservazione del patrimonio ereditario famigliare
+D) Che consente di appartare i convenuti secondo la loro volontà di separarsi e convergere
+
+verso un’unità di punti di vista
+E) Che serve a distogliere dall’occupazione o preoccupazione dominante o a sviare
+
+l’argomento d’una conversazione
+
+Test di Ragionamento logico e problemi 
+5. Ieri il prezzo di un paio di scarpe era il 25% in più di oggi. Quindi oggi?
+
+A) è il 20% in meno di ieri
+B) è il 25% in meno di ieri
+C) è il 20% in più di ieri
+D) è il 25% in più di ieri
+E) è lo stesso di ieri
+
+6. Ad un torneo di tennis singolo a eliminazione diretta sono iscritte 64 persone. Quante
+partite dovranno essere disputate per eleggere il campione?
+
+A) 63
+B) 64
+C) 128
+D) 127
+E) 32
+
+7. In un gruppo di 42 persone ci sono 18 medici e 24 infermieri. Si vogliono scegliere 14
+persone in modo da rispettare la proporzione tra medici e infermieri. Quanti medici si
+devono scegliere?
+
+A) 6
+B) 8
+C) 7
+D) 5
+E) 9
+
+8. Enea si prepara per la gara di triathlon. Enea si allena nel nuoto ogni tre giorni
+(intervallando ogni allenamento con due giorni di riposo), nella corsa a piedi ogni quattro
+giorni e nella corsa in bicicletta ogni cinque giorni.
+Se Enea si allena anche di sabato e domenica e oggi si è allenato nel nuoto e nella corsa
+in bicicletta mentre ieri si è allenato nella corsa a piedi, fra quanti giorni (a partire da oggi)
+Enea si allenerà in tutte e tre le discipline?
+
+A) il 15° giorno
+B) il 12° giorno
+C) il 16° giorno
+D) il 18° giorno
+E) il 14° giorno
+
+2
+
+
+
+Università degli Studi di UDINE 
+CdL delle Professioni Sanitarie 
+
+9. Le tavole di verità sono tabelle usate nella logica per determinare se, attribuiti i valori di
+verità alle proposizioni che la compongono, una determinata proposizione è vera o falsa.
+Le tabelle di verità della congiunzione (∧), della implicazione (⇔) e della negazione non
+(¬), sono rispettivamente:
+
+Qual è la tabella di verità della proposizione:  ¬(A ⇔ B) ∧ (¬A ⇔ (¬B))? 
+
+A) 
+
+B) 
+
+C) 
+
+D) 
+
+E) 
+
+Test di Biologia 
+10. Gli organismi eterotrofi:
+
+A) acquisiscono energia partendo da sostanze organiche prodotte dagli autotrofi
+B) sono in grado di sintetizzare le proprie sostanze nutritive
+C) si trovano solo tra i procarioti
+D) sono tutti eucarioti
+E) utilizzano l’energia solare per sintetizzare glucosio a partire da sostanze inorganiche
+
+3
+
+
+
+11. Gli esseri viventi:
+A) sono tutti composti da cellule
+B) sono tutti visibili ad occhio nudo
+C) sono o vegetali o animali
+D) sono tutti pluricellulari
+E) si dividono sempre per mitosi
+
+12. Le coppie di basi complementari che si ritrovano nella struttura a doppia elica del DNA
+sono:
+
+A) timina-adenina, citosina-guanina
+B) sempre coppie di una purina con un’altra purina
+C) sempre coppie di una pirimidina con un’altra pirimidina
+D) dimeri di pirimidine
+E) desossiribonucleotidi-trifosfati
+
+13. La membrana plasmatica si trova:
+A) in tutte le cellule
+B) solo nelle cellule procariotiche
+C) solo nelle cellule eucariotiche
+D) solo nelle cellule animali
+E) in tutte le cellule meno quelle vegetali
+
+14. Una anomalia in cui è presente un cromosoma in più o uno in meno rispetto al normale è
+detta:
+
+A) aneuploidia
+B) trisomia
+C) monosomia
+D) cariotipo
+E) traslocazione
+
+15. Nelle cellule che svolgono attività secretoria è particolarmente sviluppato:
+A) l’apparato del Golgi
+B) il nucleo
+C) il rivestimento delle cellule
+D) il numero dei lisosomi
+E) il numero dei mitocondri
+
+16. La comparsa di proprietà differenziate in una cellula eucariote è possibile grazie a:
+A) espressione selettiva di geni specifici
+B) ridondanza genica
+C) espressione sequenziale di tutti i geni
+D) delezione selettiva di geni specifici
+E) inibizione simultanea di tutti i geni
+
+17. Le membrane biologiche sono semipermeabili. Ciò significa che il passaggio di sostanze
+attraverso di esse:
+
+A) non è completamente libero
+B) avviene sempre con consumo d'energia
+C) è sempre mediato da canali
+D) è completamente libero dall'esterno verso l'interno
+E) è completamente libero dall'interno verso l'esterno
+
+4
+
+
+
+Università degli Studi di UDINE 
+CdL delle Professioni Sanitarie 
+
+18. Quale delle seguenti affermazioni non è corretta riguardo alla replicazione del DNA?
+A) La replicazione comporta la formazione di frammenti di Okazaki sia sul filamento guida
+
+che su quello in ritardo
+B) La DNA elicasi separa i due filamenti del DNA
+C) Le proteine leganti il singolo filamento tengono separati i filamenti
+D) La DNA polimerasi richiede un primer e può sintetizzare un nuovo filamento di DNA
+
+soltanto in direzione 5’- 3’
+E) La DNA topoisomerasi riduce l’avvolgimento del DNA davanti alla forca di replicazione
+
+19. Le proteine che formano complessi regolativi con le chinasi che governano i processi che
+avvengono durante le fasi G1, S, G2, ed M del ciclo cellulare sono chiamate:
+
+A) Cicline
+B) Dineine
+C) Connessine
+D) Integrine
+E) Clatrine
+
+20. La teoria endosimbiotica è proposta per spiegare:
+A) l'origine dei mitocondri e dei cloroplasti
+B) l'origine degli organelli membranosi intracellulari
+C) l'esistenza di un unico specifico precursore degli eucarioti
+D) che le cellule eucariotiche sono il prodotto dell'evoluzione dei procarioti
+E) che le cellule eucariotiche possono dare origine ad organismi multicellulari
+
+21. La struttura primaria di una proteina:
+A) è data dalla sequenza degli amminoacidi che la compongono
+B) è la struttura tridimensionale della proteina
+C) è la struttura di alcuni segmenti della proteina
+D) non esiste
+E) è la struttura dei domini primari che la compongono
+
+22. L’energia rilasciata durante il passaggio di elettroni nella catena di trasporto degli elettroni
+viene utilizzata per creare, ai due lati della membrana interna dei mitocondri, un gradiente di:
+
+A) Protoni
+B) ADP
+C) ATP
+D) Ossigeno
+E) Elettroni
+
+23. Quali tra i seguenti ioni o molecole passano per diffusione semplice attraverso il doppio
+strato lipidico della membrana plasmatica?
+
+A) Ossigeno
+B) Ioni Sodio
+C) Glucosio
+D) Peptidi
+E) Ioni Cloruro
+
+5
+
+
+
+24. Gli anticorpi sono:
+A) proteine in grado di combinarsi con uno specifico antigene
+B) proteine di origine virale
+C) cellule del sistema immunitario
+D) proteine di origine batterica
+E) geni in grado di combinarsi con uno specifico antigene
+
+25. Un allele è:
+A) la forma alternativa di un gene presente nello stesso locus di cromosomi omologhi
+B) la forma alternativa di una proteina presente nello stesso locus di cromatidi fratelli
+C) la duplicazione di un gene all’interno di un cromosoma
+D) la forma alternativa di un gene presente su loci diversi all’interno dello stesso cromosoma
+E) un’isoforma alternativa di un RNA messaggero
+
+26. Se una tossina batterica distrugge i ribosomi, quale attività cellulare sarà influenzata per
+prima?
+
+A) Sintesi proteica
+B) Sintesi del DNA
+C) Movimento
+D) Stoccaggio di energia
+E) Trasporto attivo
+
+27. Gli enzimi sono catalizzatori biologici di natura:
+A) proteica
+B) monosaccaridica
+C) polisaccaridica
+D) steroidea
+E) lipidica
+
+28. Quale fra le seguenti non è una funzione del sistema linfatico?
+A) Produzione dei globuli bianchi
+B) Ritorno al sangue dei fluidi tissutali in eccesso
+C) Trasporto dei grassi assorbiti dal sistema digerente
+D) Difesa del corpo contro le malattie
+E) Trasporto di proteine
+
+29. Il sistema endocrino è in grado di:
+A) tutte le altre risposte sono corrette
+B) contribuire al mantenimento dell’equilibrio dei processi fisiologici
+C) modificare il metabolismo delle cellule
+D) inviare messaggi agli organi bersaglio
+E) utilizzare segnali chimici come sistema di comunicazione
+
+30. Qual è il nome del processo mediante il quale le molecole fluiscono da un'area di
+maggiore concentrazione a una di minore concentrazione?
+
+A) Diffusione
+B) Trasfusione
+C) Respirazione
+D) Dialisi
+E) Trasporto attivo primario
+
+6
+
+
+
+Università degli Studi di UDINE 
+CdL delle Professioni Sanitarie 
+
+31. Il capside di un virus consiste di:
+A) subunità proteiche
+B) acidi nucleici
+C) RNA e lipidi
+D) polisaccaridi
+E) lipidi elicoidali
+
+32. Quali gruppi funzionali sono presenti in una molecola di glucosio nella sua forma lineare?
+A) 1 gruppo aldeidico e 5 gruppi ossidrilici
+B) 1 gruppo chetonico e 5 gruppi ossidrilici
+C) 1 gruppo chetonico e 4 gruppi ossidrilici
+D) 1 gruppo aldeidico, un gruppo chetonico e 4 gruppi ossidrilici
+E) 1 gruppo aldeidico e 6 gruppi ossidrilici
+
+Test di Chimica 
+33. Quale è la natura del legame O-H nella molecola di acqua?
+
+A) Covalente polare
+B) Covalente puro
+C) Ad idrogeno
+D) Ionico
+E) Metallico
+
+34. Un ossidante forte ha:
+A) una spiccata tendenza a ricevere elettroni
+B) una spiccata tendenza a donare elettroni
+C) una spiccata tendenza a ricevere protoni
+D) una spiccata tendenza a donare protoni
+E) nessuna delle altre risposte è corretta
+
+35. Dove si trovano i neutroni?
+A) Nel nucleo dell’atomo
+B) In orbite attorno al nucleo atomico
+C) Nei legami tra atomi
+D) Negli atomi, come doppietti non condivisi
+E) Negli atomi paramagnetici come particelle spaiate
+
+36. Nei cosiddetti “saponi” quali molecole organiche ci sono?
+A) Sali di acidi grassi a catena lunga
+B) Alcani
+C) Alcheni
+D) Alcoli
+E) Esteri
+
+37. Negli ossiacidi a quale elemento è legato l’idrogeno acido?
+A) All’ossigeno
+B) Al carbonio
+C) Al non-metallo
+D) Ad un altro atomo di idrogeno
+E) All’azoto
+
+7
+
+
+
+38. Si prelevi 1mL di una soluzione 1M di un qualsivoglia soluto. Quanto vale la
+concentrazione di quel volume di soluzione prelevato?
+
+A) 1 M
+B) 1 mM
+C) 1000 M
+D) 0.001 M
+E) Non è determinabile
+
+39. La costante Kc di una reazione all’equilibrio:
+A) varia solo modificando la temperatura del sistema
+B) varia solo modificando il volume del sistema
+C) in quanto costante non varia mai
+D) varia solo modificando il numero di moli
+E) varia solo modificando la pressione totale del sistema
+
+40. La Kw dell’acqua in una soluzione 10−2 M di KCl a 25°C è:
+A) 10−14
+
+B) 10−7
+
+C) 10−2
+
+D) 0
+E) 1014
+
+41. Quanti elettroni sono contenuti nell’atomo di un elemento con configurazione elettronica
+[Ne] 3s1   ?
+
+A) 11
+B) 9
+C) 4
+D) 14
+E) 8
+
+42. Confrontando le soluzioni 0,1 M di fruttosio (C6H12O6), 0,1 M di cloruro di potassio (KCl) e
+0,1 M di cloruro di calcio (CaCl2) a 25° C, si può affermare che:
+
+A) la soluzione contenente fruttosio è quella con la minore pressione osmotica
+B) le soluzioni hanno un pH differente
+C) le soluzioni hanno la stessa tensione di vapore
+D) la soluzione contenente cloruro di calcio è quella che bolle a temperatura inferiore
+E) la soluzione contenente fruttosio è quella con la minore temperatura di congelamento
+
+43. Alla fine di una reazione equimolare completa di neutralizzazione tra un acido forte
+monoprotico e una base forte monoprotica in soluzione avremo:
+
+A) sale che da idrolisi neutra
+B) sale che da idrolisi acida
+C) sale che da idrolisi basica
+D) sale che non da idrolisi
+E) una soluzione tampone
+
+44. La formula della legge di Henry per il calcolo della concentrazione di un gas in un liquido è:
+A) C = kP
+B) PV = nRT
+C) P = kT
+D) P = cRT
+E) C = nkP
+
+8
+
+
+
+Università degli Studi di UDINE 
+CdL delle Professioni Sanitarie 
+
+45. Se l’aggiunta di un sale provoca un innalzamento del pH, questo significa che:
+A) il sale reagendo con l’acqua è andato incontro ad una idrolisi basica
+B) il sale reagendo con l’acqua è andato incontro ad una idrolisi acida
+C) il sale reagendo con l’acqua ha provocato un innalzamento della Kw
+D) è avvenuta una reazione redox e dalla soluzione si sono sviluppati idrogeno e ossigeno
+
+gassosi
+E) il sale era il prodotto di una reazione di neutralizzazione tra un acido forte ed una base forte
+
+46. Quale è la formula generale per indicare i termini della serie degli alcani?
+A) Cn H2n+2
+B) C2n H2n+2
+C) Cn H2n−2
+D) Cn H2n
+E) C2n Hn
+
+47. Il composto che ha formula CH3-CH2-CHOH-CH2-CH3 :
+A) è un alcol secondario
+B) è un alcol terziario
+C) è un estere
+D) è un chetone
+E) è una aldeide
+
+Test di Fisica e Matematica 
+48. In un sistema di riferimento inerziale, un punto materiale che si muove di moto circolare
+
+uniforme:
+A) è soggetto a una forza centripeta
+B) è soggetto a una forza centrifuga
+C) non è soggetto a forze
+D) è soggetto a forze con risultante nulla
+E) è soggetto a una forza di Coriolis
+
+49. Sia F la forza di attrazione gravitazionale tra le masse m1 e m2 poste a distanza r. Quanto
+vale la forza di attrazione se si raddoppia ciascuna massa e si quadruplica la loro distanza?
+
+A) F/4
+B) 4F
+C) F
+D) F/2
+E) F/8
+
+50. Un pendolo semplice di massa M = 2 Kg e lunghezza L = 9,8 m ha un periodo di
+oscillazione di:
+
+A) 2π s
+B) 1 s
+C) 4 s
+D) 4π s
+E) π s
+
+9
+
+
+
+51. Il momento di una forza F applicata nel punto A rispetto ad un punto O:
+A) è un vettore perpendicolare al piano generato da F e dal vettore che collega O ad A
+B) è un vettore appartenente al piano generato da F e dal vettore che collega O ad A
+C) è un vettore il cui modulo dipende solo dal modulo della forza F
+D) è un vettore il cui modulo dipende esclusivamente dal modulo della forza F e dalla
+
+lunghezza del vettore OA
+E) non può mai essere nullo
+
+52. Quanto vale 2012 − 1992?
+A) 800
+B) 4
+C) 400
+D) 2
+E) 200
+
+53. Il prodotto 2 ⋅ 3 4 ⋅ 4 8  è uguale a: 
+A) 212 211
+
+B) 412 211
+
+C) 4
+D) 26 25
+
+E) 46 25
+
+54. Il logaritmo in base 5 di 250 è uguale a:
+A) 3 + log5 2
+B) 3
+C) 3 + log2 5
+D) 5
+E) log250 5
+
+55. Il polinomio 27x3 + 8 si fattorizza come:
+A) (3x + 2) (9x2 − 6x + 4)
+B) (2x + 3) (4x2 − 6x + 9)
+C) (3x − 2) (9x2 + 6x + 4)
+D) (3x + 2) (9x2 − 12x + 4)
+E) (3x − 2) (9x2 + 12x + 4)
+
+56. Le soluzioni della disequazione x2 − x − 6 < 0 sono:
+A) −2 < x < 3
+B) x < −2 o x > 3
+C) x < −3 o x > 2
+D) −3 < x < 2
+E) nessuna delle altre risposte è corretta
+
+10
+
+
+
+Università degli Studi di UDINE 
+CdL delle Professioni Sanitarie 
+
+57. Quale di queste uguaglianze è corretta?
+1 = 6
+
+1
+A + 1 5
+
+)
+2 3
+
+1 + 1
+2 3 = 1
+
+B) 1 6
+5
+
+1
+2 = 1
+
+C) 1 10
+5
+
+1
+3 = 3
+
+D) 1 5
+5
+
+3 = 5
+1
+
+E) + 1 2
+2 3
+
+58. Quale delle seguenti rette è perpendicolare alla retta di equazione y = 2x + 3  ?
+
+A) = − 1
+y x − 4
+
+2
+
+= 1
+B) y x + 3
+
+2
+1
+
+C) y = −2x +
+3
+
+y = x + 1
+D) 2
+
+3
+E) Nessuna delle altre risposte è corretta
+
+59. Il prodotto vettoriale di due vettori perpendicolari è:
+A) un vettore di modulo pari al prodotto dei moduli, con direzione perpendicolare ai due
+
+vettori e verso in accordo alla regola della mano destra
+B) il vettore nullo
+C) un vettore con direzione e verso che segue la regola del parallelogramma
+D) un vettore polare
+E) uno scalare
+
+ 11
+
+
+
+60. Determinare da che altezza deve essere lasciato cadere un grave per raggiungere il suolo
+in 2s (si trascuri la resistenza dell’aria):
+
+A) circa 19,6 m
+B) circa 9,8 m
+C) circa 40,2 m
+D) circa 98,1 m
+E) circa 125,1 m
+
+********** FINE DELLE DOMANDE ********** 
+
+IN TUTTI I QUESITI PROPOSTI LA SOLUZIONE E' LA RISPOSTA ALLA LETTERA A) 
+
+12

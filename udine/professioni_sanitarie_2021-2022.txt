@@ -1,0 +1,657 @@
+﻿Università degli Studi di UDINE 
+CdL delle Professioni Sanitarie 
+
+ PROVA DI AMMISSIONE AI CORSI DI LAUREA DELLE PROFESSIONI SANITARIE 
+
+Anno Accademico 2021/2022 
+
+Test di Ragionamento Logico e Cultura Generale 
+1. Tommaso, Giorgio, Michele, Nicolò praticano ognuno una differente disciplina di
+
+snowboard e si allenano in quattro giorni differenti sulla stessa pista invernale. La pista è
+disponibile per gli allenamenti nei pomeriggi dei primi 4 giorni della settimana feriale.
+Ogni giorno della settimana è dedicato all’allenamento a turno di una delle discipline: half
+pipe, slope style, big air e bordercross. Sapendo che:
+- Giorgio si allena il lunedì o il martedì,
+- Nicolò che pratica big air, si allena il giovedì,
+- chi pratica il bordercross si allena il giorno dopo l’allenamento dello slope style e il
+giorno prima dell’allenamento di half pipe,
+- Michele, che si allena il giorno dopo Tommaso, pratica half pipe o slope style.
+In base alle informazioni sopra riportate quale dei seguenti abbinamenti è corretto?
+
+A) Tommaso – bordercross – martedì
+B) Michele – half pipe – lunedì
+C) Giorgio – slope style – martedì
+D) Tommaso – half pipe – mercoledì
+E) Giorgio – bordercross – lunedì
+
+2. Quale tra i seguenti velivoli condivide una proprietà aggiuntiva al volo con tutte le parole
+1, 2 e 3?
+1) mongolfiera
+2) aliante
+3) parapendio
+
+A) Deltaplano
+B) Dirigibile
+C) Idrovolante
+D) Elicottero
+E) Jet
+
+3. Quale delle seguenti parole ha un nesso semantico sia con malato che con calmo?
+A) Paziente
+B) Mansueto
+C) Sofferente
+D) Degente
+E) Indulgente
+
+1
+
+
+
+4. Siano p, q e r tre proposizioni, quale/i fra le seguenti proprietà è/sono vera/e?
+P1    (p ∧ q) ∧ r =  p ∧ (q ∧ r)
+P2    p ∨ (q ∧ r) =  (p ∨ q) ∧ (p ∨ r)
+P3    q ∧ (q ∨ r) = q
+
+A) Tutte
+B) solo P2
+C) solo P3
+D) solo P1
+E) Nessuna
+
+5. Qual è la coppia anomala rispetto alle altre?
+A) fallimento – trionfo
+B) lavoro – opera
+C) successo – vittoria
+D) pizzo – merletto
+E) gigante – ciclope
+
+6. Qual è la proposizione contronominale della affermazione: “se il prossimo settembre il
+numero di contagi di corona virus aumenterà le scuole effettueranno lezioni a distanza e
+non in presenza”?
+
+A) se il prossimo settembre le scuole effettueranno lezioni in presenza e non a distanza
+allora il numero di contagi di corona virus non aumenterà
+
+B) se il prossimo settembre il numero di contagi di corona virus non aumenterà le scuole
+effettueranno lezioni in presenza e non a distanza
+
+C) se il prossimo settembre le scuole effettueranno lezioni a distanza e non in presenza il
+numero di contagi di corona virus aumenterà
+
+D) se il prossimo settembre il numero di contagi di corona virus non aumenterà le scuole
+effettueranno lezioni a distanza e non in presenza
+
+E) se il prossimo settembre il numero di contagi di corona virus aumenterà le scuole
+effettueranno lezioni in presenza e non a distanza
+
+7. Considerata la premessa: se Emma si allenerà duramente nelle prossime settimane, Alice
+correrà con Emma la staffetta dell’altipiano del Renon alla fine del mese di agosto.
+Consideriamo le quattro opzioni:
+A – Alice non ha corso con Emma la staffetta dell’altipiano del Renon quindi Emma non si
+è allenata duramente nelle scorse settimane
+B – Alice ha corso con Emma la staffetta dell’altipiano del Renon quindi Emma si è
+allenata duramente nelle scorse settimane
+C – Emma non si allenata duramente nelle scorse settimane quindi Alice non ha corso
+con Emma la staffetta dell’altipiano del Renon
+D – Emma si allenata duramente nelle scorse settimane quindi Alice ha corso con Emma
+la staffetta dell’altipiano del Renon.
+Quale/i di queste, per la regola del modus ponens o del modus tollens, è/sono
+logicamente corrette?
+
+A) A e D
+B) solo D
+C) A, B e D
+D) solo A
+E) B e C
+
+2
+
+
+
+Università degli Studi di UDINE 
+CdL delle Professioni Sanitarie 
+
+8. Enea, Michele, Nicolò e Tommaso hanno in tutto 53 fumetti. Se tutti possiedono almeno
+un fumetto e il numero dei fumetti di Enea è il triplo di quelli di Michele e il numero dei
+fumetti di Nicolò è il doppio di quelli di Tommaso aumentato di uno, qual è il massimo
+numero di fumetti che può possedere Nicolò?
+
+A) 33
+B) 16
+C) I dati assegnati non permettono di rispondere al quesito
+D) 30
+E) 10
+
+9. La profumeria di Enea propone per alcuni rossetti Lèvres in vendita al 50 % un ulteriore
+sconto del 25%. Emma, cliente della profumeria ha una tessera fedeltà che le garantisce
+uno sconto del 20 % su ogni acquisto presso la profumeria. Qual è lo sconto che ha
+ottiene Emma per l’acquisto di un rossetto Lèvres?
+
+A) 70 %
+B) 95 %
+C) 80 %
+D) 72,5 %
+E) 97,5 %
+
+10. Quale fra le seguenti affermazioni è la negazione della frase “tutti gli atleti che
+attualmente giocano negli All Blacks (nazionale di rugby neozelandese) sono nati in
+Nuova Zelanda”?
+
+A) Almeno un attuale All Blacks non è nato in nuova Zelanda
+B) Tutti gli attuali All Blacks sono nati in Nuova Zelanda
+C) Solo i nati in Nuova Zelanda giocano negli attuali All Blacks
+D) Nessun attuale All Blacks è nato in nuova Zelanda
+E) Nessun nato in Nuova Zelanda gioca negli attuali All Blacks
+
+11. Quale fra i seguenti è l’esatto ordine cronologico dei tre eventi elencati?
+E1 – Giorgio De Chirico dipinge Le muse inquietanti
+E2 – Roy Lichtenstein produce Crying Girl
+E3 – Van Gogh dipinge Notte stellata
+
+A) E3 – E1 – E2
+B) E2 – E1 – E3
+C) E1 – E2 – E3
+D) E3 – E2 – E1
+E) E2 – E3 – E1
+
+12. Quali fra i seguenti è l’autore della novella Il treno ha fischiato?
+A) L. Pirandello
+B) G. Verga
+C) G. D’Annunzio
+D) G. Deledda
+E) E. De Amicis
+
+3
+
+
+
+13. Quale termine può essere associato ad entrambe le seguenti definizioni?
+“modo di vivere in relazione alle condizioni e possibilità economiche”
+“la più acuta delle voci maschili”
+
+A) Tenore
+B) Baritono
+C) Livello
+D) Tasso
+E) Basso
+
+14. Con quale nome viene comunemente indicata la tecnica di conversione di dati da formato
+leggibile a un formato codificato che può essere letto o elaborato solo dopo che è stato
+decifrato?
+
+A) Crittografia
+B) Dattilografia
+C) Aplografia
+D) Stenografia
+E) Calligrafia
+
+15. In quale edificio romano si trovano le spoglie dei Re d’Italia Umberto I e Vittorio Emanuele
+II?
+
+A) Pantheon
+B) Altare della Patria
+C) Ara Pacis
+D) Basilica di Santa Maria in Aracoeli
+E) Basilica di San Giovanni in Laterano
+
+16. Come viene comunemente chiamata l’affezione psicosomatica che provoca tachicardia,
+capogiri, vertigini, confusione e allucinazioni in soggetti messi al cospetto di opere d’arte
+di straordinaria bellezza?
+
+A) Sindrome di Stendhal
+B) Sindrome di Stoccolma
+C) Sindrome di Arts
+D) Sindrome di Down
+E) Sindrome di West
+
+17. Quanti sono gli articoli della Costituzione Italiana riguardanti i principi fondamentali?
+A) 12
+B) 6
+C) 10
+D) 8
+E) 18
+
+18. Con quale simbolo viene indicato il coefficiente di resistenza aerodinamica usato per
+misurare la resistenza aerodinamica di un corpo in moto in un fluido?
+
+A) Cx 
+B) A.D.C.
+C) RA
+D) C.R.A.
+E) ARC
+
+4
+
+
+
+Università degli Studi di UDINE 
+CdL delle Professioni Sanitarie 
+
+19. Quale fra i seguenti arcipelaghi si trova nell’oceano Atlantico?
+A) Azzorre
+B) Baleari
+C) Cicladi
+D) Egadi
+E) Sporadi
+
+20. Quale fra i seguenti è l’esatto ordine cronologico dei tre eventi storici elencati?
+E1 – inizio rivoluzione di ottobre
+E2 – fondazione partito fascista
+E3 – fondazione partito nazionalsocialista tedesco
+
+A) E1 – E3 – E2
+B) E3 – E2 – E1
+C) E2 – E1 – E3
+D) E1 – E2 – E3
+E) E3 – E1 – E2
+
+21. Da quale città ebbe inizio il primo viaggio dell’Orient Express il famoso treno passeggeri
+che collegava XXX a Costantinopoli?
+
+A) XXX = Parigi
+B) XXX = Londra
+C) XXX = Ginevra
+D) XXX = Venezia
+E) XXX = Vienna
+
+22. Quale nome viene utilizzato per indicare i gruppi di processi ai nazisti coinvolti nella
+seconda guerra mondiale e nella Shoah?
+
+A) Processo di Norimberga
+B) Processo di Berlino
+C) Processo di Monaco
+D) Processo di Mosca
+E) Processo di Tokyo
+
+Test di Biologia 
+23. Quale tra le seguenti NON è una caratteristica degli epiteli di rivestimento?
+
+A) Hanno una vascolarizzazione propria
+B) Le cellule sono a stretto contatto tra loro
+C) Le lamine epiteliali hanno una superficie apicale libera
+D) La faccia inferiore poggia su una membrana basale
+E) Possono essere costituiti da un solo strato di cellule
+
+24. Quale tra le seguenti ossa del cranio è un osso pari?
+A) Parietale
+B) Frontale
+C) Occipitale
+D) Sfenoide
+E) Etmoide
+
+5
+
+
+
+ 
+
+25. Quale parte dell’encefalo coordina l’attività muscolare e l’equilibrio del corpo? 
+A) Cervelletto 
+B) Corpo calloso 
+C) Diencefalo 
+D) Midollo allungato 
+E) Mesencefalo 
+
+ 
+26. L’ileo è: 
+
+A) l’ultimo segmento dell’intestino tenue 
+B) un osso formato dalla fusione delle vertebre sacrali 
+C) la zona del rene attraversata da pelvi renale e vasi sanguigni 
+D) la porzione interna degli alveoli polmonari 
+E) il vaso linfatico all’interno dei villi intestinali 
+
+ 
+27. In condizioni fisiologiche, in un mm3 di sangue, quali tra i seguenti elementi corpuscolati 
+
+sono presenti in minore quantità? 
+A) Granulociti basofili 
+B) Granulociti neutrofili 
+C) Monociti 
+D) Piastrine 
+E) Linfociti 
+
+ 
+28. Quale tra i seguenti composti NON è un amminoacido? 
+
+A) Istamina 
+B) Arginina 
+C) Asparagina 
+D) Serina 
+E) Leucina 
+
+ 
+29. Quale tra le seguenti affermazioni relative a una patologia monogenica, autosomica 
+
+recessiva è corretta? 
+A) Può essere trasmessa sia ai figli maschi che alle figlie femmine 
+B) E’ sempre trasmessa ai figli 
+C) Si manifesta solo allo stato di eterozigosi 
+D) Può essere trasmessa dalla madre solo ai figli maschi 
+E) La probabilità che due genitori portatori sani abbiano un figlio malato è del 50% 
+
+ 
+30. Il meccanismo con cui una cellula assume dall’ambiente sostanze liquide, inglobate in 
+
+piccole vescicole, è chiamato: 
+A) pinocitosi 
+B) endocitosi 
+C) fagocitosi 
+D) diffusione facilitata 
+E) osmosi  
+
+ 
+31. La trasduzione è: 
+
+A) il trasferimento di geni da una cellula batterica ad un’altra tramite un fago 
+B) un’anomalia cromosomica 
+C) una fase della sintesi proteica 
+D) il meccanismo che permette di produrre proteine diverse partendo dallo stesso gene 
+E) lo spostamento di un trasposone all’interno del genoma 
+
+ 
+
+ 6
+
+
+
+Università degli Studi di UDINE 
+CdL delle Professioni Sanitarie 
+
+32. Il daltonismo è un carattere recessivo legato al cromosoma X. Qual è la probabilità che il
+figlio maschio di un uomo daltonico e di una donna con visione normale dei colori sia
+daltonico, sapendo che il nonno materno era daltonico?
+
+A) 50%
+B) 100%
+C) 75%
+D) 25%
+E) 0%
+
+33. La resistenza agli antibiotici che si sviluppa in alcuni ceppi batterici è comunemente
+determinata da:
+
+A) geni presenti nei plasmidi R
+B) proteine presenti nei plasmidi metabolici
+C) operoni presenti nel cromosoma batterico, che vengono repressi in presenza
+
+dell’antibiotico
+D) un capside che riveste la cellula batterica
+E) vescicole citoplasmatiche contenenti enzimi idrolitici
+
+34. La tecnica della PCR permette di:
+A) amplificare frammenti di DNA
+B) isolare frammenti di DNA
+C) confrontare sequenze di DNA
+D) inserire frammenti di DNA esogeno in una cellula
+E) tradurre sequenze nucleotidiche in polipeptidi
+
+35. Quale tra le seguenti affermazioni sugli anticorpi NON è corretta?
+A) Sono secreti dai linfociti T
+B) Sono molecole proteiche
+C) Sono costituiti da quattro catene polipeptiche
+D) Possono essere monomeri, dimeri, trimeri o pentameri
+E) Presentano regioni costanti e regioni variabili
+
+36. Quale di questi processi consuma ATP?
+A) Ciclo di Calvin
+B) Ciclo di Krebs
+C) Fosforilazione ossidativa
+D) Trasformazione del piruvato in acido lattico
+E) Fase luminosa della fotosintesi 
+
+37. Il gene C presenta quattro varianti alleliche: tre sono codominanti (Ca, Cb, Cc) e una è
+recessiva (c). Quanti fenotipi differenti si possono ottenere dalla combinazione di questi
+alleli?
+
+A) 7
+B) 8
+C) 6
+D) 5
+E) 4
+
+7
+
+
+
+38. I lieviti, come il Saccharomices cerevisiae, sono:
+A) funghi
+B) procarioti
+C) micoplasmi
+D) vegetali
+E) protozoi
+
+39. Quale delle seguenti proteine ha funzione enzimatica?
+A) Pepsina
+B) Caseina
+C) Glucagone
+D) Emoglobina
+E) Collagene
+
+40. Quale tra i seguenti agenti, che causano le patologie specificate, è un virus?
+A) Variola major - Vaiolo
+B) Clostridium tetani - Tetano
+C) Yersinia pestis - Peste
+D) Vibrio colera - Colera
+E) Streptococcus pneumoniae - Polmonite
+
+Test di Chimica 
+41. Gli elementi chimici conosciuti sono:
+
+A) circa 120
+B) circa 80
+C) circa 160
+D) circa 200
+E) circa 240
+
+42. La distillazione è un metodo che consente di separare due o più sostanze allo stato
+liquido con differente:
+
+A) punto di ebollizione
+B) densità
+C) peso specifico
+D) solubilità
+E) massa molare
+
+43. Quale dei seguenti elementi, dei quali è indicato il numero atomico Z, è un elemento di
+transizione?
+
+A) Cu (Z=29)
+B) Ca (Z=20)
+C) Cl (Z=17)
+D) Cs (Z=55)
+E) C (Z=6)
+
+44. Quali legami covalenti sono presenti tra l’atomo di cloro e gli atomi di ossigeno nella
+molecola HClO4?
+
+A) 1 semplice e 3 dativi
+B) 2 semplici e 2 dativi
+C) 3 semplici e 1 doppio
+D) 2 semplici e 2 doppi
+E) 1 semplice e 3 doppi
+
+8
+
+
+
+Università degli Studi di UDINE 
+CdL delle Professioni Sanitarie 
+
+45. La variazione di quale dei seguenti fattori modifica il valore della costante di equilibrio Kc
+di una reazione?
+
+A) Temperatura
+B) Concentrazione dei reagenti
+C) Presenza di catalizzatori
+D) Stato di suddivisione dei reagenti
+E) Velocità della reazione diretta
+
+46. La relazione p/T = k rappresenta:
+A) la legge isocora
+B) la legge isobara
+C) la legge isoterma
+D) la legge di Charles
+E) la legge di Boyle
+
+47. Dalla disidratazione di un alcool si ottiene:
+A) un alchene
+B) un alcano
+C) un’aldeide
+D) un chetone
+E) un etere
+
+48. Le sostanze che disciolte in acqua liberano ioni sono dette:
+A) elettrolitiche
+B) ionizzanti
+C) solubili
+D) elettofile
+E) elettroforetiche
+
+49. Quale dei seguenti è l’acido più debole?
+A) H2CO3 
+B) H2SO4
+C) H3PO4
+D) HCl
+E) HNO3 
+
+50. Nella seguente reazione redox qual è la specie chimica riducente?
+Cr 3+ + MnO − +
+
+4 + H 2O → Cr O 2−
+2 7 + Mn2+ + H
+
+A) Cr 3+
+
+B) MnO−
+4
+
+C) Cr 2−
+2O7
+
+D) Mn2+
+
+E) H +
+
+9
+
+
+
+51. Per le infusioni endovenose si utilizza normalmente una soluzione di NaCl 0,9% m/v.
+La soluzione ottenuta:
+
+A) contiene 9g di cloruro di sodio in 1L di soluzione
+B) ha un’osmolarità pari a 1,5 volte quella del plasma
+C) è ipotonica rispetto al plasma
+D) ha un’osmolarità pari a 0,9 volte quella del plasma
+E) contiene 0,9 moli di NaCl in 100mL di soluzione
+
+52. “Tutte le soluzioni liquide di soluti non volatili hanno una pressione di vapore più bassa
+rispetto al solvente puro.” Tale affermazione è riferibile alla legge formulata da:
+
+A) F. M. Raoult
+B) W. Henry
+C) T. Graham
+D) W.H. Nernst
+E) G.H. Hess
+
+Test di Fisica e Matematica 
+53. Qual è l’equazione cartesiana del luogo geometrico dei punti del piano assegnato dalle
+
+x = t 2
+
+equazioni parametriche    t ∈ R ? 
+y = t 4
+
+A) y = x2, x≥ 0
+B) y = x4, x> 0
+C) y = x4
+
+D) y = 2x, x≥ 0
+E) y = x2, x> 0
+
+54. Considerati gli eventi  A, B, C è noto che: A, C sono incompatibili e B, C sono
+indipendenti, P(A) = 0,12 ,P( B) = 0,60.
+Qual è la probabilità dell’evento C se P(A ∪C) = P(B ∪C).
+
+A) 0,8
+B) 0,6
+C) 0,2
+D) 0,4
+E) 0,88
+
+55. Sia ABCD un trapezio rettangolo circoscritto ad una semicirconferenza avente per
+diametro l’altezza AD. Quale delle seguenti relazioni è vera?
+
+A) BC ≅ AB + CD
+B) BC ≅ 2AB
+C) BC ≅ AB + AD
+D) BC ≅ 2CD
+E) BC ≅ CD + AD
+
+56. Un astronauta compie una passeggiata spaziale a una distanza dalla superficie terrestre
+pari al triplo del raggio terrestre. A quale frazione di g corrisponde l’accelerazione subita
+dall’astronauta?
+
+A) 1/16
+B) 1/4
+C) 1/3
+D) 1/9
+E) 1/8
+
+10
+
+
+
+Università degli Studi di UDINE 
+CdL delle Professioni Sanitarie 
+
+57. Due sferette isolanti, rispettivamente di carica q e 2q e raggi r e 2r, vengono poste a
+contatto. Qual è la carica sulla sferetta di raggio r dopo il contatto?
+
+A) q
+B) 3q
+C) 2q
+D) 0,5q
+E) 1,5 q
+
+58. Due veicoli, inizialmente fermi nello stesso punto partono contemporaneamente, nella
+stessa direzione, con accelerazioni a e A (a < A), raggiungono in tempi diversi t e T la
+stessa velocità massima v per poi rallentare con decelerazioni d e D fino a fermarsi nello
+stesso istante. Indicando con s e S gli spazi percorsi dai due oggetti, quale delle seguenti
+relazioni è vera?
+
+A) S = s
+B) T < t
+C) D = d
+D) T = t
+E) S > s
+
+59. Nel moto di un proiettile lanciato da terra con velocità v0= 10 m/s formante con un la
+verticale un angolo α= 30° qual è la velocità del proiettile nel punto di massima altezza
+della sua traiettoria?
+
+A) 5 m/s
+B) Non calcolabile con i dati assegnati
+C) 10
+D) 8,660 m/s
+E) 0
+
+60. L’energia interna di un gas ideale aumenta di 5 J in seguito ad una trasformazione
+adiabatica. Considerato positivo il lavoro eseguito dal gas, qual è il lavoro eseguito dal
+gas?
+
+A) -5 J
+B) Non è possibile rispondere se non si specifica se il gas è monoatomico, biatomico o
+
+poliatomico
+C) 0 J
+D) Non è possibile rispondere se non si specifica il numero di moli del gas
+E) 5 J
+
+********** FINE DELLE DOMANDE **********
+
+In tutti i quesiti proposti la soluzione è la risposta alla lettera A) 
+
+ 11

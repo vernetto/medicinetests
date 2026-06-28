@@ -1,0 +1,1245 @@
+LEZIONI AUDIO PER IL TEST DI AMMISSIONE ALLE PROFESSIONI SANITARIE
+Biologia, Anatomia, Chimica e Fisica
+Versione per ascolto in bicicletta
+
+Nota d’uso:
+questo testo è scritto per essere trasformato in audiolibro. Le frasi sono volutamente chiare e ripetitive. 
+L’obiettivo non è sostituire un manuale, ma costruire una base solida, facile da ricordare durante l’ascolto.
+
+============================================================
+INTRODUZIONE
+============================================================
+
+Per prepararsi al test di ammissione alle professioni sanitarie bisogna conoscere molti argomenti, ma soprattutto bisogna capire i collegamenti.
+
+La biologia ci spiega come è fatta e come funziona la vita.
+L’anatomia e la fisiologia ci spiegano come è fatto e come funziona il corpo umano.
+La chimica ci spiega la materia, le molecole, le reazioni, il pH, le soluzioni.
+La fisica ci spiega forze, pressione, energia, elettricità, fluidi e fenomeni utili anche in medicina.
+
+Quando ascolti queste lezioni, non cercare di ricordare tutto al primo passaggio. 
+Il metodo migliore è ascoltare più volte. Prima capisci il senso generale. Poi cominci a ricordare i dettagli.
+
+============================================================
+PARTE 1 - BIOLOGIA
+============================================================
+
+LEZIONE 1 - CHE COS’È LA VITA
+
+La biologia è la scienza che studia gli esseri viventi.
+
+Un essere vivente non è semplicemente qualcosa che si muove. Anche una macchina si muove, ma non è viva.
+Un essere vivente ha alcune caratteristiche fondamentali.
+
+Prima caratteristica: è formato da cellule.
+La cellula è l’unità fondamentale della vita. Tutti gli organismi viventi sono fatti di una o più cellule.
+
+Seconda caratteristica: usa energia.
+Ogni essere vivente deve trasformare energia per mantenersi in vita. Le cellule consumano energia per costruire molecole, muoversi, dividersi e mantenere il proprio equilibrio interno.
+
+Terza caratteristica: mantiene l’omeostasi.
+Omeostasi significa mantenere condizioni interne relativamente stabili. Per esempio, il corpo umano cerca di mantenere stabile la temperatura, la quantità di glucosio nel sangue, il pH e la quantità di acqua.
+
+Quarta caratteristica: cresce e si sviluppa.
+Un organismo vivente può aumentare di dimensioni e può cambiare nel tempo secondo un programma biologico.
+
+Quinta caratteristica: si riproduce.
+La vita tende a generare altra vita. La riproduzione può essere sessuata o asessuata.
+
+Sesta caratteristica: risponde agli stimoli.
+Gli organismi percepiscono cambiamenti dell’ambiente e reagiscono. Una pianta cresce verso la luce. Un animale fugge da un pericolo. Una cellula risponde a un ormone.
+
+Settima caratteristica: evolve.
+Le specie cambiano nel tempo attraverso l’evoluzione. Gli organismi più adatti a un certo ambiente hanno maggiori probabilità di sopravvivere e riprodursi.
+
+Da ricordare:
+la vita è organizzazione cellulare, uso di energia, omeostasi, crescita, riproduzione, risposta agli stimoli ed evoluzione.
+
+
+LEZIONE 2 - LA CELLULA
+
+La cellula è la più piccola unità vivente.
+
+Esistono due grandi tipi di cellule: cellule procariotiche e cellule eucariotiche.
+
+Le cellule procariotiche sono più semplici. Non hanno un vero nucleo delimitato da membrana. Il loro DNA si trova in una zona chiamata nucleoide. I batteri sono organismi procarioti.
+
+Le cellule eucariotiche sono più complesse. Hanno un nucleo vero e proprio, delimitato da una membrana nucleare. Nel nucleo si trova il DNA. Le cellule animali, vegetali, dei funghi e dei protisti sono eucariotiche.
+
+La cellula è circondata dalla membrana plasmatica.
+La membrana plasmatica separa l’interno della cellula dall’ambiente esterno. Non è un muro rigido, ma una barriera selettiva. Lascia passare alcune sostanze e ne blocca altre.
+
+La membrana è formata soprattutto da fosfolipidi.
+I fosfolipidi hanno una testa idrofila, cioè attratta dall’acqua, e due code idrofobe, cioè respinte dall’acqua.
+Per questo formano un doppio strato: le teste guardano verso l’acqua, le code restano all’interno.
+
+Dentro la cellula troviamo il citoplasma.
+Il citoplasma è la parte interna della cellula, escluso il nucleo. Contiene acqua, sali, proteine, organelli e molte molecole.
+
+Gli organelli sono strutture specializzate.
+Il nucleo contiene il DNA.
+I mitocondri producono energia sotto forma di ATP.
+I ribosomi producono proteine.
+Il reticolo endoplasmatico partecipa alla sintesi e al trasporto di proteine e lipidi.
+L’apparato di Golgi modifica, impacchetta e smista molecole.
+I lisosomi digeriscono sostanze e parti cellulari danneggiate.
+
+Da ricordare:
+la cellula eucariotica ha nucleo e organelli; la procariotica non ha nucleo delimitato da membrana.
+
+
+LEZIONE 3 - DNA, RNA E PROTEINE
+
+Il DNA è la molecola che contiene le informazioni genetiche.
+
+DNA significa acido desossiribonucleico.
+Il DNA è formato da nucleotidi. Ogni nucleotide contiene uno zucchero, un gruppo fosfato e una base azotata.
+
+Le basi azotate del DNA sono quattro:
+adenina, timina, citosina e guanina.
+Adenina si appaia con timina.
+Citosina si appaia con guanina.
+
+Il DNA ha una struttura a doppia elica.
+Le due catene sono complementari: se su un filamento c’è adenina, sull’altro ci sarà timina; se c’è citosina, sull’altro ci sarà guanina.
+
+Un gene è un tratto di DNA che contiene l’informazione per produrre una molecola funzionale, spesso una proteina.
+
+Per produrre una proteina, la cellula usa due fasi principali:
+trascrizione e traduzione.
+
+Nella trascrizione, l’informazione del DNA viene copiata in una molecola di RNA messaggero.
+L’RNA è simile al DNA, ma ha alcune differenze.
+Contiene ribosio invece di desossiribosio.
+Contiene uracile invece di timina.
+Di solito è a singolo filamento.
+
+Nella traduzione, il ribosoma legge l’RNA messaggero e costruisce una proteina.
+Le proteine sono fatte di amminoacidi.
+La sequenza degli amminoacidi determina la forma e la funzione della proteina.
+
+Il codice genetico funziona a triplette.
+Ogni tripletta di basi dell’RNA messaggero si chiama codone.
+Ogni codone corrisponde a un amminoacido o a un segnale di stop.
+
+Da ricordare:
+DNA fa RNA, RNA fa proteina. Questo è il cosiddetto dogma centrale della biologia molecolare.
+
+
+LEZIONE 4 - MITOSI E MEIOSI
+
+Le cellule si dividono.
+
+La mitosi è la divisione cellulare che produce due cellule figlie geneticamente uguali alla cellula madre.
+Serve per crescita, riparazione dei tessuti e sostituzione di cellule morte.
+
+Prima della mitosi, il DNA viene duplicato.
+Poi i cromosomi si condensano, si allineano, vengono separati e distribuiti alle due cellule figlie.
+
+Le fasi principali della mitosi sono:
+profase, metafase, anafase e telofase.
+
+In profase i cromosomi diventano visibili.
+In metafase i cromosomi si allineano al centro della cellula.
+In anafase i cromatidi fratelli si separano.
+In telofase si formano due nuovi nuclei.
+Alla fine avviene la citodieresi, cioè la divisione del citoplasma.
+
+La meiosi invece produce gameti: spermatozoi e cellule uovo.
+I gameti hanno metà del numero di cromosomi rispetto alle cellule somatiche.
+
+Nell’uomo le cellule somatiche hanno 46 cromosomi.
+I gameti hanno 23 cromosomi.
+
+Quando spermatozoo e cellula uovo si uniscono, si forma lo zigote, che torna ad avere 46 cromosomi.
+
+La meiosi aumenta la variabilità genetica.
+Questo avviene grazie al crossing-over e alla distribuzione casuale dei cromosomi.
+
+Da ricordare:
+mitosi: due cellule uguali.
+meiosi: quattro cellule diverse, con metà cromosomi.
+
+
+LEZIONE 5 - ENZIMI E METABOLISMO
+
+Il metabolismo è l’insieme di tutte le reazioni chimiche che avvengono in un organismo.
+
+Il metabolismo ha due grandi componenti:
+catabolismo e anabolismo.
+
+Il catabolismo demolisce molecole complesse in molecole più semplici, liberando energia.
+Per esempio, la demolizione del glucosio libera energia.
+
+L’anabolismo costruisce molecole complesse a partire da molecole semplici, consumando energia.
+Per esempio, costruire proteine dagli amminoacidi richiede energia.
+
+Gli enzimi sono proteine che accelerano le reazioni chimiche.
+Senza enzimi, molte reazioni biologiche sarebbero troppo lente per mantenere la vita.
+
+Un enzima non viene consumato dalla reazione.
+Agisce abbassando l’energia di attivazione, cioè l’energia necessaria per far partire una reazione.
+
+Ogni enzima ha un sito attivo.
+Il sito attivo è la parte dell’enzima che lega il substrato.
+Il substrato è la molecola su cui l’enzima agisce.
+
+Gli enzimi sono specifici.
+Questo significa che un enzima riconosce un certo substrato o una certa classe di substrati.
+
+Temperatura e pH influenzano gli enzimi.
+Se la temperatura è troppo alta o il pH troppo lontano dal valore ottimale, l’enzima può denaturarsi.
+Denaturarsi significa perdere la forma e quindi la funzione.
+
+Da ricordare:
+gli enzimi accelerano le reazioni, sono specifici e dipendono da temperatura e pH.
+
+
+LEZIONE 6 - RESPIRAZIONE CELLULARE E ATP
+
+L’ATP è la principale moneta energetica della cellula.
+ATP significa adenosina trifosfato.
+
+Quando l’ATP perde un gruppo fosfato diventa ADP e libera energia.
+La cellula usa questa energia per lavorare.
+
+La respirazione cellulare è il processo con cui la cellula ricava energia dal glucosio.
+La reazione generale semplificata è:
+glucosio più ossigeno produce anidride carbonica, acqua ed energia.
+
+La respirazione cellulare comprende tre fasi principali:
+glicolisi, ciclo di Krebs e catena di trasporto degli elettroni.
+
+La glicolisi avviene nel citoplasma.
+Una molecola di glucosio viene divisa in due molecole di piruvato.
+Si produce una piccola quantità di ATP.
+
+Il ciclo di Krebs avviene nei mitocondri.
+Il piruvato viene ulteriormente demolito e si producono molecole che trasportano elettroni.
+
+La catena di trasporto degli elettroni avviene nella membrana interna del mitocondrio.
+Qui si produce la maggior parte dell’ATP.
+
+L’ossigeno è l’accettore finale degli elettroni.
+Senza ossigeno, la respirazione aerobica si blocca.
+
+Se non c’è ossigeno, alcune cellule possono usare la fermentazione.
+Nell’uomo, durante sforzi intensi, può formarsi acido lattico.
+
+Da ricordare:
+i mitocondri producono molto ATP usando ossigeno e nutrienti.
+
+
+LEZIONE 7 - MEMBRANE, DIFFUSIONE E OSMOSI
+
+Le sostanze si muovono attraverso le membrane cellulari in modi diversi.
+
+La diffusione semplice è il movimento spontaneo di molecole da una zona dove sono più concentrate a una zona dove sono meno concentrate.
+Non richiede energia.
+
+L’osmosi è la diffusione dell’acqua attraverso una membrana semipermeabile.
+L’acqua si sposta verso la zona dove la concentrazione di soluti è maggiore.
+
+Una soluzione ipotonica ha meno soluti rispetto a un’altra.
+Una soluzione ipertonica ha più soluti rispetto a un’altra.
+Una soluzione isotonica ha la stessa concentrazione di soluti.
+
+Se una cellula animale viene messa in una soluzione ipotonica, l’acqua entra nella cellula.
+La cellula può gonfiarsi e scoppiare.
+
+Se una cellula animale viene messa in una soluzione ipertonica, l’acqua esce dalla cellula.
+La cellula si raggrinzisce.
+
+Se una cellula animale viene messa in una soluzione isotonica, non c’è movimento netto di acqua.
+La cellula mantiene il suo volume.
+
+Il trasporto facilitato usa proteine di membrana, ma non consuma energia.
+Il trasporto attivo invece consuma energia, spesso ATP, per spostare sostanze contro gradiente.
+
+Da ricordare:
+l’acqua va dove ci sono più soluti. Questa frase aiuta a capire l’osmosi.
+
+
+LEZIONE 8 - GENETICA MENDELIANA
+
+La genetica studia l’ereditarietà dei caratteri.
+
+Gregor Mendel studiò i caratteri delle piante di pisello e formulò le leggi fondamentali dell’ereditarietà.
+
+Un gene può avere diverse varianti chiamate alleli.
+Per ogni gene, un individuo eredita due alleli: uno dalla madre e uno dal padre.
+
+Se i due alleli sono uguali, l’individuo è omozigote.
+Se i due alleli sono diversi, l’individuo è eterozigote.
+
+Un allele dominante si manifesta anche se presente in una sola copia.
+Un allele recessivo si manifesta solo se presente in due copie.
+
+Il genotipo è la composizione genetica.
+Il fenotipo è il carattere osservabile.
+
+Per esempio, se A è dominante e a è recessivo:
+AA è omozigote dominante.
+Aa è eterozigote.
+aa è omozigote recessivo.
+
+In un incrocio tra due eterozigoti Aa per un carattere mendeliano semplice:
+il rapporto genotipico è 1 AA, 2 Aa, 1 aa.
+il rapporto fenotipico è 3 dominanti, 1 recessivo.
+
+Da ricordare:
+genotipo è ciò che è scritto nei geni; fenotipo è ciò che si vede o si manifesta.
+
+
+LEZIONE 9 - EVOLUZIONE E SELEZIONE NATURALE
+
+L’evoluzione è il cambiamento delle caratteristiche ereditarie delle popolazioni nel tempo.
+
+La selezione naturale è uno dei principali meccanismi dell’evoluzione.
+In una popolazione esiste variabilità.
+Alcune varianti danno un vantaggio in un certo ambiente.
+Gli individui con vantaggi sopravvivono e si riproducono di più.
+Così i loro caratteri diventano più frequenti.
+
+La selezione naturale non ha uno scopo cosciente.
+Non “decide” di migliorare gli organismi.
+Semplicemente, in un certo ambiente, alcuni caratteri funzionano meglio di altri.
+
+Le mutazioni sono cambiamenti del DNA.
+Possono essere dannose, neutre o vantaggiose.
+Le mutazioni sono una fonte di variabilità genetica.
+
+La deriva genetica è il cambiamento casuale delle frequenze geniche, particolarmente importante nelle popolazioni piccole.
+
+Il flusso genico avviene quando individui di popolazioni diverse si incrociano e scambiano geni.
+
+Da ricordare:
+evoluzione significa cambiamento delle popolazioni nel tempo, non cambiamento del singolo individuo durante la sua vita.
+
+
+============================================================
+PARTE 2 - ANATOMIA E FISIOLOGIA UMANA
+============================================================
+
+LEZIONE 10 - ORGANIZZAZIONE DEL CORPO UMANO
+
+Il corpo umano è organizzato a livelli.
+
+Il livello chimico comprende atomi e molecole.
+Il livello cellulare comprende le cellule.
+Il livello tissutale comprende i tessuti.
+Il livello degli organi comprende strutture come cuore, fegato, polmoni e reni.
+Il livello degli apparati comprende gruppi di organi che lavorano insieme.
+Il livello dell’organismo è il corpo intero.
+
+I principali tipi di tessuto sono quattro:
+epiteliale, connettivo, muscolare e nervoso.
+
+Il tessuto epiteliale riveste superfici e cavità. Forma la pelle esterna e riveste organi interni. Può assorbire, secernere e proteggere.
+
+Il tessuto connettivo sostiene, collega e protegge. Comprende osso, cartilagine, sangue, tessuto adiposo e altri tessuti di sostegno.
+
+Il tessuto muscolare si contrae. Permette movimento, postura, battito cardiaco e movimento di sostanze interne.
+
+Il tessuto nervoso riceve, elabora e trasmette informazioni.
+
+Da ricordare:
+cellule formano tessuti, tessuti formano organi, organi formano apparati.
+
+
+LEZIONE 11 - APPARATO CARDIOVASCOLARE
+
+L’apparato cardiovascolare trasporta sangue.
+
+È formato da cuore, sangue e vasi sanguigni.
+
+Il cuore è una pompa muscolare.
+Ha quattro cavità:
+atrio destro, ventricolo destro, atrio sinistro, ventricolo sinistro.
+
+Il lato destro del cuore riceve sangue povero di ossigeno dal corpo e lo manda ai polmoni.
+Il lato sinistro riceve sangue ossigenato dai polmoni e lo manda al corpo.
+
+La circolazione polmonare porta il sangue dal cuore ai polmoni e dai polmoni al cuore.
+La circolazione sistemica porta il sangue dal cuore ai tessuti e dai tessuti al cuore.
+
+Le arterie portano il sangue via dal cuore.
+Le vene portano il sangue verso il cuore.
+I capillari sono vasi sottilissimi dove avvengono gli scambi con i tessuti.
+
+Attenzione:
+arteria non significa sempre sangue ossigenato.
+L’arteria polmonare porta sangue povero di ossigeno dal cuore ai polmoni.
+Vena non significa sempre sangue povero di ossigeno.
+Le vene polmonari portano sangue ossigenato dai polmoni al cuore.
+
+Il sangue contiene plasma, globuli rossi, globuli bianchi e piastrine.
+I globuli rossi trasportano ossigeno grazie all’emoglobina.
+I globuli bianchi difendono l’organismo.
+Le piastrine partecipano alla coagulazione.
+
+Da ricordare:
+arterie escono dal cuore; vene tornano al cuore.
+
+
+LEZIONE 12 - APPARATO RESPIRATORIO
+
+L’apparato respiratorio permette lo scambio di ossigeno e anidride carbonica.
+
+L’aria entra dal naso o dalla bocca.
+Passa attraverso faringe, laringe, trachea, bronchi e bronchioli.
+Arriva infine agli alveoli polmonari.
+
+Gli alveoli sono piccole sacche dove avvengono gli scambi gassosi.
+Sono circondati da capillari.
+
+L’ossigeno passa dagli alveoli al sangue.
+L’anidride carbonica passa dal sangue agli alveoli e viene eliminata con l’espirazione.
+
+La ventilazione polmonare comprende inspirazione ed espirazione.
+
+Durante l’inspirazione, il diaframma si contrae e si abbassa.
+Il volume della cavità toracica aumenta.
+La pressione interna diminuisce.
+L’aria entra.
+
+Durante l’espirazione tranquilla, il diaframma si rilassa e risale.
+Il volume toracico diminuisce.
+La pressione interna aumenta.
+L’aria esce.
+
+Il trasporto dell’ossigeno nel sangue avviene soprattutto legato all’emoglobina.
+Il trasporto dell’anidride carbonica avviene soprattutto sotto forma di bicarbonato nel plasma.
+
+Da ricordare:
+respirare significa ventilare i polmoni, ma la respirazione cellulare avviene nelle cellule e produce ATP.
+
+
+LEZIONE 13 - APPARATO DIGERENTE
+
+L’apparato digerente introduce, digerisce e assorbe nutrienti.
+
+La digestione inizia nella bocca.
+I denti triturano il cibo.
+La saliva contiene amilasi salivare, che inizia la digestione degli amidi.
+
+Il cibo masticato si chiama bolo.
+Il bolo passa nella faringe, poi nell’esofago, e arriva allo stomaco.
+
+Nello stomaco, il cibo viene mescolato con succo gastrico.
+Il succo gastrico contiene acido cloridrico e pepsina.
+La pepsina inizia la digestione delle proteine.
+L’acidità aiuta anche a uccidere molti microrganismi.
+
+Dallo stomaco il contenuto passa nell’intestino tenue.
+L’intestino tenue è il principale luogo della digestione chimica e dell’assorbimento.
+
+Il pancreas produce enzimi digestivi e bicarbonato.
+Il fegato produce bile.
+La bile aiuta a emulsionare i grassi.
+La cistifellea immagazzina la bile.
+
+L’intestino tenue ha villi e microvilli.
+Queste strutture aumentano moltissimo la superficie di assorbimento.
+
+L’intestino crasso assorbe acqua e sali.
+Forma e accumula le feci.
+
+Da ricordare:
+la maggior parte dell’assorbimento dei nutrienti avviene nell’intestino tenue.
+
+
+LEZIONE 14 - FEGATO E PANCREAS
+
+Il fegato è uno degli organi più importanti del corpo.
+
+Svolge molte funzioni:
+produce bile,
+metabolizza nutrienti,
+immagazzina glicogeno,
+detossifica sostanze,
+produce proteine plasmatiche,
+partecipa al metabolismo di grassi, zuccheri e proteine.
+
+Il glicogeno è una forma di riserva del glucosio.
+Quando nel sangue c’è troppo glucosio, il fegato può trasformarlo in glicogeno.
+Quando il glucosio nel sangue diminuisce, il fegato può liberare glucosio.
+
+La bile non è un enzima.
+La bile aiuta la digestione dei grassi emulsionandoli, cioè dividendoli in goccioline più piccole.
+
+Il pancreas ha una funzione esocrina e una funzione endocrina.
+
+La funzione esocrina consiste nel produrre enzimi digestivi che vengono riversati nell’intestino.
+La funzione endocrina consiste nel produrre ormoni, soprattutto insulina e glucagone.
+
+L’insulina abbassa la glicemia.
+Favorisce l’ingresso del glucosio nelle cellule e la sua conservazione.
+
+Il glucagone aumenta la glicemia.
+Stimola il fegato a liberare glucosio.
+
+Da ricordare:
+insulina abbassa la glicemia; glucagone la alza.
+
+
+LEZIONE 15 - APPARATO URINARIO
+
+L’apparato urinario elimina sostanze di rifiuto e regola acqua, sali e pH.
+
+È formato da reni, ureteri, vescica e uretra.
+
+I reni filtrano il sangue e producono urina.
+Gli ureteri portano l’urina dai reni alla vescica.
+La vescica accumula urina.
+L’uretra porta l’urina all’esterno.
+
+L’unità funzionale del rene è il nefrone.
+Nel nefrone avvengono filtrazione, riassorbimento e secrezione.
+
+La filtrazione avviene nel glomerulo.
+Una parte del plasma viene filtrata e passa nella capsula di Bowman.
+
+Il riassorbimento recupera sostanze utili come acqua, glucosio, amminoacidi e ioni.
+La secrezione elimina ulteriori sostanze dal sangue nel tubulo renale.
+
+Il risultato finale è l’urina.
+
+I reni aiutano a controllare la pressione arteriosa anche attraverso il sistema renina-angiotensina-aldosterone.
+
+I reni producono anche eritropoietina, un ormone che stimola la produzione di globuli rossi.
+
+Da ricordare:
+il rene non è solo un filtro; è anche un regolatore dell’ambiente interno.
+
+
+LEZIONE 16 - SISTEMA NERVOSO
+
+Il sistema nervoso riceve informazioni, le elabora e produce risposte.
+
+Si divide in sistema nervoso centrale e sistema nervoso periferico.
+
+Il sistema nervoso centrale comprende encefalo e midollo spinale.
+Il sistema nervoso periferico comprende nervi e gangli.
+
+Il neurone è la cellula fondamentale del sistema nervoso.
+Ha corpo cellulare, dendriti e assone.
+
+I dendriti ricevono segnali.
+L’assone trasmette segnali ad altre cellule.
+
+La sinapsi è il punto di comunicazione tra neuroni o tra neurone e cellula bersaglio.
+Nelle sinapsi chimiche vengono liberati neurotrasmettitori.
+
+Il sistema nervoso periferico si divide in somatico e autonomo.
+
+Il sistema somatico controlla movimenti volontari e riceve sensibilità cosciente.
+Il sistema autonomo controlla funzioni involontarie, come frequenza cardiaca, digestione, sudorazione e diametro delle pupille.
+
+Il sistema autonomo si divide in simpatico e parasimpatico.
+Il simpatico prepara all’azione: aumenta frequenza cardiaca, dilata bronchi, mobilizza energia.
+Il parasimpatico favorisce riposo e digestione.
+
+Da ricordare:
+simpatico è azione; parasimpatico è riposo e digestione.
+
+
+LEZIONE 17 - SISTEMA ENDOCRINO
+
+Il sistema endocrino comunica attraverso ormoni.
+
+Gli ormoni sono messaggeri chimici prodotti da ghiandole endocrine e trasportati dal sangue.
+
+Le principali ghiandole endocrine comprendono:
+ipofisi, tiroide, paratiroidi, surreni, pancreas endocrino, ovaie e testicoli.
+
+L’ipofisi è una ghiandola molto importante perché controlla molte altre ghiandole.
+È collegata all’ipotalamo.
+
+La tiroide produce ormoni tiroidei, che regolano il metabolismo.
+Produce anche calcitonina.
+
+Le paratiroidi producono paratormone, importante per il calcio nel sangue.
+
+Le ghiandole surrenali producono diversi ormoni.
+La corticale produce cortisolo, aldosterone e androgeni.
+La midollare produce adrenalina e noradrenalina.
+
+Il pancreas endocrino produce insulina e glucagone.
+
+Gli ormoni agiscono solo sulle cellule che hanno recettori adatti.
+Un ormone può circolare nel sangue, ma influenza solo le cellule bersaglio.
+
+Da ricordare:
+il sistema nervoso comunica velocemente con impulsi; il sistema endocrino comunica più lentamente con ormoni.
+
+
+LEZIONE 18 - APPARATO MUSCOLOSCHELETRICO
+
+L’apparato muscoloscheletrico permette movimento, sostegno e protezione.
+
+Le ossa sostengono il corpo, proteggono organi, permettono il movimento, immagazzinano minerali e producono cellule del sangue nel midollo osseo.
+
+Le articolazioni sono punti di contatto tra ossa.
+Possono essere più o meno mobili.
+
+I muscoli scheletrici sono attaccati alle ossa tramite tendini.
+Quando si contraggono, tirano le ossa e producono movimento.
+
+La contrazione muscolare avviene grazie allo scorrimento di actina e miosina.
+L’actina è un filamento sottile.
+La miosina è un filamento spesso.
+
+Il sarcomero è l’unità contrattile del muscolo striato.
+Durante la contrazione, i filamenti scorrono uno sull’altro.
+Il sarcomero si accorcia.
+
+Per contrarsi, il muscolo ha bisogno di calcio e ATP.
+Il calcio permette l’interazione tra actina e miosina.
+L’ATP fornisce energia.
+
+I muscoli lavorano spesso in coppie antagoniste.
+Per esempio, bicipite e tricipite.
+Quando il bicipite si contrae, il gomito si flette.
+Quando il tricipite si contrae, il gomito si estende.
+
+Da ricordare:
+il muscolo non spinge, tira.
+
+
+LEZIONE 19 - SISTEMA IMMUNITARIO
+
+Il sistema immunitario difende l’organismo.
+
+La difesa può essere innata o adattativa.
+
+L’immunità innata è rapida e aspecifica.
+Comprende barriere come pelle e mucose, cellule fagocitarie, infiammazione, febbre e alcune proteine antimicrobiche.
+
+L’immunità adattativa è più lenta all’inizio, ma specifica.
+Riconosce antigeni particolari e sviluppa memoria.
+
+I linfociti B producono anticorpi.
+Gli anticorpi si legano agli antigeni.
+
+I linfociti T hanno varie funzioni.
+Alcuni aiutano altre cellule immunitarie.
+Altri distruggono cellule infettate o tumorali.
+
+La memoria immunitaria permette una risposta più rapida e forte a un secondo incontro con lo stesso antigene.
+
+L’infiammazione è una risposta difensiva.
+Può causare rossore, calore, gonfiore, dolore e perdita di funzione.
+
+Da ricordare:
+immunità innata è generale e rapida; immunità adattativa è specifica e ha memoria.
+
+
+============================================================
+PARTE 3 - CHIMICA
+============================================================
+
+LEZIONE 20 - ATOMI, ELEMENTI E MOLECOLE
+
+La chimica studia la materia e le sue trasformazioni.
+
+La materia è tutto ciò che ha massa e occupa spazio.
+
+Un atomo è la più piccola unità di un elemento chimico che conserva le proprietà di quell’elemento.
+
+L’atomo è formato da protoni, neutroni ed elettroni.
+Protoni e neutroni si trovano nel nucleo.
+Gli elettroni si trovano attorno al nucleo.
+
+I protoni hanno carica positiva.
+Gli elettroni hanno carica negativa.
+I neutroni non hanno carica.
+
+Il numero atomico è il numero di protoni.
+Identifica l’elemento.
+Per esempio, il carbonio ha numero atomico 6, quindi ha 6 protoni.
+
+Il numero di massa è la somma di protoni e neutroni.
+
+Gli isotopi sono atomi dello stesso elemento con diverso numero di neutroni.
+Hanno lo stesso numero di protoni, ma diverso numero di massa.
+
+Una molecola è un insieme di atomi legati tra loro.
+Per esempio, l’acqua è una molecola formata da due atomi di idrogeno e uno di ossigeno.
+
+Da ricordare:
+il numero di protoni decide l’elemento.
+
+
+LEZIONE 21 - LEGAMI CHIMICI
+
+Gli atomi si legano per raggiungere configurazioni più stabili.
+
+I principali tipi di legame sono:
+ionico, covalente e metallico.
+
+Il legame ionico si forma quando un atomo cede elettroni e un altro li acquista.
+Si formano ioni.
+Uno ione positivo si chiama catione.
+Uno ione negativo si chiama anione.
+L’attrazione tra cariche opposte tiene insieme gli ioni.
+
+Il legame covalente si forma quando due atomi condividono coppie di elettroni.
+Può essere singolo, doppio o triplo.
+
+Se gli elettroni sono condivisi in modo equilibrato, il legame è covalente apolare.
+Se gli elettroni sono attratti più da un atomo che dall’altro, il legame è covalente polare.
+
+L’acqua è una molecola polare.
+L’ossigeno attira gli elettroni più dell’idrogeno.
+Per questo l’acqua ha una parziale carica negativa vicino all’ossigeno e parziali cariche positive vicino agli idrogeni.
+
+I legami a idrogeno sono interazioni deboli ma importanti.
+Nell’acqua, i legami a idrogeno spiegano molte proprietà, come l’elevato calore specifico e la coesione.
+
+Da ricordare:
+ionico significa trasferimento di elettroni; covalente significa condivisione di elettroni.
+
+
+LEZIONE 22 - SOLUZIONI E CONCENTRAZIONE
+
+Una soluzione è una miscela omogenea.
+È formata da solvente e soluto.
+
+Il solvente è la sostanza presente in maggiore quantità.
+Il soluto è la sostanza disciolta.
+
+Nell’acqua salata, l’acqua è il solvente e il sale è il soluto.
+
+La concentrazione indica quanto soluto è presente in una certa quantità di soluzione.
+
+Una concentrazione molto usata è la molarità.
+La molarità è il numero di moli di soluto per litro di soluzione.
+La formula è:
+M = moli / litri.
+
+La mole è una quantità di sostanza.
+Una mole contiene circa 6,022 per 10 alla 23 particelle.
+Questo numero si chiama numero di Avogadro.
+
+La massa molare è la massa di una mole di una sostanza.
+Si esprime in grammi per mole.
+
+Per calcolare le moli si usa:
+moli = massa in grammi / massa molare.
+
+Da ricordare:
+molarità significa moli per litro.
+
+
+LEZIONE 23 - ACIDI, BASI E pH
+
+Gli acidi e le basi sono molto importanti in chimica e biologia.
+
+Secondo una definizione semplice:
+un acido libera ioni H più in soluzione.
+una base libera ioni OH meno o accetta ioni H più.
+
+Il pH misura l’acidità di una soluzione.
+Il pH va normalmente da 0 a 14.
+pH 7 è neutro.
+pH minore di 7 è acido.
+pH maggiore di 7 è basico.
+
+Il pH è una scala logaritmica.
+Questo significa che una differenza di una unità di pH corrisponde a una differenza di dieci volte nella concentrazione di ioni idrogeno.
+
+Per esempio, una soluzione a pH 3 è dieci volte più acida di una soluzione a pH 4.
+È cento volte più acida di una soluzione a pH 5.
+
+Il sangue umano ha pH leggermente basico, circa 7,35 - 7,45.
+Il corpo controlla strettamente questo valore.
+
+I tamponi sono sistemi che resistono alle variazioni di pH.
+Nel sangue è molto importante il sistema bicarbonato.
+
+Da ricordare:
+pH basso significa acido; pH alto significa basico.
+
+
+LEZIONE 24 - REAZIONI CHIMICHE E BILANCIAMENTO
+
+Una reazione chimica trasforma reagenti in prodotti.
+
+I reagenti sono le sostanze iniziali.
+I prodotti sono le sostanze finali.
+
+In una reazione chimica gli atomi non si creano e non si distruggono.
+Si riorganizzano.
+
+Per questo le equazioni chimiche devono essere bilanciate.
+Bilanciare una reazione significa avere lo stesso numero di atomi di ogni elemento a sinistra e a destra.
+
+Per esempio:
+H2 + O2 produce H2O non è bilanciata.
+A sinistra ci sono due atomi di ossigeno.
+A destra ce n’è uno solo.
+
+La forma bilanciata è:
+2 H2 + O2 produce 2 H2O.
+
+Ora a sinistra ci sono 4 atomi di idrogeno e 2 di ossigeno.
+A destra ci sono 4 atomi di idrogeno e 2 di ossigeno.
+
+Da ricordare:
+si cambiano i coefficienti davanti alle formule, non gli indici dentro le formule.
+
+
+LEZIONE 25 - CHIMICA ORGANICA DI BASE
+
+La chimica organica studia soprattutto i composti del carbonio.
+
+Il carbonio è speciale perché può formare quattro legami covalenti.
+Può costruire catene, anelli e molecole molto complesse.
+
+Gli idrocarburi sono composti formati solo da carbonio e idrogeno.
+
+Gli alcani hanno solo legami singoli.
+Gli alcheni hanno almeno un doppio legame.
+Gli alchini hanno almeno un triplo legame.
+
+I gruppi funzionali sono gruppi di atomi che danno proprietà caratteristiche alle molecole organiche.
+
+Alcuni gruppi importanti:
+gruppo ossidrile, tipico degli alcoli;
+gruppo carbossilico, tipico degli acidi carbossilici;
+gruppo amminico, presente negli amminoacidi;
+gruppo fosfato, importante in ATP, DNA e RNA.
+
+Le biomolecole principali sono:
+carboidrati, lipidi, proteine e acidi nucleici.
+
+I carboidrati servono come energia e struttura.
+I lipidi servono come riserva energetica, membrane e ormoni.
+Le proteine hanno funzioni strutturali, enzimatiche, di trasporto, movimento e difesa.
+Gli acidi nucleici contengono informazione genetica.
+
+Da ricordare:
+il carbonio è la base della chimica della vita perché può formare quattro legami.
+
+
+============================================================
+PARTE 4 - FISICA
+============================================================
+
+LEZIONE 26 - GRANDEZZE, UNITÀ E MISURE
+
+La fisica studia i fenomeni naturali usando grandezze misurabili.
+
+Una grandezza fisica è qualcosa che si può misurare.
+Per esempio: lunghezza, massa, tempo, temperatura, velocità, forza, energia.
+
+Il Sistema Internazionale usa unità fondamentali.
+Il metro misura la lunghezza.
+Il chilogrammo misura la massa.
+Il secondo misura il tempo.
+Il kelvin misura la temperatura.
+L’ampere misura la corrente elettrica.
+
+Molte grandezze sono derivate.
+La velocità si misura in metri al secondo.
+La forza si misura in newton.
+L’energia si misura in joule.
+La pressione si misura in pascal.
+
+È importante distinguere grandezze scalari e vettoriali.
+
+Una grandezza scalare ha solo valore numerico.
+Per esempio: massa, temperatura, tempo.
+
+Una grandezza vettoriale ha valore, direzione e verso.
+Per esempio: forza, velocità, accelerazione.
+
+Da ricordare:
+una forza non è solo “quanto”, ma anche “dove” e “in che verso”.
+
+
+LEZIONE 27 - MOTO, VELOCITÀ E ACCELERAZIONE
+
+Il moto è il cambiamento di posizione nel tempo.
+
+La velocità media si calcola come spazio diviso tempo.
+Formula:
+v = s / t.
+
+Se percorro 100 metri in 20 secondi, la velocità media è 5 metri al secondo.
+
+L’accelerazione è la variazione della velocità nel tempo.
+Formula:
+a = variazione di velocità / tempo.
+
+Se la velocità aumenta, l’accelerazione è positiva.
+Se la velocità diminuisce, si parla spesso di decelerazione.
+
+Nel moto rettilineo uniforme, la velocità è costante e l’accelerazione è zero.
+Nel moto uniformemente accelerato, l’accelerazione è costante.
+
+La caduta libera vicino alla superficie terrestre ha accelerazione circa 9,8 metri al secondo quadrato.
+Spesso nei problemi si approssima a 10 metri al secondo quadrato.
+
+Da ricordare:
+velocità dice quanto rapidamente cambia la posizione; accelerazione dice quanto rapidamente cambia la velocità.
+
+
+LEZIONE 28 - FORZE E LEGGI DI NEWTON
+
+Una forza è un’interazione che può modificare il moto di un corpo o deformarlo.
+
+La prima legge di Newton è il principio di inerzia.
+Un corpo resta fermo o continua a muoversi di moto rettilineo uniforme se la forza risultante su di esso è zero.
+
+La seconda legge di Newton dice:
+F = m a.
+La forza risultante è uguale alla massa per l’accelerazione.
+
+Se applico la stessa forza a una massa maggiore, l’accelerazione sarà minore.
+Se applico una forza maggiore alla stessa massa, l’accelerazione sarà maggiore.
+
+La terza legge di Newton dice:
+a ogni azione corrisponde una reazione uguale e contraria.
+Se spingo un muro, il muro spinge me con una forza uguale e contraria.
+
+Il peso è una forza.
+Il peso si calcola:
+P = m g.
+Dove m è la massa e g è l’accelerazione di gravità.
+
+La massa si misura in chilogrammi.
+Il peso si misura in newton.
+
+Da ricordare:
+massa e peso non sono la stessa cosa. La massa è quantità di materia; il peso è una forza.
+
+
+LEZIONE 29 - LAVORO, ENERGIA E POTENZA
+
+Il lavoro in fisica si compie quando una forza sposta un corpo.
+Formula:
+L = F s, se forza e spostamento hanno la stessa direzione.
+
+L’energia è la capacità di compiere lavoro.
+
+L’energia cinetica è l’energia del movimento.
+Formula:
+Ec = 1/2 m v quadrato.
+
+L’energia potenziale gravitazionale dipende dalla posizione in un campo gravitazionale.
+Formula:
+Ep = m g h.
+
+La potenza è il lavoro compiuto nell’unità di tempo.
+Formula:
+P = L / t.
+
+La potenza si misura in watt.
+Un watt è un joule al secondo.
+
+In bicicletta, quando si parla di watt, si parla proprio di potenza meccanica.
+Se produci 200 watt, stai sviluppando 200 joule di lavoro ogni secondo.
+
+Da ricordare:
+energia è quanto lavoro puoi fare; potenza è quanto rapidamente lo fai.
+
+
+LEZIONE 30 - PRESSIONE E FLUIDI
+
+La pressione è forza divisa per superficie.
+Formula:
+p = F / A.
+
+La pressione si misura in pascal.
+Un pascal è un newton per metro quadrato.
+
+A parità di forza, se la superficie è più piccola, la pressione è maggiore.
+Per questo un ago penetra facilmente nella pelle: la forza è concentrata su una superficie piccolissima.
+
+Nei liquidi, la pressione aumenta con la profondità.
+Formula:
+p = densità per g per h.
+Più si scende in profondità, maggiore è la pressione.
+
+Il principio di Pascal dice che una pressione esercitata su un fluido incomprimibile si trasmette in tutte le direzioni.
+Questo principio è alla base dei sistemi idraulici.
+
+Il principio di Archimede dice che un corpo immerso in un fluido riceve una spinta verso l’alto uguale al peso del fluido spostato.
+
+Se la spinta di Archimede è maggiore del peso del corpo, il corpo galleggia.
+Se è minore, affonda.
+
+Da ricordare:
+pressione è forza distribuita su una superficie.
+
+
+LEZIONE 31 - CALORE E TEMPERATURA
+
+Temperatura e calore non sono la stessa cosa.
+
+La temperatura misura lo stato di agitazione termica delle particelle.
+Il calore è energia che passa da un corpo più caldo a un corpo più freddo.
+
+Il calore passa spontaneamente dal caldo al freddo.
+Non passa spontaneamente dal freddo al caldo.
+
+Ci sono tre modi principali di trasferire calore:
+conduzione, convezione e irraggiamento.
+
+La conduzione avviene per contatto diretto.
+Per esempio, un cucchiaio metallico si scalda in una pentola.
+
+La convezione avviene tramite movimento di fluidi.
+Per esempio, l’aria calda sale e l’aria fredda scende.
+
+L’irraggiamento avviene tramite onde elettromagnetiche.
+Per esempio, il Sole scalda la Terra attraverso lo spazio.
+
+Il calore specifico indica quanta energia serve per aumentare la temperatura di una certa quantità di sostanza.
+L’acqua ha alto calore specifico.
+Per questo cambia temperatura lentamente.
+
+Da ricordare:
+temperatura è una misura; calore è energia in trasferimento.
+
+
+LEZIONE 32 - ELETTRICITÀ
+
+La carica elettrica può essere positiva o negativa.
+Cariche dello stesso segno si respingono.
+Cariche di segno opposto si attraggono.
+
+La corrente elettrica è un flusso ordinato di cariche.
+Si misura in ampere.
+
+La differenza di potenziale, o tensione, è la spinta che mette in movimento le cariche.
+Si misura in volt.
+
+La resistenza si oppone al passaggio della corrente.
+Si misura in ohm.
+
+La legge di Ohm dice:
+V = R I.
+La tensione è uguale alla resistenza per la corrente.
+
+Se la resistenza aumenta e la tensione resta costante, la corrente diminuisce.
+Se la tensione aumenta e la resistenza resta costante, la corrente aumenta.
+
+La potenza elettrica si calcola:
+P = V I.
+Potenza uguale tensione per corrente.
+
+Da ricordare:
+tensione spinge, corrente scorre, resistenza frena.
+
+
+LEZIONE 33 - ONDE, SUONO E LUCE
+
+Un’onda trasporta energia senza trasportare materia in modo permanente.
+
+Le onde possono essere meccaniche o elettromagnetiche.
+Le onde meccaniche hanno bisogno di un mezzo, come aria, acqua o una corda.
+Il suono è un’onda meccanica.
+
+Le onde elettromagnetiche non hanno bisogno di un mezzo.
+La luce è un’onda elettromagnetica.
+
+Le caratteristiche principali di un’onda sono:
+lunghezza d’onda, frequenza, ampiezza e velocità.
+
+La frequenza è il numero di oscillazioni al secondo.
+Si misura in hertz.
+
+La lunghezza d’onda è la distanza tra due punti equivalenti dell’onda, per esempio due creste successive.
+
+Per le onde vale:
+velocità = frequenza per lunghezza d’onda.
+
+Il suono è una vibrazione che si propaga in un mezzo.
+Nell’aria, il suono viaggia a circa 340 metri al secondo.
+
+La luce nel vuoto viaggia a circa 300.000 chilometri al secondo.
+
+Da ricordare:
+frequenza alta nel suono significa suono acuto; frequenza bassa significa suono grave.
+
+
+============================================================
+PARTE 5 - RIPASSO RAPIDO PER IL TEST
+============================================================
+
+RIPASSO 1 - BIOLOGIA IN PILLOLE
+
+La cellula è l’unità fondamentale della vita.
+I procarioti non hanno nucleo delimitato da membrana.
+Gli eucarioti hanno nucleo e organelli.
+Il DNA contiene l’informazione genetica.
+Il DNA si trascrive in RNA.
+L’RNA viene tradotto in proteine.
+I ribosomi producono proteine.
+I mitocondri producono ATP.
+Gli enzimi accelerano le reazioni chimiche.
+La mitosi produce due cellule uguali.
+La meiosi produce gameti con metà cromosomi.
+L’osmosi è il movimento dell’acqua attraverso una membrana semipermeabile.
+L’acqua va verso la soluzione più concentrata di soluti.
+Il genotipo è l’informazione genetica.
+Il fenotipo è il carattere osservabile.
+L’evoluzione riguarda popolazioni, non singoli individui.
+
+
+RIPASSO 2 - ANATOMIA IN PILLOLE
+
+Il cuore ha quattro cavità.
+Le arterie portano sangue via dal cuore.
+Le vene portano sangue verso il cuore.
+Gli alveoli sono il luogo degli scambi respiratori.
+L’intestino tenue è il principale luogo di assorbimento.
+Il fegato produce bile e regola il metabolismo.
+Il pancreas produce enzimi digestivi, insulina e glucagone.
+Il nefrone è l’unità funzionale del rene.
+Il sistema nervoso centrale comprende encefalo e midollo spinale.
+Il sistema nervoso periferico comprende nervi e gangli.
+Il simpatico prepara all’azione.
+Il parasimpatico favorisce riposo e digestione.
+Il sistema endocrino comunica con ormoni.
+Il sarcomero è l’unità contrattile del muscolo.
+Actina e miosina permettono la contrazione.
+
+
+RIPASSO 3 - CHIMICA IN PILLOLE
+
+Il numero atomico è il numero di protoni.
+Il numero di massa è protoni più neutroni.
+Gli isotopi hanno stesso numero di protoni e diverso numero di neutroni.
+Il legame ionico trasferisce elettroni.
+Il legame covalente condivide elettroni.
+La molarità è moli per litro.
+Il pH minore di 7 è acido.
+Il pH uguale a 7 è neutro.
+Il pH maggiore di 7 è basico.
+Il pH è una scala logaritmica.
+Bilanciare una reazione significa conservare il numero di atomi.
+Il carbonio forma quattro legami.
+Le biomolecole principali sono carboidrati, lipidi, proteine e acidi nucleici.
+
+
+RIPASSO 4 - FISICA IN PILLOLE
+
+La velocità è spazio diviso tempo.
+L’accelerazione è variazione di velocità diviso tempo.
+La forza è massa per accelerazione.
+Il peso è massa per gravità.
+La massa si misura in chilogrammi.
+Il peso si misura in newton.
+Il lavoro è forza per spostamento.
+La potenza è lavoro diviso tempo.
+La pressione è forza diviso superficie.
+Il calore è energia in trasferimento.
+La temperatura misura l’agitazione termica.
+La corrente elettrica si misura in ampere.
+La tensione si misura in volt.
+La resistenza si misura in ohm.
+La legge di Ohm è V uguale R per I.
+Un’onda trasporta energia.
+
+
+============================================================
+PARTE 6 - DOMANDE A RISPOSTA RAPIDA
+============================================================
+
+Domanda: Qual è l’unità fondamentale della vita?
+Risposta: La cellula.
+
+Domanda: Quale organello produce ATP?
+Risposta: Il mitocondrio.
+
+Domanda: Dove si trova il DNA nelle cellule eucariotiche?
+Risposta: Nel nucleo.
+
+Domanda: Che cosa fanno i ribosomi?
+Risposta: Producono proteine.
+
+Domanda: Che differenza c’è tra mitosi e meiosi?
+Risposta: La mitosi produce due cellule uguali; la meiosi produce gameti con metà cromosomi.
+
+Domanda: Che cos’è l’osmosi?
+Risposta: Il movimento dell’acqua attraverso una membrana semipermeabile verso la soluzione più concentrata di soluti.
+
+Domanda: Che cos’è un enzima?
+Risposta: Una proteina che accelera una reazione chimica.
+
+Domanda: Che cos’è il pH?
+Risposta: Una misura dell’acidità o basicità di una soluzione.
+
+Domanda: Che cosa significa pH 7?
+Risposta: Soluzione neutra.
+
+Domanda: Che cosa significa pH minore di 7?
+Risposta: Soluzione acida.
+
+Domanda: Che cosa significa pH maggiore di 7?
+Risposta: Soluzione basica.
+
+Domanda: Che cosa sono gli alveoli?
+Risposta: Piccole sacche polmonari dove avvengono gli scambi gassosi.
+
+Domanda: Qual è l’unità funzionale del rene?
+Risposta: Il nefrone.
+
+Domanda: Che cosa produce il pancreas endocrino?
+Risposta: Insulina e glucagone.
+
+Domanda: Che cosa fa l’insulina?
+Risposta: Abbassa la glicemia.
+
+Domanda: Che cosa fa il glucagone?
+Risposta: Aumenta la glicemia.
+
+Domanda: Che cosa sono arterie e vene?
+Risposta: Le arterie portano sangue via dal cuore; le vene lo portano verso il cuore.
+
+Domanda: Che cosa dice la seconda legge di Newton?
+Risposta: Forza uguale massa per accelerazione.
+
+Domanda: Qual è la formula della pressione?
+Risposta: Pressione uguale forza diviso superficie.
+
+Domanda: Qual è la legge di Ohm?
+Risposta: Tensione uguale resistenza per corrente.
+
+Domanda: Che cosa misura la potenza?
+Risposta: Il lavoro svolto nell’unità di tempo.
+
+Domanda: Che cos’è un isotopo?
+Risposta: Un atomo dello stesso elemento con diverso numero di neutroni.
+
+Domanda: Che differenza c’è tra legame ionico e covalente?
+Risposta: Nel legame ionico gli elettroni vengono trasferiti; nel covalente vengono condivisi.
+
+
+============================================================
+CONCLUSIONE
+============================================================
+
+Per superare il test non basta memorizzare parole isolate.
+Bisogna creare una rete mentale.
+
+Quando senti “mitocondrio”, pensa subito ad ATP, energia, respirazione cellulare.
+Quando senti “ribosoma”, pensa a proteine.
+Quando senti “DNA”, pensa a informazione genetica, RNA, proteine.
+Quando senti “rene”, pensa a nefrone, filtrazione, riassorbimento, urina, equilibrio interno.
+Quando senti “cuore”, pensa a pompa, sangue, arterie, vene, polmoni e tessuti.
+Quando senti “pH”, pensa ad acidità, basi, scala logaritmica.
+Quando senti “pressione”, pensa a forza divisa per superficie.
+Quando senti “potenza”, pensa a lavoro diviso tempo.
+
+Ascolta queste lezioni più volte.
+La prima volta serve per orientarti.
+La seconda per riconoscere i concetti.
+La terza per ricordarli.
+Poi, quando farai quiz, i concetti inizieranno a comparire da soli nella memoria.
+
+Fine del primo volume.

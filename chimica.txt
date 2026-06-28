@@ -1,0 +1,265 @@
+=== Massa atomica
+
+La massa atomica (ma) di un dato elemento è la media ponderata della massa degli isotopi presenti in natura. Trattandosi di una massa può essere espressa in grammi o kilogrammi. Tuttavia, poiché può assumere valori compresi tra i 10−25 kg e i 10−27 kg, è solitamente espressa in unità di massa atomica unificata (u) definita per convenzione come 1/12 della massa di un singolo atomo di carbonio-12 (isotopo stabile, non radioattivo e il più abbondante del carbonio) a riposo. Il maggiore contributo alla massa atomica è dato da protoni e neutroni del nucleo e per questo motivo il suo valore è quasi lo stesso del numero di massa[1][2].
+
+Tenendo presente che 1 Dalton è stato calcolato essere equivalente a 8-98 10−23 g[3], qualora si dividesse il valore della massa atomica per l'unità di massa atomica unificata o daltons per ottenere un rapporto, questa assumerebbe il valore di un numero adimensionale, chiamato “massa isotopica relativa”.
+
+La massa atomica di un elemento non va confusa con il numero di massa. La massa atomica (M:A), che si riferisce ad una media ponderata dei pesi atomici dei suoi naturali isotopi. Il numero di massa invece,si riferisce ai singoli atomi e varia solo al variare del numero di neutroni della specie considerata. Comunque, se uno degli isotopi di un elemento è presente in quantità prevalente rispetto agli altri, il valore della massa atomica di tale elemento espressa in u è quasi uguale al valore del numero di massa di tale isotopo.
+
+La massa atomica o massa isotopica relativa si riferisce infatti alla massa di una singola particella, ed è fondamentalmente diversa dalle quantità di peso atomico elementare (chiamato anche massa atomica relativa) e peso atomico standard. Entrambe le diciture si riferiscono a medie matematiche di valori di massa atomica relative a campioni di elementi presenti in natura. La maggior parte degli elementi possiede più di un nuclide stabile; per questi, tale media dipende dalla miscela dei nuclidi presenti, che può variare limitatamente ad una certa misura a seconda della fonte del campione, in quanto ogni nuclide possiede una massa caratteristica. I dati relativi alla massa atomica sono quindi comunemente riportati con molte più cifre significative rispetto alle misure del peso atomico, il quale è solitamente riferito a quel valore della massa atomica dell'isotopo più abbondante in natura dell'elemento considerato.
+
+La massa atomica degli atomi, ioni, o dei nuclei atomici è leggermente inferiore alla somma delle masse dei loro protoni costituenti, dei loro neutroni e dei loro elettroni, a causa della perdita di massa dovuta all'energia di legame (come da E = mc2).[4]
+Indice
+
+    1 La massa isotopica relativa
+    2 Termini simili per quantità differenti
+    3 Difetti di massa nelle masse atomiche
+    4 Misurazione delle masse atomiche
+    5 Conversione delle misure rilevate da u.m.a. a grammi
+    6 Relazione tra massa atomica, molecolare e molare
+    7 Storia
+    8 Note
+    9 Voci correlate
+    10 Collegamenti esterni
+
+La massa isotopica relativa
+
+La massa isotopica relativa, una proprietà di ogni singolo atomo, non deve essere confusa con la quantità media di "massa atomica relativa", equivalente a quella del peso atomico (vedi sopra), ed è una media di valori per più atomi di un determinato campione di un elemento chimico. È simile alla massa atomica, ed ha esattamente lo stesso valore numerico della massa atomica quando è espressa in u.m.a.. La massa isotopica relativa si differenzia però perché è un numero puro, senza unità di misura. Ciò è dovuto all'uso del rapporto in scala rispetto allo standard carbonio-12, e la parola “relativa” all'interno del termine “massa isotopica relativa” si riferisce appunto alla scala relativa al C-12. La massa isotopica relativa è quindi la massa di un dato isotopo quando questo valore è scalato dalla massa del carbonio-12.
+
+Nel caso relativo alla massa atomica, i non nuclidi diversi dal carbonio-12 possiedono dei valori esattamente interi di massa isotopica relativa. Per quanto invece riguarda la massa atomica relativa quando espresso in unità di massa atomiche unificata o Dalton, i relativi numeri di massa isotopica dei nuclidi diversi dal carbonio-12 non sono numeri interi, ma ci si avvicinano. Ciò è discusso nel seguito.
+Termini simili per quantità differenti
+
+La massa atomica e massa isotopica relativa sono talvolta confuse, oppure scorrettamente utilizzati come sinonimi della massa atomica relativa (anche nota come peso atomico). Tuttavia, il peso atomico rappresenta i termini di masse atomiche di media in campioni elementari, non per i singoli nuclidi. Detto questo, peso atomico e peso atomico standard spesso differiscono numericamente dalla massa isotopica relativa e dalla massa atomica, e possono anche avere differenti unità di misura. La massa atomica (massa isotopica relativa) è definita come la massa di un singolo atomo, che può essere solo un isotopo (nuclide) alla volta, e non è una media un'abbondanza ponderata, come nel caso della massa atomica relativa / peso atomico. La massa atomica o massa isotopica relativa di ogni isotopo e nuclide di un elemento chimico è quindi un numero che può essere misurato con grande precisione, dal momento che ogni esemplare di tale nuclide si pensa che sia esattamente identico a tutti gli altri campioni, come tutti gli atomi di un dato tipo allo stesso stato di energia, e ogni esemplare di un particolare nuclide, dovrebbero essere esattamente identici per massa ad ogni altro esemplare di tale nuclide. Nel caso di molti elementi che hanno un isotopo naturale (elementi mononuclidi) o un isotopo dominante, la di somiglianza / differenza numerica tra la massa atomica dell'isotopo più comune, e la massa atomica relativa (standard) o il peso atomico (standard) può essere di piccole dimensioni o addirittura pari a zero, e non influisce nella maggior parte dei calcoli di massa. Tuttavia, un tale errore può esistere e anche essere importante se si considera atomi individuali per gli elementi che non sono mononuclidi. Per gli elementi non mononuclidi che hanno più di un isotopo comune, la differenza numerica della massa atomica relativa (peso atomico), anche dalla massa isotopica relativa più comune, può essere mezza unità di massa o più. La massa atomica (massa isotopica relativa) di un isotopo non comune può differire dalla massa atomica relativa, peso atomico, o peso atomico standard di più unità di massa. Le masse atomiche espresse in unità di massa atomica (masse isotopiche relative) sono sempre vicino a valori di numeri interi, ma non hanno mai (tranne nel caso di carbonio-12) esattamente un numero intero come valore, per due motivi:
+
+    Protoni e neutroni hanno masse diverse, e diversi nuclidi hanno differenti rapporti di protoni e neutroni.
+    Le masse atomiche sono ridotte, in diversa misura, da parte delle loro energie di legame.
+
+Il rapporto tra massa atomica e numero di massa (numero di nucleoni) varia da circa 0,99884 per 56Fe a 1,00782505 milioni per 1H. Qualsiasi difetto di massa dovuto all'energia nucleare di legame è sperimentalmente una piccola frazione della massa dell'uguale numero di nucleoni liberi. Se comparato alla massa media per nucleone in carbonio-12, che è moderatamente fortemente legato rispetto ad altri atomi, il difetto di massa di legame per la maggior parte degli atomi è una frazione ancora più piccola di un Dalton (unità di massa atomica unificata, basata sul carbonio 12). Dal momento che protoni liberi e neutroni differiscono tra di loro in massa per una piccola frazione di Dalton (circa 0,0014 u), arrotondando la massa isotopica relativa, o la massa atomica di un qualunque nuclide data in Dalton al numero intero più vicino dà sempre il numero di nucleoni, o il numero di massa. Inoltre, il conteggio dei neutroni (numero di neutroni) può allora essere ricavato sottraendo il numero di protoni (numero atomico) dal numero di massa (conteggio nucleoni).
+Difetti di massa nelle masse atomiche
+
+La quantità del rapporto tra la massa atomica e il numero di massa che si discosta da 1 è il seguente: la deviazione positiva inizia all'idrogeno-1, poi diminuisce fino a raggiungere un minimo locale in elio-4. Gli isotopi del litio, berillio e boro sono meno fortemente legati dell'elio, come mostrato dai loro crescenti rapporti numerici massa a massa. Nel carbonio, il rapporto tra la massa (in dalton) e il numero di massa è definito come 1, e dopo il carbonio diventa meno di 1 fino a raggiungere un minimo in corrispondenza di ferro-56 (con valori di poco superiori a ghisa-58 e nichel-62), poi aumenta a valori positivi in isotopi pesanti, con un aumento del numero atomico. Ciò corrisponde al fatto che la fissione nucleare in un elemento più pesante dello zirconio produce energia, mentre la fissione in ogni elemento più leggero del niobio richiede energia. D'altra parte, la fusione nucleare di due atomi di un elemento più leggero dello scandio (eccetto l'elio) produce energia, mentre la fusione in elementi più pesanti del calcio richiede energia. La fusione di due atomi di elio-4 può dare berillio-8 e richiederebbe energia, ed il berillio cadrebbe rapidamente a pezzi di nuovo. Elio-4 può fondersi con trizio (H-3) o con elio-3, e questi processi si verificarono durante la nucleosintesi del Big Bang. La formazione di elementi con più di sette nucleoni richiede la fusione di tre atomi di elio-4 nel cosiddetto processo tre alfa, saltando litio, berillio, boro per produrre carbonio.
+Misurazione delle masse atomiche
+
+Un modo per misurare le masse degli atomi e un relativo confronto diretto si possono ottenere con l'uso della spettrometria di massa.
+Conversione delle misure rilevate da u.m.a. a grammi
+
+L'unità scientifica standard utilizzata per quantificare il peso di una sostanza in quantità macroscopiche è la mole (il cui simbolo è mol), definita arbitrariamente come la quantità di sostanza che possiede tanti atomi o molecole quanti atomi presenti in 12 grammi di carbonio-12. Il numero di atomi all'interno di una mole è stato definito come Costante di Avogadro, valore approssimativamente equivalente a 6,022 x 1023 . Una mole di una determinata sostanza pesa grossomodo tanto quanto la massa molecolare relativa caratteristica della sostanza (vedi sotto). Diversamente accade per la massa atomica, per la quale l'affermazione non sempre è veritiera, in quanto potrebbero esistere più isotopi di un determinato elemento. Ad esempio, la massa atomica relativa del ferro è 55,847 g/mol, ed una mole di metallo prelevato in natura ha appunto questa massa. Tuttavia la massa atomica dell'isotopo 56 Fe è 55,953 u. Tale quantità di 56 Fe allo stato puro però non è mai stata reperita (o ricavata) sulla Terra. Ci sono 22 elementi mononucleici dei quali si trova in natura soltanto un isotopo (esempi comuni sono fluoro, sodio, alluminio e fosforo) e per questi elementi i valori assunti dalla massa atomica relativa e dalla massa atomica sono equivalenti. Tali campioni possono quindi servire come standard di riferimento relativamente ad alcuni valori di massa atomica.
+Relazione tra massa atomica, molecolare e molare
+
+Definizione simile si può applicare anche alle molecole: si può calcolare la massa molecolare di un composto sommando via via i pesi atomici degli atomi costituenti, indicati nella formula chimica. Nel caso in cui lo stesso atomo si presenti più volte, la sua molteplicità (il numero di volte in cui compare) deve essere tenuto in considerazione, solitamente moltiplicando ogni singola massa per la sua ricorrenza. La massa molare, invece, è la massa in grammi di una sostanza che corrisponde a una mole ed è espressa in g/mol. Mentre la massa molare di un elemento è numericamente equivalente alla sua massa atomica relativa, quella di un composto corrisponde alla massa molecolare.[3]
+Storia
+
+Articoli principali: storia della chimica e unità di massa atomica I primi scienziati a determinare le masse atomiche relative furono John Dalton e Thomas Thomson tra il 1803 e il 1805 e Jöns Jakob Berzelius tra il 1808 e il 1826. La massa atomica relativa (peso atomico) è stata originariamente definito rispetto a quella dell'elemento più leggero, l'idrogeno, che è stato preso come 1,00, e nel 1820 le ipotesi di Proust dichiararono che i pesi atomici di tutti gli elementi sarebbero stati multipli esatti di quello dell'idrogeno. Berzelius, tuttavia, ben presto dimostrò che questo non era neppure approssimativamente vero, e per alcuni elementi, come il cloro, la massa atomica relativa, a circa 35,5, cade quasi esattamente a metà tra due multipli interi di quella dell'idrogeno. Ancora più tardi, questo fu dimostrato essere in gran parte a causa di una miscela di isotopi, e che i pesi atomici di isotopi puri o nuclidi, sono multipli della massa di idrogeno, entro circa 1%. Nel 1860 Stanislao Cannizzaro ridefinì le masse atomiche relative applicando il principio di Avogadro. Formulò una legge per determinare le relative masse atomiche di elementi: diverse quantità dello stesso elemento contenute in diverse molecole sono tutte multipli interi del peso atomico e determinano le masse atomiche relative e le masse molecolari confrontando la densità del vapore di una raccolta di gas con molecole contenenti una o più molecole dell'elemento chimico in questione. Nel XX secolo, fino al 1960, chimici e fisici hanno usato due diverse scale atomiche di massa. I chimici usavano una scala chiamata "unità di massa atomica" (uma) tale che il miscuglio naturale di isotopi di ossigeno abbia una massa atomica 16, mentre i fisici assegnarono lo stesso numero 16 solo alla massa atomica dell'isotopo più comune di ossigeno (ossigeno-16, contenente otto protoni e otto neutroni). Tuttavia, l'ossigeno-17 e ossigeno-18 sono presenti in ossigeno naturale anche. Questo ha portato a due diverse tabelle di massa atomica. La scala unificata a base di carbonio-12, 12C, ha incontrato 'necessità di basare la bilancia su un isotopo puro, pur essendo numericamente vicino alla scala usata dai chimici. Il termine “peso atomico” venne sostituito dal termine “massa atomica relativa”, nella maggior parte dei casi. Questo cambiamento di nomenclatura risale al 1960 ed è stata la fonte di molte discussioni nella comunità scientifica, che è stata innescata con l'adozione della unità di massa atomica e la realizzazione che “peso” era in qualche modo un termine inappropriato. L'argomento per mantenere il termine "peso atomico" era soprattutto che era un termine ben compreso, che il termine "massa atomica" era già in uso (come è attualmente definito) e che il termine "massa atomica relativa" poteva facilmente essere confusa con massa isotopica relativa (la massa di un singolo atomo di un dato nuclide, espresso senza dimensione relativa a 1/12 della massa del carbonio-12). Nel 1979, come compromesso, il termine "massa atomica relativa" è stato introdotto come sinonimo secondario per peso atomico. Venti anni dopo il primato di questi sinonimi si è invertita, e il termine " massa atomica relativa" è ora il termine più usato.
+Note
+
+    ^ La massa di neutroni e protoni, infatti, è pari a circa 1 836 volte quella degli elettroni, cosicché la massa di questi ultimi è trascurabile.
+    ^ Paolo Silvestroni, Fondamenti di Chimica, Roma, 1968.
+
+    Alberto Bargellini, Chimica Società Ambiente, Milano, Carlo Signorelli Editore, 1998.
+    ^ Atomic mass, Encyclopædia Britannica on-line
+
+
+
+=== Numero atomico
+
+Il numero atomico (indicato solitamente con Z, dal termine tedesco Zahl, che significa numero, e detto anche numero protonico) corrisponde al numero di protoni contenuti in un nucleo atomico[1]. In un atomo neutro il numero atomico è pari anche al numero di elettroni; in caso contrario si è in presenza di uno ione. Si usa scrivere questo numero come pedice sinistro del simbolo dell'elemento chimico in questione: per esempio 6C, poiché il carbonio ha sei protoni.
+
+A ogni numero atomico corrisponde un diverso elemento chimico, il quale viene collocato nella tavola periodica proprio in funzione del relativo valore di Z. La legge di Moseley permette di ricavare il numero atomico di un dato elemento misurando la frequenza della riga caratteristica corrispondente all'emissione di raggi X.
+
+Atomi aventi stesso numero atomico ma diverso numero di neutroni sono detti isotopi e differiscono fra loro per il diverso numero di massa, indicato con A e dato dalla somma del numero di protoni e neutroni totali (nucleoni). 
+
+La costruzione di una tabella periodica degli elementi crea un ordinamento degli elementi, che quindi possono essere numerati in un certo ordine.
+
+Dmitri Mendeleev affermò di aver organizzato le sue prime tavole periodiche in ordine di peso atomico (Atomgewicht). Tuttavia, considerando le proprietà chimiche osservate degli elementi, egli cambiò leggermente l'ordine e pose il tellurio (peso atomico 127,6) davanti allo iodio (peso atomico 126,9)[2]. Questa sua intuizione risulterà coerente con la prassi moderna di ordinare gli elementi in base al numero di protoni, Z, seppure il concetto di numero atomico non fosse ancora noto a quell'epoca. 
+
+Ad ogni modo, una semplice numerazione in base alla posizione nella tavola periodica non fu mai del tutto soddisfacente. Oltre al caso dello iodio e del tellurio, successivamente diverse altre coppie di elementi (come argon e potassio, cobalto e nichel) presentarono lo stesso problema necessitando, sulla base delle proprietà chimiche osservate, di invertire la loro posizione nella tavola periodica basata sui pesi atomici[3].
+Il modello atomico di Rutherford e l'ipotesi di van den Broek
+
+Nel 1911 Ernest Rutherford, dopo avere effettuato il suo noto esperimento della lamina d'oro, formulò un nuovo modello atomico in cui la massa era concentrata in un nucleo caricato positivamente e avente un valore di carica approssimativamente uguale alla metà della massa atomica dell'atomo. A distanza di un mese in cui Rutherford pubblicò i risultati dei suoi esperimenti, il fisico olandese Antonius van den Broek divenne il primo a comprendere l'esistenza di una relazione tra il numero associato a un elemento nella tavola periodica e la carica del suo nucleo atomico[4].
+L'esperimento di Moseley
+
+Henry Moseley, nel 1913, si propose di verificare sperimentalmente quanto asserito da van den Broek basandosi sul modello atomico di Bohr. Egli bombardò con un flusso di elettroni una serie di elementi disposti consecutivamente nella tavola periodica misurando la frequenza dei raggi X da essi emessi. Trovò che la radice quadrata della frequenza aumentava, progredendo nell'ordine stabilito dalla tavola periodica, all'aumentare della carica del nucleo atomico che corrispondeva proprio al numero atomico. Ordinando quindi gli elementi in ordine crescente di numero atomico, piuttosto che basandosi sul peso atomico, fu possibile superare anche le incongruenze notate da Mendeleev con la sua classificazione periodica.
+
+Si dovette comunque attendere la scoperta del neutrone, avvenuta nel 1932 grazie a James Chadwick, per chiarire definitivamente la struttura atomica in modo corretto. 
+
+
+
+=== Numero di massa
+
+
+
+
+Il numero di massa (solitamente indicato con A) è pari al numero di nucleoni (cioè protoni e neutroni) presenti in un atomo.[1][2]
+
+Quando di un elemento si vuole specificare il numero di massa, lo si scrive in alto (in posizione apice), a sinistra del simbolo chimico.[2] Ad esempio, per l'atomo del carbonio, con numero di massa 12 si rappresenta la somma dei suoi 6 protoni e dei rispettivi neutroni: 12C.
+
+Nuclidi diversi con lo stesso numero di massa vengono detti isobari. 
+
+Numero di massa e massa dei nucleoni
+Poiché le masse di neutroni e protoni non legati sono circa pari a 1 uma, in prima approssimazione il valore del numero di massa può essere considerato uguale in termini numerici al valore della somma delle masse in uma dei neutroni e dei protoni. Sebbene tali valori siano quasi identici numericamente, non è però corretto esprimere il numero di massa in termini di massa in uma di neutroni + protoni, in quanto il numero di massa è un numero adimensionale, mentre la massa di neutroni e protoni non è un numero adimensionale (infatti ha le dimensioni di una massa).
+
+Inoltre, il numero di massa è sempre identificato da un numero naturale (cioè un numero intero positivo), mentre la massa dei nucleoni in uma, che possiamo approssimare alla massa atomica (essendo la massa degli elettroni trascurabile rispetto alla massa dei nucleoni), è rappresentata da un numero reale. Ad esempio la massa atomica del 24Mg è pari a circa 23,985 uma, mentre il suo numero di massa è pari a 24.[2] 
+
+
+
+
+=== pH
+
+Il pH è una scala di misura dell'acidità o della basicità di una soluzione acquosa.
+
+Il termine "pH" fu introdotto nel 1909 dal chimico danese Søren Sørensen.[1]
+
+Il termine p (operatore) simboleggia due operazioni matematiche da effettuare sull'attività dello ione ossonio (idrossonio) in soluzione acquosa, ovvero il logaritmo in base 10 dell'attività e quindi il cambio di segno del risultato (moltiplicazione per -1). Naturalmente, per le proprietà dei logaritmi, si ottiene il medesimo risultato anche calcolando il logaritmo del reciproco dell'attività degli ioni ossonio.
+
+Pertanto, si definisce in maniera rigorosa come:[2] 
+
+
+
+Convenzionalmente, il pH di soluzioni acquose assume valori compresi fra 0 (massima acidità) e 14 (massima basicità). Al valore intermedio di 7 corrisponde la condizione di neutralità, tipica dell'acqua pura a 25 °C.
+
+Il pH può essere misurato per via elettrica, sfruttando il potenziale creato dalla differenza di concentrazione di ioni idrogeno su due lati di una membrana di vetro (si veda piaccametro), o per via chimica, sfruttando la capacità di alcune sostanze (dette indicatori) di modificare il loro colore in funzione del pH dell'ambiente in cui si trovano. Normalmente, sono sostanze usate in soluzione, come per esempio la fenolftaleina e il blu di bromotimolo.
+
+Molto spesso gli indicatori si usano anche supportati su strisce di carta (le cosiddette "cartine indicatrici universali"), le quali cambiano colore quando vengono immerse in sostanze acide o basiche. L'esempio più comune è quello delle "cartine di tornasole", di colore rosa in ambiente acido e azzurro in ambiente alcalino. 
+
+
+
+=== molarità
+La molarità o concentrazione molare (M) di una soluzione esprime il numero di moli di soluto (nsoluto) contenute in 1 litro di soluzione. ... La normalità o concentrazione normale (N) di una soluzione esprime il numero di equivalenti di soluto contenuti in 1 litro di soluzione.
+
+=== gas ideale
+
+Un gas ideale, o gas perfetto, è un gas descritto dall'equazione di stato dei gas perfetti, e che quindi rispetta la legge di Boyle-Mariotte, la prima legge di Gay-Lussac o legge di Charles, e la seconda legge di Gay-Lussac, in tutte le condizioni di temperatura, densità e pressione. In questo modello le molecole del gas sono assunte puntiformi e non interagenti. I gas reali si comportano con buona approssimazione come gas perfetti quando la pressione è sufficientemente bassa e la temperatura sufficientemente alta
+
+=== Idrocarburi
+
+Gli idrocarburi sono composti organici che contengono soltanto atomi di carbonio e di idrogeno.[1][2]
+
+Ampiamente usati come combustibili, la loro principale fonte in natura è di origine fossile. 
+
+Gli atomi di carbonio (C) sono legati tra loro a formare lo scheletro della molecola, mentre gli atomi di idrogeno (H) sporgono da questo scheletro. Gli idrocarburi sono l'unica categoria di composti organici privi del gruppo funzionale, sono infatti composti solamente da atomi di idrogeno e carbonio.
+
+All'aumentare del numero di atomi di carbonio presenti nella catena idrocarburica aumenta il numero di composti idrocarburici possibili. La catena più corta possibile è composta da un solo atomo di carbonio, a cui corrisponde il metano, avente formula bruta CH4.
+
+Gli idrocarburi aventi due atomi di carbonio sono tre:
+
+    l'etano, di formula C2H6
+    l'etene (o etilene), C2H4
+    l'etino (o acetilene), C2H2.
+
+Questi tre idrocarburi si differenziano per il numero di legami che tengono uniti i due atomi di carbonio contigui: un legame (per cui si parla di "legame semplice") nel caso dell'etano, due legami ("legame doppio") nel caso dell'etilene e tre legami ("legame triplo") nel caso dell'acetilene.
+
+Nella struttura di un generico idrocarburo ogni atomo di carbonio usa da uno a tre elettroni di valenza per formare legami con il carbonio adiacente, mentre i restanti elettroni di valenza del carbonio sono utilizzati per formare i legami con gli atomi di idrogeno. All'interno della molecola idrocarburica possono esserci comunque degli atomi di carbonio a cui non sono legati atomi di idrogeno, ma solo altri atomi di carbonio (un esempio è l'atomo di carbonio centrale della molecola di neopentano).
+Classificazione degli idrocarburi
+
+Una prima distinzione tra i vari idrocarburi si riferisce al loro stato fisico nelle condizioni di pressione e di temperatura ambientali e cioè:
+
+    Idrocarburi solidi o semisolidi: costituenti dell'asfalto, del bitume, cere paraffiniche, ecc.
+    Idrocarburi liquidi: costituenti del petrolio (grezzo), benzene, esano, ottano, ecc.
+    Idrocarburi gassosi: metano, etano, propano, butano, ecc.
+
+Dal punto di vista delle proprietà chimiche, gli idrocarburi si distinguono in due classi principali:
+
+    idrocarburi aromatici: dotati di "aromaticità", una proprietà chimica impartita da un anello benzenico, che li rende particolarmente stabili;[1]
+    idrocarburi alifatici: non dotati di aromaticità.
+
+Le varie tipologie di idrocarburi (alcani, alcheni, ecc.) descritte di seguito vengono dette "serie omologhe".
+
+La classificazione qui descritta non vuole essere esaustiva, infatti esistono tante tipologie di idrocarburi non bene classificabili, quali ad esempio i catenani, che sono costituiti da più anelli inseriti l'uno nell'altro in modo che ognuno possa muoversi indipendentemente dall'altro ma senza "sciogliersi" (in maniera analoga agli anelli di una catena in acciaio, da cui il nome).[3]
+Idrocarburi alifatici
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: Composti alifatici.
+
+A seconda dei tipi di legame C-C presenti nella molecola (singolo, doppio o triplo) e della loro geometria (lineare, ramificata, ciclica), gli idrocarburi alifatici si dividono inoltre in:[1]
+
+    idrocarburi saturi: con soli legami singoli C-C[4]
+        alcani (o paraffine): idrocarburi saturi non ciclici, cioè aventi una catena non richiusa su sé stessa; hanno formula generale CnH2n+2. A loro volta possono essere lineari o ramificati, a seconda che gli atomi di carbonio si susseguano in maniera continua o con biforcazioni
+        cicloalcani: idrocarburi saturi ciclici, aventi formula generale CnH2n[5]
+        bicicloalcani: idrocarburi saturi costituiti da due catene cicliche contigue[5]
+        alchilcicloalcani: idrocarburi saturi costituiti da una catena idrocarburica ciclica legata ad una catena non ciclica)[6]
+		
+    idrocarburi insaturi: contengono almeno un legame C-C multiplo (cioè doppio o triplo)[4]. I legami formati da due o più atomi presenti nella catena del carbonio che costituisce lo scheletro della molecola hanno geometria trigonale perché sono ibridati sp2, oppure hanno geometria lineare perché sono ibridati sp; nello scheletro della molecola è presente almeno un doppio legame, σ + π;
+        alcheni (o olefine): non ciclici e con un legame doppio C=C, aventi formula generale CnH2n
+        dieni (o alcadieni), trieni (o alcatrieni), polieni: non ciclici e aventi rispettivamente due, tre o molti legami doppi C=C
+        cicloalcheni: ciclici, con un legame doppio C=C, aventi formula generale CnH2n-2
+        alchini: non ciclici e con un legame triplo C≡C, aventi formula generale CnH2n-2
+        cicloalchini: ciclici, con un legame triplo, aventi formula generale CnH2n-4.
+
+
+Gli idrocarburi alifatici ciclici sono detti idrocarburi aliciclici. 
+
+Idrocarburi aromatici
+
+A seconda del tipo di struttura, gli idrocarburi aromatici si possono dividere in:
+
+    benzene e derivati
+    idrocarburi aromatici polinucleati (o "policiclici")
+
+
+Proprietà
+
+In generale per gli alcani aciclici, quelli con peso molecolare simile hanno proprietà chimico-fisiche simili.
+
+Esistono in natura varie miscele di idrocarburi, con caratteristhe chimico-fisiche intermedie fra una categoria e l'altra.
+Stato di aggregazione
+
+Lo stato di aggregazione degli idrocarburi (a temperatura e pressione ambiente) dipende dal loro peso molecolare: gli idrocarburi aventi peso molecolare minore (ad esempio metano, etano, propano) si trovano allo stato gassoso, quelli con peso molecolare più elevato (ad esempio benzene, esano e ottano) sono liquidi e quelli aventi peso molecolare ancora più elevato sono solidi cerosi.
+Bombole contenenti GPL, una miscela di idrocarburi normalmente gassosi mantenuti allo stato liquido dalle elevate pressioni in cui si trovano.
+
+Spesso gli idrocarburi che a temperatura e pressione sono sotto forma di gas vengono mantenuti all'interno di recipienti in pressione (ad esempio in bombole), in modo da conservarli in volumi più ristretti. Infatti, a parità di temperatura e quantità di sostanza, all'aumentare della pressione diminuisce il volume occupato da un gas (come deducibile dall'equazione di stato dei gas perfetti o da altre equazioni di stato), finché esso passa (in parte o in toto) allo stato liquido. Ad esempio le comuni "bombole del gas" utilizzate in ambito domestico contengono una miscela liquida di idrocarburi (nota come GPL) che si trovano gassosi a temperatura e pressione ambiente.
+Stabilità/reattività
+
+Gli idrocarburi ciclici formati da meno di sei atomi di carbonio sono particolarmente instabili a causa della piccolezza dell'anello, che si traduce in una elevata tensione d'anello (o "tensione angolare"), ovvero un'elevata energia immagazzinata nella molecola che tende ad aprire l'anello.[7]
+
+In generale gli idrocarburi saturi, benché siano facilmente infiammabili e quindi reagiscano facilmente con l'ossigeno, hanno una relativa inerzia chimica; per tale motivo sono stati denominati originariamente paraffine (dal latino parum affinis, "poco reattivo").[8]
+
+Gli idrocarburi contenenti insaturazioni hanno altre proprietà, dovute ai doppi o tripli legami e sono chimicamente più reattivi nelle posizioni contenenti il doppio o triplo legame o immediatamente adiacenti ad esse.
+
+Gli idrocarburi aromatici formano una classe a sé per stabilità ed hanno una reattività chimica molto diversa da quella degli idrocarburi alifatici.
+Polarità
+
+Le molecole degli alcani e dei cicloalcani sono apolari, in quanto, anche se il legame covalente C-H è polarizzato, la differenza di elettronegatività è piuttosto bassa (0,4) e la struttura tetraedrica porta a una distribuzione della carica nelle molecole complessivamente simmetrica. Le considerazioni sulla loro struttura molecolare trovano conferma nelle prove di solubilità: gli alcani sono praticamente insolubili in acqua, mentre si sciolgono nei solventi apolari.
+Separazione degli idrocarburi
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: Raffineria di petrolio.
+Schema semplificato del processo di distillazione del greggio
+
+Moltissimi idrocarburi derivano dal processo di raffinazione del petrolio, che consiste in un insieme di processi chimico-fisici che hanno lo scopo di ottenere determinati prodotti chimici (miscele combustibili, asfalto, lubrificanti, ecc.) a partire dal greggio.
+
+Tra i vari processi impiegati nella raffinazione, la distillazione del greggio (o "topping") riveste un ruolo fondamentale. Nella colonna di distillazione il greggio viene separato in più "tagli", a seconda del peso molecolare (o a volere essere più precisi, della volatilità) degli idrocarburi che costituiscono il taglio in questione. Ogni taglio viene individuato dal numero di atomi di carbonio che sono contenuti nelle molecole del taglio in questione. Ad esempio il taglio C4 contiene idrocarburi che hanno quattro atomi di carbonio (come ad esempio il butano, il butene e i loro isomeri). Questo perché è molto più difficile separare per mezzo della sola distillazione molecole idrocarburiche che abbiano pesi molecolari vicini o addirittura identici. Ciò riflette il fatto che idrocarburi simili (cioè appartenenti alla stessa serie omologa) hanno proprietà chimico-fisiche simili tra loro.
+Processi chimici che coinvolgono gli idrocarburi
+
+Gli idrocarburi sono una classe talmente ampia di composti che è impossibile citare tutte le reazioni in campo industriale nelle quali possono essere coinvolti.
+
+Tra le moltissime reazioni che coinvolgono gli idrocarburi, si annoverano le seguenti:
+
+    cracking: è un processo chimico industriale rivolto alla formazione di paraffine a basso peso molecolare a partire da paraffine ad elevato peso molecolare;
+    reforming catalitico: è un processo che mira ad ottenere un prodotto avente un numero di ottano più elevato. A partire da paraffine si ha formazione di olefine, aromatici, isomeri ramificati e molecole a catena più corta;
+    polimerizzazione: si sfrutta per l'ottenimento di polimeri, ovvero molecole aventi pesi molecolari elevatissimi; polimeri di natura idrocarburica sono ad esempio il polietilene e il polipropilene.
+
+Aspetti economici e geopolitici
+Tutti gli idrocarburi assumono un'enorme importanza nell'economia e nella geopolitica moderne, principalmente grazie al loro ruolo fondamentale come fonte d'energia e per le vastissime applicazioni di tipo industriale. 
+
+
+	
+=== Steroide
+
+Gli steroidi sono dei lipidi[1] derivati ossidati degli steroli: possiedono il nucleo sterolico (composto da quattro anelli fusi, tre a sei atomi e uno a cinque), ma non la catena alchilica[2]. Sono steroidi gli ormoni sessuali (es. testosterone, diidrotestosterone, estradiolo, progesterone), e gli ormoni corticosurrenali (ad es., cortisolo, aldosterone). Gli steroidi sono biosintetizzati attraverso la via metabolica dell'acido mevalonico. 
+
+Caratteristica comune è la presenza dei quattro anelli condensati di atomi di carbonio, tre cicli a sei atomi [A,B,C] e un ciclo [D] a cinque atomi in disposizione analoga al ciclopentanoperidrofenantrene.
+
+I diversi steroidi si differenziano per la presenza o l'assenza degli atomi di carbonio identificati dai numeri da 18 in su, e per i gruppi funzionali presenti sul resto della struttura.
+
+Sono noti centinaia di steroidi diversi, isolati da specie animali e vegetali. Il loro ruolo più importante nei sistemi viventi è quello di fungere da ormoni. Nella fisiologia e nella medicina umana, i più importanti steroidi sono il colesterolo e gli ormoni steroidei, nonché i loro precursori e metaboliti.
+
+Gli ormoni steroidei presenti nel plasma sono quasi completamente legati a proteine che ne inibiscono l'azione biologica; stando alle conoscenze attuali solo la frazione libera esercita effetti biologici, entrando nel nucleo cellulare e legandosi a fattori di trascrizione nucleari che stimolano o inibiscono l'espressione genica a seconda dei geni coinvolti.
+
+È da sottolineare che la parola "steroide" si riferisce soltanto alla struttura chimica, e non alle funzioni biologiche. Infatti, ad esempio, il testosterone migliora l'azione dell'insulina, il cortisolo la inibisce; allo stesso modo, il testosterone stimola la sintesi di massa ossea e muscolare, mentre il cortisolo la degrada.
+
+Il colesterolo è un importante alcol steroideo (uno sterolo), essendo un comune componente delle membrane delle cellule animali. Da esso l'organismo produce un'ampia serie di altri steroidi, tra cui gli ormoni sessuali dei vertebrati.
+
+Gli effetti collaterali degli steroidi anabolizzanti si manifestano dopo poche settimane come ittero, pressione alta, ginecomastia maschile e riduzione dei seni nelle donne, atrofia testicolare e oligospermia (perché l'organismo smette di produrre testosterone se lo riceve dall'esterno), acne grave, irregolarità mestruale, alopecia maschile con aumento dei peli sul corpo e crescita della barba nelle donne, sovraeccitazione e aggressività anche sessuale cui seguono alterazione del ritmo sonno/veglia e depressione.
+
+Alcuni steroidi anabolizzanti sono relativamente sicuri e presentano pochi effetti collaterali, ad esempio l'Adrenosterone, mentre altri come il Metribolone sono potentissimi sia nei risultati che negli effetti collaterali.
+
+In caso di assunzione continuativa dopo alcuni mesi, se non si rispettano i tempi di wash-out, fra le complicazioni più gravi si manifestano: infarto, trombosi, cancro del rene o della prostata, o necrosi epatica fulminante. 
+
+
+	

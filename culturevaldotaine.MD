@@ -1,0 +1,558 @@
+culture valdotaine
+
+La culture valdôtaine a été, au cours de son histoire millénaire, étroitement
+liée aux coutumes, aux institutions et aux convictions morales, religieuses
+et politiques du peuple qui l’a exprimée, à travers l’œuvre d’auteurs dont
+l’influence s’est répandue bien au-delà des limites de la Vallée. Il suffit
+de citer **saint Anselme d’Aoste**, un personnage éminent de la culture
+ecclésiastique du XIe siècle et, dans le présent, les historiens **Federico
+Chabod et Ettore Passerin d’Entrèves, le philosophe Alessandro Passerin
+d’Entrèves et le critique littéraire Natalino Sapegno**.
+Résultant de circonstances qui lui ont conféré une individualité accentuée,
+dès le Moyen Âge la culture valdôtaine a été caractérisée par l’emploi du
+français : la **Chronique de la Maison de Challant de Pierre Du Bois**, premier
+ouvrage historiographique, de grand intérêt du point de vue littéraire
+aussi, date de 1460. L’usage du **français dans les actes officiels** ayant été formalisé en **1561**, en 1588 parurent
+les **Costumes générales du Duché d’Aoste,** un ouvrage de grande importance morale et civile qui régla la vie
+juridique valdôtaine jusqu’à la moitié du XVIIIe siècle.
+Au cours des XVIe et XVIIe siècles, la production culturelle fut caractérisée
+par une orientation historique et hagiographique, ainsi qu’en témoignent
+des ouvrages comme le Catalogus reverendissimorum presulum civitatis
+Auguste Pretoree (env. 1555), dont l’auteur, **Jean-Ludovic Vaudan**,
+appartenait à ce clergé valdôtain cultivé et érudit qui sera un point de
+repère constant de la culture locale. Dans ce courant se place le **Profil
+historial et diagraphique de la très antique cité d’Aouste de Jean-Claude
+Mochet**, qui fut longtemps l’une des sources les plus importantes pour
+l’histoire valdôtaine. En reprenant un genre codifié tel que celui des vies
+des saints, **Roland Viot**, prévôt du Grand-Saint-Bernard, publia en 1627 le
+Miroir de toute saincteté en la vie du saint merveilleux Bernard de Menton :
+un véritable bijou de la littérature valdôtaine de cette époque.
+Entre-temps, depuis 1604, le collège Saint-Bénin jouait un rôle majeur dans la diffusion de la culture, à
+travers l’instruction et la formation de la future classe dirigeante valdôtaine et devenait en quelques années
+l’une des institutions culturelles les plus importantes des États de la maison de Savoie. Au clergé valdôtain
+appartint l’un des protagonistes les plus illustres de l’histoire politique et religieuse du XVIIe siècle : **Albert
+Bailly**, évêque d’Aoste de 1659 à 1691, fin homme de lettres et écrivain fécond. Inspirateur de la Déclaration
+gallicane du clergé valdôtain de 1661, auteur de L’état intramontain (1673), il formula dans cet ouvrage l’une
+des bases du particularisme valdôtain.
+La première moitié du XVIIIe siècle fut dominée par la personnalité de **Jean-Baptiste de Tillier** (1678-1744), dont
+l’œuvre imposante vit le jour dans un climat politiquement tourmenté par l’antagonisme toujours plus marqué
+entre le pouvoir centralisateur de Turin et les tendances particularistes du Pays d’Aoste. Ses écrits, susceptibles de
+fomenter l’esprit d’indépendance, furent saisis par l’État et longtemps interdits. Parmi les titres les plus connus
+de cette imposante production : l’Historique de la Vallée d’Aoste, les Chronologies et le Nobiliaire du Duché d’Aoste.
+
+
+Tenue depuis longtemps à l’écart des principaux centres de l’économie et de la politique, la Vallée d’Aoste
+fut comme réveillée d’une sorte d’engourdissement à partir du milieu du XVIIIe siècle, en conséquence du
+développement rapide d’un tourisme « de qualité », constitué de voyageurs étrangers impatients d’escalader
+les montagnes les plus hautes d’Europe et de personnages de haut niveau cherchant un peu de repos dans
+les thermes de Saint-Vincent, Pré-Saint-Didier et Courmayeur.
+Le climat politique de la deuxième moitié du XVIIIe siècle et les changements rapides qui s’enchaînèrent de
+la Révolution française jusqu’à la Restauration entravèrent pour quelques décennies les conditions favorables
+aux recherches érudites. Il faut attendre 1839, avec la publication de l’Historique du Pays d’Aoste du chanoine
+**Félix Orsières** (1803-1870), pour assister à la reprise des études historiques. Au cours de ces mêmes années
+fleurit dans le domaine littéraire la Pléiade valdôtaine : parmi ses esprits les plus originaux figurent les frères
+Ferdinand et Alcide Bochet.
+La parution, le 15 janvier 1841, de La Feuille d’annonces d’Aoste fut l’événement le plus remarquable du début
+des années quarante. Il s’agit du premier des nombreux journaux qui constituèrent le riche univers de la presse
+valdôtaine, animée vers la fin du siècle par le débat passionné entre le Duché d’Aoste, catholique, et le MontBlanc, laïc.
+La fondation, en 1855, de l’académie Saint-Anselme, par le prieur Jean-Antoine Gal (1795-1867) et un groupe
+d’intellectuels religieux et laïcs, donna l’essor décisif au développement de l’historiographie valdôtaine: dans
+ce contexte naîtront des ouvrages comme la monumentale **Histoire de l’Eglise d’Aoste de Mgr Joseph-Auguste
+Duc** (1835-1922), les monographies paroissiales et les répertoires du chanoine Pierre-Etienne Duc (1827-1914),
+et les travaux érudits et les éditions de sources documentaires de François-Gabriel Frutaz (1859-1922).
+Les relations entretenues par le chanoine Gal avec d’importantes personnalités de la culture italienne et
+européenne de l’époque, ainsi que la publication à Paris, en 1860, de l’excellent ouvrage d’Edouard Aubert
+La Vallée d’Aoste, suscitèrent un intérêt pour la Vallée même en dehors de la région. Cela est témoigné par
+des ouvrages comme Le antichità di Aosta (1864) de Carlo Promis ou bien le célèbre Castelli valdostani e
+canavesani (1897) de Giuseppe Giacosa.
+Pendant la deuxième moitié du XIXe siècle, alors que la poésie et le roman connurent un grand essor, le
+francoprovençal obtint lui aussi sa dignité littéraire, grâce à l’œuvre de l’abbé Jean-Baptiste Cerlogne (1826-
+1910). Une figure légendaire dans le panorama culturel du XIXe siècle fut celle d’Amé Gorret, l’Ours de la
+montagne (1836-1907), écrivain éclectique et original dont les ouvrages représentent l’apogée atteint par la
+littérature alpine valdôtaine : Victor Emmanuel sur les Alpes, 1878 ; Guide de la Vallée d’Aoste, 1877, écrit en
+collaboration avec le baron Claude-Nicolas Bich.
+La forme littéraire préférée par les auteurs de cette période était surtout celle du récit, comme l’attestent
+de nombreux recueils de ce genre, parmi lesquels les Légendes et récits recueillis sur le bord du Lys (1901) de
+Jean-Jacques Christillin ou bien les Veillées valdôtaines illustrées (1912) de **Tancrède Tibaldi**, auteur également
+du premier ouvrage d’histoire locale en langue italienne, La regione d’Aosta attraverso i secoli, publié en 5
+
+volumes entre 1900 et 1916. À la même période, le jeune abbé PierreAntoine Maquignaz (Jacquême), 
+écrivain au style élégant et brillant,
+tombé au front en 1917, mérite d’être signalé. Les années suivantes,
+Léon-Marius Manzetti (1903-1936) se signala auteur éclectique doté
+d’un talent inhabituel, qui pendant sa courte carrière s’essaya à tous les
+genres littéraires, de la poésie (Première moisson, 1923) au théâtre (L’âme
+ensoleillée, 1931), en passant par le roman.
+Sous le fascisme, la production littéraire fut conditionnée par l’attitude
+francophobe du régime, qui exerçait une lourde action d’italianisation,
+alors que presque tout le clergé veillait en défense de la tradition.
+Dans cette situation, le notaire Émile Chanoux, inspiré par les idéaux
+régionalistes du docteur Anselme Réan et de l’abbé Joseph Trèves – fondateurs de la Ligue valdôtaine pour
+la protection de la langue française et de la Jeune Vallée d’Aoste – élabora son projet de fédéralisme, en
+appuyant ses théories sur un activisme religieux et politique qui lui coûta la vie en mai 1944.
+L’organisation à Aoste, en 1956, du XXXIe Congresso Storico Subalpino
+entama un renouveau radical de l’historiographie locale dont Mgr Aimé-
+Pierre Frutaz (1907-1980), auteur des Fonti per la storia della Valle d’Aosta
+(1966) fut l’interprète. **André Zanotto** (1933-1995) publia en 1968 l’Histoire
+de la Vallée d’Aoste, dont la diffusion peut être comparée à celle de l’Histoire
+populaire, religieuse et civile de la Vallée d’Aoste de l’abbé Joseph-Marie
+Henry, publiée en 1929. En 1976, enfin, Lin Colliard, lui aussi disciple de
+Mgr Frutaz, publia sa Culture valdôtaine au cours des siècles, un véritable
+traité sur les courants et les acteurs de la pensée et de la littérature locales,
+depuis le Moyen Âge jusqu’à la première moitié du XXe siècle.
+En s’inspirant des enseignements de ces illustres prédécesseurs, de
+nombreux chercheurs et hommes de lettres d’expression italienne,
+française et francoprovençale contribuent aujourd’hui à enrichir et à diffuser une culture vive et composite, qui
+reflète une société solidement enracinée dans son terroir et en même temps ouverte au progrès et renouveau.
+
+
+Du latin aux langues néo-latines
+En Vallée d’Aoste, comme dans toutes les autres régions européennes
+ayant jadis appartenu à l’Empire romain d’occident, le latin a joué un
+rôle essentiel dans la formation des idiomes locaux, en constituant la
+base de l’évolution successive. Un autre élément fondamental est représenté par 
+les dialectes des peuples germaniques qui s’installèrent
+dans les différentes régions : on estime que les langues « nationales »
+actuelles dérivant du latin se sont développées parallèlement à la création des royaumes romano-germaniques, 
+qui stabilisèrent, à un moment historique crucial, les caractères ethnoculturels des différents
+peuples destinés à créer les futures nations européennes. Les Alpes
+nord-occidentales et la haute vallée du Rhône furent occupées par les
+Burgondes, puis par les Francs. Quand, en 575, le roi franc de Burgundia, Gontran, 
+obtint une victoire décisive contre les Lombards, il annexa
+les vallées d’Aoste et de Suse, qui furent intégrées à l’aire politique et
+culturelle – donc linguistique – de la monarchie franque. Le latin y évolua en aboutissant à la formation
+des dialectes que le linguiste G. I. Ascoli, au XIXe siècle, a appelées « francoprovençaux », en y décelant des
+caractères qui les rapprochent aussi bien du français que du provençal.
+La production en langue latine
+Contrairement aux autres idiomes néo-latins, qui aboutirent à la formation des langues « nationales » modernes
+(le français, l’espagnol, le portugais etc.), les dialectes
+francoprovençaux n’eurent jamais la possibilité d’exprimer une langue unitaire, à cause du manque d’un 
+espace politique commun aux différentes régions où on les parlait. Le royaume de Bourgogne, qui se forma lors
+de la chute de l’Empire carolingien, en 888 et qui englobait toutes ces régions, 
+aurait pu remplir ce rôle unifiant, mais il disparut au bout d’un siècle et demi.
+Jusqu’au XIVe siècle la seule langue écrite utilisée en Vallée d’Aoste fut donc le latin, 
+bien que les documents produits par la Chancellerie citadine et les instruments des
+notaires contiennent souvent des mots en langue vulgaire, surtout des toponymes et des termes techniques
+relatifs à l’agriculture. Ce qui nous est resté des bibliothèques valdôtaines du Moyen Âge 
+est constitué essentiellement par des manuscrits liturgiques, produits pour la plupart par des scriptoria locaux, 
+qui reflètent le rit propre à l’Église d’Aoste. Les seuls textes ayant un caractère littéraire 
+qu’il est possible d’attribuer à des auteurs valdôtains sont des textes hagiographiques : 
+la **Vita beati Ursi**, dont la première version remonte au VIIIe ou au IXe siècle, 
+et la **Magna legenda sancti Grati**, du XIIIe, compilée probablement par le chanoine Jacques des
+Cours. Saint Anselme d’Aoste (1033 ou 1034 – 1109) est sans doute l’un des très grands auteurs médiévaux,
+mais il serait réducteur d’inscrire son œuvre au chapitre de la littérature régionale.
+
+
+La diffusion de la langue française
+L’aire linguistique d’oïl comprenait
+l’ensemble des dialectes du Nord de
+la France, parmi lesquels celui de l’Ilede-France, c’est-à-dire de la région parisienne, finit par prendre le dessus,
+pour des raisons évidentes de prestige politique ; le patois que parlaient
+le roi et la cour de France allait devenir
+la langue française.
+Il faut souligner la profonde affinité
+qui relie cette langue aux dialectes
+francoprovençaux : le francoprovençal peut être considéré comme un
+français archaïque, ayant conservé des caractéristiques plus proches du
+latin en refusant, à partir vraisemblablement de l’époque carolingienne,
+les innovations linguistiques propres à la langue d’oïl. 
+Étant donné cette affinité de base, ainsi que la facilité de compréhension réciproque et la
+grande diffusion et popularité des ouvrages littéraires en français - qu’on songe aux cycles chevaleresques
+de Charlemagne, du roi Arthur et d’Alexandre le Grand - , l’ensemble des territoires « francoprovençaux »
+n’eut aucune difficulté à adopter progressivement l’usage du français comme langue écrite.
+En Vallée d’Aoste, la diffusion de la langue et de la littérature françaises est attestée dès le XIIIe siècle au moins,
+époque à laquelle remonte un manuscrit fragmentaire du Roman d’Escanor retrouvé au château Sarriod de
+La Tour de Saint-Pierre. C’est cependant au château de Quart qu’on trouve les traces les plus nombreuses
+de l’emploi précoce du français et de la diffusion de la littérature française dans notre région : sur ses murs
+François-Gabriel Frutaz put lire, en 1893, un graffiti avec des vers attribués au trouvère Thibaut IV de Champagne, 
+roi de Navarre (1201-1253) ; dans la décennie 1290-1300 le seigneur Jacques III de Quart fit décorer la
+salle du donjon avec des scènes tirées du Roman d’Alexandre, best-seller en français dont on connaît plusieurs
+versions depuis le XIIe siècle; et dans la seconde moitié du XIVe siècle son dernier descendant, Henri de Quart,
+employait un sceau bilingue latin-français, alors que les seigneurs de Challant lisaient la chanson de geste
+L’entrée d’Espagne et écrivaient des extraits du Roman de Renart sur les murs du château de Châtillon. À la
+même période les châtelains de Cly échangeaient du courrier en langue française et les seigneurs valdôtains
+donnaient à leurs enfants les prénoms de Perceval, Lancelot et Alexandre, tirés des romans à la mode.
+Pour pouvoir lire des œuvres littéraires proprement dites, produites par des Valdôtains en langue vulgaire, 
+il faut attendre le XVe siècle, même s’il existait sans doute des textes plus anciens, 
+qui malheureusement ne nous sont pas parvenus : les lettres privées conservées dans les archives des familles nobles
+prouvent en effet que l’emploi du français comme langue écrite était déjà courant et exclusif.
+
+
+Humanistes valdôtains
+Le XVIe siècle, en Vallée d’Aoste comme dans
+toute l’Europe, se caractérise par la diffusion des
+nouveaux canons esthétiques venant d’Italie,
+qu’inspirent la redécouverte de l’art et de
+l’architecture antiques et de la littérature classique
+gréco-latine. Entamée dans le domaine artistique
+par le prieur de Saint-Ours d’Aoste Georges de
+Challant († 1509) et par son cousin Charles, prévôt
+de Saint-Gilles de Verrès († 1518), cette tendance
+se précise grâce à des personnalités telles que le
+chanoine lorrain Jean de Gombaudel, constructeur
+de la façade de la cathédrale d’Aoste en 1526, et
+Amedeo Berruti, évêque d’Aoste (1515-1525), auteur
+d’un Dialogus de amicitia vera et de amore honesto
+en latin, s’inspirant de modèles antiques. Également inspiré de valeurs classiques actualisées par
+une relecture chrétienne, le Discours aux fils du juriste Jean-Humbert de Vallaise, baron d’Arnad,
+édité en 1592, est cependant écrit en français ; on attribue aussi à cet auteur un Dialogue entre
+l’agriculteur et le bâtisseur, demeuré inédit de son temps.
+Réforme protestante et Réforme catholique
+Le renouveau des arts et des lettres a son parallèle, pour ce qui est du domaine religieux, dans la
+remise en question de l’autorité de l’Église : la critique philologique des Écritures met en doute
+les interprétations traditionnelles et révèle l’ignorance du clergé ; la vie sécularisée et parfois
+scandaleuse des prêtres et des prélats suscite l’indignation des fidèles. Le mouvement évangélique
+déclenché par Luther se répand en Vallée d’Aoste aussi, où les contacts avec les milieux réformés
+sont facilités par la proximité géographique avec Genève, l’un des foyers les plus actifs de la
+propagande protestante. Les événements politiques qui se produisent en 1536, qu’on rapportera
+par la suite, empêchent cependant que le protestantisme s’installe dans la région.
+La réaction catholique s’y manifeste par l’adhésion aux positions exprimées par le Concile de
+Trente, où le chanoine de la cathédrale Barthélemy Berthod († 1575), de Courmayeur, théologien
+expert, représente l’évêque d’Aoste Pietro Gazino. La nécessité de contrecarrer les succès de
+la prédication protestante entraîne, du côté catholique, un approfondissement de la réflexion
+théologique et un appel à l’ordre dans le domaine disciplinaire. Le nouveau climat culturel trouve
+un interprète qualifié en la personne du chanoine Michel Perret, de Cogne, étudiant à Louvain,
+puis à Paris et à l’Université de Dôle, docteur ès arts en 1574, en théologie et ès droits, professeur
+à Louvain, puis à la Grande Eschole d’Aoste en 1578 et curé de Saint-Jean en 1588, qui est l’auteur
+d’un manuel de théologie dogmatique et morale, d’herméneutique et de prédication.
+Les polémiques doctrinales et littéraires entre protestants et catholiques se développent dans
+le domaine historiographique aussi : le but des uns est notamment de contester la légitimité
+de la prétendue origine apostolique de la hiérarchie catholique, celui des autres de la réaffirmer,
+ainsi que de justifier historiquement la validité de la tradition catholique dans son ensemble, y
+
+compris le culte des saints. C’est dans ce contexte que naissent les premiers, modestes essais
+d’historiographie ecclésiastique valdôtaine : en 1549 le chanoine de la cathédrale Jean-Louis
+Vaudan écrit un Catalogus presulum Auguste Pretoree (sic) en forme de chronique et une autre liste
+des évêques d’Aoste est compilée par le juriste Bonaventure-Philibert Bornyon vers la fin du siècle.
+L’intention apologétique antiprotestante se manifeste également par une Vie de saint Grat, éditée
+en 1575, caractérisée par une absence totale de méthode critique - ce n’est en fait que la traduction
+de la Magna legenda Sancti Grati remontant au XIIIe siècle -, mais qui présente néanmoins deux
+caractéristiques intéressantes au point de vue historique : ses auteurs sont deux laïques, citoyens
+d’Aoste, Mathieu Viettes et Aimé-Gaspard de La Crête ; il s’agit de la plus ancienne publication
+valdôtaine imprimée en français, qui démontre donc la volonté de populariser les contenus de la
+religion catholique en utilisant la langue vulgaire.
+Le français langue officielle
+Au début du XVIe siècle, la langue
+exclusive de l’administration est
+encore, partout dans l’Europe
+occidentale, le latin, la langue
+universelle de l’Église et de
+l’Empire. L’essor des États
+« nationaux » tels que la France,
+l’Angleterre et l’Espagne, favorise
+cependant l’usage de plus en plus
+fréquent des langues vulgaires
+respectives, dans des domaines de
+plus en plus nombreux et même
+dans les occasions officielles et les
+moments institutionnels. Pour ce
+qui est du français, le roi de France François Ier établit en 1539, par son édit de Villers-Cotterêts, que
+tous les actes publics seront désormais écrits dans cette langue dans tout le Royaume.
+Trois ans auparavant, l’Assemblée des États du Duché d’Aoste anticipe cette décision capitale, en
+rédigeant pour la première fois en français le procès-verbal officiel de sa séance du 28 février 1536.
+Cette séance se déroule dans des conditions dramatiques. Les États de Savoie – Savoie, Piémont,
+Nice, les territoires savoyards de la Suisse romande actuelle – sont occupés par les troupes françaises,
+les Valaisans et les Bernois. Le duc Charles II est assiégé à Verceil. La Vallée d’Aoste est la seule
+région libre. La propagande protestante s’y répand et se double d’une action politique en faveur de
+l’annexion à la Confédération suisse. Seule institution à même de maîtriser la situation, l’Assemblée
+des États se réunit à Aoste, convoquée par le bailli Mathieu de Lostan. L’heure est aux décisions
+irrévocables : les Valdôtains sont appelés à décider s’ils veulent demeurer fidèles au catholicisme et
+au duc de Savoie. L’Assemblée vote en faveur de l’Église et du duc et engage ses membres à assurer
+la défense du Pays de toute invasion étrangère. Il est nécessaire que cette décision soit connue de
+la population de toute la Vallée, il faut donc qu’elle soit compréhensible au peuple : d’où le choix
+de rédiger le compte-rendu de cette réunion capitale en français et non en latin comme d’habitude.
+Quand le duc Emmanuel-Philibert de Savoie reconstitue ses États, en 1559, il entreprend une série
+de réformes visant, entre autres, la modernisation de l’administration : comme François Ier, il
+
+ordonne notamment le remplacement du latin par la langue vulgaire dans tous les actes publics.
+C’est ainsi que le français devient la langue officielle en Vallée d’Aoste, aux termes de l’édit de Rivoli
+du 22 septembre 1561. Les raisons de la décision du duc y sont clairement expliquées : constatant
+« être chose fort nécessaire et profitable pour le bien et commodité de nos sujets et Pays, faire
+accoutumer et user en tous affaires, tant de justice que autres, la langue vulgaire, chaque province
+la sienne » ; et prenant acte que, « ayant toujours et de tout temps été la langue française en notre
+Pays d’Aoste plus commune et générale que point d’autre ; et ayant le peuple et sujets dudit Pays
+averti et accoutumé de parler la dite langue plus aisément que nulle autre », Emmanuel-Philibert
+défend à tous ceux qui rédigent des actes publics d’utiliser « en leurs procédures tant de justice,
+que autre, de la langue latine, la quelle, outre ce qu’ils ne la savent user parfaitement, n’est si
+intelligible aux peuples comme la française ». Il ordonne donc que « au dit Pays et Duché d’Aoste,
+nulle personne quelle que ce soit ait à user tant ès procédures des procès et actes de justice, que
+à coucher contrats, instruments, enquestes ou autres semblables choses d’autre langue que la
+française, à peine de nullité des dits contrats et procédures, et de cent livres d’amende ».
+Malgré les oppositions des notaires et des gens de robe, qui voulaient continuer à utiliser leurs
+formulaires en latin, incompréhensibles pour la grande majorité de la population, le duc maintient
+fermement sa décision. Le français demeurera la langue usuelle des Valdôtains jusqu’au XXe siècle.
+
+
+L’essor des lettres
+La tradition humaniste du XVIe siècle (cf. chapitre
+3) s’épanouit pleinement, bien que tardivement, au
+XVIIe siècle, particulièrement dans le domaine de
+l’érudition, grâce à un petit nombre d’écrivains qui
+rédigent leurs ouvrages aussi bien en latin, que, surtout, en français, suivant le public plus ou moins large
+auquel ils entendent s’adresser. L’intérêt vis-à-vis des
+lettres classiques est ravivé particulièrement par l’ouverture, en 1604, du collège Saint-Bénin, fondé par
+le pape Clément VII sur demande de l’évêque Bartolomeo Ferreri, du Conseil des Commis et de la municipalité d’Aoste, auxquels est confiée conjointement
+l’administration de la nouvelle institution. À partir de
+cette date et pendant les trois siècles successifs, c’est
+au collège Saint-Bénin que se forme l’élite intellectuelle de la Vallée : attribué d’abord à des professeurs laïcs, à partir de 1644 l’enseignement est confié
+aux chanoines du Saint-Sauveur, venant de Lorraine. Parmi ses activités culturelles il faut souligner
+l’organisation de représentations théâtrales s’inspirant le plus souvent de l’histoire sacrée, mises en
+scène par les élèves sur des textes écrits généralement par les professeurs eux-mêmes, notamment par
+Jean-Nicolas Desfeyes (1627 env.–1712), Nicolas Claude et Félix Vercellin.
+À côté du collège Saint-Bénin, deux autres institutions jouent un rôle important dans le domaine
+de l’instruction, particulièrement pour ce qui est de la formation du clergé : le prieuré de SaintJacquême, appartenant aux chanoines du Mont-Joux, et le monastère de Saint-François, qui possèdent les bibliothèques les plus importantes de la Vallée, riches en classiques latins, en ouvrages
+de littérature française et en livres à contenu religieux et spirituel, formées notamment grâce au
+mécénat du prévôt du Mont-Joux Roland Viot et du père cordelier Jean-François Jeantet, respectivement. Certains de ces ouvrages, comme les écrits de l’évêque Bailly, les livres liturgiques du
+rit valdôtain et la deuxième édition du Coutumier, sont imprimés à Aoste même, dans l’atelier
+d’imprimerie d’Etienne Riondet, créé en 1682.
+L’éducation des jeunes filles est prise en charge par les chanoinesses de Notre-Dame, qui s’établissent à Aoste en 1641 en provenance elles aussi de la Lorraine. Elles ouvrent dès leur arrivée
+une école féminine gratuite et une école externe pour les garçons pauvres. Le XVIIe est le siècle où
+naît l’attention envers l’instruction du peuple : l’an 1600, des notables se cotisent pour instituer
+une école à Perloz, et au cours des décennies suivantes les écoles de village, où l’on apprend à
+lire, à écrire et à compter, se multiplient dans toute la région sur l’initiative de quelques nobles, de
+plusieurs notables et surtout de membres du clergé.
+L’intramontanisme
+Le pluralisme juridique et administratif caractérisant les États de Savoie au Moyen Âge est désormais bien affaibli, à la suite des réformes centralisatrices du XVIe siècle. Seule la Vallée d’Aoste  a
+conservé ses institutions autonomes : bien plus, elle les a renforcées et a accru sa conscience de constituer une entité politique
+bien caractérisée, séparée tant de la Savoie que, surtout, du Pié-
+mont, auquel le gouvernement turinois tend de plus en plus à
+l’assimiler.
+L’occasion de souligner cette différence et de la théoriser se pré-
+sente en 1661, lors de la tentative, réalisée par la cour pontificale, d’assimiler le diocèse d’Aoste aux diocèses d’Italie, soumis
+à une taxation extraordinaire pour contribuer à la guerre contre
+les Turcs. Le clergé valdôtain, guidé par le prévôt de la cathé-
+drale Jean-Nicolas Pascal († 1690), conteste vivement les lettres
+apostoliques réclamant cette contribution et rédige une déclaration en français. Dans cette déclaration, on affirme que le diocèse
+d’Aoste n’est pas en Italie, tant il est vrai que la langue du Pays
+n’est pas l’italien mais le français ; que l’Inquisition romaine n’y
+a jamais été admise, puisque le diocèse valdôtain est suffragant
+de la province ecclésiastique de Tarentaise et appartient donc à
+l’Église gallicane, dont il suit les cérémonies et les coutumes.
+L’évêque d’Aoste Albert-Philibert Bailly rédige un mémoire en latin, adressé au trésorier de la
+Chambre apostolique et au nonce de Turin, dans lequel il explique, par des arguments géographiques, historiques, linguistiques et juridiques, que le duché d’Aoste est un État séparé tant du
+Piémont que de la Savoie, s’agissant d’un territoire « intramontain » : ducatum istum non esse
+citra neque ultra montes sed intra montes.
+L’« intramontanisme » explicité par Mgr Bailly n’est que la formulation abstraite d’un principe pratique appliqué depuis toujours par les princes de la maison de Savoie, qui dans leurs actes officiels
+ont toujours reconnu les spécificités valdôtaines. La conscience du caractère « intramontain »
+de la Vallée d’Aoste, reprise par l’auteur de la Totius Vallis Augustæ compendiaria descriptio : Vallis
+Augusta… est provincia non ultra nec citra, sed intra… Alpium montes collocata restera bien vivante
+dans les siècles suivants, y compris quand la politique centralisatrice de la monarchie sarde, puis
+italienne, cherchera à effacer les caractères identitaires de la Vallée d’Aoste et de son peuple.
+
+
+La tendance centralisatrice de la maison de Savoie
+Au XVIIIe siècle la culture valdôtaine est fortement marquée par les contingences politiques. En
+1713, le duc Victor-Amédée II de Savoie obtient la couronne du royaume de Sicile, troquée contre
+celle de Sardaigne en 1720, et réorganise ses États de manière à centraliser de plus en plus leur
+administration et à accroître le pouvoir personnel du prince : ses réformes visent notamment
+l’abolition des libertés locales, qui sont encore fortement enracinées en Vallée d’Aoste. La
+résistance de la classe dirigeante valdôtaine s’incarne dans la pensée et l’action du secrétaire de
+l’Assemblée des États et du Conseil des Commis, Jean-Baptiste de Tillier (1678-1744), qui par son
+activité politique et par son œuvre historiographique s’oppose au despotisme monarchique et à
+la centralisation administrative.
+Les successeurs de Victor-Amédée II, Charles-Emmanuel III et Victor-Amédée III, finissent par
+supprimer les libertés valdôtaines au cours des années 1770-1773. Le Duché d’Aoste est alors
+réduit au régime politique commun : l’Assemblée des États n’est plus convoquée, le Conseil des
+Commis est réduit à une magistrature sanitaire, le Coutumier est supprimé et remplacé par les
+normes des Royales Constitutions appliquées dans les autres provinces du Royaume, le Bailliage
+devient une Intendance royale.
+Entre temps, la philosophie des Lumières fait des prosélytes en Vallée d’Aoste aussi, où les milieux
+intellectuels et bourgeois s’enflamment pour les idées nouvelles, qui triomphent en 1798, lorsque
+les armées révolutionnaires françaises occupent les États sardes de terre-ferme, en annexant la
+Savoie, la Vallée d’Aoste, Nice et le Piémont à la République française.
+L’absolutisme royal est accompagné d’une politique de réformes qui visent une gestion plus
+efficace de l’administration et des ressources économiques. Le porte-drapeau de cette « nouvelle
+vague » est le baron savoyard Aimé-Louis Vignet des Etoles (1739-1795 ?), nommé intendant
+royal d’Aoste en 1774, auteur en 1778 d’un intéressant Mémoire sur la Vallée d’Aoste. La politique
+réformatrice trouve des supporters parmi les notables autochtones aussi : entre autres, le juge
+Jean Christillin et le vice-intendant Jean-Baptiste Réan.
+
+Les germes du libéralisme
+L’idéologie révolutionnaire répandue par les jacobins et
+le réformisme du régime napoléonien sèment en Vallée
+d’Aoste aussi les germes du libéralisme : alors que l’aristocratie perd définitivement son rôle politique à l’avantage
+de la bourgeoisie, les principes de l’équilibre des pouvoirs
+sont prônés par une élite intellectuelle, formée principalement de juristes, d’entrepreneurs et d’officiers de l’armée,
+qui demande que les souverains de droit divin acceptent
+de partager le pouvoir avec des corps représentatifs, sur la
+base d’une charte constitutionnelle. L’université et l’armée
+sont les milieux d’élection des sociétés secrètes d’inspiration libérale, qui s’adonnent à des activités subversives et
+à des conspirations plus ou moins réalistes.
+Les décennies centrales du XIXe siècle marquent un tournant décisif de la culture valdôtaine. La naissance du
+journalisme local, qui se double de la parution de pamphlets à contenu politique, correspond à un profond
+renouveau de la production littéraire, scientifique et érudite des auteurs valdôtains. Côté littérature, c’est une
+véritable éclosion de la poésie et de la prose d’art, fort peu pratiquées jusqu’alors. L’alpinisme et les débuts
+du tourisme donnent naissance à la littérature alpine et à la rédaction des premiers guides touristiques. L’érudition et la recherche scientifique trouvent des lieux d’élection au sein de l’Académie Saint-Anselme (fondée
+en 1855) et de la Société de la Flore Valdôtaine (créée en 1858). L’intérêt pour les techniques, hérité du siècle
+des Lumières, se sommant au désir d’améliorer les conditions économiques de la région, se traduit dans
+la tentative de moderniser les pratiques agricoles et dans la diffusion de leur connaissance, par des articles
+dans les journaux et par la compilation d’almanachs populaires, tels l’Almanach du Duché d’Aoste (dès 1832),
+l’Almanach historique, instructif et amusant (1846), Le Garde National (1850).
+L’annexion de la Savoie à la France
+Le Statut de Charles-Albert, de 1848, reconnaissait aux députés savoyards, valdôtains et piémontais des
+vallées francophones le droit de s’exprimer en français pendant les séances du Parlement de Turin : ce qui
+revient à reconnaître au français, couramment utilisé par la noblesse subalpine de préférence à l’italien, le
+statut de langue co-officielle du royaume de Sardaigne.
+Le 14 juin 1860 se déroule à Chambéry la cérémonie de cession de la Savoie à la France, conformément aux
+accords entre Cavour et Napoléon III, ratifiés par un plébiscite. Si l’annexion de la Savoie à la France se justifie sur la base de la communauté de langue, l’insertion de la Vallée d’Aoste dans le Royaume d’Italie, l’année suivante, pose par contre problème. L’unification de la Péninsule italienne repose, en effet, sur l’idéologie nationaliste, qui veut donner un État à une « nation » linguistiquement et culturellement homogène.
+Le dessein politique des autorités italiennes consiste à éradiquer l’usage du français en Vallée d’Aoste, en passant
+tout d’abord par l’école. Dès 1860 le gouvernement supprime l’apprentissage du français au collège Saint-Bénin :
+la réaction unanime de l’opinion publique, des milieux politiques et des administrations régionales provoque le
+rétablissement, deux ans après, de l’enseignement en langue française dans les classes du gymnase. En 1873,
+cependant, on n’autorise l’ouverture de l’école normale d’Aoste qu’à la condition que l’italien y soit employé
+comme langue d’enseignement, le français n’étant étudié que deux heures par semaine. Pour l’année scolaire
+1882/83 le Conseil scolaire provincial de Turin décide que l’enseignement de la langue française se fera uniquement en dehors de l’horaire scolaire normal. Les protestations des Valdôtains amènent le gouvernement à réintroduire l’usage du français à l’école en raison de la moitié des heures de classe, tout en réaffirmant le devoir des
+Valdôtains d’apprendre l’italien : mais cette disposition ne sera appliquée que pendant une quinzaine d’années.
+En 1888, la Commune d’Aoste cède à l’État la gestion du collège Saint-Bénin, à la condition que l’enseignement
+obligatoire du français y soit assuré : mais l’année suivante le gouvernement le rend facultatif, en dehors de
+l’horaire scolaire, sous prétexte que l’usage de cette langue ne serait que d’utilité secondaire pour les Valdôtains.
+L’italien s’introduit au tribunal aussi, dès 1881, au grand dam des plaideurs et des accusés francophones, malgré
+la réaction de l’ordre des avocats, qui refuse de prime abord d’accueillir les sollicitations du président pour que les
+débats se fassent dans la langue « nationale ». Petit à petit, celle-ci s’affirme dans la pratique juridique et en chasse
+progressivement le français. Le service militaire dans les différentes régions italiennes, les échanges avec le Nord
+de l’Italie favorisés par le chemin de fer Ivrée-Aoste, inauguré en 1886, et la présence de plus en plus nombreuse de
+vacanciers provenant de la Péninsule finiront par familiariser même les classes populaires avec la langue italienne.
+La question linguistique est souvent l’objet d’un débat politique intense dans les journaux locaux. Si au lendemain de la proclamation du royaume d’Italie tant les conservateurs que les libéraux s’accordent sur la défense
+du droit des Valdôtains à parler leur langue, les positions respectives se différencient progressivement : les
+feuilles conservatrices maintiennent une position intransigeante, alors que les organes libéraux commencent
+à considérer la francophonie valdôtaine comme une situation provisoire, destinée à évoluer vers une pleine
+adhésion au modèle linguistique « national ». C’est ainsi que commence à s’affirmer, dans la propagande
+politique philo-gouvernementale et « progressiste », la perception du français comme l’instrument culturel
+du clergé réactionnaire, et de l’italien comme marque distinctive de la modernité et du progrès.
+
+La question de la langue
+Le Risorgimento vise la formation d’un État italien
+homogène sur le plan ethnique et linguistique.
+L’existence de minorités linguistiques, comme celle
+des Valdôtains et des habitants du val de Suse et
+des vallées vaudoises du Piémont, qui sont francophones, et des communautés de langue grecque
+et albanaises de l’Italie du Sud, n’est pas prise en
+compte, car elle contredit l’axiome de base qui a
+abouti à l’indépendance italienne. D’où l’exigence
+d’éliminer cette anomalie, par une politique d’italianisation forcée. C’est l’attitude que prend la classe
+politique italienne dès 1861, quand un député de
+Lucques, le turinois Giovenale Vegezzi Ruscalla,
+inaugure la lutte contre la francophonie valdôtaine,
+au nom de l’uniformisation linguistique du nouvel
+État : une lutte qui, prise en compte par le gouvernement, n’aura de cesse, formellement, qu’au lendemain de la seconde guerre mondiale.
+Dans son pamphlet Diritto e necessità di abrogare il
+francese come lingua ufficiale in alcune valli della provincia di Torino, édité en 1861, Giovenale Vegezzi-Ruscalla
+attaque sans détours l’usage du français dans les vallées
+d’Aoste, de Suse et du Pélis. Alors que les Valdôtains,
+au lendemain de la proclamation du royaume d’Italie,
+admettent la nécessité d’apprendre l’italien, à condition
+toutefois de continuer à utiliser librement leur langue
+française, le député de Lucques estime que « questo
+sconcio, questa macchia alla nazionalità italiana »,
+c’est-à-dire l’existence d’une consistante minorité francophone dans ces contrées, « deve sparire ».
+Les arguments nationalistes de Vegezzi-Ruscalla, qui
+anticipent les futures positions francophobes du Fascisme, soulèvent l’indignation des milieux culturels et
+politiques valdôtains, toutes tendances confondues. La
+Municipalité d’Aoste charge alors le chanoine Edouard
+Bérard de répliquer aux déclarations du député. Dans
+La langue française dans la Vallée
+d’Aoste, ce dernier conteste systématiquement les arguments de Vegezzi-Ruscalla. Il rappelle que les Alpes
+n’ont jamais constitué une barrière.
+Il démontre que le français est plus
+utile aux Valdôtains que l’italien, en
+raison des intérêts économiques de
+la Vallée. Il s’étend ensuite longuement sur l’étroite parenté des patois
+francoprovençaux avec la langue
+française, ce qui rend tout à fait naturelle l’adoption de
+celle-ci au Pays d’Aoste comme langue littéraire et de
+grande communication. Il rappelle aussi que l’adoption, au XVIe siècle, de la « langue vulgaire » de France,
+ne faisait que prendre acte d’une réalité concrète et lui
+donner un caractère d’officialité.
+Le français est tellement ressenti par les Valdôtains
+comme leur propre patrimoine, qu’il est constamment énuméré parmi « les coutumes et les franchises
+de la Vallée », que les souverains s’étaient engagés à
+respecter. Les agents du gouvernement italien veulentils convaincre les Valdôtains de ce que la création de
+l’Italie représente un progrès par rapport au passé ?
+« Commencez, écrit Bérard, par nous alléger du poids
+de vos impôts écrasants. Ouvrez-nous de grandes
+routes à travers les Alpes ; rapprochez-nous de l’Italie
+par des communications faciles ; multipliez nos rapports sociaux entre vous et nous ; ne lésinez pas pour
+quelques milliers de francs, quand vous prodiguez
+ailleurs les millions. Alors peut-être, lorsque vous nous
+aurez fait quelque bien, nous nous plairons à balbutier
+votre langue. Mais, pendant que vous n’aurez fait que
+détruire sans rien édifier, pendant que vos journaux
+n’auront pour nous que l’injure et le
+sarcasme, c’est bien assez et même
+trop que vous ayez nos hommes à
+la levée, et le produit de nos sueurs
+dans vos caisses. Ne nous enlevez
+rien de plus ».
+π 1. Le droit à l’identité linguistique et culturelle
+Chaque être humain a droit à sa langue et à sa culture. Des organismes
+internationaux, tels que l’UNESCO,
+l’Union Européenne, le Conseil de
+l’Europe, ont élaboré des documents qui garantissent ces droits.
+La Constitution italienne et les Statuts des régions et des provinces autonomes aussi affirment le droit à sa
+langue et à sa culture.
+Préparez un exposé oral sur l’un
+des thèmes suivants.
+- Le droit à l’identité linguistique
+et culturelle dans les conventions
+et les accords internationaux.
+- Le droit à l’identité linguistique et culturelle dans
+les Constitutions européennes.
+π 2. Écrivains entre deux langues
+Pour des raisons diverses (économiques, politiques,
+personnelles) des écrivains de double culture s’expriment en deux langues.
+Préparez un exposé oral sur l’un de ces auteurs. Expliquez pourquoi il a décidé d’écrire dans une langue qui n’est pas sa langue maternelle ou qui est sa
+langue seconde et dites comment il se situe entre
+deux langues et deux cultures. Ex. Vassilis Alexakis,
+Samuel Beckett, Tahar Ben Jelloun, Patrick Chamoiseau, Elias Canetti, Lin Colliard, Mohammed Dib,
+Eugène Ionesco, Andreï Makine, Charles Péguy, Nathalie Sarraute, Léopold Sedar Senghor, Tancrède
+Tibaldi.
+Bibliographie
+Micheline Cellier-Gelly, Claire Torreilles et MarieJeanne Verny, Entre deux langues Autobiographie et
+bilinguisme, mars 2004
+Vous trouvez des conseils pour préparer un exposé
+oral à l’adresse suivante : http://www.ebsi.umontreal.ca/jetrouve/oral/index.htm
+π 3. Chanter en plusieurs langues
+Manu Chao, Riccardo Cocciante,
+Céline Dion, L’Orage, Naif Hé-
+rin, Youssou N’Dour, Trouveur
+Valdotèn : préparez un exposé
+oral pour présenter un de ces
+chanteurs / groupes. Faites des
+recherches pour trouver les raisons qui les poussent à chanter
+en plusieurs langues.
+
+
+La question linguistique
+Au début du XXe siècle, la diffusion progressive de la langue italienne et la lutte ouverte que l’État italien conduit contre le fran-
+çais, notamment à travers l’école, menacent la survie de la francophonie valdôtaine. C’est pour contrecarrer ce risque qu’un groupe
+d’intellectuels, présidé par Anselme Réan (1855-1928) fonde, en
+1909, la Ligue valdôtaine – Comité italien pour la protection de la
+langue française en Vallée d’Aoste. Par la publication d’un Bulletin
+périodique, au contenu à la fois politique et didactique, et d’autres
+initiatives éditoriales, la Ligue contribue à porter le flambeau des
+revendications linguistiques des Valdôtains. Au lendemain de la
+première guerre mondiale, ces revendications évoluent vers des
+positions franchement autonomistes, en soudant les deux piliers
+du particularisme régional : la langue et l’autonomie gouvernementale. Les pétitions que la Ligue adresse aux autorités italiennes
+en 1919, en 1921 et en 1923 pour revendiquer le droit de parler le
+français et pour obtenir une décentralisation administrative, n’aboutissent à rien. Ni l’État libéral, ni
+le régime fasciste n’entendent renoncer aux mythes unitaires et niveleurs hérités du Risorgimento.
+Bien au contraire, le fascisme, fanatiquement nationaliste, entend porter le coup fatal contre la francophonie valdôtaine, suivant une stratégie précise. En 1923, le gouvernement Mussolini supprime
+108 écoles de hameau, efficaces noyaux de résistance de la langue française. En 1924, on ordonne
+d’effacer toute enseigne en français ou bilingue. En 1925, on interdit l’enseignement, même facultatif, du français dans les écoles et on impose l’italien dans les registres de l’état civil et dans les
+autres actes administratifs des communes ; on supprime les journaux Le Duché d’Aoste, Le Pays
+d’Aoste et La Patrie Valdôtaine. En 1926, on italianise les noms des rues d’Aoste et en 1928 on commence à italianiser les noms des communes.
+En 1929, le traité du Latran, portant le concordat entre l’État italien et l’Église, attaque l’un des bastions les plus puissants de la culture valdôtaine : le clergé. Une partie du clergé, formée notamment
+de certains chanoines du chapitre cathédral et de professeurs du séminaire, favorise la politique
+culturelle anti-valdôtaine du fascisme, alors qu’au sein du chapitre de Saint-Ours et chez plusieurs représentants du clergé rural mûrissent les fruits du mouvement de résistance qu’un groupe de jeunes
+Valdôtains, guidés par l’abbé Trèves (1874-1941), ont fondé en 1926, sous le nom de Jeune Vallée
+d’Aoste. Ce mouvement est destiné à prendre la relève de la Ligue tant au point de vue de la défense
+du français qu’à celui des revendications autonomistes.
+Issue du milieu catholique proche du Parti populaire, mais ouverte aux apports de personnalités antifascistes de toute orientation politique, la Jeune Vallée d’Aoste sera le point de repère idéal des autonomistes
+et des fédéralistes qui, au lendemain de la seconde guerre mondiale, le 7 septembre 1945, réussiront à
+obtenir, de la part du lieutenant du royaume d’Italie, Humbert de Savoie, la reconnaissance du droit des
+Valdôtains à l’autonomie de la région « en raison de ses conditions géographiques, économiques et linguistiques tout à fait particulières ». Un droit sanctionné par le Statut spécial approuvé par loi constitutionnelle le 26 février 1948, qui prévoit, aux articles 38 et 39, la parité des langues française et italienne et leur
+enseignement conjoint dans les écoles de tous les niveaux de la région.
+
+
+

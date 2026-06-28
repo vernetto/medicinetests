@@ -1,0 +1,781 @@
+﻿Università degli Studi di BOLOGNA 
+CdL delle Professioni Sanitarie 
+
+ 
+ 
+
+ 
+ 
+
+ PROVA DI AMMISSIONE AI CORSI DI LAUREA DELLE PROFESSIONI SANITARIE 
+ 
+
+Anno Accademico 2013/2014 
+ 
+
+ 
+Test di Logica e Cultura Generale 
+
+1. In base alla Costituzione italiana, i delegati delle Regioni che partecipano all’elezione del Presidente 
+della Repubblica sono eletti: 
+
+A) dai Consigli regionali  
+B) dal popolo 
+C) dalle Giunte regionali 
+D) dai Presidenti delle Giunte regionali 
+E) da ciascuna camera del Parlamento 
+
+ 
+2. Qual è la capitale della Turchia? 
+
+A) Ankara 
+B) Nicosia 
+C) Istanbul 
+D) Smirne 
+E) La Valletta 
+
+ 
+3. Quale figura retorica esprime “la parte per il tutto”? 
+
+A) Sineddoche 
+B) Metafora 
+C) Chiasmo 
+D) Iperbole 
+E) Anadiplosi 
+
+ 
+4. Completare correttamente la seguente successione numerica: 101; 104; 79; 65; 68; 43; ?; ? 
+
+A) 29; 32 
+B) 29; 4 
+C) 46; 32 
+D) 18; 21 
+E) 29; 42 
+
+ 
+5. Quali tra i termini proposti completano correttamente la seguente proporzione? lunedì : X = mercoledì : Y 
+
+A) X = domenica; Y = martedì 
+B) X = martedì; Y = venerdì 
+C) X = primo; Y = quarto 
+D) X = sabato; Y = martedì 
+E) X = giovedì; Y = lunedì 
+
+ 
+6. Una biblioteca contiene 160 libri così suddivisi per materia: biologia 20%; medicina 30%; 
+
+letteratura 35%; chimica 5%; storia 10%. I libri di quali materie, tra loro sommati, sono 48? 
+A) Quelli di biologia e quelli di storia 
+B) Quelli di biologia e quelli di letteratura 
+C) Quelli di medicina e quelli di storia 
+D) Quelli di letteratura e quelli di storia 
+E) Quelli di biologia e quelli di chimica 
+
+ 
+
+ 1 
+
+
+
+ 
+
+7. Si dispone di una bilancia a due piatti con il braccio sinistro che misura il triplo del braccio destro. 
+ Se nel piatto destro vengono posti 36 pesi tutti uguali fra loro, quanti pesi dello stesso tipo devono 
+
+essere posizionati nel piatto sinistro affinché la bilancia risulti in equilibrio? 
+A) 12 
+B) 7 
+C) 16 
+D) 8 
+E) 18 
+
+ 
+8. Una regola di elaborazione trasforma l'ottupla (1, 4, 6, 3, 9, 7, 8, 5) in (4, 1, 6, 3, 9, 7, 8, 5) e questa in 
+
+(4, 6, 1, 3, 9, 7, 8, 5). Individuare l'ottupla successiva secondo la stessa regola. 
+A) (4, 6, 3, 1, 9, 7, 8, 5) 
+B) (4, 6, 1, 3, 9, 7, 8, 5) 
+C) (4, 6, 1, 3, 7, 9, 8, 5) 
+D) (4, 6, 1, 9, 3, 7, 8, 5) 
+E) (4, 6, 3, 1, 7, 9, 8, 5) 
+
+ 
+9. Cinque treni, A, B, C, D ed E, partono dalla stessa stazione diretti in cinque città differenti. Si sa che: 
+ i) C è più veloce di B ma arriva dopo di questo che è, invece, il primo ad arrivare; 
+ ii) A è l'ultimo ad arrivare anche se è più veloce di D e meno veloce di B; 
+ iii) E, il secondo treno ad arrivare a destinazione, è più veloce di D, ma meno veloce di A. 
+ In base alle precedenti informazioni il quinto treno più lento è: 
+
+A) C 
+B) A 
+C) D 
+D) B 
+E) non è possibile determinarlo 
+
+ 
+10. La piccola Aurelia sta giocando con 985 tessere di legno colorato, tutte a forma di triangolo 
+
+equilatero e aventi le stesse dimensioni. Ha costruito con esse, affiancandole, il triangolo equilatero 
+più grande possibile; quante tessere sono avanzate ad Aurelia? 
+
+A) 24 
+B) 25 
+C) 23 
+D) 31 
+E) 26 
+
+ 
+11. Quale dei seguenti avvenimenti si colloca cronologicamente tra la Rivoluzione francese e l'Unità d’Italia? 
+
+A) La guerra di Crimea 
+B) La Rivoluzione americana 
+C) L'avvento del Terzo Reich 
+D) La Rivoluzione inglese 
+E) La firma dei Patti Lateranensi 
+
+ 
+12. Individuare tra i seguenti termini il sinonimo di “ablazione”: 
+
+A) asportazione 
+B) aspettativa 
+C) offerta 
+D) furto 
+E) ovazione 
+
+ 
+ 
+
+ 2 
+
+
+
+Università degli Studi di BOLOGNA 
+CdL delle Professioni Sanitarie 
+
+ 
+ 
+
+ 
+ 
+
+Brano 1 
+ 
+
+Leggere il brano e rispondere a ogni quesito solo in base alle informazioni contenute (esplicitamente o 
+implicitamente) nel brano e non in base a quanto il candidato eventualmente conosca sull'argomento. 
+Le vicende alimentari dell'Europa del Settecento sembrano ripercorrere cammini noti: espansione demografica, insufficienze 
+produttive, sviluppo agricolo. Una storia che ricorda da vicino quella dei secoli XI-XII, o del XVI. Solo che questa volta le dimensioni 
+del fenomeno sono ingigantite. La popolazione europea, che aveva raggiunto a metà del Trecento una punta di forse 90 milioni di 
+individui, e che attorno al 1700 (dopo la grande crisi e la successiva lenta ripresa) era attestata sui 125 milioni, cresce da allora in poi 
+rapidissimamente: 145 milioni a metà del XVIII secolo, 195 alla fine. Il sistema produttivo è messo a dura prova, le carestie si 
+abbattono a intervalli regolari sulla popolazione. Alcune di esse (tristemente celebre quella del 1709-10) colpiscono l’intera Europa, 
+dalla Spagna all'Italia, dalla Francia all'Inghilterra, dalla Germania alla Svezia, ai Paesi dell'Est. Altre investono territori più 
+circoscritti: quella del 1739-41 colpì soprattutto Francia e Germania; quella del 1741-43 l'Inghilterra; quella del 1764-67 fu 
+particolarmente grave nelle regioni meridionali (Spagna, Italia); quella del 1771-74 nei Paesi del Nord. Nell'insieme, gli anni "difficili" 
+del XVIII secolo sembrano numerosi come non mai (a eccezione forse che nell'XI secolo). Ciò non vuol dire che la gente muoia di 
+fame: se così fosse stato, l'exploit demografico sarebbe a dir poco incomprensibile. Siamo invece di fronte a un malessere diffuso, a 
+uno stato di sottonutrizione permanente che viene per così dire "assimilato" (fisiologicamente e culturalmente) come condizione 
+normale di vita. 
+All'aumentata richiesta di cibo si rispose, per cominciare, nel modo più semplice e tradizionale: l'espansione dei coltivi. In Francia, nei 
+decenni precedenti la Rivoluzione, le terre a coltura passarono da 19 a 24 milioni di ettari nel giro di trent'anni. 
+In Inghilterra, nella seconda metà del secolo, furono recintati e messi a coltura centinaia di migliaia di ettari di terreni incolti e 
+boschivi. In Irlanda, in Germania, in Italia si prosciugarono paludi e acquitrini. Contemporaneamente si misero a punto nuove 
+tecniche produttive, in un clima di fervore scientifico e di sperimentazione agronomica che per la prima volta riuscì a incontrarsi con 
+gli interessi imprenditoriali dei proprietari terrieri. Si parla a ragione, per quest'epoca, di una vera rivoluzione agricola: tale fu, dal 
+punto di vista tecnico, l'abbandono della pratica del maggese e l’impiego delle leguminose da foraggio in regolare rotazione con i 
+cereali. Ciò consentì, da un lato, di integrare le pratiche zootecniche nel sistema agrario, superando la tradizionale separazione fra 
+attività pastorali e attività agricole; dall'altro, di accrescere sensibilmente i rendimenti del suolo, reso più fertile sia dalla presenza delle 
+leguminose (che possiedono la proprietà di fissare l'azoto nel terreno) sia dalla maggiore disponibilità di concime animale. 
+Queste e altre trasformazioni segnarono l'avvio del capitalismo agrario, che in certe regioni europee – soprattutto l'Inghilterra e poi la 
+Francia – fu il primo passo verso l'affermarsi dell'economia industriale. 
+All'ampliamento dei terreni coltivati e al perfezionamento delle tecniche produttive si affiancò lo sviluppo di colture particolarmente 
+robuste, sicure e redditizie: quelle stesse che avevano trovato una prima timida diffusione (in ambiti localmente limitati) fra Quattro e 
+Cinquecento, e che vengono ora "riscoperte" come soluzione a basso costo di pressanti esigenze alimentari. Il riso, dopo un certo 
+declino nel XVII secolo, legato anche alle polemiche sull'opportunità igienica e ambientale di far ristagnare l'acqua nei campi, torna in 
+auge nel Settecento come alternativa ai cereali tradizionali: in certe zone esso viene introdotto per la prima volta; in altre viene per così 
+dire reintrodotto. Analoga destinazione sociale ha il grano saraceno, anch’esso "riscoperto" nel Settecento oppure, in certe regioni, 
+introdotto per la prima volta. 
+Ma sono soprattutto il mais e la patata a conquistare un ruolo di assoluto primo piano, sbarazzando il campo da molti antichi 
+concorrenti: fra XVIII e XIX secolo, la tradizionale varietà di cereali inferiori – base millenaria della dieta popolare – viene 
+progressivamente riducendosi a favore dei nuovi protagonisti. 
+ 
+13. Quale tra le seguenti affermazioni è ricavabile dal brano 1? 
+
+A) Le nuove tecniche agrarie si avvalsero dell'apporto della scienza del Settecento 
+B) I proprietari terrieri non furono disposti a rischiare i loro capitali 
+C) Solo in Inghilterra e in Francia si sperimentarono nuovi sistemi agrari 
+D) L'estensione dei boschi e delle paludi ostacolò il progresso agricolo 
+E) L'espansione demografica dell'Europa nel Settecento è stata possibile solo grazie all'aumento delle 
+
+superfici destinate a coltura 
+ 
+14. Secondo il brano 1, quali prodotti furono riscoperti nel Settecento? 
+
+A) Il riso e il grano saraceno 
+B) Il farro e la segale 
+C) Il mais e la patata 
+D) I cereali inferiori 
+E) Le leguminose 
+
+ 
+
+ 3 
+
+
+
+ 
+
+15. Qual è, a giudizio dell'autore del brano 1, il tratto distintivo dell'espansione storica vissuta dall'Europa 
+del Settecento, considerato che egli stesso attribuisce un carattere ricorsivo alle vicende narrate? 
+
+A) La portata, ovvero le dimensioni dei cambiamenti in essere 
+B) Il fatto che nel Settecento la gente muoia di fame 
+C) Il fatto che i cambiamenti furono per molto tempo limitati a Francia e Inghilterra 
+D) Il numero di anni "difficili", senza uguali nei secoli precedenti 
+E) La totale assenza di carestie, che diede forte impulso alla manodopera agricola 
+
+ 
+16. Secondo quanto affermato nel brano 1, quali fattori furono alla base della rivoluzione agricola del 
+
+XVIII secolo? 
+A) L'introduzione delle leguminose da foraggio e l'integrazione tra allevamento e sistema agrario 
+B) L'interesse dei governanti verso l'agricoltura 
+C) L'abbandono del maggese e la diminuzione dell'allevamento 
+D) L'introduzione della rotazione triennale e dell'aratro pesante 
+E) Il diffuso malessere per uno stato di permanente denutrizione 
+
+ 
+17. Da quanto riportato nel brano 1, si può dedurre che: 
+
+A) l'economia industriale ricevette un impulso dal capitalismo agrario 
+B) si accentuò la separazione tra allevamento e agricoltura 
+C) il commercio dei cereali favorì l'accumulo di capitali 
+D) il riso e il grano saraceno sono le colture più robuste, sicure e redditizie tra quelle “riscoperte” nel 
+
+Settecento 
+E) la popolazione europea superò i 100 milioni nel corso del XIV secolo 
+
+ 
+ 
+
+Brano 2 
+ 
+
+Leggere il testo del seguente problema. 
+Al primo anno del corso di laurea in Lingue, sei compagni di studi sono chiamati a scegliere ciascuno due corsi opzionali fra i sei 
+disponibili: inglese, francese, tedesco, spagnolo, cinese, esperanto. È noto che: 
+1) Arianna e Beatrice hanno litigato, e non desiderano frequentare alcun corso in comune; 
+2) Chiara è la migliore amica di Arianna: anche lei eviterà accuratamente la compagnia di Beatrice; 
+3) Damiano ed Eluana sono entrambi iscritti al corso di esperanto, ma hanno fatto scelte diverse per quanto riguarda il 
+ secondo corso a cui iscriversi: lui tedesco, lei spagnolo; 
+4) il cinese ha la fama di essere una lingua difficile: solo Chiara l'ha scelto. L'inglese è stato invece scelto da tre studenti. 
+ Tutti gli altri corsi avranno ciascuno due studenti; 
+5) Beatrice è una studentessa Erasmus proveniente da Bordeaux, quindi non le interessa frequentare il corso di francese. 
+Anche Frank è uno studente Erasmus, proveniente da Berlino, ma questo non influirà sulla sua scelta di frequentare o meno il 
+corso di tedesco. 
+ 
+18. Chi frequenterà il corso di inglese? (vedi brano 2) 
+
+A) Arianna, Chiara e Frank 
+B) Beatrice, Eluana e Frank 
+C) Beatrice, Damiano e Frank 
+D) Beatrice, Damiano ed Eluana 
+E) Arianna, Damiano e Frank 
+
+ 
+19. A metà anno accademico Giovanna, sorella di Beatrice, decide di iscriversi al corso di laurea in 
+
+Lingue e deve scegliere anch'essa due corsi. Sapendo che Giovanna condivide le amicizie e le 
+inimicizie di sua sorella, le sue possibilità di scelta sono ristrette a: (vedi brano 2) 
+
+A) tedesco, spagnolo ed esperanto 
+B) tedesco, spagnolo e inglese 
+C) spagnolo, inglese e tedesco 
+D) inglese, spagnolo ed esperanto 
+E) spagnolo, inglese e francese 
+
+ 
+
+ 4 
+
+
+
+Università degli Studi di BOLOGNA 
+CdL delle Professioni Sanitarie 
+
+ 
+ 
+
+ 
+ 
+
+20. Oltre al cinese, quale altro corso sarà frequentato da sole ragazze? (vedi brano 2) 
+A) Spagnolo 
+B) Francese 
+C) Inglese 
+D) Tedesco 
+E) Esperanto 
+
+ 
+21. Quale sarà o quali saranno i compagni di corso di Beatrice, considerando entrambi i corsi a cui si è 
+
+iscritta la ragazza? (vedi brano 2) 
+A) Damiano ed Eluana 
+B) Damiano e Frank 
+C) Solo Damiano 
+D) Eluana e Frank 
+E) Solo Frank 
+
+ 
+22. Dopo aver registrato tutte le iscrizioni, la presidentessa del corso di laurea annulla il corso di cinese 
+
+per lo scarso interesse mostrato dagli studenti e invita Chiara a ripiegare su un altro corso. 
+ Tenendo conto dei vincoli espressi, la scelta di Chiara ricadrà: (vedi brano 2) 
+
+A) su francese o esperanto 
+B) su francese, tedesco o esperanto 
+C) su francese, tedesco o spagnolo 
+D) necessariamente sull’esperanto 
+E) su tedesco, spagnolo o esperanto 
+
+ 
+23. Su un pianeta vivono tre persone: Antonio, Marco, Giovanni. Esiste una persona sul pianeta, più 
+
+ricca di tutte le altre. Marco è più ricco di Antonio. Antonio è più povero di Giovanni. 
+ Quale delle seguenti conclusioni è sicuramente FALSA? 
+
+A) Marco e Giovanni hanno la stessa quantità di soldi 
+B) Antonio è il più povero 
+C) Giovanni è il più ricco 
+D) Giovanni è più povero di Marco 
+E) Marco è il più ricco 
+
+ 
+24. Il  prodotto delle tre facce visibili del dado in figura dà come risultato 90. 
+ Quanto valgono rispettivamente A e B? 
+
+  
+A) 5; 3 
+B) 4; 2 
+C) 3; 1 
+D) 4; 1 
+E) 5; 4 
+
+ 
+
+ 5 
+
+
+
+ 
+
+25. Sommando la frazione che rappresenta il rapporto fra la parte annerita e l'area totale della figura 1 
+alla frazione che rappresenta il rapporto fra la parte bianca e l'area totale della figura 2, si ottiene: 
+
+  
+A) 7/8 
+B) 5/8 
+C) 10/16 
+D) 6/8 
+E) 3/4 
+
+ 
+26. La figura 1 sta a 72 come la figura 2 sta a: 
+
+  
+A) 56 
+B) 49 
+C) 63 
+D) 98 
+E) 48 
+
+ 
+27. “Tutte le persone alte sono buone”. Negare questa affermazione significa affermare con certezza che: 
+
+A) almeno una persona alta non è buona 
+B) nessuna persona bassa è buona 
+C) almeno una persona bassa non è buona 
+D) nessuna persona alta è buona 
+E) tutte le persone basse sono buone 
+
+ 
+28. Si tenga presente che a segno uguale corrisponde cifra uguale. 
+
+  
+A) 5 
+B) 1 
+C) 7 
+D) Impossibile determinarlo 
+E) 3 
+
+ 
+29. Il primo disegno in figura rappresenta la vista laterale di un solido. 
+
+  
+ Quale o quali tra i solidi numerati sono compatibili con tale vista? 
+
+A) I solidi 2 e 3 
+B) Solo il solido 2 
+C) Solo il solido 3 
+D) I solidi 1 e 3 
+E) Il solido 4 
+
+ 
+
+ 6 
+
+
+
+Università degli Studi di BOLOGNA 
+CdL delle Professioni Sanitarie 
+
+ 
+ 
+
+ 
+ 
+
+30. L'affermazione “quando corro a lungo consumo grassi” è equivalente a: 
+A) se non consumo grassi allora non ho corso a lungo 
+B) a volte capita che non consumi grassi pur avendo corso a lungo 
+C) non consumo grassi pur avendo corso a lungo 
+D) se consumo grassi vuol dire che ho corso a lungo 
+E) o corro a lungo o consumo grassi 
+
+ 
+
+Test di Biologia 
+31. I bronchi: 
+
+A) compongono le ultime vie aeree  
+B) fanno parte dell'apparato digerente 
+C) fanno parte dell'apparato urinario 
+D) non esistono nella specie umana, ma solo nei pesci 
+E) il quesito è senza soluzione univoca o corretta 
+
+ 
+32. Durante il movimento di adduzione, un arto: 
+
+A) si avvicina al corpo 
+B) si allontana dal corpo 
+C) compie movimenti oscillatori 
+D) compie movimenti circolari 
+E) effettua una torsione di 90° 
+
+ 
+33. Quale delle seguenti affermazioni relative al DNA è FALSA? 
+
+A) È presente anche nei ribosomi 
+B) Alcuni virus contengono DNA 
+C) Il DNA è presente sia negli eucarioti sia nei procarioti 
+D) Il DNA è formato da nucleotidi 
+E) Il DNA ha una struttura a doppia elica 
+
+ 
+34. L’emoglobina è una proteina che si trova: 
+
+A) negli eritrociti 
+B) in tutte le cellule eucariote 
+C) in tutte le cellule eucariote e procariote 
+D) nel plasma 
+E) solo negli epatociti  
+
+ 
+35. Nel citoplasma della cellula vegetale si trovano delle cavità chiamate:  
+
+A) vacuoli  
+B) vacuoli digestivi  
+C) nucleosomi  
+D) carioplasmi  
+E) nessuna delle altre risposte è corretta  
+
+ 
+36. Le strutture intestinali deputate all'assorbimento sono i: 
+
+A) microvilli 
+B) microtubuli 
+C) microfilamenti 
+D) filamenti di actina 
+E) vasi linfatici 
+
+ 
+
+ 7 
+
+
+
+ 
+
+37. Il plasma è: 
+A) la parte liquida del sangue 
+B) un sinonimo di sangue 
+C) la parte corpuscolata del sangue 
+D) la parte liquida del sangue che rimane dopo la coagulazione 
+E) il sangue senza la componente dei globuli rossi 
+
+ 
+38. La mitosi è un meccanismo per mezzo del quale: 
+
+A) una cellula eucariote produce due cellule geneticamente uguali 
+B) si riproducono i virus, i batteri e gli organismi eucarioti 
+C) si riproducono i batteri 
+D) vengono sintetizzati gli zuccheri 
+E) si riproducono sia gli organismi eucarioti sia gli organismi procarioti 
+
+ 
+39. Il crossing-over: 
+
+A) favorisce il riassortimento del corredo genetico 
+B) non è presente negli insetti 
+C) permette la riproduzione sessuale 
+D) avviene nella profase della meiosi e della mitosi 
+E) nessuna delle altre risposte è corretta 
+
+ 
+40. I virus: 
+
+A) sono parassiti endocellulari obbligati 
+B) sono sempre circondati da membrana 
+C) sono visibili al microscopio ottico 
+D) sono in grado di produrre energia 
+E) sono dotati di nucleo 
+
+ 
+41. Con il termine “anfigonia” si indica: 
+
+A) la riproduzione che avviene mediante fusione tra gamete maschile e femminile 
+B) la riproduzione degli anfibi 
+C) una malattia delle gonadi 
+D) la riproduzione che avviene mediante fusione tra due gameti maschili 
+E) l’istinto predatorio delle rane 
+
+ 
+42. Per organismo “diploide” si intende un organismo: 
+
+A) in cui ogni cromosoma è rappresentato due volte 
+B) in cui trascrizione e traduzione sono accoppiate 
+C) costituito da due cellule 
+D) con due cromosomi 
+E) costituito da cellule con due nuclei 
+
+ 
+43. Quando una molecola di clorofilla è colpita da energia luminosa: 
+
+A) la luce verde non è assorbita 
+B) tutte le lunghezze d'onda sono assorbite 
+C) la luce rossa è riflessa 
+D) tutte le lunghezze d'onda sono riflesse 
+E) la luce verde è la più assorbita 
+
+ 
+44. Animali la cui temperatura corporea è variabile in rapporto alla temperatura ambientale, sono detti: 
+
+A) il quesito è senza soluzione univoca o corretta 
+B) eterozigoti 
+C) omeotermi 
+D) autotrofi 
+E) eterotrofi 
+
+ 
+
+ 8 
+
+
+
+Università degli Studi di BOLOGNA 
+CdL delle Professioni Sanitarie 
+
+ 
+ 
+
+ 
+ 
+
+Test di Chimica 
+45. I due nuclidi 14C e 14N hanno in comune il numero: 
+
+A) di massa  
+B) atomico 
+C) di neutroni 
+D) di elettroni 
+E) di protoni  
+
+ 
+46. Una soluzione A è ipertonica rispetto a una soluzione B se: 
+
+A) separando le due soluzioni mediante una membrana semipermeabile, si instaura un flusso netto di 
+solvente da B verso A 
+
+B) la soluzione A si trova a una temperatura maggiore rispetto alla soluzione B 
+C) la soluzione A è più acida della soluzione B 
+D) separando le due soluzioni mediante una membrana semipermeabile, si instaura un flusso netto di 
+
+solvente da A verso B 
+E) i valori delle proprietà colligative della soluzione B sono maggiori di quelli della soluzione A 
+
+ 
+47. Attribuire il nome al seguente composto: Pb(HSO4)2. 
+
+A) Solfato acido di piombo (II) 
+B) Solfato di piombo 
+C) Idrogenosolfito di piombo (II) 
+D) Bisolfato piombico 
+E) Solfito acido piomboso 
+
+ 
+48. Tutti i legami chimici: 
+
+A) sono forze di attrazione 
+B) sono forze di attrazione fra elettroni e nuclei 
+C) sono forze di attrazione tra nuclei 
+D) sono forze di attrazione e di repulsione 
+E) non sono mai di natura elettrostatica 
+
+ 
+49. Sapendo che gli elementi Na, Mg, P, S e Cl occupano rispettivamente il I, II, V, VI e VII gruppo e 
+
+appartengono tutti allo stesso periodo, quale di essi avrà la più bassa energia di ionizzazione?  
+A) Na 
+B) P  
+C) S  
+D) Cl  
+E) Mg  
+
+ 
+50. Un acido è detto poliprotico quando in acqua: 
+
+A) può cedere più di un protone al solvente 
+B) è molto dissociato 
+C) è poco dissociato 
+D) forma più ioni H+ 
+E) è costituito da un polimero 
+
+ 
+51. Quando, in una reazione di ossido-riduzione, una specie chimica perde elettroni:  
+
+A) si ossida, quindi è l'agente riducente perché riduce l'altra specie chimica 
+B) si riduce, quindi è l'agente ossidante perché ossida l'altra specie chimica 
+C) si ossida e si riduce contemporaneamente  
+D) il suo numero di ossidazione diminuisce 
+E) si ossida, quindi è l'agente ossidante perché ossida l'altra specie chimica 
+
+ 
+
+ 9 
+
+
+
+ 
+
+52. Una soluzione con pH = 9 è da considerarsi: 
+A) basica 
+B) debolmente acida  
+C) acida 
+D) neutra 
+E) isotonica 
+
+ 
+
+Test di Fisica e Matematica 
+53. cos(a + b) equivale a: 
+
+A) cos(a) · cos(b) – sen(a) · sen(b) 
+B) 1 – sen(a + b) 
+C) 2cos(a) · sen(b) 
+D) sen(a – b) 
+E) cos(a) · sen(b) + sen(a) · cos(b) 
+
+ 
+54. L'unità di misura dell'intensità di corrente è: 
+
+A) C/s 
+B) C/m2 
+C) C 
+D) C/m 
+E) Cs 
+
+ 
+55. Una resistenza percorsa da una corrente I = 2 A dissipa per effetto Joule una potenza P = 28 W. 
+
+Determinare il valore della tensione ai capi della resistenza. 
+A) 14 V 
+B) 7 V 
+C) 28 V 
+D) Non è possibile rispondere perché non si conosce il valore della resistenza 
+E) 56 V 
+
+ 
+56. Si consideri un pattinatore che sta pattinando su una pista perfettamente orizzontale. 
+ Il lavoro compiuto dalla forza peso sarà: 
+
+A) nullo 
+B) maggiore di zero 
+C) minore di zero 
+D) indeterminato 
+E) pari a 9,81 J 
+
+ 
+57. L'energia interna di un gas perfetto è: 
+
+A) la somma delle energie cinetiche delle diverse molecole 
+B) la somma delle energie cinetiche e potenziali delle diverse molecole 
+C) inversamente proporzionale alla temperatura 
+D) la temperatura del gas 
+E) nessuna delle altre risposte è corretta 
+
+ 
+58. L’equazione x2 + 49 = 0 ha soluzioni: 
+
+A) non reali 
+B) reali 
+C) x1 = x2 = –7 
+D) x1= x2 = 7 
+E) x1 = 7; x2 = –7 
+
+ 
+
+ 10 
+
+
+
+Università degli Studi di BOLOGNA 
+CdL delle Professioni Sanitarie 
+
+ 
+ 
+
+ 
+ 
+
+59. Sapendo che l’angolo AOB misura 50°, quanto misura l’angolo ABC? 
+
+  
+A) 65° 
+B) 25° 
+C) 50° 
+D) 90° 
+E) 155° 
+
+ 
+60. Quale delle seguenti equazioni rappresenta la retta passante per l’origine degli assi e per il punto (6; 3)? 
+
+A) y = (1/2)x 
+B) y = 3x + 3 
+C) y = 2x 
+D) y = x – 3 
+E) y = x 
+
+ 
+ 
+ 
+ 
+
+********** FINE DELLE DOMANDE ********** 
+ 
+ 
+ 
+ 
+
+In tutti i quesiti proposti la soluzione è la risposta alla lettera A) 
+
+ 11

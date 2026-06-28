@@ -1,0 +1,168 @@
+
+<style>
+.pt-grid { display:grid; grid-template-columns: repeat(18,1fr); gap:3px; margin-bottom:16px; }
+.el { border-radius:4px; cursor:pointer; padding:3px 2px; text-align:center; border:0.5px solid transparent; transition:transform .12s, box-shadow .12s; position:relative; }
+.el:hover { transform:scale(1.12); z-index:10; box-shadow:0 2px 8px rgba(0,0,0,.15); }
+.el .num { font-size:8px; color:inherit; opacity:.7; display:block; }
+.el .sym { font-size:13px; font-weight:500; display:block; line-height:1.1; }
+.el .nam { font-size:7px; display:block; opacity:.8; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+.info-card { border-radius:var(--border-radius-lg); border:0.5px solid var(--color-border-tertiary); padding:1rem 1.25rem; min-height:120px; background:var(--color-background-primary); }
+.info-card h3 { margin:0 0 4px; font-size:16px; font-weight:500; }
+.info-card p  { margin:4px 0 0; font-size:13px; color:var(--color-text-secondary); line-height:1.6; }
+.legend { display:flex; flex-wrap:wrap; gap:6px; margin-bottom:12px; }
+.leg-item { display:flex; align-items:center; gap:4px; font-size:11px; color:var(--color-text-secondary); }
+.leg-dot { width:10px; height:10px; border-radius:2px; flex-shrink:0; }
+/* color palette per tipo */
+.t-metal-alk   { background:#FAEEDA; color:#854F0B; border-color:#EF9F27; }
+.t-metal-alk2  { background:#FAC775; color:#633806; border-color:#BA7517; }
+.t-metal-trans { background:#B5D4F4; color:#0C447C; border-color:#378ADD; }
+.t-metal-post  { background:#CED9F0; color:#1a2d6e; border-color:#8fa3d6; }
+.t-metalloid   { background:#C0DD97; color:#27500A; border-color:#639922; }
+.t-nonmetal    { background:#EEEDFE; color:#3C3489; border-color:#7F77DD; }
+.t-halogen     { background:#F4C0D1; color:#72243E; border-color:#D4537E; }
+.t-noble       { background:#F5C4B3; color:#711B13; border-color:#D85A30; }
+.t-lan-act     { background:#D3D1C7; color:#2C2C2A; border-color:#888780; }
+.t-blank       { background:transparent; border-color:transparent; cursor:default; }
+.t-blank:hover { transform:none; box-shadow:none; }
+</style>
+
+<div class="legend">
+  <div class="leg-item"><div class="leg-dot t-metal-alk"></div>Metalli alcalini</div>
+  <div class="leg-item"><div class="leg-dot t-metal-alk2"></div>Alcalino-terrosi</div>
+  <div class="leg-item"><div class="leg-dot t-metal-trans"></div>Metalli di transizione</div>
+  <div class="leg-item"><div class="leg-dot t-metal-post"></div>Metalli post-trans.</div>
+  <div class="leg-item"><div class="leg-dot t-metalloid"></div>Metalloidi</div>
+  <div class="leg-item"><div class="leg-dot t-nonmetal"></div>Non metalli</div>
+  <div class="leg-item"><div class="leg-dot t-halogen"></div>Alogeni</div>
+  <div class="leg-item"><div class="leg-dot t-noble"></div>Gas nobili</div>
+  <div class="leg-item"><div class="leg-dot t-lan-act"></div>Lantanidi/Attinidi</div>
+</div>
+
+<div class="pt-grid" id="grid"></div>
+
+<div class="info-card" id="card">
+  <h3 style="color:var(--color-text-secondary)">← Clicca un elemento</h3>
+  <p>Scopri caratteristiche, curiosità e storie di ogni gruppo della tavola periodica.</p>
+</div>
+
+<script>
+const groups = {
+  'metal-alk':  { label:'Metalli alcalini',      color:'#854F0B', story:'Reagiscono violentemente con l\'acqua — il sodio Na prende fuoco, il cesio esplode. Ecco perché la salamoia non brucia la padella ma il cesio sì! Tutti hanno 1 elettrone nell\'ultimo guscio, pronto a cedere.' },
+  'metal-alk2': { label:'Metalli alcalino-terrosi', color:'#633806', story:'Il calcio Ca è l\'architetto del tuo scheletro. Il magnesio Mg è al centro della clorofilla. Hanno 2 elettroni nell\'ultimo guscio — più stabili degli alcalini, ma sempre reattivi.' },
+  'metal-trans':{ label:'Metalli di transizione', color:'#0C447C', story:'Il grande condominio del centro: ferro Fe, rame Cu, oro Au, argento Ag, zinco Zn... Sono la spina dorsale dell\'industria. Il ferro arrugginisce cedendo elettroni all\'ossigeno — la ruggine è ferro che "brucia" lentamente.' },
+  'metal-post': { label:'Metalli post-transizione', color:'#1a2d6e', story:'Alluminio Al, piombo Pb, stagno Sn. Meno robusti dei metalli di transizione. L\'alluminio sembra sempre lucido perché si ossida istantaneamente in superficie, formando uno strato protettivo invisibile.' },
+  'metalloid':  { label:'Metalloidi (semimetalli)', color:'#27500A', story:'Il silicio Si è il protagonista assoluto dell\'elettronica — ogni chip è silicio purissimo. I metalloidi stanno a metà: conducono l\'elettricità ma solo in certe condizioni (semiconduttori).' },
+  'nonmetal':   { label:'Non metalli',            color:'#3C3489', story:'Carbonio C, ossigeno O, azoto N, idrogeno H, fosforo P, zolfo S. Il carbonio è il mattone della vita: può formare catene lunghissime (la chimica organica è quasi tutta sua). L\'ossigeno ci fa respirare proprio perché "attira" gli elettroni in modo aggressivo.' },
+  'halogen':    { label:'Alogeni',                color:'#72243E', story:'Fluoro F, cloro Cl, bromo Br, iodio I. Il nome significa "generatori di sale" — cloro + sodio = sale da cucina! Hanno 7 elettroni nell\'ultimo guscio e sono affamatissimi dell\'ottavo: reagiscono con tutto.' },
+  'noble':      { label:'Gas nobili',             color:'#711B13', story:'Elio He, neon Ne, argon Ar, cripton Kr... "Nobili" perché non si mescolano con nessuno: hanno l\'ultimo guscio pieno (8 elettroni) e non hanno bisogno di niente. L\'elio dei palloncini non reagisce con l\'aria — per questo non esplode come l\'idrogeno!' },
+  'lan-act':    { label:'Lantanidi & Attinidi',   color:'#2C2C2A', story:'Le due file in basso — esuli della tavola, messi lì per non allargarla troppo. I lantanidi danno i colori degli schermi LED. Gli attinidi includono uranio U e plutonio Pu: radioattivi, usati in centrali nucleari e purtroppo in armi.' },
+};
+
+// Z, sym, name, group, col, row (1-based, row 8-9 = lan/act)
+const elements = [
+  [1,'H','Idrogeno','nonmetal',1,1],[2,'He','Elio','noble',18,1],
+  [3,'Li','Litio','metal-alk',1,2],[4,'Be','Berillio','metal-alk2',2,2],
+  [5,'B','Boro','metalloid',13,2],[6,'C','Carbonio','nonmetal',14,2],
+  [7,'N','Azoto','nonmetal',15,2],[8,'O','Ossigeno','nonmetal',16,2],
+  [9,'F','Fluoro','halogen',17,2],[10,'Ne','Neon','noble',18,2],
+  [11,'Na','Sodio','metal-alk',1,3],[12,'Mg','Magnesio','metal-alk2',2,3],
+  [13,'Al','Alluminio','metal-post',13,3],[14,'Si','Silicio','metalloid',14,3],
+  [15,'P','Fosforo','nonmetal',15,3],[16,'S','Zolfo','nonmetal',16,3],
+  [17,'Cl','Cloro','halogen',17,3],[18,'Ar','Argon','noble',18,3],
+  [19,'K','Potassio','metal-alk',1,4],[20,'Ca','Calcio','metal-alk2',2,4],
+  [21,'Sc','Scandio','metal-trans',3,4],[22,'Ti','Titanio','metal-trans',4,4],
+  [23,'V','Vanadio','metal-trans',5,4],[24,'Cr','Cromo','metal-trans',6,4],
+  [25,'Mn','Manganese','metal-trans',7,4],[26,'Fe','Ferro','metal-trans',8,4],
+  [27,'Co','Cobalto','metal-trans',9,4],[28,'Ni','Nichel','metal-trans',10,4],
+  [29,'Cu','Rame','metal-trans',11,4],[30,'Zn','Zinco','metal-trans',12,4],
+  [31,'Ga','Gallio','metal-post',13,4],[32,'Ge','Germanio','metalloid',14,4],
+  [33,'As','Arsenico','metalloid',15,4],[34,'Se','Selenio','nonmetal',16,4],
+  [35,'Br','Bromo','halogen',17,4],[36,'Kr','Kripton','noble',18,4],
+  [37,'Rb','Rubidio','metal-alk',1,5],[38,'Sr','Stronzio','metal-alk2',2,5],
+  [39,'Y','Ittrio','metal-trans',3,5],[40,'Zr','Zirconio','metal-trans',4,5],
+  [41,'Nb','Niobio','metal-trans',5,5],[42,'Mo','Molibdeno','metal-trans',6,5],
+  [43,'Tc','Tecnezio','metal-trans',7,5],[44,'Ru','Rutenio','metal-trans',8,5],
+  [45,'Rh','Rodio','metal-trans',9,5],[46,'Pd','Palladio','metal-trans',10,5],
+  [47,'Ag','Argento','metal-trans',11,5],[48,'Cd','Cadmio','metal-trans',12,5],
+  [49,'In','Indio','metal-post',13,5],[50,'Sn','Stagno','metal-post',14,5],
+  [51,'Sb','Antimonio','metalloid',15,5],[52,'Te','Tellurio','metalloid',16,5],
+  [53,'I','Iodio','halogen',17,5],[54,'Xe','Xenon','noble',18,5],
+  [55,'Cs','Cesio','metal-alk',1,6],[56,'Ba','Bario','metal-alk2',2,6],
+  [72,'Hf','Afnio','metal-trans',4,6],[73,'Ta','Tantalio','metal-trans',5,6],
+  [74,'W','Tungsteno','metal-trans',6,6],[75,'Re','Renio','metal-trans',7,6],
+  [76,'Os','Osmio','metal-trans',8,6],[77,'Ir','Iridio','metal-trans',9,6],
+  [78,'Pt','Platino','metal-trans',10,6],[79,'Au','Oro','metal-trans',11,6],
+  [80,'Hg','Mercurio','metal-trans',12,6],[81,'Tl','Tallio','metal-post',13,6],
+  [82,'Pb','Piombo','metal-post',14,6],[83,'Bi','Bismuto','metal-post',15,6],
+  [84,'Po','Polonio','metalloid',16,6],[85,'At','Astato','halogen',17,6],
+  [86,'Rn','Radon','noble',18,6],
+  [87,'Fr','Francio','metal-alk',1,7],[88,'Ra','Radio','metal-alk2',2,7],
+  [104,'Rf','Rutherfordio','metal-trans',4,7],[105,'Db','Dubnio','metal-trans',5,7],
+  [106,'Sg','Seaborgio','metal-trans',6,7],[107,'Bh','Bohrio','metal-trans',7,7],
+  [108,'Hs','Hassio','metal-trans',8,7],[109,'Mt','Meitnerio','metal-trans',9,7],
+  [110,'Ds','Darmstadtio','metal-trans',10,7],[111,'Rg','Roentgenio','metal-trans',11,7],
+  [112,'Cn','Copernicio','metal-trans',12,7],[113,'Nh','Nihonio','metal-post',13,7],
+  [114,'Fl','Flerovio','metal-post',14,7],[115,'Mc','Moscovio','metal-post',15,7],
+  [116,'Lv','Livermorio','metal-post',16,7],[117,'Ts','Tennessio','halogen',17,7],
+  [118,'Og','Oganesson','noble',18,7],
+  // Lantanidi row 8
+  [57,'La','Lantanio','lan-act',3,8],[58,'Ce','Cerio','lan-act',4,8],
+  [59,'Pr','Praseodimio','lan-act',5,8],[60,'Nd','Neodimio','lan-act',6,8],
+  [61,'Pm','Prometio','lan-act',7,8],[62,'Sm','Samario','lan-act',8,8],
+  [63,'Eu','Europio','lan-act',9,8],[64,'Gd','Gadolinio','lan-act',10,8],
+  [65,'Tb','Terbio','lan-act',11,8],[66,'Dy','Disprosio','lan-act',12,8],
+  [67,'Ho','Olmio','lan-act',13,8],[68,'Er','Erbio','lan-act',14,8],
+  [69,'Tm','Tulio','lan-act',15,8],[70,'Yb','Itterbio','lan-act',16,8],
+  [71,'Lu','Lutezio','lan-act',17,8],
+  // Attinidi row 9
+  [89,'Ac','Attinio','lan-act',3,9],[90,'Th','Torio','lan-act',4,9],
+  [91,'Pa','Protoattinio','lan-act',5,9],[92,'U','Uranio','lan-act',6,9],
+  [93,'Np','Nettunio','lan-act',7,9],[94,'Pu','Plutonio','lan-act',8,9],
+  [95,'Am','Americio','lan-act',9,9],[96,'Cm','Curio','lan-act',10,9],
+  [97,'Bk','Berkelio','lan-act',11,9],[98,'Cf','Californio','lan-act',12,9],
+  [99,'Es','Einsteinio','lan-act',13,9],[100,'Fm','Fermio','lan-act',14,9],
+  [101,'Md','Mendelevio','lan-act',15,9],[102,'No','Nobelio','lan-act',16,9],
+  [103,'Lr','Laurenzio','lan-act',17,9],
+];
+
+const grid = document.getElementById('grid');
+const ROWS = 9, COLS = 18;
+const cells = {};
+// Create 9 rows × 18 cols grid cells (blank)
+for(let r=1;r<=ROWS;r++){
+  for(let c=1;c<=COLS;c++){
+    const div = document.createElement('div');
+    div.className='el t-blank';
+    div.style.minHeight='38px';
+    grid.appendChild(div);
+    cells[`${r}_${c}`]=div;
+  }
+}
+// Place elements
+elements.forEach(([z,sym,name,grp,col,row])=>{
+  const d=cells[`${row}_${col}`];
+  if(!d)return;
+  d.className=`el t-${grp}`;
+  d.innerHTML=`<span class="num">${z}</span><span class="sym">${sym}</span><span class="nam">${name}</span>`;
+  d.title=name;
+  d.onclick=()=>showInfo(z,sym,name,grp);
+});
+// La-Ac placeholders in rows 6 and 7
+const laPlaceholder=cells['6_3'];
+if(laPlaceholder){laPlaceholder.className='el t-lan-act';laPlaceholder.innerHTML='<span class="sym" style="font-size:9px">57–71</span><span class="nam">Lantanidi</span>';laPlaceholder.onclick=()=>showGroup('lan-act');}
+const acPlaceholder=cells['7_3'];
+if(acPlaceholder){acPlaceholder.className='el t-lan-act';acPlaceholder.innerHTML='<span class="sym" style="font-size:9px">89–103</span><span class="nam">Attinidi</span>';acPlaceholder.onclick=()=>showGroup('lan-act');}
+
+// Row separator spacer between row 7 and 8
+// (Grid handles it naturally since row 8 starts immediately)
+
+function showInfo(z,sym,name,grp){
+  const g=groups[grp]||{label:grp,color:'var(--color-text-primary)',story:''};
+  const card=document.getElementById('card');
+  card.innerHTML=`<h3 style="color:${g.color}">${z} — ${sym} &middot; ${name}</h3><p><strong style="color:var(--color-text-primary)">${g.label}.</strong> ${g.story}</p>`;
+}
+function showGroup(grp){
+  const g=groups[grp]||{label:grp,color:'var(--color-text-primary)',story:''};
+  document.getElementById('card').innerHTML=`<h3 style="color:${g.color}">${g.label}</h3><p>${g.story}</p>`;
+}
+</script>

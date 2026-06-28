@@ -1,0 +1,1518 @@
+CORSO AUDIO APPROFONDITO PER IL TEST DI AMMISSIONE ALLE PROFESSIONI SANITARIE
+Biologia, Anatomia e Fisiologia, Chimica, Fisica
+Volume 3 - Fisiologia integrata, patologie di base, chimica e fisica applicate
+
+Pensato per essere trasformato in audiolibro.
+Stile: discorsivo, progressivo, adatto all’ascolto durante attività fisica.
+Questo volume continua i Volumi 1 e 2.
+
+======================================================================
+INTRODUZIONE AL VOLUME 3
+======================================================================
+
+Nei primi due volumi abbiamo costruito le basi e poi siamo entrati nei meccanismi:
+cellula, DNA, metabolismo, genetica, apparati, immunità, endocrino, chimica e fisica.
+
+In questo terzo volume facciamo un altro passo:
+mettiamo insieme gli apparati.
+
+Il corpo non funziona a compartimenti separati.
+Cuore, polmoni, reni, sangue, sistema nervoso, sistema endocrino e metabolismo lavorano insieme.
+
+Quando corri o vai in bici, aumenta il lavoro muscolare.
+I muscoli consumano più ATP.
+Serve più ossigeno.
+Aumenta la ventilazione.
+Aumenta la frequenza cardiaca.
+Il sangue distribuisce ossigeno e nutrienti.
+Il fegato libera glucosio.
+Il sistema nervoso simpatico attiva il corpo.
+Il rene regola acqua, sali e pressione.
+La sudorazione disperde calore.
+Il pH viene mantenuto entro limiti stretti.
+
+Questa è fisiologia integrata.
+
+Per il test è molto utile ragionare così:
+non studiare il cuore isolato dal polmone;
+non studiare il rene isolato dal sangue;
+non studiare il pH isolato dalla respirazione;
+non studiare gli ormoni isolati dal metabolismo.
+
+In questo volume useremo spesso domande del tipo:
+che cosa succede se aumenta?
+che cosa succede se diminuisce?
+quale organo compensa?
+quale sistema viene attivato?
+
+======================================================================
+PARTE PRIMA - OMEOSTASI E REGOLAZIONE DEL CORPO
+======================================================================
+
+LEZIONE 1 - OMEOSTASI: IL PRINCIPIO CENTRALE DELLA FISIOLOGIA
+
+L’omeostasi è la capacità dell’organismo di mantenere stabile l’ambiente interno.
+
+Ma attenzione:
+stabile non significa immobile.
+Stabile significa regolato.
+
+La temperatura corporea varia, ma entro certi limiti.
+La glicemia varia, ma deve restare controllata.
+La pressione arteriosa cambia, ma deve restare compatibile con la perfusione degli organi.
+Il pH del sangue oscilla, ma in un intervallo molto stretto.
+L’acqua corporea viene persa e introdotta continuamente, ma il volume interno deve essere regolato.
+
+Un sistema omeostatico ha tre elementi principali:
+un sensore,
+un centro di controllo,
+un effettore.
+
+Il sensore rileva una variazione.
+Il centro di controllo confronta il valore con un valore desiderato.
+L’effettore produce una risposta.
+
+Esempio: temperatura corporea.
+I termorecettori rilevano temperatura.
+L’ipotalamo funziona da centro regolatore.
+Gli effettori possono essere sudorazione, vasodilatazione, brivido, vasocostrizione.
+
+Se la temperatura sale troppo, il corpo aumenta la dispersione di calore.
+La pelle riceve più sangue.
+Si suda.
+L’evaporazione del sudore disperde calore.
+
+Se la temperatura scende troppo, il corpo conserva e produce calore.
+I vasi cutanei si restringono.
+I muscoli possono produrre brivido.
+Il metabolismo può aumentare.
+
+Il meccanismo più comune in omeostasi è il feedback negativo.
+Nel feedback negativo, la risposta riduce lo stimolo iniziale.
+
+Se la glicemia aumenta, l’insulina la abbassa.
+Se la pressione scende, il corpo attiva meccanismi per rialzarla.
+Se la temperatura sale, il corpo attiva meccanismi per ridurla.
+
+Il feedback positivo invece amplifica uno stimolo.
+È meno comune.
+Esempi classici:
+contrazioni del parto,
+coagulazione del sangue.
+
+Nel parto, la pressione del feto sulla cervice stimola ossitocina.
+L’ossitocina aumenta le contrazioni.
+Le contrazioni aumentano la pressione sulla cervice.
+Il ciclo continua fino alla nascita.
+
+Nella coagulazione, l’attivazione di un fattore attiva altri fattori, amplificando la risposta fino alla formazione del coagulo.
+
+Domanda da test:
+Quale tipo di feedback è più frequente nell’omeostasi?
+Risposta: feedback negativo.
+
+Domanda da test:
+La coagulazione è un esempio di feedback negativo o positivo?
+Risposta: positivo, perché amplifica la risposta.
+
+
+LEZIONE 2 - ACQUA CORPOREA, COMPARTIMENTI E DISIDRATAZIONE
+
+Il corpo umano è composto in gran parte da acqua.
+La percentuale varia con età, sesso, massa grassa e massa muscolare.
+In generale, il muscolo contiene molta acqua.
+Il tessuto adiposo ne contiene meno.
+
+L’acqua corporea è distribuita in compartimenti.
+
+Il compartimento intracellulare è l’acqua dentro le cellule.
+È il compartimento più grande.
+
+Il compartimento extracellulare è l’acqua fuori dalle cellule.
+Comprende:
+liquido interstiziale,
+plasma,
+altri liquidi.
+
+Il liquido interstiziale bagna le cellule.
+Il plasma è la parte liquida del sangue.
+
+La distribuzione dell’acqua dipende dagli osmoli, cioè dalle particelle disciolte.
+Il sodio è il principale catione extracellulare.
+Il potassio è il principale catione intracellulare.
+
+Questa differenza è mantenuta anche dalla pompa sodio-potassio.
+La pompa sodio-potassio espelle sodio e introduce potassio consumando ATP.
+
+La disidratazione si verifica quando il corpo perde più acqua di quanta ne introduce.
+Può avvenire per sudorazione, diarrea, vomito, febbre, scarsa introduzione di liquidi o uso di diuretici.
+
+Quando perdi acqua, il sangue può diventare più concentrato.
+L’osmolarità aumenta.
+I recettori nell’ipotalamo rilevano l’aumento dell’osmolarità.
+Compare sete.
+Aumenta l’ormone ADH.
+
+ADH significa ormone antidiuretico.
+Si chiama antidiuretico perché riduce la produzione di urina.
+Agisce sui reni, soprattutto sui dotti collettori.
+Aumenta il riassorbimento di acqua.
+L’urina diventa più concentrata.
+
+Se bevi molta acqua, l’osmolarità diminuisce.
+L’ADH diminuisce.
+Il rene elimina più acqua.
+L’urina diventa più diluita.
+
+Domanda da test:
+In caso di disidratazione, l’ADH aumenta o diminuisce?
+Risposta: aumenta.
+
+Domanda da test:
+Qual è il principale catione extracellulare?
+Risposta: sodio.
+
+
+LEZIONE 3 - EQUILIBRIO ACIDO-BASE: POLMONI E RENI INSIEME
+
+Il pH del sangue deve restare circa tra 7,35 e 7,45.
+Questo intervallo è stretto.
+Piccole variazioni possono alterare enzimi, proteine, cuore, cervello e metabolismo.
+
+Il corpo controlla il pH con tre sistemi principali:
+tamponi chimici,
+polmoni,
+reni.
+
+I tamponi chimici agiscono rapidamente.
+Il più importante nel sangue è il sistema bicarbonato.
+
+Il sistema bicarbonato può essere riassunto così:
+anidride carbonica più acqua possono formare acido carbonico,
+che può dissociarsi in ione idrogeno e bicarbonato.
+
+Più CO2 significa più tendenza all’acidità.
+Meno CO2 significa meno tendenza all’acidità.
+
+I polmoni regolano la CO2.
+Se respiri di più, elimini più CO2.
+Il pH tende ad aumentare.
+Se respiri di meno, trattieni CO2.
+Il pH tende a diminuire.
+
+I reni regolano bicarbonato e ioni idrogeno.
+Possono riassorbire bicarbonato.
+Possono eliminare ioni idrogeno.
+Sono più lenti dei polmoni, ma molto potenti.
+
+Acidosi significa pH troppo basso.
+Alcalosi significa pH troppo alto.
+
+Acidosi respiratoria:
+causata da eccesso di CO2, spesso per ipoventilazione.
+Se non elimini CO2, il sangue diventa più acido.
+
+Alcalosi respiratoria:
+causata da perdita eccessiva di CO2, spesso per iperventilazione.
+Se elimini troppa CO2, il sangue diventa più basico.
+
+Acidosi metabolica:
+causata da aumento di acidi non respiratori o perdita di bicarbonato.
+Esempio concettuale: diarrea grave può perdere bicarbonato.
+
+Alcalosi metabolica:
+causata da perdita di acidi o eccesso di basi.
+Esempio concettuale: vomito prolungato può far perdere acido gastrico.
+
+Domanda da test:
+Se una persona iperventila, che cosa succede alla CO2 nel sangue?
+Risposta: diminuisce.
+
+Domanda da test:
+Se la CO2 diminuisce molto, il pH tende a salire o scendere?
+Risposta: salire, quindi alcalosi respiratoria.
+
+
+LEZIONE 4 - TERMOREGOLAZIONE E FEBBRE
+
+La termoregolazione mantiene la temperatura corporea entro limiti compatibili con la vita.
+Il centro principale è l’ipotalamo.
+
+Quando fa caldo, il corpo deve disperdere calore.
+Usa soprattutto:
+vasodilatazione cutanea,
+sudorazione.
+
+La vasodilatazione cutanea porta più sangue verso la pelle.
+Il calore viene ceduto all’ambiente.
+
+La sudorazione funziona perché l’evaporazione dell’acqua assorbe calore.
+Non è il sudore che cola a raffreddare molto.
+È il sudore che evapora.
+
+Quando fa freddo, il corpo conserva e produce calore.
+Usa:
+vasocostrizione cutanea,
+brivido,
+aumento del metabolismo.
+
+La vasocostrizione cutanea riduce il flusso di sangue alla pelle.
+Così si perde meno calore.
+
+Il brivido è contrazione muscolare involontaria.
+Produce calore.
+
+La febbre non è semplicemente “troppo calore”.
+È un aumento regolato del set point ipotalamico.
+Il corpo si comporta come se la nuova temperatura desiderata fosse più alta.
+
+Quando la febbre sale, puoi avere brividi.
+Perché?
+Perché l’ipotalamo ha alzato il set point.
+La temperatura reale è percepita come troppo bassa rispetto al nuovo obiettivo.
+Il corpo produce calore.
+
+Quando la febbre scende, puoi sudare.
+Perché il set point torna più basso.
+La temperatura reale è ora troppo alta.
+Il corpo disperde calore.
+
+La febbre può aiutare la difesa immunitaria, ma se troppo alta o in persone fragili può essere pericolosa.
+
+Domanda da test:
+Perché durante la salita della febbre si possono avere brividi?
+Risposta: perché il set point ipotalamico è aumentato e il corpo cerca di produrre calore.
+
+
+======================================================================
+PARTE SECONDA - APPARATI INTEGRATI
+======================================================================
+
+LEZIONE 5 - CUORE, PRESSIONE E GITTATA CARDIACA
+
+La funzione del cuore è generare flusso.
+Il sangue deve raggiungere i tessuti per portare ossigeno e nutrienti e rimuovere scorie.
+
+La gittata cardiaca è il volume di sangue pompato dal cuore in un minuto.
+Formula:
+gittata cardiaca = frequenza cardiaca per volume sistolico.
+
+La frequenza cardiaca è il numero di battiti al minuto.
+Il volume sistolico è la quantità di sangue espulsa da un ventricolo a ogni battito.
+
+Esempio:
+frequenza 70 battiti al minuto.
+volume sistolico 70 mL.
+gittata = 70 per 70 = 4900 mL al minuto, circa 5 litri al minuto.
+
+Durante esercizio fisico, la gittata cardiaca aumenta.
+Aumentano frequenza cardiaca e volume sistolico.
+Così arriva più ossigeno ai muscoli.
+
+La pressione arteriosa dipende in modo semplificato da:
+gittata cardiaca,
+resistenze periferiche.
+
+Se la gittata aumenta, la pressione tende ad aumentare.
+Se le arteriole si restringono, le resistenze aumentano e la pressione tende ad aumentare.
+Se le arteriole si dilatano, le resistenze diminuiscono e la pressione tende a diminuire.
+
+Il sistema nervoso autonomo regola il cuore.
+Il simpatico aumenta frequenza e forza di contrazione.
+Il parasimpatico, soprattutto tramite il nervo vago, riduce la frequenza cardiaca.
+
+I barocettori sono recettori di pressione.
+Si trovano, tra l’altro, nel seno carotideo e nell’arco aortico.
+Se la pressione sale troppo, i barocettori aumentano il segnale al centro cardiovascolare.
+Il corpo riduce frequenza cardiaca e dilata i vasi.
+Se la pressione scende, il riflesso va in senso opposto.
+
+Domanda da test:
+Da che cosa dipende la gittata cardiaca?
+Risposta: frequenza cardiaca per volume sistolico.
+
+Domanda da test:
+Il simpatico aumenta o diminuisce la frequenza cardiaca?
+Risposta: aumenta.
+
+
+LEZIONE 6 - SCAMBIO CAPILLARE, EDEMA, PRESSIONE ONCOTICA
+
+I capillari sono il luogo degli scambi tra sangue e tessuti.
+Le pareti capillari sono sottili.
+Permettono passaggio di acqua, gas, nutrienti e scorie.
+
+Lo scambio di liquidi dipende da due forze principali:
+pressione idrostatica,
+pressione oncotica.
+
+La pressione idrostatica del sangue tende a spingere liquido fuori dal capillare.
+È una pressione meccanica.
+
+La pressione oncotica, dovuta soprattutto alle proteine plasmatiche come albumina, tende a richiamare acqua dentro il capillare.
+Le proteine plasmatiche restano nel sangue e attirano acqua osmoticamente.
+
+All’inizio del capillare, la pressione idrostatica è maggiore e prevale la filtrazione verso i tessuti.
+Alla fine del capillare, la pressione idrostatica è più bassa e la pressione oncotica favorisce il riassorbimento.
+
+Il sistema linfatico recupera il liquido in eccesso e lo riporta nel circolo sanguigno.
+
+L’edema è accumulo di liquido nei tessuti.
+Può comparire per diversi motivi:
+aumento della pressione idrostatica,
+diminuzione delle proteine plasmatiche,
+aumento della permeabilità capillare,
+ostruzione linfatica.
+
+Esempio:
+se l’albumina è molto bassa, la pressione oncotica diminuisce.
+Il sangue richiama meno acqua.
+Può comparire edema.
+
+Esempio:
+se una vena è ostruita, aumenta la pressione a monte.
+La pressione idrostatica capillare aumenta.
+Più liquido esce nei tessuti.
+
+Domanda da test:
+Quale proteina plasmatica contribuisce molto alla pressione oncotica?
+Risposta: albumina.
+
+Domanda da test:
+La pressione idrostatica capillare spinge liquido dentro o fuori dal capillare?
+Risposta: fuori.
+
+
+LEZIONE 7 - POLMONI, EMOGLOBINA E CURVA DI DISSOCIAZIONE
+
+L’emoglobina trasporta ossigeno nel sangue.
+Ogni molecola di emoglobina può legare fino a quattro molecole di ossigeno.
+
+Il legame dell’ossigeno all’emoglobina è reversibile.
+Nei polmoni, dove la pressione parziale di ossigeno è alta, l’emoglobina si carica.
+Nei tessuti, dove la pressione parziale di ossigeno è più bassa, l’emoglobina rilascia ossigeno.
+
+La curva di dissociazione dell’emoglobina descrive il rapporto tra pressione parziale di ossigeno e saturazione dell’emoglobina.
+
+La curva è sigmoide, cioè a forma di S.
+Questo dipende dalla cooperatività.
+Quando una molecola di ossigeno si lega, facilita il legame delle successive.
+Quando una si stacca, facilita il rilascio delle altre.
+
+Nei tessuti attivi, l’emoglobina rilascia più ossigeno.
+Perché?
+Perché ci sono più CO2, più H+, temperatura più alta e più metaboliti.
+Questi fattori spostano la curva a destra.
+Uno spostamento a destra significa minore affinità per l’ossigeno e maggiore rilascio ai tessuti.
+
+Questo è chiamato effetto Bohr.
+L’aumento di CO2 e H+ favorisce il rilascio di ossigeno.
+
+Durante esercizio, i muscoli producono più CO2 e acidi.
+L’emoglobina rilascia più facilmente ossigeno proprio dove serve.
+
+Domanda da test:
+Nei tessuti metabolicamente attivi, l’emoglobina rilascia più o meno ossigeno?
+Risposta: più ossigeno.
+
+Domanda da test:
+Aumento di CO2 e H+ sposta la curva dell’emoglobina a destra o a sinistra?
+Risposta: a destra.
+
+
+LEZIONE 8 - RENI, PRESSIONE E SISTEMA RENINA-ANGIOTENSINA-ALDOSTERONE
+
+Il rene regola la pressione arteriosa non solo eliminando acqua e sali, ma anche attraverso ormoni.
+
+Il sistema renina-angiotensina-aldosterone, spesso abbreviato RAAS, è fondamentale.
+
+Quando il rene percepisce bassa pressione, basso flusso o basso sodio, libera renina.
+La renina è un enzima.
+
+La renina trasforma l’angiotensinogeno in angiotensina I.
+Poi l’enzima ACE trasforma angiotensina I in angiotensina II.
+
+L’angiotensina II ha effetti potenti:
+vasocostrizione,
+stimolo alla secrezione di aldosterone,
+stimolo alla sete,
+stimolo ad ADH.
+
+La vasocostrizione aumenta le resistenze e quindi tende ad aumentare la pressione.
+
+L’aldosterone agisce sul rene.
+Aumenta riassorbimento di sodio.
+L’acqua segue il sodio.
+Aumenta il volume extracellulare.
+La pressione tende ad aumentare.
+
+ADH aumenta il riassorbimento di acqua.
+Anche questo aiuta a mantenere il volume.
+
+Quindi il RAAS è un sistema di difesa contro calo di pressione o volume.
+
+Ma se è troppo attivo, può contribuire a ipertensione.
+
+Domanda da test:
+Quale ormone aumenta il riassorbimento di sodio nel rene?
+Risposta: aldosterone.
+
+Domanda da test:
+La renina viene liberata quando il rene percepisce bassa pressione o alta pressione?
+Risposta: bassa pressione o basso flusso.
+
+
+LEZIONE 9 - DIGESTIONE, ASSORBIMENTO E METABOLISMO POST-PRANDIALE
+
+Dopo un pasto, il corpo passa a una fase di assorbimento e deposito.
+Questa fase è dominata dall’insulina.
+
+I carboidrati vengono digeriti in monosaccaridi, soprattutto glucosio.
+Il glucosio viene assorbito nell’intestino tenue e passa nel sangue portale.
+Arriva al fegato.
+
+Le proteine vengono digerite in amminoacidi.
+Gli amminoacidi vengono assorbiti e arrivano anch’essi al fegato.
+
+I grassi vengono emulsionati dalla bile e digeriti da lipasi.
+Vengono assorbiti dagli enterociti.
+Poi sono riassemblati in trigliceridi e impacchettati in chilomicroni.
+I chilomicroni entrano nella linfa e poi nel sangue.
+
+Dopo un pasto, la glicemia aumenta.
+Il pancreas secerne insulina.
+L’insulina favorisce:
+ingresso del glucosio in molte cellule,
+sintesi di glicogeno,
+sintesi di grassi,
+sintesi proteica.
+
+Il fegato trasforma parte del glucosio in glicogeno.
+Se le riserve sono piene e l’energia è in eccesso, può contribuire alla sintesi di grassi.
+
+Nel digiuno breve, tra un pasto e l’altro, il glucagone aumenta.
+Il fegato demolisce glicogeno e libera glucosio.
+Nel digiuno più prolungato, aumenta la gluconeogenesi, cioè produzione di glucosio da precursori non glucidici.
+
+Domanda da test:
+Dopo un pasto ricco di carboidrati, quale ormone aumenta?
+Risposta: insulina.
+
+Domanda da test:
+I grassi assorbiti dall’intestino entrano subito direttamente nel sangue portale come glucosio?
+Risposta: no. Molti lipidi entrano prima nella linfa sotto forma di chilomicroni.
+
+
+LEZIONE 10 - MUSCOLO DURANTE ESERCIZIO
+
+Durante l’esercizio, il muscolo aumenta il consumo di ATP.
+L’ATP deve essere rigenerato continuamente.
+
+Fonti di ATP nel muscolo:
+ATP già presente,
+fosfocreatina,
+glicolisi anaerobica,
+metabolismo aerobico.
+
+L’ATP già presente dura pochissimo.
+La fosfocreatina permette una rigenerazione rapida dell’ATP per sforzi brevi e intensi.
+La glicolisi anaerobica produce ATP rapidamente, ma poco, e può aumentare lattato.
+Il metabolismo aerobico produce molto ATP, ma richiede ossigeno e tempo.
+
+Durante uno sprint breve, prevalgono ATP immediato e fosfocreatina.
+Durante uno sforzo intenso di durata intermedia, aumenta la glicolisi anaerobica.
+Durante attività prolungata, come bici a ritmo sostenibile, domina il metabolismo aerobico.
+
+L’allenamento di resistenza aumenta:
+capillarizzazione,
+mitocondri,
+enzimi ossidativi,
+capacità di usare grassi,
+efficienza cardiovascolare.
+
+Il muscolo allenato può produrre più ATP aerobicamente e gestire meglio il lattato.
+
+Fibre muscolari:
+tipo I, lente, ossidative, resistenti alla fatica;
+tipo II, rapide, più potenti, più affaticabili.
+
+Le fibre tipo I sono importanti negli sport di endurance.
+Le fibre tipo II sono importanti in sprint, forza, movimenti rapidi.
+
+Domanda da test:
+Quale sistema energetico domina negli sforzi lunghi e moderati?
+Risposta: metabolismo aerobico.
+
+Domanda da test:
+Quali organelli aumentano con l’allenamento di resistenza?
+Risposta: mitocondri.
+
+
+======================================================================
+PARTE TERZA - PATOLOGIE DI BASE UTILI PER RAGIONARE NEI QUIZ
+======================================================================
+
+LEZIONE 11 - INFIAMMAZIONE, INFEZIONE, FEBBRE: NON SONO SINONIMI
+
+Infiammazione, infezione e febbre sono collegate, ma non sono la stessa cosa.
+
+L’infiammazione è una risposta del tessuto a un danno.
+Il danno può essere causato da batteri, virus, trauma, calore, sostanze chimiche, autoimmunità.
+
+I segni classici dell’infiammazione sono:
+rossore,
+calore,
+gonfiore,
+dolore,
+perdita di funzione.
+
+L’infezione è invasione e moltiplicazione di microrganismi patogeni.
+Può causare infiammazione.
+Ma non ogni infiammazione è infezione.
+
+Esempio:
+una distorsione alla caviglia causa infiammazione, ma non necessariamente infezione.
+
+La febbre è aumento regolato della temperatura corporea.
+Spesso accompagna infezioni, ma può comparire anche in altre condizioni infiammatorie.
+
+I mediatori dell’infiammazione includono istamina, prostaglandine, citochine e altri.
+L’istamina aumenta permeabilità vascolare.
+Le prostaglandine contribuiscono a dolore e febbre.
+Le citochine coordinano la risposta immunitaria.
+
+Un’infezione batterica può essere trattata con antibiotici se indicato.
+Un’infezione virale non risponde agli antibiotici.
+
+Domanda da test:
+Ogni infiammazione è causata da infezione?
+Risposta: no.
+
+Domanda da test:
+La febbre è regolata soprattutto da quale struttura?
+Risposta: ipotalamo.
+
+
+LEZIONE 12 - DIABETE: LOGICA METABOLICA DI BASE
+
+Il diabete mellito è una condizione caratterizzata da glicemia elevata cronica.
+Il problema centrale riguarda insulina, secrezione di insulina o risposta all’insulina.
+
+Nel diabete di tipo 1, le cellule beta pancreatiche vengono distrutte o non producono sufficiente insulina.
+Manca insulina.
+Il glucosio resta nel sangue.
+Le cellule che dipendono molto dall’insulina assorbono meno glucosio.
+
+Nel diabete di tipo 2, spesso c’è insulino-resistenza.
+Le cellule rispondono male all’insulina.
+All’inizio il pancreas può produrne di più.
+Con il tempo può non bastare.
+
+Insulina bassa o inefficace significa:
+meno ingresso di glucosio nelle cellule sensibili,
+più glicemia,
+più produzione epatica di glucosio,
+alterazioni del metabolismo dei grassi.
+
+Se la glicemia supera la capacità di riassorbimento renale, compare glucosio nelle urine.
+Il glucosio nelle urine richiama acqua per osmosi.
+Questo può causare aumento della diuresi.
+Aumenta la sete.
+
+Sintomi classici:
+poliuria, cioè urinare molto;
+polidipsia, cioè bere molto;
+polifagia, cioè fame aumentata;
+calo di peso in certi casi.
+
+Nel diabete di tipo 1 grave non trattato, il corpo usa molti grassi.
+Si formano corpi chetonici.
+Può comparire chetoacidosi diabetica.
+
+Domanda da test:
+Perché nel diabete può aumentare la diuresi?
+Risposta: perché il glucosio nelle urine richiama acqua osmoticamente.
+
+Domanda da test:
+Quale ormone abbassa la glicemia?
+Risposta: insulina.
+
+
+LEZIONE 13 - ANEMIA E TRASPORTO DI OSSIGENO
+
+L’anemia è una riduzione della capacità del sangue di trasportare ossigeno.
+Spesso è dovuta a riduzione di emoglobina o globuli rossi.
+
+L’emoglobina è la proteina che trasporta ossigeno.
+Contiene ferro.
+Senza sufficiente emoglobina, i tessuti ricevono meno ossigeno.
+
+Sintomi possibili:
+stanchezza,
+pallore,
+fiato corto,
+tachicardia,
+debolezza.
+
+Il cuore può aumentare la frequenza per compensare la minore capacità di trasporto.
+Se ogni litro di sangue trasporta meno ossigeno, il corpo può provare a far circolare più sangue al minuto.
+
+Cause generali di anemia:
+perdita di sangue,
+ridotta produzione di globuli rossi,
+aumentata distruzione di globuli rossi,
+carenza di ferro,
+carenza di vitamina B12 o folati,
+malattie croniche.
+
+L’eritropoietina, prodotta soprattutto dal rene, stimola il midollo osseo a produrre globuli rossi.
+Se i tessuti ricevono poco ossigeno, il rene può aumentare eritropoietina.
+
+Domanda da test:
+Quale organo produce principalmente eritropoietina?
+Risposta: rene.
+
+Domanda da test:
+Perché nell’anemia può aumentare la frequenza cardiaca?
+Risposta: per compensare la ridotta capacità di trasporto dell’ossigeno.
+
+
+LEZIONE 14 - IPOSSIA, CIANOSI, SATURAZIONE
+
+Ipossia significa insufficiente disponibilità di ossigeno per i tessuti.
+Non è identica a ipossiemia.
+Ipossiemia significa basso ossigeno nel sangue arterioso.
+Ipossia riguarda i tessuti.
+
+Una persona può avere ipossia per vari motivi:
+poco ossigeno nell’aria,
+problemi polmonari,
+anemia,
+problemi circolatori,
+incapacità dei tessuti di usare ossigeno.
+
+La saturazione di ossigeno indica la percentuale di emoglobina legata a ossigeno.
+Un saturimetro stima la saturazione periferica.
+
+La cianosi è colorazione bluastra di pelle o mucose dovuta ad aumento di emoglobina deossigenata.
+Può essere visibile in labbra, dita, mucose.
+
+Attenzione:
+in anemia grave, una persona può essere molto ipossica ma non mostrare cianosi evidente, perché c’è poca emoglobina totale.
+Per avere cianosi serve una quantità sufficiente di emoglobina deossigenata.
+
+Il monossido di carbonio è pericoloso perché si lega all’emoglobina con grande affinità.
+Occupa i siti dell’ossigeno.
+Riduce il trasporto di ossigeno.
+Inoltre rende più difficile il rilascio di ossigeno ai tessuti.
+
+Domanda da test:
+Il monossido di carbonio riduce il trasporto di ossigeno legandosi a quale proteina?
+Risposta: emoglobina.
+
+Domanda da test:
+Ipossia e ipossiemia sono sempre sinonimi?
+Risposta: no.
+
+
+LEZIONE 15 - SHOCK: IDEA GENERALE
+
+Lo shock è una condizione in cui i tessuti non ricevono perfusione adeguata.
+Perfusione significa flusso di sangue sufficiente a portare ossigeno e nutrienti.
+
+Esistono vari tipi di shock.
+
+Shock ipovolemico:
+diminuisce il volume circolante.
+Cause: emorragia, disidratazione grave, perdita di liquidi.
+Meno volume significa meno ritorno venoso, meno gittata cardiaca, meno pressione.
+
+Shock cardiogeno:
+il cuore non pompa adeguatamente.
+Il volume può esserci, ma la pompa non funziona.
+
+Shock distributivo:
+i vasi sono troppo dilatati o mal regolati.
+Il volume si distribuisce male.
+Esempi concettuali: shock settico, anafilattico, neurogeno.
+
+Shock ostruttivo:
+qualcosa ostacola il riempimento o l’uscita del sangue dal cuore.
+Esempio concettuale: embolia polmonare massiva.
+
+Segni generali possono includere:
+pressione bassa,
+tachicardia,
+cute fredda o alterata,
+confusione,
+ridotta diuresi,
+debolezza.
+
+La ridotta diuresi è importante:
+se i reni ricevono poco sangue, producono meno urina.
+
+Domanda da test:
+Nello shock ipovolemico, il problema iniziale è riduzione di che cosa?
+Risposta: volume circolante.
+
+Domanda da test:
+Perché nello shock può diminuire la produzione di urina?
+Risposta: perché diminuisce la perfusione renale.
+
+
+======================================================================
+PARTE QUARTA - CHIMICA BIOLOGICA APPLICATA
+======================================================================
+
+LEZIONE 16 - PROTEINE: STRUTTURA PRIMARIA, SECONDARIA, TERZIARIA, QUATERNARIA
+
+Le proteine hanno diversi livelli di struttura.
+
+La struttura primaria è la sequenza degli amminoacidi.
+È determinata dal gene.
+Cambiare un amminoacido può cambiare funzione, specialmente se la posizione è importante.
+
+La struttura secondaria comprende forme locali regolari:
+alfa-elica,
+foglietto beta.
+Sono stabilizzate da legami a idrogeno.
+
+La struttura terziaria è il ripiegamento tridimensionale complessivo di una singola catena polipeptidica.
+Dipende da interazioni tra gruppi laterali degli amminoacidi:
+legami a idrogeno,
+interazioni ioniche,
+interazioni idrofobiche,
+ponti disolfuro.
+
+La struttura quaternaria esiste quando più catene polipeptidiche si associano.
+L’emoglobina ha struttura quaternaria.
+È formata da più subunità.
+
+La denaturazione altera la struttura tridimensionale.
+Di solito non rompe la struttura primaria, cioè non taglia la sequenza di amminoacidi.
+Rompe o altera interazioni che mantengono la forma.
+
+Fattori denaturanti:
+calore,
+pH estremo,
+solventi,
+sostanze chimiche.
+
+Se una proteina si denatura, perde funzione.
+Un enzima denaturato non riconosce più bene il substrato.
+Un recettore denaturato non lega più bene il segnale.
+
+Domanda da test:
+La struttura primaria di una proteina è che cosa?
+Risposta: la sequenza degli amminoacidi.
+
+Domanda da test:
+L’emoglobina ha struttura quaternaria?
+Risposta: sì, perché è formata da più subunità.
+
+
+LEZIONE 17 - CARBOIDRATI E INDICE METABOLICO GENERALE
+
+I carboidrati sono fonte energetica importante.
+Il glucosio è centrale.
+
+Monosaccaridi:
+glucosio,
+fruttosio,
+galattosio.
+
+Disaccaridi:
+saccarosio = glucosio più fruttosio;
+lattosio = glucosio più galattosio;
+maltosio = glucosio più glucosio.
+
+Polisaccaridi:
+amido,
+glicogeno,
+cellulosa.
+
+Amido e glicogeno sono riserve energetiche.
+La cellulosa è strutturale nelle piante e non viene digerita dall’uomo.
+
+Il glicogeno è immagazzinato soprattutto in fegato e muscoli.
+Il glicogeno epatico aiuta a mantenere la glicemia.
+Il glicogeno muscolare serve al muscolo stesso durante il lavoro.
+
+Questa distinzione è importante:
+il fegato può liberare glucosio nel sangue.
+Il muscolo usa il proprio glicogeno per sé.
+
+Dopo un pasto, insulina favorisce sintesi di glicogeno.
+Durante il digiuno, glucagone favorisce glicogenolisi nel fegato.
+
+La glicogenolisi è demolizione del glicogeno.
+La glicogenosintesi è sintesi del glicogeno.
+La gluconeogenesi è produzione di glucosio da precursori non glucidici.
+
+Domanda da test:
+Dove si trova il glicogeno più importante per mantenere la glicemia?
+Risposta: nel fegato.
+
+Domanda da test:
+La cellulosa è digerita dall’uomo?
+Risposta: no, non in modo significativo perché mancano gli enzimi adatti.
+
+
+LEZIONE 18 - LIPIDI, MEMBRANE E ORMONI STEROIDEI
+
+I lipidi sono molecole idrofobe o anfipatiche.
+Idrofobo significa che non ama l’acqua.
+Anfipatico significa che ha una parte idrofila e una idrofoba.
+
+I trigliceridi sono formati da glicerolo e tre acidi grassi.
+Sono una grande riserva energetica.
+A parità di massa, i grassi forniscono più energia dei carboidrati.
+
+Gli acidi grassi possono essere saturi o insaturi.
+Saturi: non hanno doppi legami carbonio-carbonio.
+Insaturi: hanno uno o più doppi legami.
+
+I fosfolipidi sono fondamentali per le membrane.
+Hanno testa idrofila e code idrofobe.
+In acqua formano spontaneamente doppi strati.
+
+Il colesterolo è un lipide importante.
+È componente delle membrane animali.
+Serve come precursore degli ormoni steroidei.
+Serve per produrre acidi biliari e vitamina D.
+
+Gli ormoni steroidei derivano dal colesterolo.
+Esempi:
+cortisolo,
+aldosterone,
+estrogeni,
+progesterone,
+testosterone.
+
+Essendo liposolubili, attraversano la membrana e si legano a recettori intracellulari.
+Spesso modificano l’espressione genica.
+Per questo l’effetto può essere più lento ma duraturo rispetto a certi ormoni peptidici.
+
+Domanda da test:
+Da quale molecola derivano gli ormoni steroidei?
+Risposta: colesterolo.
+
+Domanda da test:
+I fosfolipidi sono anfipatici?
+Risposta: sì.
+
+
+LEZIONE 19 - SOLUZIONI ELETTROLITICHE E CONDUZIONE
+
+Un elettrolita è una sostanza che in soluzione produce ioni e permette conduzione elettrica.
+Sali, acidi e basi possono comportarsi da elettroliti.
+
+Il cloruro di sodio in acqua si dissocia in Na+ e Cl-.
+Questi ioni possono muoversi e trasportare carica.
+Per questo la soluzione conduce elettricità.
+
+Il corpo umano contiene molte soluzioni elettrolitiche.
+Sodio, potassio, cloro, calcio, magnesio e bicarbonato sono fondamentali.
+
+Gli ioni sono essenziali per:
+potenziale di membrana,
+impulso nervoso,
+contrazione muscolare,
+equilibrio idrico,
+pH,
+attività enzimatica.
+
+Il potassio è particolarmente importante per il potenziale di riposo delle cellule.
+Alterazioni del potassio possono influenzare il cuore e i muscoli.
+
+Il calcio è importante per contrazione muscolare, coagulazione e segnali intracellulari.
+Il sodio è importante per volume extracellulare e potenziale d’azione.
+
+Domanda da test:
+Perché una soluzione salina conduce elettricità?
+Risposta: perché contiene ioni mobili.
+
+Domanda da test:
+Quale ione è essenziale per la contrazione muscolare insieme all’ATP?
+Risposta: calcio.
+
+
+LEZIONE 20 - OSSIDANTI, ANTIOSSIDANTI, RADICALI LIBERI
+
+Durante il metabolismo possono formarsi specie reattive dell’ossigeno, spesso chiamate radicali liberi.
+Sono molecole o atomi molto reattivi che possono danneggiare lipidi, proteine e DNA.
+
+Non tutti i radicali liberi sono sempre negativi.
+A basse quantità possono partecipare a segnali cellulari e difesa immunitaria.
+Ma se sono troppi, causano stress ossidativo.
+
+Lo stress ossidativo è uno squilibrio tra produzione di specie reattive e capacità antiossidante.
+
+Gli antiossidanti aiutano a neutralizzare specie reattive.
+Possono essere molecole introdotte con la dieta o sistemi prodotti dal corpo.
+Esempi di sistemi antiossidanti:
+glutatione,
+superossido dismutasi,
+catalasi.
+
+I mitocondri sono una fonte importante di specie reattive perché nella catena respiratoria si muovono elettroni.
+Se alcuni elettroni sfuggono al controllo, possono reagire con ossigeno.
+
+Il danno ossidativo al DNA può contribuire a mutazioni.
+Il danno ai lipidi di membrana può alterare membrane.
+Il danno alle proteine può alterare enzimi e strutture.
+
+Domanda da test:
+Che cos’è lo stress ossidativo?
+Risposta: uno squilibrio tra produzione di specie reattive e difese antiossidanti.
+
+======================================================================
+PARTE QUINTA - FISICA E MATEMATICA APPLICATE AI QUIZ
+======================================================================
+
+LEZIONE 21 - PROPORZIONI, PERCENTUALI, CONVERSIONI
+
+Molti errori nei test non vengono dalla teoria, ma dai calcoli semplici fatti in fretta.
+
+Le percentuali sono fondamentali.
+10% significa 10 su 100.
+20% significa 20 su 100.
+50% significa metà.
+
+Esempio:
+Il 20% di 80 è 16.
+Perché 80 per 0,20 = 16.
+
+Aumentare del 20% non significa aggiungere 20.
+Significa moltiplicare per 1,20.
+Se 80 aumenta del 20%, diventa 96.
+
+Diminuire del 20% significa moltiplicare per 0,80.
+Se 80 diminuisce del 20%, diventa 64.
+
+Conversioni:
+1 litro = 1000 millilitri.
+1 metro = 100 centimetri.
+1 chilometro = 1000 metri.
+1 ora = 3600 secondi.
+1 grammo = 1000 milligrammi.
+1 chilogrammo = 1000 grammi.
+
+Attenzione ai millilitri e litri negli esercizi di molarità.
+500 mL = 0,5 L.
+250 mL = 0,25 L.
+100 mL = 0,1 L.
+
+Domanda da test:
+Una soluzione contiene 2 grammi in 100 mL. Quanti grammi ci sono in 1 litro?
+Ragionamento:
+1 litro = 1000 mL, cioè dieci volte 100 mL.
+2 grammi per 10 = 20 grammi.
+Risposta: 20 grammi.
+
+
+LEZIONE 22 - GRAFICI: COME LEGGERLI
+
+Nei test possono comparire grafici.
+Un grafico non va guardato in modo superficiale.
+Bisogna leggere:
+asse x,
+asse y,
+unità,
+andamento,
+pendenza,
+intercette,
+eventuali plateau.
+
+L’asse x è spesso la variabile indipendente.
+L’asse y è spesso la variabile dipendente.
+
+Se il grafico sale, y aumenta quando x aumenta.
+Se scende, y diminuisce quando x aumenta.
+Se è orizzontale, y resta costante.
+Se è curvo, il rapporto non è lineare.
+
+La pendenza indica quanto rapidamente cambia y rispetto a x.
+In un grafico posizione-tempo, la pendenza è la velocità.
+In un grafico velocità-tempo, la pendenza è l’accelerazione.
+L’area sotto un grafico velocità-tempo rappresenta lo spazio percorso.
+
+Un plateau è un tratto in cui la curva si stabilizza.
+In biologia, un plateau può indicare saturazione.
+Esempio:
+trasportatori di membrana o enzimi possono saturarsi.
+Quando tutti i trasportatori sono occupati, aumentare il substrato non aumenta molto la velocità.
+
+Domanda da test:
+In un grafico posizione-tempo, che cosa rappresenta la pendenza?
+Risposta: la velocità.
+
+Domanda da test:
+In un grafico velocità-tempo, che cosa rappresenta l’area sotto la curva?
+Risposta: lo spazio percorso.
+
+
+LEZIONE 23 - PROBABILITÀ DI BASE PER GENETICA
+
+La genetica mendeliana usa spesso probabilità.
+
+Regola del prodotto:
+se due eventi indipendenti devono accadere entrambi, moltiplichi le probabilità.
+
+Esempio:
+Probabilità di avere un figlio maschio = 1/2.
+Probabilità che abbia un certo allele dalla madre = 1/2.
+Probabilità di entrambe le cose = 1/2 per 1/2 = 1/4.
+
+Regola della somma:
+se può accadere uno oppure un altro evento alternativo, sommi le probabilità.
+
+Esempio:
+In un incrocio Aa x Aa, probabilità di avere Aa è 1/2, perché può venire A dal padre e a dalla madre oppure a dal padre e A dalla madre.
+Sono due modi diversi:
+1/4 + 1/4 = 1/2.
+
+Probabilità di fenotipo dominante in Aa x Aa:
+AA o Aa.
+AA = 1/4.
+Aa = 1/2.
+Totale = 3/4.
+
+Domanda da test:
+In un incrocio tra due eterozigoti Aa, qual è la probabilità di figlio omozigote recessivo?
+Risposta: 1/4.
+
+Domanda da test:
+Qual è la probabilità di fenotipo dominante?
+Risposta: 3/4, se c’è dominanza completa.
+
+
+LEZIONE 24 - FLUIDI: PORTATA E CONTINUITÀ
+
+La portata è il volume di fluido che attraversa una sezione in un certo tempo.
+Formula:
+Q = volume / tempo.
+
+In un tubo, se il fluido è incomprimibile e non ci sono perdite, la portata resta costante.
+La portata è anche:
+Q = area per velocità.
+
+Quindi:
+A1 v1 = A2 v2.
+
+Se il tubo si restringe, l’area diminuisce.
+Per mantenere la stessa portata, la velocità aumenta.
+
+Questo aiuta a capire alcuni fenomeni nei vasi e nei fluidi.
+In un restringimento, il fluido può accelerare.
+Tuttavia nel sistema circolatorio reale la situazione è complessa perché ci sono viscosità, elasticità dei vasi, resistenze e flusso pulsatile.
+
+La viscosità è resistenza interna allo scorrimento.
+Un fluido più viscoso scorre con più difficoltà.
+Il sangue è più viscoso dell’acqua perché contiene cellule e proteine.
+
+La resistenza al flusso aumenta se:
+il vaso è più lungo,
+il fluido è più viscoso,
+il raggio del vaso diminuisce.
+
+Il raggio è molto importante.
+Una piccola riduzione del raggio può aumentare molto la resistenza.
+
+Domanda da test:
+Se un tubo si restringe e la portata resta costante, la velocità del fluido aumenta o diminuisce?
+Risposta: aumenta.
+
+
+LEZIONE 25 - ONDE SONORE, DECIBEL, ECOGRAFIA
+
+Il suono è un’onda meccanica.
+Ha bisogno di un mezzo per propagarsi.
+Non si propaga nel vuoto.
+
+Le onde sonore sono onde di compressione e rarefazione.
+Nell’aria, il suono viaggia a circa 340 m/s.
+Nei liquidi e nei solidi può viaggiare più velocemente.
+
+La frequenza determina l’altezza del suono.
+Frequenza alta: suono acuto.
+Frequenza bassa: suono grave.
+
+L’intensità è collegata all’energia dell’onda.
+Il livello sonoro si misura in decibel.
+La scala dei decibel è logaritmica.
+
+Gli ultrasuoni hanno frequenza superiore a quella udibile dall’uomo.
+L’ecografia usa ultrasuoni.
+Gli ultrasuoni vengono emessi da una sonda.
+Attraversano i tessuti.
+Quando incontrano interfacce tra tessuti diversi, una parte viene riflessa.
+La sonda riceve gli echi.
+Il sistema ricostruisce un’immagine.
+
+L’ecografia è molto usata perché non usa radiazioni ionizzanti.
+È utile per gravidanza, addome, cuore, vasi e molti altri distretti.
+
+Domanda da test:
+L’ecografia usa radiazioni ionizzanti?
+Risposta: no, usa ultrasuoni.
+
+Domanda da test:
+Il suono può propagarsi nel vuoto?
+Risposta: no.
+
+
+LEZIONE 26 - RAGGI X, TAC, RISONANZA MAGNETICA: PRINCIPI BASE
+
+I raggi X sono radiazioni elettromagnetiche ionizzanti.
+Possono attraversare i tessuti in modo diverso.
+Le ossa assorbono più raggi X dei tessuti molli.
+Per questo appaiono più chiare nelle radiografie tradizionali.
+
+La TAC, o tomografia computerizzata, usa raggi X e ricostruzione computerizzata per ottenere immagini a sezioni.
+È molto utile, ma comporta esposizione a radiazioni ionizzanti.
+
+La risonanza magnetica non usa raggi X.
+Usa campi magnetici e onde radio.
+È molto utile per tessuti molli, cervello, midollo, articolazioni.
+Non usa radiazioni ionizzanti, ma ha controindicazioni legate a certi dispositivi metallici o elettronici impiantati.
+
+La medicina nucleare usa sostanze radioattive introdotte nell’organismo.
+Queste emettono radiazioni rilevate da strumenti.
+Serve a studiare funzione oltre che forma.
+
+Differenza importante:
+radiografia e TAC usano raggi X da sorgente esterna.
+Medicina nucleare usa traccianti radioattivi interni.
+Risonanza magnetica usa campi magnetici e radiofrequenze.
+
+Domanda da test:
+La TAC usa radiazioni ionizzanti?
+Risposta: sì, raggi X.
+
+Domanda da test:
+La risonanza magnetica usa raggi X?
+Risposta: no.
+
+
+======================================================================
+PARTE SESTA - SIMULAZIONE RAGIONATA PIÙ AMPIA
+======================================================================
+
+DOMANDA 1
+Una persona respira molto rapidamente per ansia. Dopo alcuni minuti può comparire alcalosi respiratoria. Perché?
+
+Ragionamento:
+Respirare rapidamente elimina più CO2.
+Meno CO2 significa meno acido carbonico.
+Diminuiscono gli ioni H+.
+Il pH sale.
+
+Risposta:
+perché l’iperventilazione riduce la CO2 nel sangue e aumenta il pH.
+
+
+DOMANDA 2
+Una diarrea profusa può causare acidosi metabolica. Qual è il motivo più probabile in termini di bicarbonato?
+
+Ragionamento:
+Con la diarrea si possono perdere liquidi intestinali ricchi di bicarbonato.
+Il bicarbonato è una base tampone.
+Perdere bicarbonato riduce la capacità tampone e abbassa il pH.
+
+Risposta:
+per perdita di bicarbonato.
+
+
+DOMANDA 3
+Una persona perde molto sangue. Quale tipo di shock può sviluppare?
+
+Ragionamento:
+Perdere sangue significa perdere volume circolante.
+Meno volume riduce ritorno venoso, gittata cardiaca e perfusione.
+
+Risposta:
+shock ipovolemico.
+
+
+DOMANDA 4
+Perché in una grave disidratazione l’urina diventa più concentrata?
+
+Ragionamento:
+L’osmolarità aumenta.
+L’ipotalamo stimola sete e ADH.
+ADH aumenta il riassorbimento di acqua nel rene.
+Meno acqua viene eliminata.
+L’urina è più concentrata.
+
+Risposta:
+per aumento di ADH e riassorbimento di acqua.
+
+
+DOMANDA 5
+Durante esercizio intenso, perché l’emoglobina rilascia più ossigeno ai muscoli?
+
+Ragionamento:
+I muscoli producono CO2, H+ e calore.
+Questi fattori riducono l’affinità dell’emoglobina per l’ossigeno.
+La curva si sposta a destra.
+
+Risposta:
+per effetto Bohr, dovuto soprattutto ad aumento di CO2 e H+.
+
+
+DOMANDA 6
+Un vaso sanguigno si restringe. A parità di pressione, che cosa succede al flusso?
+
+Ragionamento:
+Il restringimento riduce il raggio.
+La resistenza aumenta molto.
+A parità di pressione, il flusso diminuisce.
+
+Risposta:
+diminuisce.
+
+
+DOMANDA 7
+Un paziente ha poca albumina nel plasma e sviluppa edema. Perché?
+
+Ragionamento:
+L’albumina contribuisce alla pressione oncotica.
+La pressione oncotica richiama acqua nel capillare.
+Se albumina diminuisce, il richiamo di acqua diminuisce.
+Più liquido resta nei tessuti.
+
+Risposta:
+per riduzione della pressione oncotica plasmatica.
+
+
+DOMANDA 8
+Un bambino ha febbre alta e brividi nella fase iniziale. Perché ha brividi se la temperatura è già alta?
+
+Ragionamento:
+Durante la salita febbrile, il set point ipotalamico è aumentato.
+Il corpo percepisce la temperatura attuale come insufficiente rispetto al nuovo set point.
+Produce calore con brividi.
+
+Risposta:
+perché il set point ipotalamico è aumentato.
+
+
+DOMANDA 9
+Perché il monossido di carbonio è pericoloso anche se la persona respira aria?
+
+Ragionamento:
+Il monossido di carbonio si lega all’emoglobina con alta affinità.
+Occupa i siti dell’ossigeno.
+Riduce il trasporto e il rilascio di ossigeno.
+
+Risposta:
+perché impedisce all’emoglobina di trasportare adeguatamente ossigeno.
+
+
+DOMANDA 10
+Una cellula muscolare durante sprint usa rapidamente fosfocreatina. A che cosa serve?
+
+Ragionamento:
+La fosfocreatina dona rapidamente un gruppo fosfato all’ADP.
+Rigenera ATP in tempi brevi.
+Serve per sforzi intensi e brevi.
+
+Risposta:
+a rigenerare rapidamente ATP.
+
+
+DOMANDA 11
+La glicemia aumenta dopo un pasto. Quale ormone aumenta e che cosa fa?
+
+Ragionamento:
+Dopo un pasto aumenta glucosio nel sangue.
+Il pancreas secerne insulina.
+L’insulina favorisce ingresso e deposito del glucosio.
+
+Risposta:
+aumenta l’insulina, che abbassa la glicemia favorendo uso e deposito del glucosio.
+
+
+DOMANDA 12
+Una sostanza passa liberamente attraverso il doppio strato fosfolipidico. Che caratteristiche probabilmente ha?
+
+Ragionamento:
+Il centro della membrana è idrofobo.
+Passano meglio molecole piccole e apolari.
+Esempi: O2, CO2.
+
+Risposta:
+è probabilmente piccola e apolare.
+
+
+DOMANDA 13
+Un ormone steroideo modifica l’espressione genica. Perché può farlo?
+
+Ragionamento:
+Gli steroidi sono liposolubili.
+Attraversano la membrana.
+Si legano a recettori intracellulari o nucleari.
+Il complesso può influenzare la trascrizione.
+
+Risposta:
+perché entra nella cellula e agisce tramite recettori intracellulari/nucleari.
+
+
+DOMANDA 14
+Una soluzione passa da pH 7 a pH 4. Di quanto aumenta la concentrazione di H+?
+
+Ragionamento:
+Differenza di 3 unità.
+Ogni unità vale fattore 10.
+10 x 10 x 10 = 1000.
+
+Risposta:
+aumenta di 1000 volte.
+
+
+DOMANDA 15
+In un grafico velocità-tempo, la linea è orizzontale. Che cosa significa?
+
+Ragionamento:
+La velocità resta costante.
+Se la velocità non cambia, l’accelerazione è zero.
+
+Risposta:
+moto a velocità costante, accelerazione zero.
+
+
+DOMANDA 16
+Durante un cambiamento di stato, una sostanza assorbe calore ma la temperatura resta costante. Perché?
+
+Ragionamento:
+Il calore assorbito serve a rompere o modificare interazioni tra particelle.
+Non aumenta l’energia cinetica media.
+Quindi la temperatura resta costante.
+
+Risposta:
+perché il calore serve al cambiamento di stato, non ad aumentare la temperatura.
+
+
+DOMANDA 17
+Perché la risonanza magnetica non è classificata come esame a raggi X?
+
+Ragionamento:
+La risonanza usa campi magnetici e onde radio.
+Non usa raggi X.
+Non usa radiazioni ionizzanti come TAC e radiografia.
+
+Risposta:
+perché il suo principio fisico è diverso: campi magnetici e radiofrequenze.
+
+
+DOMANDA 18
+Due genitori eterozigoti per un carattere recessivo patologico hanno un figlio. Qual è la probabilità che sia affetto?
+
+Ragionamento:
+Incrocio Aa x Aa.
+Affetto recessivo = aa.
+Probabilità aa = 1/4.
+
+Risposta:
+25%.
+
+
+DOMANDA 19
+Perché in una soluzione ipotonica una cellula vegetale non scoppia facilmente come una cellula animale?
+
+Ragionamento:
+L’acqua entra.
+La cellula vegetale diventa turgida.
+La parete cellulare esercita resistenza meccanica.
+Questo impedisce la lisi facile.
+
+Risposta:
+perché ha una parete cellulare rigida.
+
+
+DOMANDA 20
+Perché gli enzimi mostrano saturazione?
+
+Ragionamento:
+Gli enzimi hanno un numero limitato di siti attivi.
+Quando tutti i siti sono occupati, aggiungere altro substrato non aumenta molto la velocità.
+
+Risposta:
+perché i siti attivi disponibili diventano tutti occupati.
+
+
+======================================================================
+RIPASSO FINALE DEL VOLUME 3
+======================================================================
+
+L’omeostasi mantiene stabili le condizioni interne.
+Il feedback negativo riduce lo stimolo iniziale.
+Il feedback positivo amplifica la risposta.
+L’ADH aumenta il riassorbimento di acqua.
+Il sodio è il principale catione extracellulare.
+Il potassio è il principale catione intracellulare.
+I polmoni regolano rapidamente la CO2.
+I reni regolano più lentamente bicarbonato e H+.
+Iperventilazione riduce CO2 e può causare alcalosi respiratoria.
+Ipoventilazione trattiene CO2 e può causare acidosi respiratoria.
+La febbre è aumento del set point ipotalamico.
+La gittata cardiaca è frequenza per volume sistolico.
+La pressione arteriosa dipende da gittata e resistenze.
+La pressione idrostatica spinge liquido fuori dai capillari.
+La pressione oncotica richiama liquido dentro i capillari.
+L’albumina contribuisce alla pressione oncotica.
+L’emoglobina rilascia più ossigeno con CO2, H+ e temperatura elevati.
+Il sistema renina-angiotensina-aldosterone aumenta pressione e volume.
+L’aldosterone aumenta riassorbimento di sodio.
+I chilomicroni trasportano lipidi assorbiti dall’intestino.
+Durante esercizio lungo domina metabolismo aerobico.
+La fosfocreatina serve per ATP rapido in sforzi brevi.
+L’infiammazione non è sempre infezione.
+Il diabete comporta iperglicemia.
+Il glucosio nelle urine richiama acqua e aumenta diuresi.
+L’anemia riduce il trasporto di ossigeno.
+Il rene produce eritropoietina.
+Il monossido di carbonio si lega all’emoglobina.
+Lo shock è perfusione tissutale insufficiente.
+La struttura primaria delle proteine è la sequenza di amminoacidi.
+Il glicogeno epatico aiuta a mantenere la glicemia.
+Il colesterolo è precursore degli ormoni steroidei.
+Gli elettroliti conducono perché producono ioni mobili.
+Lo stress ossidativo è squilibrio tra radicali e difese antiossidanti.
+In un grafico posizione-tempo, la pendenza è la velocità.
+In un grafico velocità-tempo, l’area è lo spazio.
+La legge di Boyle: volume aumenta, pressione diminuisce.
+L’ecografia usa ultrasuoni.
+TAC e radiografia usano raggi X.
+Risonanza magnetica usa campi magnetici e onde radio.
+
+======================================================================
+CONCLUSIONE DEL VOLUME 3
+======================================================================
+
+Questo volume ha messo insieme gli apparati.
+
+Il punto centrale è che il corpo umano lavora come un sistema integrato.
+Il cuore non serve senza sangue.
+Il sangue non serve senza emoglobina.
+L’emoglobina non serve senza polmoni.
+I polmoni non bastano senza mitocondri.
+I mitocondri non funzionano senza ossigeno, nutrienti, enzimi e membrane.
+Il rene non è solo filtro: regola volume, pressione e pH.
+Il sistema endocrino non è solo una lista di ghiandole: coordina metabolismo, crescita, stress, riproduzione e sali.
+Il sistema nervoso non è solo cervello: coordina risposte rapide, movimento, cuore, respiro e adattamento.
+
+Per il test devi allenarti a riconoscere i collegamenti.
+
+Quando leggi “diarrea”, pensa anche a acqua, sali, bicarbonato, disidratazione, pressione.
+Quando leggi “iperventilazione”, pensa a CO2, pH, alcalosi respiratoria.
+Quando leggi “anemia”, pensa a emoglobina, ossigeno, compenso cardiaco.
+Quando leggi “edema”, pensa a capillari, pressione idrostatica, pressione oncotica, albumina, linfa.
+Quando leggi “esercizio fisico”, pensa a ATP, ossigeno, cuore, polmoni, emoglobina, calore, sudore, glicogeno.
+
+Questa è la preparazione intelligente:
+non solo memoria,
+ma fisiologia viva.
+
+Fine del Volume 3.
