@@ -3246,6 +3246,27 @@ La testa ionica è polare e si lega all’acqua.
 
 
 
+Un ossiacido è un acido formato da: idrogeno + non metallo + ossigeno
+Negli ossiacidi, l’idrogeno acido non è legato direttamente al non-metallo centrale, ma a un ossigeno.
+H₂SO₄  acido solforico
+H₂SO₃  acido solforoso
+HNO₃   acido nitrico
+HNO₂   acido nitroso
+H₂CO₃  acido carbonico
+H₃PO₄  acido fosforico
+HClO   acido ipocloroso
+HClO₂  acido cloroso
+HClO₃  acido clorico
+HClO₄  acido perclorico
+
+Idracido  = H + non metallo
+Ossiacido = H + non metallo + O
+
+HCl     acido cloridrico   → idracido, non ha ossigeno
+HClO₃   acido clorico      → ossiacido, ha ossigeno
+
+
+
 
 =============
 
