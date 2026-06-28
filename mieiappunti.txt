@@ -1344,6 +1344,8 @@ respirazione nei mitocondri, fotosintesi nei cloroplasti.
 fotosintesi = processo anabolico, costruisce zuccheri; respirazione = processo catabolico, demolisce zuccheri.
 
 
+La catena di trasporto degli elettroni usa l’energia degli elettroni per pompare protoni H+ attraverso la membrana interna mitocondriale.
+
 
 == ESTERI ALDEIDI ALCOL
 
@@ -1368,6 +1370,22 @@ Un alcol secondario è un alcol in cui il carbonio che porta il gruppo -OH è le
 alcol primario:    R–CH2–OH      → carbonio con -OH ha 2 H
 alcol secondario:  R–CH(OH)–R'   → carbonio con -OH ha 1 H
 alcol terziario:   R–C(OH)(R')–R'' → carbonio con -OH ha 0 H
+
+Alcani: idrocarburi (saturi, perche' hanno il max numero di H) con legami semplici C-C, es. etano H3-C-C-H3, in generale CnH2n+2
+CH4     metano
+C2H6    etano
+C3H8    propano
+C4H10   butano
+
+Gli alcheni (insaturi) hanno almeno un doppio legame C=C. CnH2n
+C2H4    etene
+C3H6    propene
+C4H8    butene
+
+Gli alchini (insaturi) hanno almeno un triplo legame C≡C. alchini = CnH2n-2
+C2H2    etino / acetilene
+C3H4    propino
+C4H6    butino
 
 
 
@@ -2283,7 +2301,7 @@ Nelle cellule vegetali trovi anche:
 Struttura rigida esterna alla membrana.
 
 12. Cloroplasti
-Fanno la fotosintesi.
+Fanno la fotosintesi. produce zuccheri grazie alla luce. Dentro i cloroplasti ci sono strutture chiamate tilacoidi, impilate in gruppi chiamati grana. Nei tilacoidi c’è la clorofilla, il pigmento verde che assorbe la luce.
 
 13. Grande vacuolo centrale
 Contiene acqua e sostanze di riserva.
@@ -2352,6 +2370,21 @@ PRIMASI mette il primer (RNA)   ↓
 POLIMERASI allunga il nuovo DNA partendo dal primer (costruisce il nuovo filamento di DNA. Aggiunge nucleotidi uno dopo l’altro, seguendo il filamento stampo.)   ↓
 LIGASI unisce i frammenti di DNA, fondamentale soprattutto sul filamento lento, dove si formano i frammenti di Okazaki.
 NUCLEASI taglia DNA/RNA, per degradare, correggere o rimuovere tratti di DNA/RNA
+
+Le proteine leganti il singolo filamento (SSB = Single-Strand Binding proteins) si attaccano ai filamenti singoli di DNA
+e impediscono che si riappaino tra loro, dopo che l'elicasi ha aperto il DNA.
+
+La DNA topoisomerasi riduce l’avvolgimento del DNA davanti alla forca di replicazione: taglia temporaneamente uno o due filamenti di DNA, fa scaricare la torsione, poi richiude il taglio
+
+Una chinasi è un enzima che “accende” o “modifica” altre proteine aggiungendo un gruppo fosfato. Nel ciclo cellulare ci sono chinasi speciali chiamate: CDK = cyclin-dependent kinases, queste chinasi si legano ad una ciclina per far avanzare la cellula nel ciclo cellulare (CDK + ciclina). 
+
+altre proteine:
+Dineine     → proteine motrici, movimento su microtubuli
+Connessine  → formano giunzioni comunicanti tra cellule
+Integrine   → adesione cellula-matrice extracellulare
+Clatrine    → vescicole/endocitosi
+
+La struttura primaria di una proteina è la sequenza degli amminoacidi nella catena. Gli amminoacidi sono uniti tra loro da legami peptidici.
 
 
 == RNA
@@ -3115,6 +3148,102 @@ diritto all’istruzione,
 tutela del lavoro.
 
 Per infermieristica l’articolo chiave è il 32, perché definisce la salute come diritto fondamentale dell’individuo e interesse della collettività
+
+== AMMINOACIDI
+
+NH2 - CH(R) - COOH
+
+il carbonio centrale si chiama ALFA
+
+1) gruppo amminico      —NH2
+2) gruppo carbossilico  —COOH
+3) un atomo di idrogeno —H
+4) gruppo R             parte variabile
+
+Quando due amminoacidi si uniscono, formano un legame peptidico:
+
+amminoacido + amminoacido → dipeptide + H2O
+
+—COOH  +  H2N—
+   ↓
+—CO—NH—  +  H2O
+
+Il legame peptidico è quindi:
+
+—CO—NH—
+
+== SISTEMA LINFATICO
+
+Il sistema linfatico è una rete di vasi, linfa e organi linfatici che ha tre grandi scopi:
+
+drenare i liquidi in eccesso dai tessuti
+difendere l’organismo dalle infezioni
+assorbire grassi dall’intestino
+
+
+DRENAGGIO: Il sistema linfatico recupera il liquido che rimane nei tessuti e lo riporta nel sangue
+tessuti → vasi linfatici → linfonodi → grandi vene
+Alla fine la linfa torna nella circolazione sanguigna vicino alle vene succlavie, cioè nella parte alta del torace.
+Senza drenaggio segue gonfiore.
+
+DIFESA IMMUNITARIA: Lungo i vasi linfatici ci sono i linfonodi. I linfonodi sono come posti di controllo o filtri biologici. Nei linfonodi ci sono molti linfociti B e T. 
+
+ASSORBIMENTO DEI GRASSI : Nell’intestino tenue ci sono piccoli vasi linfatici chiamati vasi chiliferi. Questi assorbono molti grassi alimentari.
+
+I principali elementi del sistema linfatico sono:
+
+- linfa
+- capillari linfatici
+- vasi linfatici
+- linfonodi
+- milza
+- timo
+- tonsille
+- midollo osseo
+
+
+La MILZA - controlla il sangue
+- elimina globuli rossi vecchi
+- partecipa alla risposta immunitaria
+- conserva piastrine e sangue
+
+Qual è la funzione principale dei linfonodi? Risposta: filtrare la linfa e partecipare alla difesa immunitaria.
+
+Quale organo filtra il sangue? Risposta: milza.
+
+Dove maturano i linfociti T? Risposta: timo.
+
+Dove maturano i linfociti B? Risposta: midollo osseo.
+
+
+== GLUCOSIO
+
+Glucosio lineare
+CH₂OH - CHOH - CHOH - CHOH - CHOH - CHO
+
+CHO è il gruppo aldeidico.
+
+1 gruppo aldeidico: -CHO
+5 gruppi ossidrilici: -OH
+
+
+
+Nella molecola d’acqua, il legame tra ossigeno e idrogeno è un legame covalente, perché O e H condividono elettroni.
+Però non li condividono “alla pari”: l’ossigeno è più elettronegativo dell’idrogeno, quindi attira di più gli elettroni.
+covalente = elettroni condivisi
+polare = condivisi in modo disuguale
+
+Un legame covalente puro è un legame in cui due atomi condividono gli elettroni in modo perfettamente uguale ( H-H, O=O , Cl-Cl)
+
+I saponi sono sali di acidi grassi, di solito sali di sodio o potassio.
+acido grasso + base forte → sapone + acqua
+R-COOH + NaOH → R-COO⁻ Na⁺ + H₂O
+
+coda lunga idrofoba   testa idrofila
+CH3-(CH2)n-CH2    —     COO⁻ Na⁺
+La coda lunga è apolare e si lega ai grassi.
+La testa ionica è polare e si lega all’acqua.
+
 
 
 
