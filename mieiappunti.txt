@@ -3646,6 +3646,33 @@ pericardio   → intorno al cuore
 peritoneo    → nella cavità addominale
 Producono un liquido sieroso che riduce l’attrito tra gli organi.
 
+== RENE
+
+Capsula di Bowman, avvolge il glomerulo renale, che è una fitta rete di capillari sanguigni situata all'interno del nefrone, l'unità funzionale dei reni. La sua funzione principale è filtrare il plasma sanguigno (filtrato glomerulare) per rimuovere le scorie e produrre l'urina.
+
+== NEUROTRASMETTITORI
+
+I neurotrasmettitori sono molecole messaggere usate dai neuroni per comunicare tra loro, oppure con muscoli e ghiandole.
+
+La DOPAMINA è un neurotrasmettitore molto importante per:
+motivazione ricompensa/piacere movimento attenzione apprendimento
+
+La SEROTONINA è collegata a:
+umore sonno appetito ansia regolazione intestinale
+
+L’ACETILCOLINA è fondamentale per:
+contrazione muscolare memoria attenzione sistema nervoso autonomo
+
+La NORADRENALINA è coinvolta in:
+attenzione vigilanza risposta allo stress aumento della frequenza cardiaca pressione sanguigna
+
+Il GABA è il principale neurotrasmettitore inibitorio del sistema nervoso centrale.
+Vuol dire che tende a “frenare” l’attività dei neuroni.
+
+Il GLUTAMMATO è il principale neurotrasmettitore eccitatorio del cervello.
+
+
+
 == VITAMINE
 
 Vitamina D → assorbimento intestinale di calcio e fosforo → ossa forti
