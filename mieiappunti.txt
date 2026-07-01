@@ -149,6 +149,14 @@ proteina
 Lo splicing taglia gli introni dal pre-mRNA e lascia gli esoni nell’mRNA maturo.
 
 
+== DNA e RNA
+
+basi azotate: 
+RNA: A G T U  adenina, guanina, timina e uracile
+DNA: A G T C  adenina, guanina, timina e citosina 
+
+adenina, guanina : purine, doppio anello
+citosina uracile timina (CUT) : pirimidine, anello singolo
 
 
 == MEIOSI
@@ -602,7 +610,11 @@ plasmacellula
    ↓
 produce anticorpi
 
-Gli anticorpi sono proteine che si legano in modo specifico agli antigeni.
+
+
+
+
+
 
 Per esempio:
 
@@ -1251,6 +1263,7 @@ energia degli elettroni → gradiente di protoni
 Poi:
 
 gradiente di protoni → ATP
+
 12. Perché si chiama fosforilazione ossidativa?
 
 Il nome sembra difficile, ma è logico.
@@ -1272,7 +1285,11 @@ O₂ → H₂O
 
 Quindi:
 
-fosforilazione ossidativa = produzione di ATP grazie a ossidazioni e riduzioni
+fosforilazione ossidativa = produzione di ATP grazie a ossidazioni e riduzioni.
+Produce la maggior parte dell’ATP nelle cellule eucariotiche aerobiche.
+Avviene sulla membrana interna dei mitocondri.
+
+
 
 13. Schema globale semplice
 NADH cede elettroni
@@ -1387,6 +1404,32 @@ C2H2    etino / acetilene
 C3H4    propino
 C4H6    butino
 
+Dalla disidratazione di un alcol si ottiene un alchene (doppio legame C=C) :
+CH₃—CH₂OH  →  CH₂=CH₂ + H₂O  (etanolo -> etene + acqua)
+
+
+alcol primario + ossidazione → aldeide
+etanolo → etanale/acetaldeide CH₃—CH₂OH  →  CH₃—CHO + H2
+metanolo   metanale / formaldeide CH₃OH  →  H—CHO + H2
+il carbonio perde un legame con H e aumenta il legame con O. Per questo si ossida.
+Ossidazione in organica:
++ legami con O
+− legami con H
+
+Riduzione in organica:
+− legami con O
++ legami con H
+
+alcol secondario + ossidazione → chetone
+propan-2-olo → acetone CH₃—CHOH—CH₃  →  CH₃—CO—CH₃ + H2
+
+
+due alcoli + disidratazione intermolecolare → etere + acqua
+etanolo + etanolo → etere dietilico CH₃CH₂OH + HOCH₂CH₃  →  CH₃CH₂—O—CH₂CH₃ + H₂O
+
+un alcol + disidratazione intramolecolare → alchene
+etanolo → etene
+CH₃—CH₂OH  →  CH₂=CH₂ + H₂O
 
 
 == LEGAMI
@@ -1418,7 +1461,7 @@ L’intestino è un lungo tubo muscolare che continua lo stomaco e termina con l
 Si divide in due grandi parti: intestino tenue e intestino crasso
 
 
-L’intestino tenue è la parte più lunga e più importante per la digestione chimica e soprattutto per l’assorbimento dei nutrienti. Si chiama “tenue” non perché sia corto, ma perché ha un diametro minore rispetto al colon.
+L’intestino TENUE è la parte più lunga e più importante per la digestione chimica e soprattutto per l’assorbimento dei nutrienti. Si chiama “tenue” non perché sia corto, ma perché ha un diametro minore rispetto al colon.
 
 È diviso in: duodeno, digiuno, ileo
 
@@ -1972,7 +2015,7 @@ Stomaco = acido + pepsina + proteine → chimo.
 
 == SISTEMA IMMUNITARIO
 
-Una immunoglobulina è un anticorpo.
+Una IMMUNOGLOBULINA è un ANTICORPO.
 
 Cioè una proteina prodotta dai linfociti B — più precisamente dalle plasmacellule — per riconoscere e legarsi a sostanze estranee chiamate antigeni.
 
@@ -1980,7 +2023,10 @@ Esempio:
 
 batterio / virus / tossina → antigene → anticorpo/immunoglobulina si lega all’antigene
 
+
 Immaginala come una specie di pinza molecolare o chiave specializzata: ogni immunoglobulina riconosce un bersaglio abbastanza specifico.
+
+Sono normalmente costituiti da 4 catene polipeptidiche: 2 catene pesanti (lunghe) +  2 catene leggere (corte), tenute insieme da ponti disolfuro. 
 
 La struttura classica dell’anticorpo è a forma di Y:
 
@@ -2040,6 +2086,12 @@ cos²x = 1 − sin²x
 
 cos(a + b) = cos(a) · cos(b) – sen(a) · sen(b)
 
+sin (x) = cos (90 - x)
+sin(15) = (sqrt(6) - sqrt(2) ) / 4 = 0.259
+sin(30) = 1/2
+sin(45) = sqrt(2) / 2 = 0.707
+sin(60) = sqrt(3) / 2 = 0.866
+
 
 
 == SANGUE
@@ -2090,6 +2142,7 @@ Sistema nervoso
         ├── simpatico
         ├── parasimpatico
         └── enterico
+
 1. Sistema nervoso centrale
 
 È il “centro di comando”.
@@ -2244,6 +2297,108 @@ Quindi la coppia fondamentale è:
 
 simpatico = emergenza / prestazione
 parasimpatico = calma / digestione / recupero
+
+
+
+
+Il cervelletto serve a coordinare:
+
+- equilibrio
+- postura
+- tono muscolare
+- precisione dei movimenti
+- coordinazione motoria
+
+
+Il CORPO CALLOSO è una grossa struttura di fibre nervose che collega i due emisferi cerebrali.
+emisfero destro ↔ emisfero sinistro
+Serve quindi alla comunicazione tra le due metà del cervello.
+
+Il DIENCEFALO è una regione profonda dell’encefalo. Comprende soprattutto:
+
+- talamo
+- ipotalamo
+
+Il TALAMO è una stazione di smistamento delle informazioni sensitive verso la corteccia cerebrale.
+
+L’IPOTALAMO controlla molte funzioni automatiche e ormonali:
+
+- fame
+- sete
+- temperatura corporea
+- sonno-veglia
+- controllo dell’ipofisi
+- equilibrio interno dell’organismo
+
+
+Il MIDOLLO ALLUNGATO, o bulbo, fa parte del tronco encefalico.
+
+Controlla funzioni vitali automatiche:
+
+- respirazione
+- battito cardiaco
+- pressione arteriosa
+- riflessi come tosse, vomito, deglutizione
+
+Il MESENCEFALO fa parte del tronco encefalico, sopra il ponte e il midollo allungato.
+
+È coinvolto in:
+
+- riflessi visivi
+- riflessi uditivi
+- movimenti oculari
+- controllo motorio
+- stato di vigilanza
+
+
+Schema finale:
+
+Cervelletto       → equilibrio e coordinazione
+Corpo calloso     → collega i due emisferi
+Diencefalo        → talamo + ipotalamo, controllo interno
+Midollo allungato → respirazione, cuore, riflessi vitali
+Mesencefalo       → riflessi visivi/uditivi, movimenti oculari
+
+
+I NERVI CRANICI partono dall’encefalo/tronco encefalico e controllano molte funzioni di testa e collo.
+
+Esempi:
+
+trigemino          → sensibilità della faccia, masticazione
+faciale            → muscoli della mimica facciale
+vestibolococleare  → udito ed equilibrio
+ipoglosso          → movimenti della lingua
+
+
+Lobo frontale
+→ movimento volontario, pensiero, decisioni
+
+Lobo parietale
+→ sensibilità corporea, tatto, dolore, temperatura
+
+Lobo temporale
+→ udito, memoria, comprensione del linguaggio
+
+Lobo occipitale
+→ vista
+
+Cervelletto
+→ equilibrio e coordinazione
+
+Midollo allungato
+→ respirazione, cuore, funzioni vitali automatiche
+
+Corpo calloso
+→ collega i due emisferi cerebrali
+
+Da ricordare benissimo:
+
+precentrale  = motoria
+postcentrale = sensitiva
+occipitale   = vista
+temporale    = udito
+cervelletto  = equilibrio
+
 
 
 == STRUTTURA DELLA CELLULA
@@ -3160,7 +3315,7 @@ il carbonio centrale si chiama ALFA
 3) un atomo di idrogeno —H
 4) gruppo R             parte variabile
 
-Quando due amminoacidi si uniscono, formano un legame peptidico:
+Quando due amminoacidi si uniscono, formano un legame peptidico −CO−NH−:
 
 amminoacido + amminoacido → dipeptide + H2O
 
@@ -3171,6 +3326,27 @@ amminoacido + amminoacido → dipeptide + H2O
 Il legame peptidico è quindi:
 
 —CO—NH—
+
+α-amminoacidi : sono le “unità di base” con cui sono costruite le proteine.
+hanno il gruppo amminico legato al carbonio α, cioè il carbonio immediatamente vicino al gruppo carbossilico COOH.
+NH2​−CH(R)−COOH
+R è la catena laterale, diversa per ogni amminoacido.
+NH2 = gruppo amminico
+COOH gruppo carbossilico
+
+NH2​−CH2​−COOH  glicina, con R = H
+NH2​−CH(CH3​)−COOH alanina, con R = CH3
+
+A pH circa fisiologico, cioè vicino a 7, gli amminoacidi non stanno principalmente nella forma:
+NH2−CH(R)−COOH
+
+ma nella forma ionica:
++NH3−CH(R)−COO−
+Questa forma si chiama zwitterione.
+Quasi tutti gli α-amminoacidi sono chirali, perché il carbonio α è legato a quattro gruppi diversi. Eccezione importante: glicina, R=H.
+Il gruppo laterale puo' essere aromatico: Fenilalanina, Tirosina, Triptofano
+Negli α-amminoacidi proteici, il carbonio α di solito è stereogenico perché è legato a quattro gruppi diversi: NH2​, COOH, H, R; fa eccezione la glicina. Il carbonio α è un centro stereogenico, cioè può dare due forme spaziali diverse: L e D. 
+Le proteine degli esseri viventi sono formate quasi sempre da L-amminoacidi.
 
 == SISTEMA LINFATICO
 
@@ -3266,6 +3442,217 @@ HCl     acido cloridrico   → idracido, non ha ossigeno
 HClO₃   acido clorico      → ossiacido, ha ossigeno
 
 
+Kw è il prodotto ionico dell’acqua.
+L’acqua, anche pura, si dissocia pochissimo:
+H₂O ⇄ H⁺ + OH⁻
+A 25°C, il valore è: Kw = 10⁻¹⁴
+
+
+Un sale neutro è un sale che, sciolto in acqua, non rende la soluzione né acida né basica. Cioè la soluzione resta circa: pH = 7. Es NaCl, KCl. Derivano da acido forte + base forte: HCl + NaOH → NaCl + H₂O. Questi ioni non reagiscono con l’acqua in modo significativo. Quindi non producono né H⁺ né OH⁻.
+
+sale da acido forte + base forte → neutro  (NaCl)
+sale da acido forte + base debole → acido  (NH4Cl) 
+sale da acido debole + base forte → basico  (CH₃COONa)
+
+== PROPRIETÀ COLLIGATIVE
+
+La pressione osmotica segue la formula: π = i M R T  , dove i è il numero di particelle prodotte dal soluto, M molarità, R costante.
+Proprietà colligative = dipendono dal numero di particelle
+Le proprietà colligative sono proprietà delle soluzioni che dipendono dal numero di particelle disciolte, non dal tipo di sostanza.
+Le principali proprietà colligative sono quattro:
+
+1) Abbassamento della tensione di vapore
+2) Innalzamento della temperatura di ebollizione
+3) Abbassamento della temperatura di congelamento
+4) Pressione osmotica
+
+
+Legge di Henry: a temperatura costante, la quantità di gas che si scioglie in un liquido è proporzionale alla pressione parziale di quel gas sopra il liquido. Es.: acqua frizzante, subacquei.
+C = k · P
+C = concentrazione del gas disciolto
+k = costante di Henry
+P = pressione parziale del gas
+
+
+Per un pendolo semplice, il periodo è: T = 2π √(L/g)  dove L e' la lunghezza del pendolo; è indipendente dalla massa.
+
+La forza di resistenza aerodinamica si può scrivere così:
+F= 1/2 ρv^2 Cx A
+dove:
+ρ = densità del fluido, per esempio aria
+v = velocità del corpo rispetto al fluido
+Cx = coefficiente di resistenza aerodinamica
+A = area frontale
+
+
+
+== LOGICA
+
+∧ = AND 
+∨ = OR  
+
+
+Proposizione contronominale : 
+"Se p allora q" ha come contronominale "Se non q allora non p"
+
+Modus ponens: se p allora q. p é vero, quindi q é vero.
+
+Modus tollens: se p allora q. q è falso, quindi p è falso
+
+
+== TRASDUZIONE
+
+TRASDUZIONE = il trasferimento di geni da una cellula batterica ad un’altra tramite un fago
+
+La trasduzione è un meccanismo di scambio genetico nei batteri mediato da un batteriofago, cioè un virus che infetta i batteri. 
+batterio 1 → fago → batterio 2
+Il fago, infettando un batterio, può “portarsi dietro” per errore un pezzo di DNA batterico e trasferirlo a un altro batterio.
+
+
+I PLASMIDI R sono piccoli DNA circolari batterici che portano geni di resistenza agli antibiotici. i plasmidi R possono passare da un batterio all’altro, soprattutto tramite coniugazione batterica. Quindi la resistenza può diffondersi rapidamente.
+Un OPERONE è un gruppo di geni batterici comandati dallo stesso interruttore.
+
+== CICLO DI KREBS
+demolisce molecole energetiche per ricavare energia (catabolico). avviene nella matrice mitocondriale.
+
+molecole energetiche → CO₂ + energia trasferita a NADH e FADH₂ 
+
+pre-fase: La glicolisi produce piruvato. Poi il piruvato entra nel mitocondrio e viene trasformato in acetil-CoA.
+piruvato → acetil-CoA + CO₂ + NADH
+
+acetil-CoA (2C) + ossalacetato (4C) → citrato (6C)
+
+Per ogni acetil-CoA che entra, il ciclo produce:
+1 acetil-CoA → 2 CO₂ + 3 NADH + 1 FADH₂ + 1 ATP/GTP
+
+
+== CICLO DI CALVIN
+
+Il Ciclo di Calvin: costruisce zuccheri usando CO₂
+Noto anche come fase oscura della fotosintesi. Avviene nelle cellule vegetali, nei cloroplasti. È un processo anabolico (di biosintesi) che avviene nello stroma dei cloroplasti. Il suo obiettivo è fissare il carbonio inorganico dell'anidride carbonica (CO2) per produrre molecole organiche come il glucosio.
+Per ridurre la CO2 e sintetizzare gli zuccheri, il ciclo richiede un massiccio apporto di energia chimica e potere riducente, che provengono direttamente dalla fase luminosa:
+- Consumo di ATP: Viene utilizzato per fosforilare i composti intermedi (come la conversione del 3-fosfoglicurato in 1,3-bisofoglicurato e nella rigenerazione del RuBP).
+- Consumo di NADPH: Fornisce gli elettroni necessari alla riduzione.
+
+Fase I fissazione della CO₂: 1 CO₂ + 1 RuBP (ribulosio-1,5-bisfosfato) → 2 molecole di 3-PGA (3-fosfoglicerato)
+
+Fase 2: riduzione: 3-PGA + ATP + NADPH → G3P (gliceraldeide-3-fosfato)
+Una piccola parte del G3P esce per fare zuccheri. La maggior parte resta nel ciclo per rigenerare il RuBP.
+
+Fase 3: rigenerazione del RuBP : G3P + ATP → RuBP
+
+Bilancio totale: 3 CO₂ + 9 ATP + 6 NADPH → 1 G3P
+Per fare un glucosio, servono grosso modo 2 G3P, quindi: 6 CO₂ → 1 glucosio
+
+
+I lieviti, come Saccharomyces cerevisiae, sono funghi unicellulari eucarioti.
+
+Vaiolo=virus, Clostridium tetani = batterio, Yersinia pestis = batterio, Vibrio cholerae = batterio, Streptococcus pneumoniae = batterio
+
+
+== ELEMENTI DI TRANSIZIONE
+
+I metalli della parte centrale della tavola periodica.
+Negli elementi di transizione si stanno riempiendo gli orbitali d.
+Stanno in mezzo ai metalli alcalini e alcalino-terrosi, e i non metalli gli alogeni e gas inerti
+Hanno spesso più numeri di ossidazione, perché gli elettroni degli orbitali s e d hanno energie relativamente vicine, quindi l’atomo può perdere numeri diversi di elettroni. 
+Molti sali dei metalli di transizione sono colorati. Il colore dipende dagli elettroni negli orbitali d, che possono assorbire certe frequenze della luce.
+In generale hanno caratteristiche metalliche forti:
+lucentezza
+buona conduzione elettrica
+buona conduzione termica
+durezza
+punti di fusione spesso elevati
+
+Ferro, rame, nichel, titanio, cromo sono tutti esempi molto concreti.
+
+
+Gli acidi forti più comuni sono:
+HCl     acido cloridrico
+HBr     acido bromidrico
+HI      acido iodidrico
+HNO₃    acido nitrico
+H₂SO₄   acido solforico
+HClO₄   acido perclorico
+HClO₃   acido clorico
+in acqua, si dissociano quasi completamente
+
+acidi deboli:
+H₂CO₃  acido carbonico
+H₃PO₄  acido fosforico
+
+La specie chimica RIDUCENTE è quella il cui numero di ossidazione AUMENTA (cede elettroni). es Cr+3 -> Cr+6
+
+
+== OSMOLARITÀ
+
+L'osmolarità del plasma è normalmente compresa tra: 275–295 mOsm/L (milliosmoli per litro)
+L'osmolarità è data dalla concentrazione totale delle particelle disciolte. Le principali sono:
+Sodio (Na⁺) → il contributo più importante
+Anioni che accompagnano il sodio (Cl⁻ e HCO₃⁻)
+Glucosio
+Urea
+Le soluzioni fisiologiche (ad esempio la soluzione salina allo 0,9%) hanno un'osmolarità molto vicina a quella del plasma e sono quindi considerate isotoniche.
+Osm/L significa osmoli per litro. È un’unità che misura quante particelle disciolte ci sono in un litro di soluzione.
+glucosio → rimane 1 particella, Quindi 1 mole di glucosio dà circa: 1 Osm
+Invece il sale da cucina: NaCl → Na+ + Cl- si separa in 2 particelle, quindi 1 mole di NaCl dà circa: 2 Osm
+
+Osmole: Una osmole è una quantità di sostanza che corrisponde a 1 mole di particelle osmoticamente attive.
+Però l’osmole è una unità grande, quindi in biologia si usa quasi sempre: mOsm/L
+
+Legge di Raoult: una soluzione con un soluto non volatile, la pressione di vapore del solvente diminuisce rispetto a quella del solvente puro.
+
+P = Xsolvente​ x P0
+P = pressione di vapore della soluzione
+Xsolvente  = frazione molare del solvente
+P0 = pressione di vapore del solvente puro
+
+Raoult → abbassamento della pressione di vapore nelle soluzioni.
+
+Henry → solubilità dei gas nei liquidi
+C=kH⋅P cioè la quantità di gas che si scioglie in un liquido è proporzionale alla pressione parziale di quel gas sopra il liquido. più aumenta la pressione del gas, più gas si scioglie nel liquido. Esempio classico: acqua frizzante.
+
+Graham → diffusione/effusione dei gas. La legge di Graham riguarda la velocità con cui i gas si diffondono o passano attraverso piccoli fori. la velocità di diffusione di un gas è inversamente proporzionale alla radice quadrata della sua massa molare: gas più leggero → si muove/diffonde più velocemente. gas più pesante → si muove/diffonde più lentamente
+
+Nernst → potenziale elettrochimico. il potenziale di una pila dipende dalle concentrazioni degli ioni. Serve a calcolare il potenziale di un elettrodo quando le concentrazioni degli ioni non sono quelle standard.
+
+
+Hess → entalpia delle reazioni, legge di Hess
+la variazione di entalpia di una reazione dipende solo dallo stato iniziale e dallo stato finale, non dal percorso seguito.
+
+== PROBABILITA
+
+P(X ∪ Y) = P(X) + P(Y) − P(X ∩ Y)
+
+A e C incompatibile: P(A ∩ C) = 0 -> P( A ∪ C) = P(A) + P(C)
+B e C indipendenti: P(B ∩ C) = P(B) ⋅ P(C)
+
+
+== FERMENTAZIONE
+
+fermentazione lattica : produce acido lattico/lattato, ma non CO₂ (piruvato → lattato) 
+fermentazione alcolica: produce CO2 (piruvato → etanolo + CO₂)
+
+
+== MEMBRANE
+
+MUCOSE: rivestono cavità interne che hanno un collegamento con l’ambiente esterno.
+Esempi: bocca naso trachea bronchi stomaco intestino vescica uretra apparato genitale
+Sono chiamate mucose perché spesso producono muco, che serve a proteggere, lubrificare e trattenere particelle o microrganismi.
+
+Le SIEROSE rivestono cavità chiuse, cioè che non comunicano con l’esterno.
+pleura       → intorno ai polmoni
+pericardio   → intorno al cuore
+peritoneo    → nella cavità addominale
+Producono un liquido sieroso che riduce l’attrito tra gli organi.
+
+== VITAMINE
+
+Vitamina D → assorbimento intestinale di calcio e fosforo → ossa forti
+Vitamina A — vista, pelle, mucose
+Vitamina C — collagene e antiossidante, importante per pelle, gengive, vasi sanguigni, tendini, ossa.
+Vitamina E — antiossidante
+Vitamina K — coagulazione
 
 
 =============
@@ -3282,5 +3669,16 @@ DA RIVEDERE
 Se una cellula che in fase G1 contiene una quantità di DNA pari a x si divide per meiosi,
 quale sarà il contenuto di DNA di ogni singola cellula in profase II?
 
+
+Quale di questi processi consuma ATP?
+A) Ciclo di Calvin
+B) Ciclo di Krebs
+C) Fosforilazione ossidativa
+D) Trasformazione del piruvato in acido lattico
+E) Fase luminosa della fotosintesi
+
+Sia ABCD un trapezio rettangolo circoscritto ad una semicirconferenza avente per
+diametro l’altezza AD. Quale delle seguenti relazioni è vera?
+BC = AB + CD
 
 
