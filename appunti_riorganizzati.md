@@ -127,6 +127,9 @@ Gli istoni sono proteine attorno alle quali il DNA si avvolge, come un filo atto
 **Codone**: una sequenza di tre nucleotidi che codifica per uno specifico amminoacido o rappresenta un segnale di arresto. Sta sull'**mRNA**.
 
 **Anticodone**: sta sul **tRNA** — attenzione alla differenza!
+Servono a riconoscere i codoni dell’mRNA durante la sintesi delle proteine.
+mRNA → contiene i codoni , tRNA → contiene glii anticodoni, complementari al codone dell’mRNA.
+
 
 ---
 
@@ -1778,6 +1781,8 @@ Il carbonio *perde* un legame con H e *aumenta* il legame con O → si ossida.
 
 **Monosaccaridi importanti:** glucosio, fruttosio, galattosio (isomeri, formula C₆H₁₂O₆)
 
+Hanno molti gruppi ossidrile, per questo sono molto solubili in acqua, perchè OH forma legami a idrogeno con l'acqua.
+
 Classificazione per numero di carboni:
 
 | Nome | Carboni |
@@ -1903,9 +1908,15 @@ A 25°C: **Kw = 10⁻¹⁴**
 - acido = dona H⁺; base = accetta H⁺
 - `HCl → H⁺ + Cl⁻` (Cl⁻ = base coniugata di HCl)
 - `NH₃ + H⁺ → NH₄⁺` (NH₃ è base; NH₄⁺ è il suo acido coniugato)
+. `H₂O + H⁺ → H₃O⁺`
 
 **Sistema tampone del sangue:**
 `H₂CO₃ ⇄ H⁺ + HCO₃⁻`
+
+
+Un acido DIPROTICO può fornire 2 H⁺ per molecola (es. H₂SO₄)
+
+Una reazione è OMOGENEA quando tutte le specie chimiche coinvolte si trovano nella stessa fase fisica (solido, liquido, gas, soluzione acquosa).
 
 ---
 
@@ -2295,22 +2306,150 @@ Capsula di Bowman, avvolge il glomerulo renale, che è una fitta rete di capilla
 I neurotrasmettitori sono molecole messaggere usate dai neuroni per comunicare tra loro, oppure con muscoli e ghiandole.
 
 La DOPAMINA è un neurotrasmettitore molto importante per:
-motivazione ricompensa/piacere movimento attenzione apprendimento
+motivazione, ricompensa/piacere, movimento, attenzione, apprendimento
 
 La SEROTONINA è collegata a:
-umore sonno appetito ansia regolazione intestinale
+umore, sonno, appetito, ansia, regolazione intestinale
 
 L’ACETILCOLINA è fondamentale per:
-contrazione muscolare memoria attenzione sistema nervoso autonomo
+contrazione muscolare, memoria, attenzione, sistema nervoso autonomo
 
 La NORADRENALINA è coinvolta in:
-attenzione vigilanza risposta allo stress aumento della frequenza cardiaca pressione sanguigna
+attenzione, vigilanza, risposta allo stress, aumento della frequenza cardiaca, pressione sanguigna
 
 Il GABA è il principale neurotrasmettitore inibitorio del sistema nervoso centrale.
 Vuol dire che tende a “frenare” l’attività dei neuroni.
 
 Il GLUTAMMATO è il principale neurotrasmettitore eccitatorio del cervello.
 
+Le ENDORFINE sono neurotrasmettitori/neuromodulatori legati a:
+riduzione del dolore, sensazione di benessere, risposta allo sforzo fisico
+
+
+### OSSA DI CARPO e TARSO
+
+CARPO  = polso. due file: fila prossimale e fila distale. prossimale: scafoide semilunare piramidale pisiforme. distale: trapezio trapezoide capitato uncinato
+TARSO  = piede. astragalo, calcagno, scafoide tarsale / navicolare, cuboide, tre cuneiformi
+
+
+### MUTAZIONI
+
+Una mutazione silente è una mutazione del DNA che non cambia l’amminoacido inserito nella proteina.
+Succede perché il codice genetico è ridondante: più codoni diversi possono indicare lo stesso amminoacido. Esempio:
+GAA → acido glutammico
+GAG → acido glutammico
+Se una mutazione cambia GAA in GAG, il codone è cambiato, ma l’amminoacido resta lo stesso. Quindi la proteina finale non cambia.
+
+### POMPA SODIO-POTASSIO 
+
+La pompa sodio-potassio si chiama anche Na⁺/K⁺-ATPasi e fa questo:
+
+3 Na⁺ escono dalla cellula
+2 K⁺ entrano nella cellula
+consumando 1 ATP
+
+E' una proteina transmembrana, cioè attraversa il doppio strato di fosfolipidi della membrana.
+Lavora contro gradiente di concentrazione, porta il sodio fuori dalla cellula. il potassio viene portato dentro.
+Serve a mantenere il potenziale di membrana e l’equilibrio ionico della cellula (l'interno della cellula rimane più negativo rispetto all'esterno).
+Contemporaneamente il potassio tende anche a uscire dalla cellula attraverso canali di perdita, detti canali leak del K⁺.
+ 
+### CODICE GENETICO
+
+Il codice genetico è il sistema di corrispondenza tra le triplette di nucleotidi dell’mRNA, dette codoni, e gli amminoacidi. E' praticamente universale, e uguale fra procarioti ed eucarioti. Non è ambiguo, perchè un codone indica un solo amminoacido (ma non viceversa).
+
+È detto degenerato perché più codoni diversi possono codificare lo stesso amminoacido.
+
+Esempio:
+
+UUU → fenilalanina
+UUC → fenilalanina
+
+Due codoni diversi, stesso amminoacido.
+
+L’insieme dei geni di un organismo si chiama GENOMA
+
+
+### GRUPPO AMMINICO e CARBONILICO
+
+Un gruppo amminico primario è: −R−NH2
+L’azoto ha un doppietto elettronico libero e può accettare un protone H+  dall’acqua:
+R−NH2 ​ + H2O ⇌ R−NH3+ + OH−
+Quindi diventa:
+R−NH3+
+
+cioè ione ammonio alchilico. Quindi si comporta da base di Brønsted, perché accetta protoni.
+
+Il gruppo CARBONILICO è: C=O 
+Nei CHETONI, quel carbonio del carbonile è legato ad altri due carboni: R−CO−R′ (es. propanone / acetone CH3−CO−CH3 ), per cui non è terminale.
+Negli ALDEIDI (CHO) , il gruppo carbonilico è terminale, perché è legato almeno a un idrogeno: R−CHO (etanale CH3−CHO )
+
+Il gruppo CARBOSSILICO è: COOH
+è presente negli acidi carbossilici (es. acido acetico)
+
+Negli alogenuri alchilici un atomo di alogeno è legato a un solo atomo di carbonio, non a due. La formula generale è R-X, dove X = F, Cl, Br, I (es. CH3​−CH2​−Cl cloroetano, il cloro è legato solo al carbonio terminale del gruppo etile). 
+Gli alogenuri alchilici derivano dagli alcani sostituendo un idrogeno con un alogeno:
+CH3​−CH3​ → CH3​−CH2​−Cl
+Alchilico significa: “derivato da un alcano dopo aver tolto un idrogeno” (es. metano->metile, etano->etile, propano->propile)
+
+NH₄⁺ = ione ammonio
+HCO₃⁻ = ione bicarbonato
+CO₃²⁻ = ione carbonato
+
+SOLUZIONI COLLOIDALI contengono particelle disperse in un liquido, più grandi delle molecole di una soluzione vera, più piccole delle particelle di una sospensione (latte, maionese, gelatina). diametro 1–1000 nm .
+spesso mostrano l’effetto Tyndall, cioè disperdono la luce. presentano moto browniano.
+
+
+### TRIANGOLI
+
+Un triangolo esiste se il lato maggiore è minore della somma degli altri due.
+Se i tre lati sono tutti diversi, allora è SCALENO.
+Quando: lato maggiore² > somma degli altri due quadrati, il triangolo è OTTUSANGOLO.
+Quando lato maggiore² < b² + c²  → triangolo ACUTANGOLO
+Un triangolo è ISOSCELE quando ha almeno due lati uguali.
+
+terza legge di Keplero sul periodo di un'orbita: T² ∝ R³
+
+
+
+Un TESSUTO è un insieme organizzato/integrato di cellule simili, specializzate nella stessa funzione.
+muscolare nervoso epiteliale connettivo
+
+Un SISTEMA è un insieme di organi formati dallo stesso tipo prevalente di tessuto o collegati da una funzione comune
+Sistema nervoso → encefalo, midollo spinale, nervi. È fatto soprattutto da tessuto nervoso.
+
+Un APPARATO è un insieme di organi diversi che collaborano per svolgere una funzione complessa.
+Apparato digerente → bocca, esofago, stomaco, intestino, fegato, pancreas.
+Apparato respiratorio → naso, trachea, bronchi, polmoni.
+
+sistema = organi più omogenei
+apparato = organi più diversi che collaborano
+
+Un ORGANO è una struttura formata da più tessuti diversi che lavorano insieme.
+Il cuore, in cui trovi vari tessuti: tessuto muscolare nervoso connettivo epiteliale/endoteliale
+
+bocca/naso → faringe → (epiglottide) laringe (corde vocali) → trachea → bronchi → polmoni
+
+I tRNA trasportano i singoli amminoacidi ai ribosomi durante la sintesi proteica
+
+L’URETERE è un tubicino muscolare che porta l’urina dal rene alla vescica.
+uretere destro: dal rene destro alla vescica;
+uretere sinistro: dal rene sinistro alla vescica.
+L’uretere non è un semplice “tubo passivo”: ha una parete muscolare che fa piccole contrazioni, dette peristalsi, per spingere l’urina verso la vescica.
+L'URETRA porta l’urina dalla vescica fuori dal corpo.
+
+
+La sindrome di Klinefelter è una condizione genetica in cui una persona di sesso maschile ha un cromosoma X in più. 
+Di solito il maschio ha: 46, XY. Con Klinefelter ha 47, XXY.
+Questo può causare soprattutto problemi legati allo sviluppo dei testicoli e alla produzione di testosterone e infertilità.
+
+
+Specie: due gruppi sono specie diverse quando c’è isolamento riproduttivo, cioè non riescono più a riprodursi tra loro, oppure producono figli non fertili. cavallo + asino → mulo. il mulo di solito è sterile. Questo indica che cavallo e asino appartengono a specie diverse.
+
+Cocchi: sono batteri di forma tondeggiante/sferica. streptococchi → cocchi disposti “a catenella”; stafilococchi → cocchi disposti “a grappolo”; diplococchi → cocchi a coppie.
+Bacilli: sono batteri a forma di bastoncino.
+Vibrioni: sono batteri a forma di virgola o bastoncino ricurvo.
+Spirilli: sono batteri a forma di spirale rigida, come una piccola elica.
+Spirochete: Sono batteri a forma di spirale flessibile, più sottili e mobili degli spirilli. Esempio: Treponema pallidum, il batterio della sifilide.
 
 
 ---
