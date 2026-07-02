@@ -114,6 +114,17 @@ Gli istoni sono proteine attorno alle quali il DNA si avvolge, come un filo atto
 - **Purine** (doppio anello): adenina, guanina
 - **Pirimidine** (anello singolo): citosina, uracile, timina → **CUT**
 
+chi è complementare a chi?
+Adenina  (A)  ↔  Timina   (T) (2 legami idrogeno)
+Guanina  (G)  ↔  Citosina (C) (3 legami idrogeno)
+oppure in RNA:
+Adenina ↔ Uracile
+Guanina ↔ Citosina
+
+adenina, guanina : purine, doppio anello
+citosina uracile timina (CUT) : pirimidine, anello singolo
+
+
 ---
 
 ### Flusso dell'informazione genetica
@@ -870,6 +881,14 @@ Un **Operone** è un gruppo di geni batterici comandati dallo stesso interruttor
 
 Il materiale genetico dei **retrovirus** come l'HIV è RNA a singolo filamento che viene usato come stampo per la sintesi di DNA.
 
+Fibrosi cistica mutazione genetica nel gene CFTR; porta a muco molto denso, infezioni respiratorie, dotti ancreatici intasati; ereditaria autosomica recessiva
+Sindrome di Down: 3 cromosomi 21. nasce da un errore casuale nella formazione dell’ovulo o dello spermatozoo, chiamato non-disgiunzione: i cromosomi non si separano correttamente. Esistono anche forme più rare, come la traslocazione, che in alcuni casi può essere ereditaria.
+
+Morbo di Basedow, chiamato anche malattia di Graves, è una malattia autoimmune della tiroide. il sistema immunitario produce anticorpi che stimolano troppo la tiroide, come se imitassero il TSH. La tiroide quindi lavora eccessivamente e produce troppi ormoni tiroidei: T3 e T4. Il risultato è un ipertiroidismo.
+
+
+
+
 ---
 
 ## 5. SISTEMA IMMUNITARIO
@@ -1269,10 +1288,13 @@ Le soluzioni fisiologiche (ad esempio NaCl 0,9%) hanno un'osmolarità molto vici
 | A | Retinolo | vista, pelle, mucose |
 | B₆ | Piridossale | — |
 | B₁₂ | Cobalamina | — |
-| C | Acido ascorbico | collagene e antiossidante; pelle, gengive, vasi sanguigni, tendini, ossa |
+| C | Acido ascorbico | collagene e antiossidante; cicatrizzazione; pelle, gengive, vasi sanguigni, tendini, ossa |
 | D | — | assorbimento intestinale di calcio e fosforo → ossa forti |
 | E | — | antiossidante |
 | K | — | coagulazione |
+| vitamina B12 | — | importante per sangue e sistema nervoso |
+
+
 
 ---
 
@@ -2324,6 +2346,20 @@ Il GLUTAMMATO è il principale neurotrasmettitore eccitatorio del cervello.
 
 Le ENDORFINE sono neurotrasmettitori/neuromodulatori legati a:
 riduzione del dolore, sensazione di benessere, risposta allo sforzo fisico
+
+La trachea è il tubo che porta l’aria dalla laringe ai bronchi. Comincia sotto la laringe, più precisamente subito dopo la cartilagine cricoide, circa a livello della vertebra C6. Finisce nel torace, dove si divide in due rami:
+bronco principale destro e bronco principale sinistro
+Questa divisione si chiama biforcazione tracheale o carena tracheale, circa a livello di T4-T5.
+faringe → laringe → trachea → bronchi → polmoni
+Tubo flessibile, tenuta aperta da anelli di cartilagine a forma di C.
+La parte anteriore e laterale è più rigida perché ci sono gli anelli cartilaginei.
+La parte posteriore, invece, è più morbida e muscolare, perché sta davanti all’esofago e deve lasciargli spazio quando passa il cibo.
+
+I PRIONI sono agenti infettivi molto particolari: non sono cellule, non sono batteri, non sono virus.
+Sono fatti praticamente solo da una proteina anomala. una proteina normale del corpo cambia forma, diventa “sbagliata”, e poi induce altre proteine simili a cambiare forma anche loro. I prioni colpiscono soprattutto il sistema nervoso, quindi cervello e midollo spinale, causando malattie degenerative gravi. 
+malattia di Creutzfeldt-Jakob nell’uomo
+encefalopatia spongiforme bovina, cioè la “mucca pazza”
+scrapie nelle pecore
 
 
 ### OSSA DI CARPO e TARSO
