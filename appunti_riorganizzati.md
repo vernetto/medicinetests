@@ -1741,6 +1741,8 @@ Le sacrali e le coccigee sono invece saldate tra loro.
 - Secondario: `R–CH(OH)–R'` (carbonio con –OH ha 1 H)
 - Terziario: `R–C(OH)(R')–R''` (carbonio con –OH ha 0 H)
 
+In un **alcol secondario**, il carbonio che porta il gruppo –OH è legato a: 2 atomi di carbonio, 1 atomo di idrogeno e 1 gruppo –OH.
+
 ---
 
 ### Idrocarburi
@@ -1890,6 +1892,17 @@ La coda lunga è apolare e si lega ai grassi; la testa ionica è polare e si leg
 ---
 
 ## 15. CHIMICA INORGANICA E GENERALE
+
+### Legame covalente e polarità
+
+Nella molecola d'acqua, il legame tra ossigeno e idrogeno è un **legame covalente**, perché O e H condividono elettroni. Però non li condividono "alla pari": l'ossigeno è più elettronegativo dell'idrogeno, quindi attira di più gli elettroni.
+
+- **covalente** = elettroni condivisi
+- **polare** = condivisi in modo disuguale
+
+Un **legame covalente puro** (o apolare) è un legame in cui due atomi condividono gli elettroni in modo perfettamente uguale (H–H, O=O, Cl–Cl).
+
+---
 
 ### Acidi
 
