@@ -1,0 +1,374 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Quiz Anatomia e Fisiologia - 50 domande</title>
+  <style>
+    :root {
+      --bg: #f6f7fb;
+      --card: #ffffff;
+      --text: #1f2937;
+      --muted: #6b7280;
+      --border: #d1d5db;
+      --ok: #0f766e;
+      --bad: #b91c1c;
+      --soft-ok: #d1fae5;
+      --soft-bad: #fee2e2;
+      --accent: #1d4ed8;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.5;
+    }
+    header {
+      background: linear-gradient(135deg, #1e3a8a, #0f766e);
+      color: white;
+      padding: 28px 18px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0 0 8px;
+      font-size: clamp(1.6rem, 3vw, 2.4rem);
+    }
+    header p { margin: 0; opacity: .95; }
+    main {
+      max-width: 980px;
+      margin: 24px auto 80px;
+      padding: 0 16px;
+    }
+    .toolbar {
+      position: sticky;
+      top: 0;
+      z-index: 5;
+      background: rgba(246, 247, 251, .94);
+      backdrop-filter: blur(8px);
+      border-bottom: 1px solid var(--border);
+      padding: 12px 0;
+      margin-bottom: 18px;
+    }
+    .toolbar-inner {
+      display: flex;
+      gap: 12px;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+    }
+    .score {
+      font-weight: 700;
+      padding: 8px 12px;
+      background: white;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+    }
+    button {
+      border: 0;
+      border-radius: 10px;
+      padding: 10px 14px;
+      cursor: pointer;
+      font-weight: 700;
+      background: var(--accent);
+      color: white;
+    }
+    button.secondary {
+      background: #374151;
+    }
+    button:disabled {
+      opacity: .55;
+      cursor: not-allowed;
+    }
+    .question-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 18px;
+      margin-bottom: 16px;
+      box-shadow: 0 8px 20px rgba(0,0,0,.045);
+    }
+    .q-title {
+      display: flex;
+      gap: 10px;
+      align-items: baseline;
+      margin-bottom: 12px;
+    }
+    .q-num {
+      min-width: 42px;
+      height: 32px;
+      border-radius: 999px;
+      background: #e0e7ff;
+      color: #1e3a8a;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 800;
+    }
+    .q-text {
+      font-size: 1.05rem;
+      font-weight: 750;
+    }
+    .options {
+      display: grid;
+      gap: 8px;
+      margin-top: 12px;
+    }
+    label.option {
+      display: block;
+      padding: 10px 12px;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      cursor: pointer;
+      background: #fff;
+      transition: transform .05s ease, border-color .1s ease, background .1s ease;
+    }
+    label.option:hover {
+      border-color: #93c5fd;
+      transform: translateY(-1px);
+    }
+    label.option input {
+      margin-right: 9px;
+      transform: translateY(1px);
+    }
+    .option.correct {
+      background: var(--soft-ok);
+      border-color: var(--ok);
+    }
+    .option.wrong {
+      background: var(--soft-bad);
+      border-color: var(--bad);
+    }
+    .feedback {
+      display: none;
+      margin-top: 12px;
+      padding: 12px;
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      background: #f9fafb;
+    }
+    .feedback.ok {
+      display: block;
+      border-color: var(--ok);
+      background: var(--soft-ok);
+    }
+    .feedback.bad {
+      display: block;
+      border-color: var(--bad);
+      background: var(--soft-bad);
+    }
+    .feedback strong {
+      display: block;
+      margin-bottom: 4px;
+    }
+    .question-actions {
+      margin-top: 12px;
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+    footer {
+      color: var(--muted);
+      text-align: center;
+      font-size: .9rem;
+      margin: 28px 0;
+    }
+    .final-box {
+      display: none;
+      background: white;
+      border: 2px solid var(--accent);
+      border-radius: 16px;
+      padding: 18px;
+      margin: 20px 0;
+      text-align: center;
+      font-size: 1.2rem;
+      font-weight: 800;
+    }
+    .final-box.show { display: block; }
+    @media print {
+      .toolbar, .question-actions, button { display: none !important; }
+      body { background: white; }
+      .question-card { box-shadow: none; page-break-inside: avoid; }
+      .feedback { display: block; }
+    }
+  </style>
+</head>
+<body>
+<header>
+  <h1>Quiz di Anatomia e Fisiologia</h1>
+  <p>50 domande a risposta multipla su fegato, vie biliari, intestino e pancreas</p>
+</header>
+
+<main>
+  <div class="toolbar">
+    <div class="toolbar-inner">
+      <div class="score" id="score">Risposte: 0/50 · Corrette: 0 · Errori: 0</div>
+      <div>
+        <button onclick="checkAll()">Correggi tutto</button>
+        <button class="secondary" onclick="resetQuiz()">Ricomincia</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="final-box" id="finalBox"></div>
+  <div id="quiz"></div>
+
+  <footer>
+    Ogni risposta mostra subito la spiegazione. Puoi anche correggere tutto alla fine.
+  </footer>
+</main>
+
+<script>
+const questions = [{"q": "Dove si trova principalmente il fegato?", "options": ["Nel torace sinistro", "Nella parte superiore destra dell’addome", "Nella pelvi", "Dietro il cuore"], "answer": 1, "explain": "Il fegato si trova soprattutto nella parte superiore destra dell’addome, subito sotto il diaframma."}, {"q": "Il fegato è rivestito quasi completamente da:", "options": ["Capsula di Bowman", "Pleura viscerale", "Capsula di Glisson", "Pericardio"], "answer": 2, "explain": "La capsula fibrosa che riveste quasi tutto il fegato si chiama capsula di Glisson."}, {"q": "Qual è il lobo epatico più grande?", "options": ["Lobo sinistro", "Lobo quadrato", "Lobo caudato", "Lobo destro"], "answer": 3, "explain": "Anatomicamente il fegato presenta più lobi, ma il lobo destro è il più grande."}, {"q": "La vena porta porta al fegato soprattutto:", "options": ["Sangue ricco di ossigeno", "Sangue ricco di nutrienti assorbiti dall’intestino", "Sangue proveniente dai polmoni", "Sangue proveniente direttamente dal cuore"], "answer": 1, "explain": "La vena porta trasporta al fegato il sangue proveniente dall’apparato digerente, ricco di nutrienti da metabolizzare, immagazzinare o detossificare."}, {"q": "L’arteria epatica propria porta al fegato:", "options": ["Bile", "Sangue povero di ossigeno", "Sangue ricco di ossigeno", "Linfa"], "answer": 2, "explain": "L’arteria epatica propria fornisce sangue ossigenato agli epatociti e alle altre cellule del fegato."}, {"q": "Le vene epatiche drenano il sangue:", "options": ["Dal fegato verso la vena cava inferiore", "Dall’intestino verso il fegato", "Dal cuore verso il fegato", "Dalla milza al pancreas"], "answer": 0, "explain": "Dopo il passaggio nei sinusoidi, il sangue confluisce nelle vene epatiche, che sboccano nella vena cava inferiore."}, {"q": "Dove si mescola il sangue proveniente dalla vena porta e dall’arteria epatica?", "options": ["Nei sinusoidi epatici", "Nei bronchioli", "Nei glomeruli renali", "Nella colecisti"], "answer": 0, "explain": "Il sangue della vena porta e dell’arteria epatica si mescola nei sinusoidi epatici, capillari specializzati del fegato."}, {"q": "Le cellule principali del fegato si chiamano:", "options": ["Enterociti", "Epatociti", "Pneumociti", "Osteociti"], "answer": 1, "explain": "Gli epatociti sono le cellule funzionali principali del fegato: producono bile e svolgono molte funzioni metaboliche."}, {"q": "Il lobulo epatico ha forma:", "options": ["Circolare", "Triangolare", "Esagonale", "Cubica"], "answer": 2, "explain": "Il lobulo epatico classico viene descritto come una struttura esagonale."}, {"q": "Al centro del lobulo epatico si trova:", "options": ["La vena centrolobulare", "Il dotto cistico", "La papilla duodenale", "La vena porta principale"], "answer": 0, "explain": "Al centro del lobulo si trova la vena centrolobulare, verso cui defluisce il sangue dei sinusoidi."}, {"q": "La triade portale comprende rami di:", "options": ["Arteria epatica, vena porta e dotto biliare", "Vena cava, aorta e uretere", "Bronco, arteria polmonare e vena polmonare", "Arteria renale, vena renale e uretra"], "answer": 0, "explain": "Alla periferia del lobulo si trova la triade portale: ramo della vena porta, ramo dell’arteria epatica e dotto biliare."}, {"q": "La bile è prodotta:", "options": ["Dallo stomaco", "Dal pancreas endocrino", "Dagli epatociti", "Dalla milza"], "answer": 2, "explain": "La bile viene prodotta dagli epatociti, cioè dalle cellule del fegato."}, {"q": "I dotti epatici destro e sinistro si uniscono formando:", "options": ["Il dotto cistico", "Il dotto epatico comune", "Il dotto pancreatico", "L’uretere"], "answer": 1, "explain": "I dotti epatici destro e sinistro raccolgono la bile dai due lati del fegato e si uniscono nel dotto epatico comune."}, {"q": "L’unione tra dotto epatico comune e dotto cistico forma:", "options": ["Il coledoco", "Il dotto di Wirsung", "L’ampolla rettale", "Il piloro"], "answer": 0, "explain": "Il dotto epatico comune, unendosi al dotto cistico proveniente dalla colecisti, forma il coledoco."}, {"q": "La colecisti serve principalmente a:", "options": ["Produrre insulina", "Immagazzinare e concentrare la bile", "Produrre globuli rossi", "Filtrare il sangue"], "answer": 1, "explain": "La colecisti non produce bile: la immagazzina, la concentra e la rilascia durante la digestione."}, {"q": "La colecisti ha forma:", "options": ["Di pera", "Di disco", "Di tubo spiralato", "Di sacco alveolare"], "answer": 0, "explain": "La colecisti è descritta come un piccolo organo a forma di pera posto sulla faccia inferiore del fegato."}, {"q": "La bile viene rilasciata soprattutto dopo pasti ricchi di:", "options": ["Proteine semplici", "Grassi", "Acqua", "Sali minerali"], "answer": 1, "explain": "La bile è particolarmente importante per la digestione dei lipidi; per questo viene rilasciata soprattutto dopo pasti ricchi di grassi."}, {"q": "Il coledoco si unisce spesso con:", "options": ["Il dotto pancreatico principale", "L’esofago", "Il colon ascendente", "La vena cava"], "answer": 0, "explain": "Nella maggior parte dei casi il coledoco si unisce al dotto pancreatico principale prima di sboccare nel duodeno."}, {"q": "L’unione del coledoco con il dotto pancreatico principale forma:", "options": ["L’ampolla di Vater", "La capsula di Glisson", "Il lobulo epatico", "Il cieco"], "answer": 0, "explain": "L’unione del coledoco con il dotto pancreatico principale forma l’ampolla epatopancreatica, detta ampolla di Vater."}, {"q": "Il flusso di bile e succo pancreatico nel duodeno è regolato da:", "options": ["Sfintere di Oddi", "Valvola ileocecale", "Cardias", "Epiglottide"], "answer": 0, "explain": "Lo sfintere di Oddi regola l’ingresso di bile e succo pancreatico nel duodeno attraverso la papilla duodenale maggiore."}, {"q": "La trasformazione del glucosio in glicogeno si chiama:", "options": ["Glicolisi", "Glicogenosintesi", "Gluconeogenesi", "Chetogenesi"], "answer": 1, "explain": "La glicogenosintesi è la formazione di glicogeno a partire dal glucosio, utile per immagazzinare energia."}, {"q": "La demolizione del glicogeno in glucosio si chiama:", "options": ["Glicogenolisi", "Glicogenosintesi", "Lipogenesi", "Transaminazione"], "answer": 0, "explain": "Quando la glicemia cala, il glicogeno viene degradato in glucosio: questo processo si chiama glicogenolisi."}, {"q": "La produzione di glucosio da aminoacidi e glicerolo si chiama:", "options": ["Glicogenolisi", "Gluconeogenesi", "Beta-ossidazione", "Emulsificazione"], "answer": 1, "explain": "La gluconeogenesi è la produzione di nuovo glucosio a partire da molecole non glucidiche, come aminoacidi e glicerolo."}, {"q": "Il glicogeno è:", "options": ["Un enzima digestivo", "Un polisaccaride di riserva formato da glucosio", "Un ormone pancreatico", "Una proteina plasmatica"], "answer": 1, "explain": "Il glicogeno è una forma di deposito del glucosio: è un polisaccaride ramificato formato da molte unità di glucosio."}, {"q": "Il colesterolo è importante perché:", "options": ["È solo una sostanza tossica", "È un componente delle membrane e precursore di ormoni steroidei", "È prodotto solo dal pancreas", "Non ha alcuna funzione fisiologica"], "answer": 1, "explain": "Il colesterolo ha funzione strutturale nelle membrane ed è precursore di ormoni steroidei, vitamina D e acidi biliari."}, {"q": "I trigliceridi sono formati da:", "options": ["Glicerolo e tre acidi grassi", "Glucosio e fruttosio", "Amminoacidi e nucleotidi", "Colesterolo e ferro"], "answer": 0, "explain": "Un trigliceride è formato da una molecola di glicerolo legata a tre acidi grassi."}, {"q": "Le lipoproteine servono a:", "options": ["Trasportare lipidi nel sangue", "Produrre bile", "Eliminare urea", "Formare villi intestinali"], "answer": 0, "explain": "Colesterolo e trigliceridi sono idrofobici: per viaggiare nel sangue vengono trasportati da particelle chiamate lipoproteine."}, {"q": "Le LDL trasportano principalmente:", "options": ["Colesterolo dal fegato ai tessuti", "Ossigeno ai muscoli", "Bile alla colecisti", "Glucosio nel sangue"], "answer": 0, "explain": "Le LDL portano colesterolo dal fegato ai tessuti; se sono eccessive aumentano il rischio di aterosclerosi."}, {"q": "Le HDL trasportano principalmente:", "options": ["Colesterolo dai tessuti al fegato", "Trigliceridi dall’intestino al sangue", "Insulina dal pancreas al fegato", "Bile al duodeno"], "answer": 0, "explain": "Le HDL fanno il percorso inverso rispetto alle LDL: riportano colesterolo dai tessuti al fegato."}, {"q": "I corpi chetonici vengono prodotti soprattutto quando:", "options": ["Il corpo usa grassi come fonte principale di energia", "La glicemia è sempre alta dopo un pasto ricco di zuccheri", "Il pancreas non produce enzimi", "Il colon assorbe acqua"], "answer": 0, "explain": "Il fegato produce corpi chetonici quando il glucosio è scarso e il corpo usa soprattutto grassi come carburante."}, {"q": "Quale tra questi è un corpo chetonico?", "options": ["Acetoacetato", "Albumina", "Transferrina", "Bilirubina coniugata"], "answer": 0, "explain": "I principali corpi chetonici sono acetoacetato, beta-idrossibutirrato e acetone."}, {"q": "La beta-ossidazione serve a:", "options": ["Degradare acidi grassi per produrre energia", "Trasformare glucosio in glicogeno", "Produrre bile", "Assorbire vitamina B12"], "answer": 0, "explain": "La beta-ossidazione è il processo con cui gli acidi grassi vengono degradati, soprattutto nei mitocondri, per produrre energia."}, {"q": "La maggior parte delle proteine plasmatiche è prodotta:", "options": ["Dal fegato", "Dal colon", "Dalla colecisti", "Dalla trachea"], "answer": 0, "explain": "Il fegato produce molte proteine plasmatiche importanti, tra cui albumina, fattori della coagulazione e proteine di trasporto."}, {"q": "L’albumina serve anche a:", "options": ["Mantenere la pressione oncotica del plasma", "Produrre insulina", "Emulsionare i grassi", "Assorbire vitamina B12"], "answer": 0, "explain": "L’albumina mantiene la pressione oncotica del plasma, cioè aiuta a trattenere acqua dentro i vasi sanguigni."}, {"q": "Il fegato trasforma l’ammoniaca tossica in:", "options": ["Urea", "Glucosio", "Colesterolo", "Acetone"], "answer": 0, "explain": "L’ammoniaca, tossica, viene convertita in urea attraverso il ciclo dell’urea, così può essere eliminata."}, {"q": "La bile favorisce soprattutto:", "options": ["Digestione e assorbimento dei grassi", "Produzione di globuli rossi", "Filtrazione dell’urina", "Ventilazione polmonare"], "answer": 0, "explain": "La bile favorisce la digestione e l’assorbimento dei grassi e delle vitamine liposolubili A, D, E e K."}, {"q": "La bile contiene enzimi digestivi?", "options": ["Sì, molti enzimi proteolitici", "Sì, solo amilasi", "No, ma aiuta la digestione dei grassi", "No, e non ha alcun ruolo digestivo"], "answer": 2, "explain": "La bile non contiene enzimi digestivi, ma contiene sali biliari che rendono i grassi più facilmente digeribili."}, {"q": "L’emulsificazione dei grassi significa:", "options": ["Spezzare grandi globuli di grasso in piccole goccioline", "Trasformare proteine in aminoacidi", "Convertire ammoniaca in urea", "Produrre glucosio da glicerolo"], "answer": 0, "explain": "Emulsionare i grassi significa dividerli in goccioline più piccole, aumentando la superficie disponibile per l’azione delle lipasi."}, {"q": "Le micelle servono a:", "options": ["Trasportare prodotti lipidici verso la mucosa intestinale", "Produrre insulina", "Fagocitare batteri", "Formare il glicogeno"], "answer": 0, "explain": "Le micelle avvolgono i prodotti della digestione dei grassi e li trasportano fino alla mucosa intestinale."}, {"q": "Le cellule di Kupffer:", "options": ["Producono insulina", "Fagocitano batteri e globuli rossi invecchiati", "Assorbono vitamina B12", "Producono succo pancreatico"], "answer": 1, "explain": "Le cellule di Kupffer sono macrofagi presenti nei sinusoidi epatici: fagocitano batteri, particelle estranee e globuli rossi invecchiati."}, {"q": "La bilirubina deriva principalmente dalla degradazione di:", "options": ["Emoglobina", "Glicogeno", "Insulina", "Amido"], "answer": 0, "explain": "La bilirubina deriva soprattutto dalla degradazione dell’emoglobina dei globuli rossi vecchi."}, {"q": "La bilirubina coniugata è:", "options": ["Più idrosolubile", "Sempre legata all’ossigeno", "Un enzima pancreatico", "Una proteina plasmatica"], "answer": 0, "explain": "Nel fegato la bilirubina viene coniugata con acido glucuronico, diventando più idrosolubile ed eliminabile con la bile."}, {"q": "Nell’intestino la bilirubina può essere trasformata in:", "options": ["Urobilinogeno", "Insulina", "Albumina", "Amilasi"], "answer": 0, "explain": "Nell’intestino i batteri trasformano la bilirubina in urobilinogeno, che può poi dare origine a stercobilina o urobilina."}, {"q": "Il colore marrone delle feci è dato soprattutto da:", "options": ["Stercobilina", "Glucagone", "Acetone", "Ferritina"], "answer": 0, "explain": "La stercobilina, derivata dal metabolismo della bilirubina, conferisce alle feci il caratteristico colore marrone."}, {"q": "L’intestino tenue è lungo circa:", "options": ["6–7 metri", "1 metro", "20 centimetri", "15 metri"], "answer": 0, "explain": "L’intestino tenue è la parte più lunga dell’intestino e misura circa 6–7 metri."}, {"q": "Il primo tratto dell’intestino tenue è:", "options": ["Duodeno", "Digiuno", "Ileo", "Colon"], "answer": 0, "explain": "Il duodeno è il primo tratto dell’intestino tenue; riceve bile e succo pancreatico."}, {"q": "Il digiuno è soprattutto sede di:", "options": ["Assorbimento di zuccheri, aminoacidi, lipidi e vitamine", "Accumulo delle feci", "Produzione di bile", "Secrezione di insulina"], "answer": 0, "explain": "Il digiuno è una sede molto importante per l’assorbimento di zuccheri, aminoacidi, lipidi e vitamine."}, {"q": "L’ileo assorbe soprattutto:", "options": ["Vitamina B12 e sali biliari", "Ossigeno", "Urea", "Ammoniaca"], "answer": 0, "explain": "L’ileo, soprattutto nella sua parte terminale, assorbe vitamina B12 e sali biliari."}, {"q": "L’intestino crasso è responsabile soprattutto di:", "options": ["Assorbimento di acqua ed elettroliti e formazione delle feci", "Produzione di bile", "Produzione di enzimi pancreatici", "Trasporto di ossigeno"], "answer": 0, "explain": "L’intestino crasso riassorbe acqua ed elettroliti e contribuisce alla formazione delle feci."}, {"q": "Il pancreas è una ghiandola:", "options": ["Solo endocrina", "Solo esocrina", "Mista, endocrina ed esocrina", "Linfatica"], "answer": 2, "explain": "Il pancreas è una ghiandola mista: la parte esocrina produce succo pancreatico, la parte endocrina produce ormoni come insulina e glucagone."}];
+
+let answered = new Map();
+
+function letter(i) {
+  return String.fromCharCode(65 + i);
+}
+
+function renderQuiz() {
+  const container = document.getElementById("quiz");
+  container.innerHTML = "";
+  questions.forEach((item, idx) => {
+    const card = document.createElement("section");
+    card.className = "question-card";
+    card.id = "q" + idx;
+
+    const title = document.createElement("div");
+    title.className = "q-title";
+    title.innerHTML = `<span class="q-num">${idx + 1}</span><span class="q-text">${escapeHtml(item.q)}</span>`;
+    card.appendChild(title);
+
+    const opts = document.createElement("div");
+    opts.className = "options";
+
+    item.options.forEach((opt, optIdx) => {
+      const label = document.createElement("label");
+      label.className = "option";
+      label.id = `q${idx}_opt${optIdx}`;
+      label.innerHTML = `
+        <input type="radio" name="q${idx}" value="${optIdx}" onchange="answerQuestion(${idx}, ${optIdx})">
+        <strong>${letter(optIdx)})</strong> ${escapeHtml(opt)}
+      `;
+      opts.appendChild(label);
+    });
+
+    card.appendChild(opts);
+
+    const feedback = document.createElement("div");
+    feedback.className = "feedback";
+    feedback.id = "feedback" + idx;
+    card.appendChild(feedback);
+
+    const actions = document.createElement("div");
+    actions.className = "question-actions";
+    actions.innerHTML = `<button type="button" onclick="showSolution(${idx})">Mostra soluzione</button>`;
+    card.appendChild(actions);
+
+    container.appendChild(card);
+  });
+  updateScore();
+}
+
+function answerQuestion(qIdx, optIdx) {
+  const item = questions[qIdx];
+  const isCorrect = optIdx === item.answer;
+  answered.set(qIdx, { selected: optIdx, correct: isCorrect });
+  applyFeedback(qIdx, optIdx, false);
+  updateScore();
+}
+
+function applyFeedback(qIdx, selectedIdx, forced) {
+  const item = questions[qIdx];
+
+  item.options.forEach((_, i) => {
+    const label = document.getElementById(`q${qIdx}_opt${i}`);
+    label.classList.remove("correct", "wrong");
+  });
+
+  const correctLabel = document.getElementById(`q${qIdx}_opt${item.answer}`);
+  correctLabel.classList.add("correct");
+
+  if (selectedIdx !== item.answer && selectedIdx !== null) {
+    const wrongLabel = document.getElementById(`q${qIdx}_opt${selectedIdx}`);
+    wrongLabel.classList.add("wrong");
+  }
+
+  const fb = document.getElementById("feedback" + qIdx);
+  if (selectedIdx === item.answer) {
+    fb.className = "feedback ok";
+    fb.innerHTML = `<strong>Giusto.</strong> ${escapeHtml(item.explain)}`;
+  } else if (selectedIdx === null) {
+    fb.className = "feedback ok";
+    fb.innerHTML = `<strong>Soluzione: ${letter(item.answer)}) ${escapeHtml(item.options[item.answer])}</strong> ${escapeHtml(item.explain)}`;
+  } else {
+    fb.className = "feedback bad";
+    fb.innerHTML = `<strong>Non è corretto. La risposta giusta è ${letter(item.answer)}) ${escapeHtml(item.options[item.answer])}.</strong> ${escapeHtml(item.explain)}`;
+  }
+
+  if (forced && !answered.has(qIdx)) {
+    answered.set(qIdx, { selected: null, correct: false, shownOnly: true });
+  }
+}
+
+function showSolution(qIdx) {
+  const chosen = document.querySelector(`input[name="q${qIdx}"]:checked`);
+  if (chosen) {
+    answerQuestion(qIdx, Number(chosen.value));
+  } else {
+    applyFeedback(qIdx, null, true);
+    updateScore();
+  }
+}
+
+function checkAll() {
+  questions.forEach((_, idx) => {
+    const chosen = document.querySelector(`input[name="q${idx}"]:checked`);
+    if (chosen) {
+      answerQuestion(idx, Number(chosen.value));
+    } else {
+      applyFeedback(idx, null, true);
+    }
+  });
+  updateScore();
+  const final = document.getElementById("finalBox");
+  const realAnswers = Array.from(answered.values()).filter(x => !x.shownOnly);
+  const correct = realAnswers.filter(x => x.correct).length;
+  const totalAnswered = realAnswers.length;
+  final.className = "final-box show";
+  final.textContent = `Risultato: ${correct}/${questions.length} corrette. Hai risposto a ${totalAnswered} domande su ${questions.length}.`;
+  window.scrollTo({ top: 0, behavior: "smooth" });
+}
+
+function resetQuiz() {
+  answered.clear();
+  document.getElementById("finalBox").className = "final-box";
+  document.getElementById("finalBox").textContent = "";
+  renderQuiz();
+  window.scrollTo({ top: 0, behavior: "smooth" });
+}
+
+function updateScore() {
+  const realAnswers = Array.from(answered.values()).filter(x => !x.shownOnly);
+  const total = realAnswers.length;
+  const correct = realAnswers.filter(x => x.correct).length;
+  const errors = total - correct;
+  document.getElementById("score").textContent =
+    `Risposte: ${total}/${questions.length} · Corrette: ${correct} · Errori: ${errors}`;
+}
+
+function escapeHtml(text) {
+  return String(text)
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#039;");
+}
+
+renderQuiz();
+</script>
+</body>
+</html>

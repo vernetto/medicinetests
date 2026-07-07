@@ -1,0 +1,461 @@
+<!-- Quiz interattivo: Anatomia e fisiologia (fegato, intestino, pancreas) -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Quiz · Anatomia e fisiologia</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,500&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#EBEFEC;
+    --surface:#FBFCFB;
+    --ink:#17262A;
+    --muted:#5A6A6A;
+    --line:rgba(23,38,42,.12);
+    --line-soft:rgba(23,38,42,.06);
+    --primary:#0C6E63;
+    --primary-deep:#084F47;
+    --amber:#B9791F;
+    --correct:#2F7A55;
+    --correct-bg:#E3F0E8;
+    --wrong:#B0433A;
+    --wrong-bg:#F6E5E2;
+    --fegato:#9C3B2E;
+    --intestino:#0C6E63;
+    --pancreas:#6E52A0;
+    --shadow:0 1px 2px rgba(23,38,42,.05), 0 8px 28px rgba(23,38,42,.08);
+    --radius:14px;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0}
+  body{
+    font-family:"Inter",system-ui,sans-serif;
+    color:var(--ink);
+    background:
+      radial-gradient(120% 90% at 100% 0%, rgba(12,110,99,.06), transparent 55%),
+      radial-gradient(110% 80% at 0% 100%, rgba(156,59,46,.05), transparent 55%),
+      var(--paper);
+    line-height:1.5;
+    -webkit-font-smoothing:antialiased;
+    min-height:100vh;
+  }
+  .wrap{max-width:760px;margin:0 auto;padding:28px 20px 64px}
+
+  /* ---------- shared ---------- */
+  .eyebrow{
+    font-size:12px;letter-spacing:.14em;text-transform:uppercase;
+    color:var(--muted);font-weight:600;
+  }
+  .card{
+    background:var(--surface);border:1px solid var(--line);
+    border-radius:var(--radius);box-shadow:var(--shadow);
+  }
+  button{font-family:inherit;cursor:pointer}
+  .btn{
+    border:none;border-radius:11px;padding:14px 22px;font-size:15px;font-weight:600;
+    background:var(--primary);color:#fff;transition:background .15s, transform .05s;
+  }
+  .btn:hover{background:var(--primary-deep)}
+  .btn:active{transform:translateY(1px)}
+  .btn:disabled{opacity:.45;cursor:default}
+  .btn.ghost{background:transparent;color:var(--primary);border:1px solid var(--line)}
+  .btn.ghost:hover{background:rgba(12,110,99,.06)}
+  :focus-visible{outline:2.5px solid var(--amber);outline-offset:2px;border-radius:8px}
+
+  /* ---------- start ---------- */
+  #start{padding:40px 34px 34px;text-align:left}
+  .plate{
+    font-family:"Fraunces",serif;font-style:italic;font-weight:500;
+    font-size:14px;color:var(--amber);letter-spacing:.02em;
+  }
+  h1{
+    font-family:"Fraunces",serif;font-weight:600;font-size:clamp(30px,6vw,44px);
+    line-height:1.05;margin:.28em 0 .12em;letter-spacing:-.01em;
+  }
+  .lede{color:var(--muted);font-size:16px;max-width:52ch;margin:0 0 22px}
+  .topics{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 26px}
+  .chip{
+    display:inline-flex;align-items:center;gap:8px;
+    border:1px solid var(--line);border-radius:999px;padding:7px 14px;
+    font-size:13.5px;font-weight:600;color:var(--ink);background:transparent;
+    transition:border-color .15s, background .15s;
+  }
+  .chip .dot{width:9px;height:9px;border-radius:50%}
+  .chip[data-active="true"]{background:rgba(23,38,42,.05);border-color:rgba(23,38,42,.28)}
+  .chip.f .dot{background:var(--fegato)} .chip.i .dot{background:var(--intestino)} .chip.p .dot{background:var(--pancreas)} .chip.all .dot{background:linear-gradient(90deg,var(--fegato),var(--intestino),var(--pancreas))}
+  .opts-row{display:flex;flex-wrap:wrap;align-items:center;gap:16px 26px;margin:0 0 26px}
+  .switch{display:inline-flex;align-items:center;gap:10px;font-size:14px;color:var(--ink);font-weight:500}
+  .switch input{position:absolute;opacity:0;width:0;height:0}
+  .track{width:42px;height:24px;border-radius:999px;background:var(--line);position:relative;transition:background .18s;flex:none}
+  .track::after{content:"";position:absolute;top:3px;left:3px;width:18px;height:18px;border-radius:50%;background:#fff;box-shadow:0 1px 2px rgba(0,0,0,.25);transition:transform .18s}
+  .switch input:checked + .track{background:var(--primary)}
+  .switch input:checked + .track::after{transform:translateX(18px)}
+  .count-note{font-size:13.5px;color:var(--muted)}
+  .count-note b{color:var(--ink)}
+
+  /* ---------- quiz ---------- */
+  #quiz{display:none}
+  .topbar{display:flex;align-items:center;gap:14px;margin-bottom:18px}
+  .progress{flex:1;height:8px;border-radius:999px;background:rgba(23,38,42,.09);overflow:hidden}
+  .progress > i{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--primary),var(--primary-deep));border-radius:999px;transition:width .35s ease}
+  .counter{font-size:13px;font-weight:600;color:var(--muted);font-variant-numeric:tabular-nums;white-space:nowrap}
+  .qhead{display:flex;align-items:baseline;gap:14px;padding:26px 28px 4px}
+  .qnum{font-family:"Fraunces",serif;font-style:italic;font-weight:500;font-size:34px;color:var(--amber);line-height:1;flex:none}
+  .otag{font-size:11px;letter-spacing:.1em;text-transform:uppercase;font-weight:700;padding:4px 9px;border-radius:6px;color:#fff}
+  .otag.fegato{background:var(--fegato)} .otag.intestino{background:var(--intestino)} .otag.pancreas{background:var(--pancreas)}
+  .qtext{font-size:19px;font-weight:600;line-height:1.35;padding:8px 28px 20px;letter-spacing:-.005em}
+  .options{list-style:none;margin:0;padding:0 18px 8px;display:flex;flex-direction:column;gap:10px}
+  .opt{
+    display:flex;align-items:flex-start;gap:13px;width:100%;text-align:left;
+    background:var(--surface);border:1.5px solid var(--line);border-radius:12px;
+    padding:15px 16px;font-size:15.5px;color:var(--ink);transition:border-color .13s, background .13s;
+  }
+  .opt:hover:not(:disabled){border-color:rgba(12,110,99,.5);background:rgba(12,110,99,.03)}
+  .opt .key{
+    flex:none;width:26px;height:26px;border-radius:7px;border:1.5px solid var(--line);
+    display:grid;place-items:center;font-size:13px;font-weight:700;color:var(--muted);
+    font-family:"Fraunces",serif;
+  }
+  .opt.correct{border-color:var(--correct);background:var(--correct-bg)}
+  .opt.correct .key{background:var(--correct);border-color:var(--correct);color:#fff}
+  .opt.wrong{border-color:var(--wrong);background:var(--wrong-bg)}
+  .opt.wrong .key{background:var(--wrong);border-color:var(--wrong);color:#fff}
+  .opt.dim{opacity:.55}
+  .opt:disabled{cursor:default}
+  .explain{
+    margin:6px 28px 4px;padding:15px 17px;border-radius:12px;
+    background:rgba(23,38,42,.035);border:1px solid var(--line-soft);
+    font-size:14.5px;color:#28383c;display:none;
+  }
+  .explain[data-show="true"]{display:block;animation:fade .25s ease}
+  .explain .lab{font-weight:700;font-size:11.5px;letter-spacing:.08em;text-transform:uppercase;display:block;margin-bottom:5px}
+  .explain.ok .lab{color:var(--correct)} .explain.no .lab{color:var(--wrong)}
+  .qfoot{display:flex;justify-content:space-between;align-items:center;gap:12px;padding:16px 28px 26px}
+  .qfoot .hint{font-size:12.5px;color:var(--muted)}
+  @keyframes fade{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:none}}
+
+  /* ---------- results ---------- */
+  #results{display:none;text-align:center;padding:40px 30px 34px}
+  .score-ring{width:170px;height:170px;margin:6px auto 10px;position:relative}
+  .score-ring svg{transform:rotate(-90deg)}
+  .score-ring .val{position:absolute;inset:0;display:grid;place-items:center;flex-direction:column}
+  .score-ring .big{font-family:"Fraunces",serif;font-weight:600;font-size:46px;line-height:1}
+  .score-ring .sub{font-size:13px;color:var(--muted);margin-top:4px}
+  .verdict{font-family:"Fraunces",serif;font-size:24px;font-weight:600;margin:6px 0 2px}
+  .verdict-sub{color:var(--muted);font-size:15px;margin:0 auto 22px;max-width:44ch}
+  .res-actions{display:flex;gap:12px;justify-content:center;flex-wrap:wrap;margin-bottom:26px}
+  .breakdown{display:flex;gap:10px;justify-content:center;flex-wrap:wrap;margin-bottom:8px}
+  .bd{border:1px solid var(--line);border-radius:11px;padding:12px 16px;min-width:96px}
+  .bd .n{font-family:"Fraunces",serif;font-size:22px;font-weight:600}
+  .bd .l{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:600;display:flex;align-items:center;gap:6px;justify-content:center}
+  .bd .l .dot{width:8px;height:8px;border-radius:50%}
+
+  .review{margin-top:26px;text-align:left;display:none}
+  .review[data-show="true"]{display:block}
+  .review h3{font-family:"Fraunces",serif;font-size:18px;margin:0 0 14px;text-align:center}
+  .rv-item{border:1px solid var(--line);border-left-width:4px;border-radius:10px;padding:14px 16px;margin-bottom:11px;background:var(--surface)}
+  .rv-item.miss{border-left-color:var(--wrong)}
+  .rv-item.hit{border-left-color:var(--correct)}
+  .rv-q{font-weight:600;font-size:14.5px;margin-bottom:8px}
+  .rv-line{font-size:13.5px;margin:3px 0;display:flex;gap:7px}
+  .rv-line .k{font-weight:700;flex:none}
+  .rv-line.your{color:var(--wrong)} .rv-line.sol{color:var(--correct)}
+  .rv-ex{font-size:13px;color:var(--muted);margin-top:7px;padding-top:7px;border-top:1px solid var(--line-soft)}
+
+  .footnote{text-align:center;font-size:12px;color:var(--muted);margin-top:30px}
+
+  @media (max-width:560px){
+    #start{padding:30px 22px 26px}
+    .qhead{padding:22px 20px 4px} .qtext{padding:6px 20px 18px;font-size:18px}
+    .options{padding:0 12px 6px} .explain,.qfoot{margin-left:20px;margin-right:20px;padding-left:0;padding-right:0}
+    .qfoot{flex-direction:column-reverse;align-items:stretch}
+    .qfoot .btn{width:100%}
+  }
+  @media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+</style>
+
+<div class="wrap">
+
+  <!-- START -->
+  <section id="start" class="card">
+    <div class="plate">Tavola d'esame · professioni sanitarie</div>
+    <h1>Anatomia &amp; fisiologia</h1>
+    <p class="lede">50 domande a risposta multipla su fegato, intestino e pancreas, ricavate dal tuo documento di studio. Correzione immediata e spiegazione dopo ogni risposta.</p>
+
+    <div class="eyebrow" style="margin-bottom:9px">Argomento</div>
+    <div class="topics" id="topicChips">
+      <button class="chip all" data-topic="all" data-active="true"><span class="dot"></span>Tutti · 50</button>
+      <button class="chip f" data-topic="fegato"><span class="dot"></span>Fegato · 20</button>
+      <button class="chip i" data-topic="intestino"><span class="dot"></span>Intestino · 15</button>
+      <button class="chip p" data-topic="pancreas"><span class="dot"></span>Pancreas · 15</button>
+    </div>
+
+    <div class="opts-row">
+      <label class="switch">
+        <input type="checkbox" id="shuffle" checked>
+        <span class="track"></span>Mescola le domande
+      </label>
+      <span class="count-note">In questa sessione: <b id="deckCount">50</b> domande</span>
+    </div>
+
+    <button class="btn" id="startBtn">Inizia il quiz</button>
+  </section>
+
+  <!-- QUIZ -->
+  <section id="quiz">
+    <div class="topbar">
+      <div class="progress"><i id="bar"></i></div>
+      <div class="counter" id="counter">1 / 50</div>
+    </div>
+    <div class="card">
+      <div class="qhead"><span class="qnum" id="qnum">01</span><span class="otag" id="otag"></span></div>
+      <div class="qtext" id="qtext"></div>
+      <ul class="options" id="options"></ul>
+      <div class="explain" id="explain"><span class="lab" id="exLab"></span><span id="exText"></span></div>
+      <div class="qfoot">
+        <span class="hint">Tasti 1–4 per rispondere · Invio per proseguire</span>
+        <button class="btn" id="nextBtn" disabled>Avanti</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- RESULTS -->
+  <section id="results" class="card">
+    <div class="eyebrow">Risultato</div>
+    <div class="score-ring">
+      <svg width="170" height="170" viewBox="0 0 170 170">
+        <circle cx="85" cy="85" r="74" fill="none" stroke="rgba(23,38,42,.1)" stroke-width="13"></circle>
+        <circle id="ringFill" cx="85" cy="85" r="74" fill="none" stroke="var(--primary)" stroke-width="13" stroke-linecap="round" stroke-dasharray="465" stroke-dashoffset="465"></circle>
+      </svg>
+      <div class="val"><div class="big" id="scoreBig">0/50</div><div class="sub" id="scorePct">0%</div></div>
+    </div>
+    <div class="verdict" id="verdict"></div>
+    <p class="verdict-sub" id="verdictSub"></p>
+    <div class="breakdown" id="breakdown"></div>
+    <div class="res-actions">
+      <button class="btn" id="reviewBtn">Rivedi le risposte</button>
+      <button class="btn ghost" id="restartBtn">Ricomincia</button>
+    </div>
+    <div class="review" id="review"></div>
+    <div class="footnote">Contenuti tratti da «Anatomia e fisiologia dei vari organi». Studia con criterio, non solo per il test.</div>
+  </section>
+
+</div>
+
+<script>
+const QUESTIONS = [
+  /* ============== FEGATO (20) ============== */
+  {o:"fegato",q:"Da quale sottile capsula fibrosa è rivestito quasi completamente il fegato?",a:["Capsula di Glisson","Capsula di Bowman","Tunica albuginea","Capsula di Vater"],c:0,e:"Il fegato è avvolto dalla capsula di Glisson, una sottile capsula fibrosa."},
+  {o:"fegato",q:"Qual è il peso approssimativo del fegato in un adulto?",a:["0,3–0,5 kg","1,2–1,8 kg","2,5–3,0 kg","4,0–4,5 kg"],c:1,e:"Nell'adulto il fegato pesa circa 1,2–1,8 kg ed è l'organo interno più grande."},
+  {o:"fegato",q:"Quale lobo anatomico del fegato è il più grande?",a:["Lobo sinistro","Lobo quadrato","Lobo destro","Lobo caudato"],c:2,e:"I lobi anatomici sono destro, sinistro, quadrato e caudato: il destro è il più grande."},
+  {o:"fegato",q:"Quale percentuale del flusso sanguigno al fegato è fornita dalla vena porta?",a:["25–30%","40–45%","55–60%","70–75%"],c:3,e:"La vena porta fornisce circa il 70–75% del flusso; l'arteria epatica il restante 25–30%."},
+  {o:"fegato",q:"Che tipo di sangue trasporta la vena porta al fegato?",a:["Ricco di nutrienti ma relativamente povero di ossigeno","Ricco di ossigeno proveniente dall'aorta","Povero di nutrienti e ricco di anidride carbonica","Già detossificato e pronto per il cuore"],c:0,e:"La vena porta porta sangue ricco di nutrienti assorbiti dall'intestino, ma povero di ossigeno."},
+  {o:"fegato",q:"Dove si mescolano il sangue della vena porta e quello dell'arteria epatica?",a:["Nei canalicoli biliari","Nella vena cava inferiore","Nei sinusoidi epatici","Nel dotto epatico comune"],c:2,e:"Il sangue dei due vasi si mescola nei sinusoidi epatici, a contatto diretto con gli epatociti."},
+  {o:"fegato",q:"In quale grosso vaso sboccano le vene epatiche?",a:["Vena porta","Vena cava inferiore","Aorta addominale","Arteria epatica comune"],c:1,e:"Dopo i sinusoidi il sangue confluisce nelle vene epatiche, che sboccano nella vena cava inferiore."},
+  {o:"fegato",q:"Che cosa si trova al centro di ciascun lobulo epatico?",a:["La triade portale","La vena centrolobulare","Un dotto biliare","Un sinusoide"],c:1,e:"Al centro del lobulo c'è la vena centrolobulare; alla periferia la triade portale."},
+  {o:"fegato",q:"La triade portale è formata dai rami di:",a:["Vena porta, arteria epatica e dotto biliare","Vena centrolobulare, arteria e vena cava","Due vene epatiche e un dotto","Arteria epatica, coledoco e colecisti"],c:0,e:"Alla periferia del lobulo la triade portale comprende rami di vena porta, arteria epatica e dotto biliare."},
+  {o:"fegato",q:"L'unione del dotto epatico comune con il dotto cistico forma il:",a:["Dotto epatico destro","Coledoco","Dotto di Wirsung","Dotto epatico comune"],c:1,e:"Dotto epatico comune + dotto cistico (dalla colecisti) = coledoco."},
+  {o:"fegato",q:"Qual è la funzione principale della colecisti?",a:["Produrre la bile","Immagazzinare e concentrare la bile","Produrre enzimi digestivi","Secernere insulina"],c:1,e:"La colecisti immagazzina la bile e la concentra riassorbendo acqua ed elettroliti."},
+  {o:"fegato",q:"L'unione del coledoco con il dotto pancreatico principale forma:",a:["Lo sfintere di Oddi","La papilla duodenale minore","L'ampolla di Vater (epatopancreatica)","Il dotto di Santorini"],c:2,e:"Coledoco + dotto pancreatico principale formano l'ampolla epatopancreatica, o ampolla di Vater."},
+  {o:"fegato",q:"Quale struttura regola il flusso di bile e succo pancreatico nel duodeno?",a:["Sfintere di Oddi","Sfintere pilorico","Cardias","Valvola ileocecale"],c:0,e:"Lo sfintere di Oddi regola lo sbocco di bile e succo pancreatico attraverso la papilla duodenale maggiore."},
+  {o:"fegato",q:"Come si chiama la trasformazione del glucosio in glicogeno?",a:["Glicogenolisi","Gluconeogenesi","Glicogenosintesi","Glicolisi"],c:2,e:"La formazione del glicogeno si chiama glicogenosintesi (fegato e muscoli); la sua degradazione è la glicogenolisi."},
+  {o:"fegato",q:"La produzione di glucosio a partire da aminoacidi e glicerolo si chiama:",a:["Gluconeogenesi","Glicogenosintesi","Glicogenolisi","β-ossidazione"],c:0,e:"La gluconeogenesi produce glucosio da altre sostanze come aminoacidi e glicerolo."},
+  {o:"fegato",q:"Il fegato converte l'ammoniaca tossica in una sostanza eliminabile, cioè:",a:["Acido urico","Urea (ciclo dell'urea)","Creatinina","Bilirubina"],c:1,e:"L'azoto tossico (ammoniaca) viene trasformato in urea attraverso il ciclo dell'urea."},
+  {o:"fegato",q:"Quali cellule dei sinusoidi epatici fagocitano batteri ed eliminano globuli rossi invecchiati?",a:["Epatociti","Cellule di Kupffer","Cellule beta","Cellule di Langerhans"],c:1,e:"Le cellule di Kupffer, nei sinusoidi, fagocitano batteri e particelle estranee ed eliminano i globuli rossi vecchi."},
+  {o:"fegato",q:"Da che cosa deriva principalmente la bilirubina?",a:["Dalla sintesi degli acidi biliari","Dalla degradazione dell'emoglobina dei globuli rossi vecchi","Dal metabolismo del colesterolo","Dalla coniugazione dell'albumina"],c:1,e:"La bilirubina deriva soprattutto dalla degradazione dell'emoglobina dei globuli rossi invecchiati."},
+
+  /* ---- FEGATO metabolismo/bilirubina extra ---- */
+  {o:"fegato",q:"Quali lipoproteine, se in eccesso, aumentano il rischio di aterosclerosi portando colesterolo dal fegato ai tessuti?",a:["HDL","LDL","Chilomicroni","VLDL"],c:1,e:"Le LDL portano colesterolo dal fegato ai tessuti; in eccesso aumentano il rischio di aterosclerosi. Le HDL fanno il percorso inverso."},
+  {o:"fegato",q:"La bilirubina non coniugata (indiretta) viaggia nel sangue legata a quale proteina?",a:["Transferrina","Albumina","Emoglobina","Fibrinogeno"],c:1,e:"La bilirubina indiretta è liposolubile e viaggia nel sangue legata all'albumina fino al fegato."},
+
+  /* ============== INTESTINO (15) ============== */
+  {o:"intestino",q:"Qual è la lunghezza approssimativa dell'intestino tenue?",a:["25–30 cm","1,5 m","6–7 m","12 m"],c:2,e:"L'intestino tenue è la porzione più lunga (6–7 m) e principale sede di digestione e assorbimento."},
+  {o:"intestino",q:"Qual è il primo tratto dell'intestino tenue, che riceve bile e succo pancreatico?",a:["Digiuno","Ileo","Duodeno","Cieco"],c:2,e:"Il duodeno (25–30 cm) è il primo tratto: vi arrivano bile e succo pancreatico e avviene gran parte della digestione chimica."},
+  {o:"intestino",q:"In quale tratto dell'intestino avviene l'assorbimento della vitamina B12?",a:["Duodeno","Digiuno","Ileo","Colon"],c:2,e:"L'ileo assorbe vitamina B12 e sali biliari; termina nella valvola ileocecale."},
+  {o:"intestino",q:"Che cosa separa la valvola ileocecale?",a:["Duodeno e digiuno","Intestino tenue e intestino crasso","Colon e retto","Stomaco e duodeno"],c:1,e:"La valvola ileocecale divide l'intestino tenue dall'intestino crasso."},
+  {o:"intestino",q:"In quale tratto dell'intestino crasso si trova l'appendice?",a:["Cieco","Colon sigma","Retto","Colon trasverso"],c:0,e:"Il cieco è il primo tratto del crasso e contiene l'appendice."},
+  {o:"intestino",q:"Qual è la funzione principale dell'intestino crasso?",a:["Digerire le proteine","Assorbire acqua ed elettroliti e formare le feci","Assorbire zuccheri e aminoacidi","Produrre bile"],c:1,e:"L'intestino crasso assorbe acqua ed elettroliti e forma le feci."},
+  {o:"intestino",q:"Di quante volte circa i villi intestinali aumentano la superficie di assorbimento?",a:["3 volte","10 volte","50 volte","2 volte"],c:1,e:"I villi aumentano la superficie di circa 10 volte; le pliche circolari di circa 3 volte; i microvilli di altre ~10 volte."},
+  {o:"intestino",q:"Come si chiama il vaso linfatico presente all'interno di ogni villo intestinale?",a:["Sinusoide","Chilifero (lattifero)","Canalicolo","Capillare fenestrato"],c:1,e:"Ogni villo contiene capillari sanguigni e un vaso linfatico detto chilifero (o lattifero)."},
+  {o:"intestino",q:"Che cosa formano i microvilli sulla superficie degli enterociti?",a:["Le pliche circolari","Il bordo a spazzola","I villi","Le micelle"],c:1,e:"I microvilli formano il 'bordo a spazzola', ospitano enzimi (disaccaridasi, peptidasi) e completano la digestione."},
+  {o:"intestino",q:"Come vengono assorbiti glucosio e galattosio nell'intestino?",a:["Per diffusione facilitata","Per trasporto attivo","Per endocitosi","Per osmosi"],c:1,e:"Glucosio e galattosio sono assorbiti per trasporto attivo; il fruttosio per diffusione facilitata."},
+  {o:"intestino",q:"Che cosa caratterizza il trasporto attivo attraverso la membrana cellulare?",a:["Avviene contro gradiente e richiede energia","È sempre passivo","Non usa proteine di trasporto","Sposta solo acqua"],c:0,e:"Il trasporto attivo muove molecole contro il loro gradiente di concentrazione e richiede energia; la diffusione facilitata è passiva."},
+  {o:"intestino",q:"Dentro l'enterocita i trigliceridi riformati vengono impacchettati con proteine formando:",a:["Micelle","Chilomicroni","VLDL","Ferritina"],c:1,e:"Nell'enterocita si riformano i trigliceridi e vengono impacchettati con proteine formando i chilomicroni, che entrano nei vasi linfatici."},
+  {o:"intestino",q:"A quale proteina prodotta dallo stomaco deve legarsi la vitamina B12 per essere assorbita?",a:["Transferrina","Fattore intrinseco","Albumina","Apolipoproteina"],c:1,e:"La B12 si lega al 'fattore intrinseco' (prodotto dallo stomaco); l'assorbimento avviene nell'ileo terminale, dove ci sono recettori specifici."},
+  {o:"intestino",q:"In quale tratto si assorbono principalmente ferro e calcio?",a:["Ileo","Colon","Duodeno","Retto"],c:2,e:"Ferro e calcio si assorbono principalmente nel duodeno."},
+  {o:"intestino",q:"Che cosa migliora l'assorbimento del ferro?",a:["La vitamina D","La vitamina C e l'acidità gastrica","I sali biliari","Il fattore intrinseco"],c:1,e:"L'assorbimento del ferro dipende dall'acidità gastrica e dalla presenza di vitamina C, che lo migliora."},
+
+  /* ============== PANCREAS (15) ============== */
+  {o:"pancreas",q:"Dove è situato il pancreas?",a:["Anteriormente allo stomaco","Posteriormente allo stomaco, dal duodeno alla milza","Sotto il fegato, nell'ipocondrio destro","Dentro la cavità pelvica"],c:1,e:"Il pancreas è posteriore allo stomaco e si estende dal duodeno fino alla milza; ha testa, corpo e coda."},
+  {o:"pancreas",q:"Che tipo di ghiandola è il pancreas?",a:["Solo esocrina","Solo endocrina","Mista (esocrina ed endocrina)","Linfatica"],c:2,e:"Il pancreas è una ghiandola mista, con funzione esocrina (enzimi digestivi) ed endocrina (ormoni)."},
+  {o:"pancreas",q:"Quale percentuale del volume pancreatico rappresenta la parte esocrina?",a:["Circa il 50%","Circa il 75%","Circa l'1%","Circa il 99%"],c:3,e:"Il pancreas esocrino rappresenta circa il 99% del volume; le isole endocrine solo l'1% circa."},
+  {o:"pancreas",q:"Come si chiama il dotto pancreatico principale?",a:["Dotto di Santorini","Dotto di Wirsung","Coledoco","Dotto cistico"],c:1,e:"Il dotto pancreatico principale è il dotto di Wirsung; l'accessorio, variabile, è il dotto di Santorini."},
+  {o:"pancreas",q:"Di quali ioni è particolarmente ricco il succo pancreatico, utili a tamponare l'acidità?",a:["Ioni bicarbonato","Ioni cloruro","Ioni ferro","Ioni calcio"],c:0,e:"Il succo pancreatico è ricco di ioni bicarbonato che, con la bile, tamponano l'acidità del digerito dallo stomaco."},
+  {o:"pancreas",q:"Quale enzima pancreatico agisce sui grassi ed è coadiuvato dalla bile?",a:["Amilasi","Tripsina","Lipasi","Ribonucleasi"],c:2,e:"La lipasi scinde i grassi neutri; la sua azione dipende dalla bile, che forma le micelle su cui l'enzima può agire."},
+  {o:"pancreas",q:"Quale enzima pancreatico attacca i carboidrati/amido?",a:["Amilasi","Chimotripsina","Carbossipeptidasi","Lipasi"],c:0,e:"L'amilasi catalizza l'idrolisi dei legami dell'amilosio, trasformando i carboidrati in zuccheri elementari."},
+  {o:"pancreas",q:"La tripsina catalizza l'idrolisi dei legami peptidici in cui è coinvolto un residuo di:",a:["Fenilalanina o tirosina","Lisina o arginina","Glicina o alanina","Cisteina o metionina"],c:1,e:"La tripsina agisce sui legami peptidici forniti da lisina o arginina; la chimotripsina su fenilalanina, tirosina o triptofano."},
+  {o:"pancreas",q:"Come si chiamano gli aggregati di cellule endocrine del pancreas?",a:["Acini pancreatici","Isole di Langerhans","Cellule di Kupffer","Corpuscoli di Malpighi"],c:1,e:"Il pancreas endocrino è rappresentato dalle isole pancreatiche, o isole di Langerhans."},
+  {o:"pancreas",q:"Quale ormone, ad azione iperglicemizzante, è prodotto dalle cellule alfa?",a:["Insulina","Glucagone","Somatostatina","Polipeptide pancreatico"],c:1,e:"Le cellule alfa producono glucagone, iperglicemizzante: stimola la glicogenolisi epatica e la cessione di glucosio."},
+  {o:"pancreas",q:"Quale ormone, ad azione ipoglicemizzante, è prodotto dalle cellule beta?",a:["Glucagone","Insulina","Somatostatina","Gastrina"],c:1,e:"Le cellule beta producono insulina, ipoglicemizzante: stimola l'utilizzo del glucosio da parte delle cellule."},
+  {o:"pancreas",q:"Quale sostanza producono le cellule delta delle isole pancreatiche?",a:["Insulina","Glucagone","Somatostatina","Amilasi"],c:2,e:"Le cellule delta producono somatostatina, che inibisce la secrezione di insulina e glucagone e rallenta l'attività digestiva."},
+  {o:"pancreas",q:"Il polipeptide pancreatico (PP) è prodotto dalle:",a:["Cellule alfa","Cellule beta","Cellule delta","Cellule F"],c:3,e:"Le cellule F producono il polipeptide pancreatico (PP), che inibisce le contrazioni della colecisti e regola alcuni enzimi."},
+  {o:"pancreas",q:"Da che cosa è regolata esclusivamente la secrezione delle cellule alfa e beta?",a:["Dal sistema nervoso autonomo","Dalla concentrazione ematica di glucosio","Dall'ipofisi","Dagli ormoni tiroidei"],c:1,e:"Alfa e beta rispondono direttamente alla glicemia: non sono sotto il controllo del sistema nervoso né di altre ghiandole."},
+  {o:"pancreas",q:"Nel controllo glicemico, che ruolo svolge la somatostatina?",a:["Decide al posto del glucosio quando secernere","Modula e frena insulina e glucagone","Stimola solo l'insulina","Aumenta l'assorbimento intestinale"],c:1,e:"La somatostatina non decide al posto del glucosio: modula e frena insulina e glucagone. Il glucosio 'accende o spegne' alfa e beta."}
+];
+
+const ORGAN_LABEL={fegato:"Fegato",intestino:"Intestino",pancreas:"Pancreas"};
+const KEYS=["A","B","C","D"];
+
+let deck=[], idx=0, answered=false, results=[], topic="all";
+
+// ---- start screen wiring ----
+const chips=[...document.querySelectorAll('.chip')];
+const deckCountEl=document.getElementById('deckCount');
+function topicCount(t){return t==="all"?QUESTIONS.length:QUESTIONS.filter(q=>q.o===t).length;}
+chips.forEach(ch=>ch.addEventListener('click',()=>{
+  chips.forEach(c=>c.dataset.active="false");
+  ch.dataset.active="true"; topic=ch.dataset.topic;
+  deckCountEl.textContent=topicCount(topic);
+}));
+
+document.getElementById('startBtn').addEventListener('click',start);
+document.getElementById('nextBtn').addEventListener('click',next);
+document.getElementById('restartBtn').addEventListener('click',()=>location.reload());
+document.getElementById('reviewBtn').addEventListener('click',toggleReview);
+
+function shuffle(a){for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
+
+function start(){
+  let pool=QUESTIONS.filter(q=>topic==="all"||q.o===topic).map(q=>({...q}));
+  if(document.getElementById('shuffle').checked){
+    shuffle(pool);
+    pool.forEach(q=>{
+      const order=shuffle([0,1,2,3]);
+      q.a=order.map(i=>q.a[i]);
+      q.c=order.indexOf(q.c);
+    });
+  }
+  deck=pool; idx=0; results=[];
+  document.getElementById('start').style.display='none';
+  document.getElementById('quiz').style.display='block';
+  render();
+}
+
+function render(){
+  answered=false;
+  const q=deck[idx];
+  document.getElementById('bar').style.width=((idx)/deck.length*100)+'%';
+  document.getElementById('counter').textContent=`${idx+1} / ${deck.length}`;
+  document.getElementById('qnum').textContent=String(idx+1).padStart(2,'0');
+  const tag=document.getElementById('otag');
+  tag.className='otag '+q.o; tag.textContent=ORGAN_LABEL[q.o];
+  document.getElementById('qtext').textContent=q.q;
+
+  const ul=document.getElementById('options'); ul.innerHTML='';
+  q.a.forEach((opt,i)=>{
+    const li=document.createElement('li');
+    const b=document.createElement('button');
+    b.className='opt'; b.type='button';
+    b.innerHTML=`<span class="key">${KEYS[i]}</span><span>${opt}</span>`;
+    b.addEventListener('click',()=>choose(i));
+    li.appendChild(b); ul.appendChild(li);
+  });
+
+  const ex=document.getElementById('explain'); ex.dataset.show="false";
+  const nb=document.getElementById('nextBtn');
+  nb.disabled=true;
+  nb.textContent = idx===deck.length-1 ? 'Vedi risultato' : 'Avanti';
+}
+
+function choose(i){
+  if(answered) return;
+  answered=true;
+  const q=deck[idx];
+  const correct=q.c;
+  const btns=[...document.querySelectorAll('#options .opt')];
+  btns.forEach((b,j)=>{
+    b.disabled=true;
+    if(j===correct) b.classList.add('correct');
+    else if(j===i) b.classList.add('wrong');
+    else b.classList.add('dim');
+  });
+  const ex=document.getElementById('explain');
+  const ok=i===correct;
+  ex.className='explain '+(ok?'ok':'no');
+  document.getElementById('exLab').textContent=ok?'Corretto':'Sbagliato';
+  document.getElementById('exText').textContent=q.e;
+  ex.dataset.show="true";
+  document.getElementById('nextBtn').disabled=false;
+  results.push({q:q.q,o:q.o,options:q.a,correct,chosen:i,ok,e:q.e});
+}
+
+function next(){
+  if(!answered) return;
+  if(idx<deck.length-1){ idx++; render(); }
+  else finish();
+}
+
+function finish(){
+  document.getElementById('bar').style.width='100%';
+  document.getElementById('quiz').style.display='none';
+  const res=document.getElementById('results'); res.style.display='block';
+  const total=results.length, hits=results.filter(r=>r.ok).length;
+  const pct=Math.round(hits/total*100);
+  document.getElementById('scoreBig').textContent=`${hits}/${total}`;
+  document.getElementById('scorePct').textContent=`${pct}%`;
+  const ring=document.getElementById('ringFill');
+  const C=465; ring.style.stroke = pct>=70?'var(--correct)':pct>=50?'var(--amber)':'var(--wrong)';
+  requestAnimationFrame(()=>{ ring.style.transition='stroke-dashoffset 1s ease'; ring.style.strokeDashoffset=C-(C*pct/100); });
+
+  let v,s;
+  if(pct>=90){v="Eccellente.";s="Padronanza solida della materia. Rifinisci gli ultimi dettagli e sei pronto.";}
+  else if(pct>=70){v="Buono.";s="Base sicura. Concentrati sugli argomenti dove hai sbagliato per consolidare.";}
+  else if(pct>=50){v="Da rinforzare.";s="Ci sono lacune recuperabili: rivedi le risposte errate e ripassa quelle sezioni.";}
+  else{v="Serve ripasso.";s="Rileggi il materiale con calma prima di rifare il quiz. La revisione qui sotto aiuta a capire dove.";}
+  document.getElementById('verdict').textContent=v;
+  document.getElementById('verdictSub').textContent=s;
+
+  // per-organ breakdown
+  const bd=document.getElementById('breakdown'); bd.innerHTML='';
+  ['fegato','intestino','pancreas'].forEach(o=>{
+    const set=results.filter(r=>r.o===o); if(!set.length) return;
+    const h=set.filter(r=>r.ok).length;
+    const el=document.createElement('div'); el.className='bd';
+    el.innerHTML=`<div class="n">${h}/${set.length}</div><div class="l"><span class="dot" style="background:var(--${o})"></span>${ORGAN_LABEL[o]}</div>`;
+    bd.appendChild(el);
+  });
+}
+
+let reviewOpen=false;
+function toggleReview(){
+  const rv=document.getElementById('review');
+  reviewOpen=!reviewOpen;
+  document.getElementById('reviewBtn').textContent=reviewOpen?'Nascondi revisione':'Rivedi le risposte';
+  if(reviewOpen && !rv.dataset.built){
+    rv.innerHTML='<h3>Revisione delle risposte</h3>';
+    results.forEach((r,i)=>{
+      const item=document.createElement('div');
+      item.className='rv-item '+(r.ok?'hit':'miss');
+      let html=`<div class="rv-q">${i+1}. ${r.q}</div>`;
+      if(!r.ok) html+=`<div class="rv-line your"><span class="k">La tua risposta:</span><span>${r.options[r.chosen]}</span></div>`;
+      html+=`<div class="rv-line sol"><span class="k">Risposta corretta:</span><span>${r.options[r.correct]}</span></div>`;
+      html+=`<div class="rv-ex">${r.e}</div>`;
+      item.innerHTML=html; rv.appendChild(item);
+    });
+    rv.dataset.built="1";
+  }
+  rv.dataset.show=reviewOpen?"true":"false";
+  if(reviewOpen) rv.scrollIntoView({behavior:'smooth',block:'start'});
+}
+
+// keyboard: 1-4 to answer, Enter to advance
+document.addEventListener('keydown',e=>{
+  if(document.getElementById('quiz').style.display!=='block') return;
+  if(['1','2','3','4'].includes(e.key)){
+    const i=+e.key-1; const btns=document.querySelectorAll('#options .opt');
+    if(btns[i] && !answered){ btns[i].click(); }
+  } else if(e.key==='Enter'){
+    const nb=document.getElementById('nextBtn'); if(!nb.disabled) nb.click();
+  }
+});
+</script>

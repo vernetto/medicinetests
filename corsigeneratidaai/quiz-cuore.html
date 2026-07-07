@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Quiz — Il Cuore · 50 domande</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700;800&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#fbeeeb;          /* carta ECG salmone chiaro */
+    --grid-fine:#f3d6cf;      /* linee sottili griglia */
+    --grid-bold:#e7b4a9;      /* linee spesse ogni 5 quadretti */
+    --ink:#241c1b;            /* testo */
+    --ink-soft:#6b5a57;       /* testo secondario */
+    --crimson:#b81d38;        /* rosso arterioso / tracciato */
+    --crimson-deep:#8a0f28;
+    --venous:#1f4b6e;         /* blu venoso */
+    --ok:#1f7a4d;             /* verde risposta corretta */
+    --ok-bg:#e4f2ea;
+    --err:#b81d38;
+    --err-bg:#fbe3e6;
+    --card:#ffffff;
+    --line:#eccfc9;
+    --radius:14px;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0}
+  body{
+    font-family:"Newsreader",Georgia,serif;
+    color:var(--ink);
+    background-color:var(--paper);
+    background-image:
+      linear-gradient(var(--grid-fine) 1px, transparent 1px),
+      linear-gradient(90deg, var(--grid-fine) 1px, transparent 1px),
+      linear-gradient(var(--grid-bold) 1px, transparent 1px),
+      linear-gradient(90deg, var(--grid-bold) 1px, transparent 1px);
+    background-size:
+      12px 12px,
+      12px 12px,
+      60px 60px,
+      60px 60px;
+    line-height:1.55;
+    -webkit-font-smoothing:antialiased;
+    min-height:100vh;
+  }
+  .wrap{max-width:760px;margin:0 auto;padding:28px 20px 64px}
+
+  /* ---- Intestazione ---- */
+  header{margin-bottom:14px}
+  .eyebrow{
+    font-family:"Archivo",system-ui,sans-serif;
+    font-weight:700;letter-spacing:.22em;text-transform:uppercase;
+    font-size:.7rem;color:var(--crimson);margin:0 0 6px;
+    display:flex;align-items:center;gap:8px;
+  }
+  .eyebrow::before{content:"";width:26px;height:2px;background:var(--crimson);display:inline-block}
+  h1{
+    font-family:"Archivo",system-ui,sans-serif;
+    font-weight:800;font-size:clamp(1.8rem,5vw,2.7rem);
+    line-height:1.02;letter-spacing:-.02em;margin:0 0 4px;
+  }
+  .sub{font-size:1rem;color:var(--ink-soft);margin:0}
+
+  /* ---- Tracciato ECG / progresso ---- */
+  .monitor{
+    background:var(--ink);
+    border-radius:var(--radius);
+    padding:14px 16px 10px;
+    margin:20px 0 26px;
+    box-shadow:0 8px 24px -14px rgba(90,15,30,.55);
+  }
+  .monitor-top{
+    display:flex;justify-content:space-between;align-items:baseline;
+    font-family:"Archivo",system-ui,sans-serif;color:#f6d9d2;
+    font-size:.72rem;letter-spacing:.12em;text-transform:uppercase;margin-bottom:6px;
+  }
+  .monitor-top b{color:#fff;font-weight:700}
+  .bpm{color:var(--crimson);font-weight:800;font-size:.8rem}
+  .ecg{width:100%;height:52px;display:block}
+  .ecg .trace{fill:none;stroke:#2e6e4e;stroke-width:2;opacity:.28}
+  .ecg .trace-done{fill:none;stroke:#39e08a;stroke-width:2.4;
+    filter:drop-shadow(0 0 4px rgba(57,224,138,.6));
+    transition:stroke-dashoffset .5s ease}
+  .ecg .cursor{fill:#39e08a}
+
+  /* ---- Card domanda ---- */
+  .card{
+    background:var(--card);border:1px solid var(--line);
+    border-radius:var(--radius);padding:24px 22px;
+    box-shadow:0 10px 30px -22px rgba(90,15,30,.5);
+  }
+  .qmeta{
+    font-family:"Archivo",system-ui,sans-serif;
+    font-size:.72rem;font-weight:700;letter-spacing:.16em;text-transform:uppercase;
+    color:var(--crimson);margin:0 0 10px;
+  }
+  .qtext{font-size:1.3rem;line-height:1.4;margin:0 0 20px;font-weight:500}
+
+  .opts{display:flex;flex-direction:column;gap:10px}
+  .opt{
+    font-family:"Newsreader",serif;font-size:1.05rem;text-align:left;
+    background:#fff;border:1.5px solid var(--line);border-radius:10px;
+    padding:13px 15px 13px 46px;cursor:pointer;position:relative;color:var(--ink);
+    transition:border-color .15s, background .15s, transform .05s;
+  }
+  .opt::before{
+    content:attr(data-letter);
+    position:absolute;left:12px;top:50%;transform:translateY(-50%);
+    width:24px;height:24px;border-radius:6px;
+    background:var(--paper);border:1px solid var(--grid-bold);
+    font-family:"Archivo",sans-serif;font-weight:700;font-size:.8rem;
+    display:flex;align-items:center;justify-content:center;color:var(--crimson-deep);
+  }
+  .opt:hover:not(:disabled){border-color:var(--crimson);transform:translateY(-1px)}
+  .opt:focus-visible{outline:3px solid var(--venous);outline-offset:2px}
+  .opt:disabled{cursor:default}
+  .opt.correct{background:var(--ok-bg);border-color:var(--ok);color:#0e4c30}
+  .opt.correct::before{background:var(--ok);color:#fff;border-color:var(--ok)}
+  .opt.wrong{background:var(--err-bg);border-color:var(--err);color:#7a0e22}
+  .opt.wrong::before{background:var(--err);color:#fff;border-color:var(--err)}
+  .opt.dim{opacity:.55}
+
+  .explain{
+    margin-top:18px;padding:14px 16px;border-left:4px solid var(--crimson);
+    background:#fdf5f4;border-radius:0 10px 10px 0;font-size:1rem;color:#3a2c2a;
+    display:none;
+  }
+  .explain.show{display:block;animation:fade .3s ease}
+  .explain b{font-family:"Archivo",sans-serif;font-size:.72rem;letter-spacing:.1em;
+    text-transform:uppercase;color:var(--crimson);display:block;margin-bottom:3px}
+  @keyframes fade{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:none}}
+
+  /* ---- Navigazione ---- */
+  .nav{display:flex;justify-content:space-between;align-items:center;margin-top:22px;gap:12px}
+  .btn{
+    font-family:"Archivo",sans-serif;font-weight:700;font-size:.9rem;
+    letter-spacing:.04em;padding:12px 22px;border-radius:10px;cursor:pointer;
+    border:1.5px solid var(--ink);background:#fff;color:var(--ink);transition:.15s;
+  }
+  .btn:hover:not(:disabled){background:var(--ink);color:#fff}
+  .btn:focus-visible{outline:3px solid var(--venous);outline-offset:2px}
+  .btn.primary{background:var(--crimson);border-color:var(--crimson);color:#fff}
+  .btn.primary:hover:not(:disabled){background:var(--crimson-deep);border-color:var(--crimson-deep)}
+  .btn:disabled{opacity:.35;cursor:not-allowed}
+
+  /* ---- Risultato ---- */
+  .result{text-align:center;padding:38px 22px}
+  .result .score{font-family:"Archivo",sans-serif;font-weight:800;
+    font-size:clamp(3rem,14vw,5.5rem);line-height:1;color:var(--crimson);margin:6px 0}
+  .result .score small{font-size:2rem;color:var(--ink-soft);font-weight:600}
+  .result h2{font-family:"Archivo",sans-serif;font-size:1.4rem;margin:0 0 8px}
+  .result p{color:var(--ink-soft);max-width:44ch;margin:0 auto 22px}
+  .verdict{font-family:"Archivo",sans-serif;font-weight:700;letter-spacing:.14em;
+    text-transform:uppercase;font-size:.78rem;padding:6px 14px;border-radius:20px;
+    display:inline-block;margin-bottom:4px}
+
+  footer{text-align:center;margin-top:34px;font-family:"Archivo",sans-serif;
+    font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-soft)}
+
+  @media (max-width:520px){
+    .qtext{font-size:1.15rem}
+    .opt{font-size:1rem}
+    .nav{flex-direction:row}
+    .btn{padding:12px 16px;font-size:.82rem}
+  }
+  @media (prefers-reduced-motion:reduce){
+    *{animation:none!important;transition:none!important}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <p class="eyebrow">Quiz di cardiologia</p>
+    <h1>Il Cuore</h1>
+    <p class="sub">50 domande a risposta multipla · anatomia, fisiologia, conduzione, circolazione ed ECG.</p>
+  </header>
+
+  <div class="monitor" aria-hidden="true">
+    <div class="monitor-top">
+      <span>Progresso <b id="mCount">0 / 50</b></span>
+      <span class="bpm" id="mBpm">— bpm</span>
+    </div>
+    <svg class="ecg" id="ecg" viewBox="0 0 600 52" preserveAspectRatio="none">
+      <path class="trace" id="traceBg" d=""></path>
+      <path class="trace-done" id="traceFg" d=""></path>
+      <circle class="cursor" id="cursor" cx="0" cy="26" r="3"></circle>
+    </svg>
+  </div>
+
+  <main id="app"></main>
+
+  <footer>Ritmo sinusale · buono studio</footer>
+</div>
+
+<script>
+const QUIZ = [
+  {q:"Da quante camere è composto il cuore umano?",o:["Due (un atrio e un ventricolo)","Tre (due atri e un ventricolo)","Quattro (due atri e due ventricoli)","Cinque"],c:2,e:"Il cuore ha 4 camere: due atri (superiori) e due ventricoli (inferiori)."},
+  {q:"In quale regione della cavità toracica è collocato il cuore?",o:["Nel mediastino","Nella pleura destra","Nel diaframma","Nell'ilo polmonare"],c:0,e:"Il cuore si trova nel mediastino, lo spazio centrale del torace tra i due polmoni."},
+  {q:"Come si chiama il sacco sieroso che avvolge esternamente il cuore?",o:["Endocardio","Miocardio","Pericardio","Peritoneo"],c:2,e:"Il pericardio è la membrana che riveste e protegge il cuore dall'esterno."},
+  {q:"Qual è lo strato muscolare del cuore, responsabile della contrazione?",o:["Endocardio","Miocardio","Epicardio","Pericardio"],c:1,e:"Il miocardio è il tessuto muscolare cardiaco che si contrae per pompare il sangue."},
+  {q:"Come si chiama il rivestimento interno delle camere cardiache?",o:["Epicardio","Endocardio","Pericardio","Mesocardio"],c:1,e:"L'endocardio riveste internamente atri, ventricoli e valvole."},
+  {q:"Quale valvola separa l'atrio destro dal ventricolo destro?",o:["Mitrale","Aortica","Tricuspide","Polmonare"],c:2,e:"La valvola tricuspide (3 cuspidi) si trova tra atrio e ventricolo destro."},
+  {q:"Quale valvola si trova tra atrio sinistro e ventricolo sinistro?",o:["Tricuspide","Mitrale (bicuspide)","Aortica","Polmonare"],c:1,e:"La valvola mitrale, detta anche bicuspide, ha due lembi."},
+  {q:"Quale valvola controlla l'uscita del sangue verso l'aorta?",o:["Valvola mitrale","Valvola tricuspide","Valvola aortica","Valvola polmonare"],c:2,e:"La valvola aortica (semilunare) impedisce il reflusso dall'aorta al ventricolo sinistro."},
+  {q:"La valvola posta tra ventricolo destro e arteria polmonare è la valvola:",o:["Aortica","Mitrale","Polmonare","Tricuspide"],c:2,e:"La valvola polmonare (semilunare) regola il flusso verso i polmoni."},
+  {q:"Il sangue povero di ossigeno arriva all'atrio destro attraverso:",o:["Le vene polmonari","Le vene cave superiore e inferiore","L'aorta","L'arteria polmonare"],c:1,e:"Le vene cave riportano al cuore il sangue venoso di tutto il corpo."},
+  {q:"In quale camera cardiaca sboccano le vene polmonari?",o:["Atrio destro","Atrio sinistro","Ventricolo destro","Ventricolo sinistro"],c:1,e:"Le quattro vene polmonari portano sangue ossigenato all'atrio sinistro."},
+  {q:"Che tipo di sangue trasportano le vene polmonari?",o:["Sangue ossigenato","Sangue deossigenato","Linfa","Sangue misto"],c:0,e:"Eccezione al modello venoso: le vene polmonari trasportano sangue ricco di ossigeno."},
+  {q:"L'arteria polmonare trasporta sangue:",o:["Ossigenato","Deossigenato (venoso)","Arterioso ricco di O₂","Privo di anidride carbonica"],c:1,e:"Altra eccezione: l'arteria polmonare porta sangue povero di ossigeno ai polmoni."},
+  {q:"Qual è il pacemaker naturale del cuore?",o:["Nodo atrioventricolare","Nodo senoatriale","Fascio di His","Fibre di Purkinje"],c:1,e:"Il nodo senoatriale (SA) genera l'impulso che avvia ogni battito."},
+  {q:"Dove è situato il nodo senoatriale?",o:["Nel setto interventricolare","Nella parete dell'atrio destro","All'apice del ventricolo sinistro","Nel pericardio"],c:1,e:"Il nodo SA si trova nella parete dell'atrio destro, vicino allo sbocco della vena cava superiore."},
+  {q:"Dopo il nodo senoatriale, l'impulso elettrico raggiunge:",o:["Il nodo atrioventricolare","Direttamente i ventricoli","Le vene cave","Il pericardio"],c:0,e:"Il nodo atrioventricolare (AV) rallenta e trasmette l'impulso ai ventricoli."},
+  {q:"Quali fibre distribuiscono l'impulso alle cellule dei ventricoli?",o:["Fibre di Purkinje","Fibre elastiche","Fibre collagene","Fibre di Sharpey"],c:0,e:"Le fibre di Purkinje conducono rapidamente l'impulso nel miocardio ventricolare."},
+  {q:"Il fascio che origina dal nodo AV e percorre il setto è il:",o:["Fascio di Bachmann","Fascio di His","Fascio di Goll","Fascio di Burdach"],c:1,e:"Il fascio di His si divide in due branche (destra e sinistra) nel setto interventricolare."},
+  {q:"Come si chiama la fase di contrazione del cuore?",o:["Diastole","Sistole","Systole atriale isolata","Pausa compensatoria"],c:1,e:"La sistole è la fase in cui il miocardio si contrae ed espelle il sangue."},
+  {q:"Come si chiama la fase di rilasciamento del cuore?",o:["Sistole","Diastole","Contrazione isovolumetrica","Depolarizzazione"],c:1,e:"Durante la diastole le camere si rilasciano e si riempiono di sangue."},
+  {q:"La gittata cardiaca è il prodotto di:",o:["Pressione × resistenza","Gittata sistolica × frequenza cardiaca","Volume telediastolico × pressione","Frequenza × pressione arteriosa"],c:1,e:"Gittata cardiaca = gittata sistolica (mL/battito) × frequenza cardiaca (battiti/min)."},
+  {q:"Qual è la frequenza cardiaca normale a riposo in un adulto?",o:["30-50 bpm","60-100 bpm","100-140 bpm","140-180 bpm"],c:1,e:"Il range fisiologico a riposo nell'adulto è 60-100 battiti al minuto."},
+  {q:"Una frequenza cardiaca superiore a 100 bpm a riposo si definisce:",o:["Bradicardia","Tachicardia","Aritmia sinusale","Fibrillazione"],c:1,e:"La tachicardia è un aumento della frequenza oltre 100 bpm a riposo."},
+  {q:"Una frequenza cardiaca inferiore a 60 bpm a riposo si definisce:",o:["Tachicardia","Bradicardia","Extrasistole","Flutter"],c:1,e:"La bradicardia è una frequenza inferiore a 60 bpm (fisiologica negli atleti)."},
+  {q:"Il primo tono cardiaco (S1) è prodotto principalmente da:",o:["Chiusura delle valvole semilunari","Chiusura delle valvole atrioventricolari","Apertura della valvola aortica","Riempimento atriale"],c:1,e:"S1 corrisponde alla chiusura di mitrale e tricuspide, all'inizio della sistole."},
+  {q:"Il secondo tono cardiaco (S2) è prodotto da:",o:["Chiusura delle valvole atrioventricolari","Chiusura delle valvole semilunari (aortica e polmonare)","Contrazione atriale","Apertura della mitrale"],c:1,e:"S2 corrisponde alla chiusura delle valvole aortica e polmonare, fine della sistole."},
+  {q:"Da quale vaso originano le arterie coronarie?",o:["Dall'arteria polmonare","Dall'aorta (alla sua radice)","Dalla vena cava","Dall'atrio destro"],c:1,e:"Le coronarie nascono dai seni di Valsalva, subito sopra la valvola aortica."},
+  {q:"Quale funzione svolgono le arterie coronarie?",o:["Irrorano i polmoni","Nutrono il miocardio","Drenano gli atri","Regolano la pressione"],c:1,e:"Le coronarie portano ossigeno e nutrimento al muscolo cardiaco stesso."},
+  {q:"La struttura che separa i due ventricoli è:",o:["Il setto interatriale","Il setto interventricolare","La valvola mitrale","Il seno coronarico"],c:1,e:"Il setto interventricolare divide il ventricolo destro dal sinistro."},
+  {q:"Quale ventricolo ha la parete muscolare più spessa?",o:["Il destro","Il sinistro","Hanno lo stesso spessore","Nessuno dei due ha parete muscolare"],c:1,e:"Il ventricolo sinistro è più spesso perché pompa nella circolazione sistemica, ad alta pressione."},
+  {q:"La piccola circolazione (polmonare) porta il sangue:",o:["Dal cuore ai polmoni e ritorno","Dal cuore al resto del corpo","Solo al cervello","Dai reni al fegato"],c:0,e:"La circolazione polmonare collega il cuore ai polmoni per l'ossigenazione."},
+  {q:"La grande circolazione (sistemica) prende origine dal:",o:["Ventricolo destro","Ventricolo sinistro","Atrio destro","Atrio sinistro"],c:1,e:"Il ventricolo sinistro spinge il sangue ossigenato nell'aorta verso tutto il corpo."},
+  {q:"Qual è il vaso che esce dal ventricolo sinistro?",o:["Arteria polmonare","Vena cava","Aorta","Vena porta"],c:2,e:"L'aorta è la principale arteria che distribuisce sangue ossigenato all'organismo."},
+  {q:"Nell'elettrocardiogramma, l'onda P rappresenta:",o:["La depolarizzazione ventricolare","La depolarizzazione atriale","La ripolarizzazione ventricolare","La pausa diastolica"],c:1,e:"L'onda P corrisponde alla depolarizzazione (attivazione) degli atri."},
+  {q:"Il complesso QRS dell'ECG rappresenta:",o:["La depolarizzazione atriale","La depolarizzazione ventricolare","La ripolarizzazione atriale","Il riposo elettrico"],c:1,e:"Il QRS riflette la rapida depolarizzazione dei ventricoli."},
+  {q:"L'onda T dell'ECG rappresenta:",o:["La ripolarizzazione ventricolare","La depolarizzazione atriale","La sistole atriale","La contrazione ventricolare iniziale"],c:0,e:"L'onda T corrisponde alla ripolarizzazione (recupero elettrico) dei ventricoli."},
+  {q:"Il liquido contenuto tra i foglietti del pericardio serve a:",o:["Trasportare ossigeno","Ridurre l'attrito durante il battito","Nutrire il miocardio","Produrre impulsi elettrici"],c:1,e:"Il liquido pericardico lubrifica e riduce l'attrito tra cuore e sacco pericardico."},
+  {q:"Le cellule muscolari cardiache sono collegate tra loro da:",o:["Dischi intercalari","Sinapsi","Placche motrici","Desmosomi isolati"],c:0,e:"I dischi intercalari permettono la rapida propagazione dell'impulso tra i miociti."},
+  {q:"Il cuore è innervato dal sistema nervoso:",o:["Somatico volontario","Autonomo (simpatico e parasimpatico)","Solo simpatico","Solo parasimpatico"],c:1,e:"Il sistema nervoso autonomo modula frequenza e forza di contrazione."},
+  {q:"L'azione del nervo vago (parasimpatico) sul cuore è:",o:["Aumenta la frequenza","Riduce la frequenza cardiaca","Aumenta la pressione arteriosa","Non ha effetti"],c:1,e:"Il vago ha effetto bradicardizzante: rallenta la frequenza cardiaca."},
+  {q:"La stimolazione simpatica del cuore provoca:",o:["Rallentamento del battito","Aumento di frequenza e forza di contrazione","Arresto cardiaco","Riduzione della gittata"],c:1,e:"Il simpatico aumenta frequenza, forza di contrazione e velocità di conduzione."},
+  {q:"La pressione arteriosa massima corrisponde alla pressione:",o:["Diastolica","Sistolica","Venosa","Media"],c:1,e:"La pressione sistolica (massima) si misura durante la contrazione ventricolare."},
+  {q:"La pressione arteriosa minima corrisponde alla pressione:",o:["Sistolica","Diastolica","Di picco","Capillare"],c:1,e:"La pressione diastolica (minima) si registra durante il rilasciamento ventricolare."},
+  {q:"Quale valore pressorio è considerato ottimale nell'adulto?",o:["Circa 90/50 mmHg","Circa 120/80 mmHg","Circa 160/100 mmHg","Circa 200/120 mmHg"],c:1,e:"Il valore di riferimento normale è indicato attorno a 120/80 mmHg."},
+  {q:"L'infarto miocardico acuto è causato principalmente da:",o:["Occlusione di un'arteria coronaria","Rottura di una vena","Aumento della frequenza","Carenza di globuli rossi"],c:0,e:"L'occlusione di una coronaria interrompe l'apporto di ossigeno e provoca necrosi del miocardio."},
+  {q:"Lo scompenso (insufficienza) cardiaco è caratterizzato da:",o:["Eccesso di pompaggio del cuore","Incapacità del cuore di pompare sangue a sufficienza","Assenza di valvole","Aumento del numero di camere"],c:1,e:"Nell'insufficienza cardiaca il cuore non riesce a soddisfare le richieste metaboliche dell'organismo."},
+  {q:"Verso quale direzione punta l'apice del cuore?",o:["In alto e a destra","In basso, a sinistra e in avanti","Posteriormente verso la colonna","Verso l'alto, dietro lo sterno"],c:1,e:"L'apice cardiaco è orientato in basso, a sinistra e anteriormente (circa 5° spazio intercostale)."},
+  {q:"Qual è approssimativamente il peso del cuore in un adulto?",o:["50-100 g","250-350 g","800-1000 g","1500 g"],c:1,e:"Il cuore adulto pesa mediamente tra 250 e 350 grammi."},
+  {q:"Il sangue venoso del miocardio viene raccolto principalmente da:",o:["Le vene polmonari","Il seno coronarico (che sbocca nell'atrio destro)","La vena porta","L'arteria polmonare"],c:1,e:"Il seno coronarico drena il sangue venoso del cuore nell'atrio destro."},
+  {q:"Qual è il valore medio della gittata sistolica a riposo?",o:["Circa 20 mL","Circa 70 mL","Circa 200 mL","Circa 500 mL"],c:1,e:"La gittata sistolica media a riposo è di circa 70 mL di sangue per battito."}
+];
+
+const app = document.getElementById('app');
+const mCount = document.getElementById('mCount');
+const mBpm = document.getElementById('mBpm');
+let idx = 0;
+let answered = new Array(QUIZ.length).fill(null); // indice risposta scelta
+const total = QUIZ.length;
+
+/* ---------- Tracciato ECG ---------- */
+const W = 600, H = 52, mid = 26;
+function ecgSegment(x){
+  // un complesso P-QRS-T largo ~60px a partire da x
+  return ` L ${x+8},${mid} L ${x+14},${mid-5} L ${x+20},${mid}`  // P
+       + ` L ${x+30},${mid} L ${x+32},${mid+6} L ${x+36},${mid-18} L ${x+40},${mid+10} L ${x+43},${mid}` // QRS
+       + ` L ${x+50},${mid} L ${x+56},${mid-7} L ${x+62},${mid}`; // T
+}
+let path = `M 0,${mid}`;
+for(let x=0; x<W; x+=68){ path += ecgSegment(x); }
+path += ` L ${W},${mid}`;
+document.getElementById('traceBg').setAttribute('d', path);
+const fg = document.getElementById('traceFg');
+fg.setAttribute('d', path);
+const totalLen = fg.getTotalLength();
+fg.style.strokeDasharray = totalLen;
+fg.style.strokeDashoffset = totalLen;
+const cursor = document.getElementById('cursor');
+
+function updateEcg(){
+  const answeredCount = answered.filter(a=>a!==null).length;
+  const frac = answeredCount/total;
+  fg.style.strokeDashoffset = totalLen*(1-frac);
+  const p = fg.getPointAtLength(totalLen*frac);
+  cursor.setAttribute('cx', p.x);
+  cursor.setAttribute('cy', p.y);
+  mCount.textContent = `${answeredCount} / ${total}`;
+  const score = answered.reduce((s,a,i)=> s + (a===QUIZ[i].c?1:0), 0);
+  mBpm.textContent = answeredCount ? `${60 + Math.round(40*score/total)} bpm` : '— bpm';
+}
+
+/* ---------- Rendering domanda ---------- */
+function renderQuestion(){
+  const item = QUIZ[idx];
+  const chosen = answered[idx];
+  const letters = ['A','B','C','D'];
+  const opts = item.o.map((t,i)=>{
+    let cls = 'opt';
+    if(chosen!==null){
+      if(i===item.c) cls+=' correct';
+      else if(i===chosen) cls+=' wrong';
+      else cls+=' dim';
+    }
+    return `<button class="${cls}" data-letter="${letters[i]}" data-i="${i}" ${chosen!==null?'disabled':''}>${t}</button>`;
+  }).join('');
+
+  app.innerHTML = `
+    <section class="card">
+      <p class="qmeta">Domanda ${idx+1} di ${total}</p>
+      <p class="qtext">${item.q}</p>
+      <div class="opts">${opts}</div>
+      <div class="explain ${chosen!==null?'show':''}">
+        <b>${chosen===null?'':(chosen===item.c?'Risposta corretta':'Risposta errata')}</b>
+        ${item.e}
+      </div>
+      <div class="nav">
+        <button class="btn" id="prev" ${idx===0?'disabled':''}>← Precedente</button>
+        <button class="btn primary" id="next">${idx===total-1?'Vedi risultato':'Successiva →'}</button>
+      </div>
+    </section>`;
+
+  app.querySelectorAll('.opt').forEach(b=>{
+    b.addEventListener('click',()=>{
+      if(answered[idx]!==null) return;
+      answered[idx] = parseInt(b.dataset.i);
+      updateEcg();
+      renderQuestion();
+    });
+  });
+  document.getElementById('prev').onclick = ()=>{ if(idx>0){idx--;renderQuestion();} };
+  document.getElementById('next').onclick = ()=>{
+    if(idx<total-1){ idx++; renderQuestion(); }
+    else{ renderResult(); }
+  };
+}
+
+/* ---------- Risultato ---------- */
+function renderResult(){
+  const score = answered.reduce((s,a,i)=> s + (a===QUIZ[i].c?1:0), 0);
+  const pct = Math.round(score/total*100);
+  let verdict, vcolor, vbg, msg;
+  if(pct>=85){verdict='Eccellente';vcolor='#0e4c30';vbg='#e4f2ea';msg='Ottima padronanza dell\'anatomia e della fisiologia cardiaca.';}
+  else if(pct>=65){verdict='Buono';vcolor='#1f4b6e';vbg='#e5eef5';msg='Base solida; ripassa le domande sbagliate per consolidare.';}
+  else if(pct>=45){verdict='Sufficiente';vcolor='#8a5a0f';vbg='#f7edd8';msg='Rivedi conduzione, valvole ed ECG: sono i punti più insidiosi.';}
+  else {verdict='Da ripassare';vcolor='#7a0e22';vbg='#fbe3e6';msg='Riprova dopo aver ripassato la struttura e il ciclo cardiaco.';}
+
+  app.innerHTML = `
+    <section class="card result">
+      <span class="verdict" style="color:${vcolor};background:${vbg}">${verdict}</span>
+      <div class="score">${score}<small> / ${total}</small></div>
+      <h2>${pct}% di risposte corrette</h2>
+      <p>${msg}</p>
+      <div class="nav" style="justify-content:center">
+        <button class="btn" id="review">Rivedi le domande</button>
+        <button class="btn primary" id="restart">Ricomincia</button>
+      </div>
+    </section>`;
+  document.getElementById('restart').onclick = ()=>{
+    answered = new Array(total).fill(null); idx=0; updateEcg(); renderQuestion();
+  };
+  document.getElementById('review').onclick = ()=>{ idx=0; renderQuestion(); };
+}
+
+updateEcg();
+renderQuestion();
+</script>
+</body>
+</html>

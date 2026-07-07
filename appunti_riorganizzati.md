@@ -96,7 +96,7 @@ Esempi:
 
 ### Cromatina e cromosomi
 
-Cromatina = materiale genetico degli eucarioti formato da: **DNA + proteine istoniche**.
+Cromatina = materiale genetico degli eucarioti formato da: **DNA + proteine istoniche**. E' DNA despiralizzato.
 Gli istoni sono proteine attorno alle quali il DNA si avvolge, come un filo attorno a rocchetti. Questo serve a compattare e organizzare il DNA dentro il nucleo.
 
 - DNA rilassato nel nucleo = **cromatina**
@@ -534,7 +534,8 @@ Il linkage significa: due geni stanno sullo stesso cromosoma, quindi tendono a e
 | Termine | Significato |
 |---|---|
 | Aneuploidia | uno o pochi cromosomi in più o in meno |
-| Poliploidia | interi assetti cromosomici in più (3n, 4n) |
+| (auto)Poliploidia | interi assetti cromosomici in più (3n, 4n) |
+| Allopoliploidia | molte serie di cromosomi provenienti da specie diverse (frumento tenero) |
 | Diploidia | condizione normale con due serie di cromosomi (2n) |
 | Monosomia | manca un cromosoma di una coppia |
 | Aploidia | una sola serie di cromosomi (n), come nei gameti |
@@ -547,6 +548,28 @@ Il linkage significa: due geni stanno sullo stesso cromosoma, quindi tendono a e
 - AB: sempre **eterozigote**; A e B sono codominanti (si esprimono entrambi)
 - 0: sempre **omozigote recessivo**
 - Rh+: dominante; Rh-: recessivo
+
+Gruppo 0 donatore universale
+
+| Gruppo | Antigeni sui globuli rossi | Anticorpi nel plasma |
+| ------ | -------------------------- | -------------------- |
+| **A**  | A                          | anti-B               |
+| **B**  | B                          | anti-A               |
+| **AB** | A e B                      | nessuno              |
+| **0**  | nessuno                    | anti-A e anti-B      |
+
+
+
+| Ricevente | Può ricevere da |
+| --------- | --------------- |
+| **0**     | 0               |
+| **A**     | A, 0            |
+| **B**     | B, 0            |
+| **AB**    | A, B, AB, 0     |
+
+
+
+
 
 **Eredità poligenica:** due o più geni influenzano un singolo carattere fenotipico.
 
@@ -616,7 +639,7 @@ Demolisce molecole energetiche per ricavare energia (**catabolico**). Avviene ne
 
 `molecole energetiche → CO₂ + energia trasferita a NADH e FADH₂`
 
-**Pre-fase:** La glicolisi produce piruvato. Poi il piruvato entra nel mitocondrio e viene trasformato in acetil-CoA.
+**Pre-fase:** La glicolisi produce piruvato, nel citoplasma (citosol). Poi il piruvato entra nel mitocondrio e viene trasformato in acetil-CoA.
 
 `piruvato → acetil-CoA + CO₂ + NADH`
 
@@ -994,7 +1017,7 @@ Un antigene è una molecola, o parte di molecola, che può essere riconosciuta d
 
 **7. Linfociti B e anticorpi (Immunità umorale)**
 
-I linfociti B servono soprattutto a produrre anticorpi.
+I linfociti B servono soprattutto a produrre anticorpi. Maturano nel midollo osseo. B deriva da Borsa di Fabricius, un organo presente negli uccelli dove questi linfociti maturano.
 
 ```
 linfocita B
@@ -1172,6 +1195,8 @@ prurito, gonfiore, muco, broncospasmo, ecc.
 
 **17. Leucociti – tabella riassuntiva**
 
+AKA Globuli Bianchi (WBC white blood cells). Alcuni svolgono fagocitosi.
+
 | Tipo | % | Categoria | Funzione principale |
 |---|---|---|---|
 | Neutrofili | 50-70% | Granulociti | attaccano soprattutto batteri (fagocitosi), formano pus |
@@ -1179,6 +1204,68 @@ prurito, gonfiore, muco, broncospasmo, ecc.
 | Monociti | 2-8% | Agranulociti | grandi; diventano macrofagi; "mangiano" patogeni e detriti |
 | Eosinofili | 1-4% | Granulociti | difesa contro parassiti e allergie; si colorano con eosina (colorante acido) |
 | Basofili | <1% | Granulociti | reazioni allergiche/infiammatorie; liberano istamina ed eparina; si colorano con basi |
+
+
+
+Neutrofili (50–70%)
+
+I neutrofili sono i globuli bianchi più numerosi e rappresentano la prima linea di difesa dell'organismo contro le infezioni, soprattutto quelle causate da batteri. Appartengono ai granulociti perché il loro citoplasma contiene numerosi granuli. Hanno un nucleo suddiviso in 3-5 lobi, per questo sono detti anche polimorfonucleati.
+
+La loro funzione principale è la fagocitosi: riconoscono i batteri, li inglobano e li distruggono grazie agli enzimi contenuti nei lisosomi. Quando molti neutrofili muoiono durante la lotta contro un'infezione, insieme ai batteri e ai detriti cellulari formano il pus.
+
+📌 Da ricordare: batteri → neutrofili → fagocitosi → pus.
+
+Linfociti (20–40%)
+
+I linfociti appartengono agli agranulociti, cioè non possiedono granuli evidenti nel citoplasma. Sono le cellule principali dell'immunità specifica (o adattativa), cioè quella che riconosce uno specifico microrganismo e conserva memoria dell'infezione.
+
+Esistono tre tipi principali:
+
+Linfociti B: producono gli anticorpi.
+Linfociti T: eliminano le cellule infettate da virus e coordinano la risposta immunitaria.
+Linfociti NK (Natural Killer): distruggono cellule tumorali e cellule infettate da virus senza bisogno di un riconoscimento specifico.
+
+Hanno un nucleo molto grande, che occupa quasi tutta la cellula, lasciando poco citoplasma.
+
+📌 Da ricordare: virus → anticorpi → memoria immunitaria.
+
+Monociti (2–8%)
+
+I monociti sono gli agranulociti più grandi presenti nel sangue. Possiedono un caratteristico nucleo a forma di ferro di cavallo o di rene.
+
+Quando lasciano il sangue e raggiungono i tessuti, si trasformano in macrofagi, cellule estremamente efficienti nella fagocitosi. I macrofagi eliminano batteri, virus, cellule morte e detriti cellulari e, inoltre, mostrano ai linfociti frammenti dei microrganismi (gli antigeni), permettendo l'attivazione della risposta immunitaria specifica.
+
+Per questo motivo vengono spesso definiti gli "spazzini" dell'organismo.
+
+📌 Da ricordare: monocita → macrofago → grande fagocita.
+
+Eosinofili (1–4%)
+
+Gli eosinofili appartengono ai granulociti. Hanno un nucleo bilobato e granuli che si colorano di rosso-arancione con il colorante eosina, da cui deriva il loro nome.
+
+La loro funzione principale è difendere l'organismo dai parassiti, in particolare dai vermi intestinali (elminti). Partecipano inoltre alle reazioni allergiche, contribuendo a limitarne l'intensità inattivando parte delle sostanze infiammatorie rilasciate durante la risposta allergica.
+
+Il loro numero aumenta nelle infestazioni da parassiti, nelle allergie e nell'asma.
+
+📌 Da ricordare: parassiti e allergie.
+
+Basofili (<1%)
+
+I basofili sono i granulociti più rari del sangue. Contengono grandi granuli che si colorano intensamente con coloranti basici, motivo per cui prendono questo nome.
+
+Quando vengono attivati, rilasciano istamina, che provoca vasodilatazione e aumento della permeabilità dei vasi sanguigni, ed eparina, una sostanza con azione anticoagulante.
+
+Sono coinvolti soprattutto nelle reazioni allergiche immediate, come l'orticaria e lo shock anafilattico.
+
+📌 Da ricordare: istamina → allergie.
+
+Schema riassuntivo
+Neutrofili → batteri, fagocitosi, pus.
+Linfociti → immunità specifica, anticorpi, virus, memoria immunitaria.
+Monociti → diventano macrofagi, grandi fagociti, eliminano detriti e presentano antigeni.
+Eosinofili → difesa contro parassiti e partecipazione alle allergie.
+Basofili → rilasciano istamina ed eparina, responsabili delle reazioni allergiche e infiammatorie.
+
 
 granulociti: granuli visibili al microscopio. Agranulociti: non hanno grani visibili al microscopio.
 
@@ -1237,6 +1324,18 @@ Alla fine la linfa torna nella circolazione sanguigna vicino alle vene succlavie
 | Timo | maturazione linfociti **T** |
 | Midollo osseo | maturazione linfociti **B** |
 
+
+Il TIMO sta dietro lo sterno e davanti al cuore, nella parte superiore del torace. È molto sviluppato nei bambini e negli adolescenti, mentre nell'adulto tende a ridursi di dimensioni (processo chiamato involuzione del timo).
+È la "scuola" dei linfociti T. I linfociti T nascono nel midollo osseo, ma lì non sono ancora maturi. Essi migrano nel timo, dove: 
+- imparano a riconoscere gli agenti estranei;
+- imparano a non attaccare le cellule del proprio organismo (tolleranza immunologica);
+- vengono eliminati quelli che funzionano male o che potrebbero causare malattie autoimmuni.
+
+Solo dopo questo "addestramento" diventano linfociti T maturi. Di lì, vanno in linfonodi, milza e sangue.
+
+
+
+
 ---
 
 ## 7. SANGUE
@@ -1286,13 +1385,12 @@ Le soluzioni fisiologiche (ad esempio NaCl 0,9%) hanno un'osmolarità molto vici
 | Vitamina | Nome chimico | Funzione |
 |---|---|---|
 | A | Retinolo | vista, pelle, mucose |
-| B₆ | Piridossale | — |
-| B₁₂ | Cobalamina | — |
+| B₆ | Piridossale | metabolismo degli amminoacidi e delle proteine |
+| B₁₂ | Cobalamina | importante per sangue e sistema nervoso  |
 | C | Acido ascorbico | collagene e antiossidante; cicatrizzazione; pelle, gengive, vasi sanguigni, tendini, ossa |
-| D | — | assorbimento intestinale di calcio e fosforo → ossa forti |
-| E | — | antiossidante |
-| K | — | coagulazione |
-| vitamina B12 | — | importante per sangue e sistema nervoso |
+| D | Calciferolo (D₂ = ergocalciferolo, D₃ = colecalciferolo)  | assorbimento intestinale di calcio e fosforo → ossa forti |
+| E | Tocoferolo | antiossidante |
+| K | Fillochinone / menachinone | coagulazione |
 
 
 
@@ -1660,16 +1758,24 @@ Funzionamento: durante la sistole ventricolare (pressione alta) si aprono → sa
 
 | Struttura | Funzione |
 |---|---|
-| Iride | Parte colorata; regola la quantità di luce modificando il diametro della pupilla |
+| Iride | Parte colorata; regola la quantità di luce modificando il diametro della pupilla (muscolo sfintere e dilatatore). Al centro c'è un foro chiamato pupilla |
 | Sclerotica | Parte bianca; membrana resistente, protettiva, dà forma al bulbo oculare |
-| Cornea | Parte trasparente davanti; fa entrare la luce; rifrazione (prima lente dell'occhio) |
+| Cornea | Parte trasparente davanti; fa entrare la luce; rifrazione (prima lente dell'occhio). Priva di vasi sanguigni ma ricca di terminazioni nervose |
 | Retina | Membrana interna sensibile alla luce; contiene coni e bastoncelli; trasforma luce in impulsi nervosi |
-| Cristallino | Lente trasparente interna; cambia forma per mettere a fuoco (**accomodazione**) |
+| Cristallino | Il cristallino è una lente trasparente situata dietro la pupilla. È sospeso tramite sottili fibre chiamate zonule ed è controllato dal muscolo ciliare. Può modificare la propria forma. Per guardare lontano il cristallino diventa più piatto. Per guardare vicino il cristallino diventa più convesso. Questo processo si chiama accomodazione. Con l'età il cristallino diventa meno elastico: compare la presbiopia, cioè la difficoltà a mettere a fuoco da vicino. |
 | Nervo ottico | Trasporta il segnale al cervello |
-| Fovea | Piccola area centrale della retina, ricca di coni → visione più precisa |
+| Fovea | Piccola area centrale della retina, ricca di fotoricettori o coni → visione più precisa |
 
 I **bastoncelli** sono più importanti per la visione con poca luce e sono più distribuiti nella periferia della retina.
 I **coni** → visione diurna e dei colori.
+
+
+
+La luce segue questo percorso:
+
+Luce    ↓ Cornea    ↓ Umor acqueo    ↓ Pupilla (regolata dall'iride)    ↓ Cristallino    ↓ Corpo vitreo    ↓ Retina    ↓ Nervo ottico    ↓ Cervello
+
+
 
 ---
 
@@ -1690,7 +1796,9 @@ Le sacrali e le coccigee sono invece saldate tra loro.
 
 ### Ghiandole endocrine
 
-**IPOFISI** ("ghiandola maestra", alla base del cervello, controllata dall'ipotalamo)
+Riversano il loro prodotto direttamente nel sangue.
+
+**IPOFISI** ("ghiandola maestra", endocrina, alla base del cervello, controllata dall'ipotalamo)
 
 `ipotalamo → ipofisi → altre ghiandole → ormoni nel sangue`
 
@@ -1704,6 +1812,7 @@ Le sacrali e le coccigee sono invece saldate tra loro.
 | ADH (ipofisi posteriore) | Regola il riassorbimento di acqua nei reni; se manca, si urina moltissimo |
 | Ossitocina (ipofisi posteriore) | Contrazioni del parto; espulsione del latte; presente in maschi e femmine |
 
+
 *Ipofisi = centrale di comando ormonale del corpo.*
 
 | Ghiandola | Ormoni prodotti |
@@ -1712,13 +1821,89 @@ Le sacrali e le coccigee sono invece saldate tra loro.
 | Pancreas | insulina, glucagone, somatostatina |
 | Tiroide | T3, T4, calcitonina |
 
+|Sostanza|	Dove viene prodotta|
+|---|---|
+|Insulina|	Pancreas endocrino, cellule β delle isole di Langerhans|
+|Progesterone	|Soprattutto ovaio, in particolare corpo luteo; anche placenta in gravidanza|
+|Melanina	|Non è un ormone: è un pigmento prodotto dai melanociti della pelle|
+|Aldosterone|	Corteccia surrenale, zona glomerulare|
+|Adrenalina	|Midollare del surrene|
+
+
+La tiroide produce gli ormoni: Tiroxina (T4) e Triiodotironina (T3)  aumentano il consumo di energia e regolano la velocità del metabolismo 
+
 ---
+
+### PANCREAS
+
+# Il Pancreas: Anatomia e Funzioni
+
+Il pancreas è una ghiandola voluminosa situata all'interno della cavità addominale con caratteristiche anatomiche e funzionali ben precise, fondamentali sia per l'attività digestiva sia per la regolazione metabolica.
+
+## Anatomia e Rapporti
+* **Posizione:** È situato molto posteriormente nella cavità addominale ed è classificato come un organo **retroperitoneale** (ovvero rivestito dal peritoneo solo nella sua parte anteriore).
+* **Struttura:** Si suddivide in tre porzioni principali:
+  * **Testa** (la parte iniziale, più allargata)
+  * **Corpo** (la parte centrale)
+  * **Coda** (la porzione terminale, più sottile)
+* **Rapporti anatomici:** La testa del pancreas è strettamente accolta e inserita nella curvatura del **duodeno** (la prima porzione dell'intestino tenue).
+
+## Funzione Ghiandolare (Ghiandola Mista)
+Il pancreas è una ghiandola anfìcrina, svolge cioè una doppia funzione, sia esocrina che endocrina. La componente esocrina costituisce la maggior parte della massa dell'organo.
+
+### 1. Componente Esocrina
+* **Secreto:** Produce il **succo pancreatico**, un liquido ricco di enzimi digestivi.
+* **Destinazione:** Il secreto viene convogliato attraverso una rete di dotti secondari nel **dotto pancreatico principale (dotto di Wirsung)**.
+* **Anatomia delle vie biliari:** Il dotto principale converge con il **dotto coledoco** (proveniente dalle vie biliari/cistifellea) per riversare insieme il secreto e la bile all'interno del **duodeno**, dove partecipano attivamente ai processi digestivi.
+
+### 2. Componente Endocrina
+* **Struttura:** È formata da piccoli ammassi cellulari sparsi nel tessuto esocrino, noti come **isole di Langerhans**.
+* **Destinazione:** Gli ormoni prodotti vengono riversati direttamente nel **circolo sanguigno**.
+* **Ormoni principali e regolazione della glicemia:**
+  * **Insulina:** Ha l'obiettivo di ridurre i livelli di glucosio nel sangue (azione ipoglicemizzante).
+  * **Glucagone:** Ha l'obiettivo di aumentare i livelli di glucosio nel sangue (azione iperglicemizzante).
+  * **Somatostatina:** frena insulina, glucagone e attività digestive.
+
+
+### UTERO
+
+L'utero è formato da tre strati: 
+Endometrio → strato interno (quello che si sfalda con le mestruazioni).
+Miometrio → strato muscolare, responsabile delle contrazioni durante il parto.
+Perimetrio → strato più esterno, che riveste l'utero.
+
+L'endometrio è la mucosa che riveste l'interno dell'utero. Dopo la mestruazione é sottile, ma comincia a crescere grazie agli estrogeni prodotti dalle ovaie. Il progesterone, prodotto dal corpo luteo, rende l'endometrio più spesso e irrorato di sangue.
+L'endometrio diventa così pronto ad accogliere un eventuale embrione.
+Se avviene la fecondazione, l'embrione si impianta nell'endometrio. Da questo momento l'endometrio contribuisce alla formazione della placenta, che nutrirà il feto.
+Se non avviene la fecondazione, Il corpo luteo smette di produrre progesterone. L'endometrio non serve più e si sfalda. Questo sfaldamento è la mestruazione.
+
+
 
 ### Leve
 
-- **I genere**: F (fulcro) in mezzo → può essere vantaggiosa o svantaggiosa
-- **II genere**: R (resistenza) in mezzo → sempre **vantaggiosa**
-- **III genere**: P (potenza) in mezzo → sempre **svantaggiosa**
+- **I genere**: F (fulcro) in mezzo → può essere vantaggiosa o svantaggiosa. Altalena, Forbici. 
+
+Potenza      Fulcro      Resistenza
+   ↓            ▲             ↑
+---│------------▲-------------│---
+
+
+- **II genere**: R (resistenza) in mezzo → sempre **vantaggiosa** . Carriola, Schiaccianoci.
+
+Fulcro      Resistenza      Potenza
+  ▲             ↓              ↑
+--▲-------------│--------------│---
+
+
+
+- **III genere**: P (potenza) in mezzo → sempre **svantaggiosa** . Braccio umano, Canna da pesca.
+
+Fulcro      Potenza      Resistenza
+  ▲            ↑              ↓
+--▲------------│--------------│---
+
+
+
 
 ---
 
@@ -1736,6 +1921,16 @@ Le sacrali e le coccigee sono invece saldate tra loro.
 | Etere | R–O–R' | es. CH₃–O–CH₃ |
 | Anidride | R–CO–O–CO–R' | anidride acetica CH₃–CO–O–CO–CH₃ |
 
+Regola mnemonica: 
+Etere è il più corto e poveraccio: R-O-R', 
+Alcol con R-OH
+Chetone segue con R-CO-R'
+Aldeide con R-CHO
+Estere R-COO-R'
+Anidride COOCO
+
+
+
 **Alcoli classificati per carbonio con –OH:**
 - Primario: `R–CH2–OH` (carbonio con –OH ha 2 H)
 - Secondario: `R–CH(OH)–R'` (carbonio con –OH ha 1 H)
@@ -1750,10 +1945,18 @@ In un **alcol secondario**, il carbonio che porta il gruppo –OH è legato a: 2
 | Classe | Legame | Formula | Esempi |
 |---|---|---|---|
 | Alcani (saturi) | C–C semplice | CₙH₂ₙ₊₂ | metano CH₄, etano C₂H₆, propano C₃H₈, butano C₄H₁₀ |
-| Alcheni (insaturi) | C=C doppio | CₙH₂ₙ | etene C₂H₄, propene C₃H₆ |
+| Alcheni (insaturi) | C=C doppio | CₙH₂ₙ | etilene/etene C₂H₄, propene C₃H₆ |
 | Alchini (insaturi) | C≡C triplo | CₙH₂ₙ₋₂ | etino/acetilene C₂H₂ |
 
 **Cicloalcani:** CₙH₂ₙ — es. metilcicloesano: cicloesano (C₆H₁₂) + metile (CH₃) = C₇H₁₄
+
+Il METANO è alifatico (áleiphar, grasso) perché non é aromatico:
+Composti alifatici: hanno catene di atomi di carbonio (lineari, ramificate o cicliche non aromatiche).
+Composti aromatici: contengono un anello aromatico, come quello del benzene, con elettroni delocalizzati.
+Anche etano, propano e Cicloesano sono alifatici. Il Benzene e' aromatico.
+
+
+Un anello aromatico è un anello di atomi di carbonio che possiede una particolare distribuzione degli elettroni, che lo rende eccezionalmente stabile: 6 elettroni "π" (pi greco) che si distribuiscono su tutto l'anello.
 
 ---
 
@@ -1798,6 +2001,12 @@ Il carbonio *perde* un legame con H e *aumenta* il legame con O → si ossida.
 - Glucosio + glucosio → maltosio
 - Glucosio + fruttosio → saccarosio
 - Glucosio + galattosio → lattosio
+
+I due glucosi si attaccano tramite un ossigeno: zucchero–O–zucchero con zucchero–OH + HO–zucchero → zucchero–O–zucchero + H₂O
+Quell’ossigeno in mezzo è il “ponte” del legame glicosidico.
+
+I polisaccaridi sono catene formate da tanti monosaccaridi uniti tra loro da legami glicosidici. Quando fai idrolisi, cioè “rompi con acqua” quei legami, la catena si spezza e torna ai suoi mattoncini di base: polisaccaride → monosaccaridi.
+
 
 ---
 
@@ -1875,6 +2084,38 @@ Gruppi laterali aromatici: **Fenilalanina, Tirosina, Triptofano**
 
 Il carbonio α può dare due forme spaziali: L e D. Le proteine degli esseri viventi sono formate quasi sempre da **L-amminoacidi**.
 
+Gli esseri umani utilizzano 20 amminoacidi proteinogenici standard per costruire le proteine. A questi si aggiungono 2 amminoacidi speciali, usati solo in particolari condizioni.
+
+I 20 amminoacidi standard
+
+| Amminoacido                   | Sigla (3 lettere) | Sigla (1 lettera) | Essenziale? |
+| ----------------------------- | ----------------- | ----------------- | ----------- |
+| Glicina                       | Gly               | G                 | No          |
+| Alanina                       | Ala               | A                 | No          |
+| Valina                        | Val               | V                 | **Sì**      |
+| Leucina                       | Leu               | L                 | **Sì**      |
+| Isoleucina                    | Ile               | I                 | **Sì**      |
+| Prolina                       | Pro               | P                 | No          |
+| Metionina                     | Met               | M                 | **Sì**      |
+| Fenilalanina                  | Phe               | F                 | **Sì**      |
+| Triptofano                    | Trp               | W                 | **Sì**      |
+| Serina                        | Ser               | S                 | No          |
+| Treonina                      | Thr               | T                 | **Sì**      |
+| Cisteina                      | Cys               | C                 | No*         |
+| Tirosina                      | Tyr               | Y                 | No*         |
+| Asparagina                    | Asn               | N                 | No          |
+| Glutammina                    | Gln               | Q                 | No          |
+| Acido aspartico (Aspartato)   | Asp               | D                 | No          |
+| Acido glutammico (Glutammato) | Glu               | E                 | No          |
+| Lisina                        | Lys               | K                 | **Sì**      |
+| Arginina                      | Arg               | R                 | No**        |
+| Istidina                      | His               | H                 | **Sì**      |
+
+Note
+* La cisteina deriva dalla metionina e la tirosina deriva dalla fenilalanina: diventano essenziali se manca il loro precursore.
+** L'arginina è considerata condizionatamente essenziale nei bambini e in alcune situazioni (crescita, traumi, ustioni, malattie).
+
+
 ---
 
 ### Saponi
@@ -1900,7 +2141,23 @@ Nella molecola d'acqua, il legame tra ossigeno e idrogeno è un **legame covalen
 - **covalente** = elettroni condivisi
 - **polare** = condivisi in modo disuguale
 
-Un **legame covalente puro** (o apolare) è un legame in cui due atomi condividono gli elettroni in modo perfettamente uguale (H–H, O=O, Cl–Cl).
+Un **legame covalente puro** (o apolare) è un legame in cui due atomi condividono gli elettroni in modo perfettamente uguale (H–H, O=O, Cl–Cl, N≡N).
+
+Legame semplice = 1 coppia di elettroni condivisi ( 2 elettroni)  H-H
+Legame doppio = 2 coppie di elettroni condivisi ( 4 elettroni) O=O
+Legame triplo = 3 coppie di elettroni condivisi ( 6 elettroni) N≡N
+
+Più coppie condividono, più il legame diventa forte.
+
+Ioni importanti:
+
+Ione idruro H⁻ 
+Ione idrogeno H⁺ ( = protone)
+Ione idronio H₃O⁺
+
+"uro" sono anioni (cloruro Cl-, bromuro Br-, Ioduro I-, Idruro H-)
+
+
 
 ---
 
@@ -1927,6 +2184,11 @@ H₂CO₃ (carbonico), H₃PO₄ (fosforico)
 
 ### Sali e pH
 
+Sale e' composto ottenuto sostituendo uno o più H di un acido con un metallo.
+Es. HCl -> NaCl, H2SO4 -> NaHSO4, Na2SO4
+
+I sali sono sempre elettroliti forti.
+
 | Origine del sale | Comportamento in soluzione acquosa | Esempio |
 |---|---|---|
 | Acido forte + base forte | Neutro (pH ≈ 7) | NaCl, KCl |
@@ -1934,6 +2196,13 @@ H₂CO₃ (carbonico), H₃PO₄ (fosforico)
 | Acido debole + base forte | Basico | CH₃COONa |
 
 Un **sale neutro** è un sale che, sciolto in acqua, non rende la soluzione né acida né basica. Derivano da acido forte + base forte: HCl + NaOH → NaCl + H₂O. Questi ioni non reagiscono con l'acqua in modo significativo.
+
+KOH è una base forte. Le basi forti, quando formano il loro ione positivo, generano ioni praticamente “neutri” dal punto di vista acido-base. K+ non rende la soluzione né acida né basica.
+
+Se HCN è un acido debole, allora il suo ione negativo: CN− è una base debole. CN− + H2​O ⇌ HCN + OH− si formano ioni OH⁻ che rendono la soluzione basica.
+
+
+
 
 **Kw** = prodotto ionico dell'acqua.
 `H₂O ⇄ H⁺ + OH⁻`
@@ -1943,7 +2212,7 @@ A 25°C: **Kw = 10⁻¹⁴**
 - acido = dona H⁺; base = accetta H⁺
 - `HCl → H⁺ + Cl⁻` (Cl⁻ = base coniugata di HCl)
 - `NH₃ + H⁺ → NH₄⁺` (NH₃ è base; NH₄⁺ è il suo acido coniugato)
-. `H₂O + H⁺ → H₃O⁺`
+. `H₂O + H⁺ → H₃O⁺` (H2O agisce da base)
 
 **Sistema tampone del sangue:**
 `H₂CO₃ ⇄ H⁺ + HCO₃⁻`
@@ -1952,6 +2221,8 @@ A 25°C: **Kw = 10⁻¹⁴**
 Un acido DIPROTICO può fornire 2 H⁺ per molecola (es. H₂SO₄)
 
 Una reazione è OMOGENEA quando tutte le specie chimiche coinvolte si trovano nella stessa fase fisica (solido, liquido, gas, soluzione acquosa).
+
+Un acido colora la cartina tornasole di rosso. Una base di blu.
 
 ---
 
@@ -1989,6 +2260,9 @@ Esempi: ferro, rame, nichel, titanio, cromo.
 
 ### Tavola periodica – Gruppi
 
+Gruppo = colonna verticale. Gli elementi dello stesso gruppo hanno spesso proprietà chimiche simili, perché hanno lo stesso numero di elettroni di valenza, cioè gli elettroni più esterni.
+Periodo = riga orizzontale. Gli elementi dello stesso periodo hanno gli elettroni distribuiti nello stesso numero di livelli energetici principali, cioè “gusci elettronici”
+
 | Gruppo | Nome |
 |---|---|
 | 1 | Metalli alcalini |
@@ -2009,6 +2283,15 @@ I numeri quantici servono a descrivere lo stato di un elettrone in un atomo.
 | l | Azimutale/secondario | Tipo di orbitale: s, p, d, f |
 | m | Magnetico | Orientamento dell'orbitale nello spazio |
 | s | Di spin | Verso dello spin: +1/2 o –1/2 |
+
+Numero atomico Z = protoni 
+Numero di massa A = protoni + neutroni
+Massa atomica relativa (aka peso atomico) = è la media pesata delle masse degli isotopi naturali. è un rapporto.
+Massa molecolare relativa (aka peso molecolare) = la somma dei pesi atomici di tutti gli atomi costituenti una molecola
+
+
+Un isotopo è un elemento con stesso numero atomico (protoni) ma diverso numero di neutroni (Idrogeno 1 protone 0 neutroni, Deuterio = idrogeno con 1 protone e 1 neutrone, Trizio = idrogeno con 1 protone e 2 neutroni)
+
 
 ---
 
@@ -2070,6 +2353,10 @@ Più aumenta la pressione del gas, più gas si scioglie nel liquido. Esempio cla
 **Secondo principio:** Il calore passa spontaneamente dal corpo più caldo al corpo più freddo, non il contrario. In un sistema isolato: **l'entropia tende ad aumentare**.
 
 **Terzo principio:** Quando la temperatura si avvicina allo zero assoluto, l'entropia di un cristallo perfetto tende a zero.
+
+Le condizioni in cui il comportamento di un gas si avvicina di più a quello di un gas perfetto :  Bassa pressione e alta temperatura.
+
+
 
 ---
 
@@ -2146,6 +2433,16 @@ La Costituzione italiana è la legge fondamentale dello Stato. È entrata in vig
 - **lunga**: contiene anche diritti sociali, economici e civili
 - **democratica**: fonda il potere sulla sovranità popolare
 - **compromissoria**: nacque dall'accordo tra diverse culture politiche (cattolica, liberale, socialista, comunista)
+
+Una Costituzione è *rigida* quando: può essere modificata, ma serve una procedura speciale, più complessa rispetto a quella prevista per le leggi ordinarie.
+
+Una Costituzione è *formale* quando è contenuta in un documento scritto e solenne.
+
+Una Costituzione *ottriata* è concessa dal sovrano ai sudditi.
+
+La Costituzione *materiale* indica il funzionamento reale dello Stato, cioè come il potere viene effettivamente esercitato nella pratica.
+
+Una Costituzione è *flessibile* quando può essere modificata con una normale legge ordinaria.
 
 **Struttura:** 139 articoli + disposizioni transitorie e finali
 
@@ -2284,15 +2581,15 @@ Esempi collegabili: vaccini, TSO, consenso informato, sanità pubblica.
 | Corte Costituzionale | Controllo leggi | Controlla conformità delle leggi alla Costituzione |
 | Regioni ed enti locali | Autonomie territoriali | — |
 
-**Parlamento:** Il bicameralismo perfetto significa che Camera e Senato hanno funzioni molto simili: una legge deve essere approvata da **entrambe**.
+**Parlamento:** Il bicameralismo perfetto significa che Camera e Senato hanno funzioni molto simili: una legge deve essere approvata da **entrambe**. Eletti ogni 5 anni.
 
 **Governo:** può emanare decreti-legge e decreti legislativi nei casi previsti.
 
-**Presidente della Repubblica:** nomina il Presidente del Consiglio, promulga le leggi, può sciogliere le Camere, presiede il CSM, comanda le Forze armate, può concedere la grazia.
+**Presidente della Repubblica:** nomina il Presidente del Consiglio, promulga le leggi, può sciogliere le Camere, presiede il CSM, comanda le Forze armate, può concedere la grazia. Eletto ogni 7 anni.
 
 **Magistratura:** esercita il potere giudiziario. È autonoma e indipendente. I giudici devono applicare la legge e garantire giustizia.
 
-**Corte Costituzionale:** può dichiarare incostituzionale una legge. Si occupa anche di: conflitti tra poteri dello Stato, conflitti tra Stato e Regioni, accuse contro il Presidente della Repubblica, ammissibilità dei referendum abrogativi.
+**Corte Costituzionale:** è il tribunale speciale che controlla che le leggi rispettino la Costituzione. Può dichiarare incostituzionale una legge. Si occupa anche di: conflitti tra poteri dello Stato, conflitti tra Stato e Regioni, accuse contro il Presidente della Repubblica, ammissibilità dei referendum abrogativi.
 
 **Regioni:** Le Regioni hanno competenze legislative in alcune materie. La sanità è molto legata all'organizzazione regionale. Il Servizio sanitario nazionale è nazionale nei principi, ma molte funzioni pratiche sono organizzate dalle Regioni.
 
@@ -2373,6 +2670,19 @@ Sono fatti praticamente solo da una proteina anomala. una proteina normale del c
 malattia di Creutzfeldt-Jakob nell’uomo
 encefalopatia spongiforme bovina, cioè la “mucca pazza”
 scrapie nelle pecore
+
+
+### PROTEINE
+
+La maggior parte degli enzimi sono proteine, ma alcuni enzimi sono RNA catalitici (ribozimi).
+
+Tripsina → enzima digestivo
+Mioglobina → proteina muscolare che lega ossigeno
+Lisozima → enzima antibatterico
+Fibrinogeno → proteina del sangue coinvolta nella coagulazione
+
+
+
 
 
 ### OSSA DI CARPO e TARSO
@@ -2491,6 +2801,8 @@ La sindrome di Klinefelter è una condizione genetica in cui una persona di sess
 Di solito il maschio ha: 46, XY. Con Klinefelter ha 47, XXY.
 Questo può causare soprattutto problemi legati allo sviluppo dei testicoli e alla produzione di testosterone e infertilità.
 
+Nell'uomo, il patrimonio genetico è identico tra Gemelli monozigotici.
+
 
 Specie: due gruppi sono specie diverse quando c’è isolamento riproduttivo, cioè non riescono più a riprodursi tra loro, oppure producono figli non fertili. cavallo + asino → mulo. il mulo di solito è sterile. Questo indica che cavallo e asino appartengono a specie diverse.
 
@@ -2499,6 +2811,141 @@ Bacilli: sono batteri a forma di bastoncino.
 Vibrioni: sono batteri a forma di virgola o bastoncino ricurvo.
 Spirilli: sono batteri a forma di spirale rigida, come una piccola elica.
 Spirochete: Sono batteri a forma di spirale flessibile, più sottili e mobili degli spirilli. Esempio: Treponema pallidum, il batterio della sifilide.
+
+### Ka e Kb
+Il pKa misura quanto è forte o debole un acido.
+HA + H₂O ⇄ A⁻ + H₃O⁺
+l’acido HA può cedere un protone H⁺ all’acqua. La costante di acidità è Ka.
+Il pKa è: pKa = -log(Ka)
+pKa piccolo  → acido forte
+pKa grande   → acido debole
+
+Il pKb misura quanto è debole o forte una base.
+Per una base generica B: B + H₂O ⇄ BH⁺ + OH⁻
+la costante basica è:
+Kb = quanto la base tende a prendere H⁺ dall’acqua, producendo OH⁻, e: pKb = -log(Kb)
+pKb piccolo  → base più forte
+pKb grande   → base più debole
+
+
+## FEGATO
+
+La VENA PORTA porta al fegato ciò che l’intestino ha assorbito; l’ARTERIA EPATICA porta ossigeno al fegato; le VENE EPATICHE portano via il sangue dal fegato verso il cuore.
+
+Il fegato produce la bile; la colecisti la conserva; il coledoco la porta nell’intestino.
+
+
+Il MUGHETTO è una micosi della mucosa orale, cioè un’infezione da fungo che colpisce la bocca, generalmente causata da Candida albicans.
+
+### OSSIDAZIONE
+
+H₂O₂, cioè perossido di idrogeno, è ossidante perché l’ossigeno che contiene “vuole” prendere elettroni e trasformarsi in una forma più stabile. 
+In H₂O₂ l’ossigeno ha numero di ossidazione −1. Nell’acqua H₂O, invece, l’ossigeno ha numero di ossidazione −2.
+Quindi H₂O₂ può trasformarsi in acqua così:
+H2O2 + 2H+ + 2e −→ 2H2O
+Guarda cosa succede all’ossigeno:
+O: −1 → −2
+Il numero di ossidazione diminuisce. Questo significa che l’ossigeno si riduce, cioè acquista elettroni.
+E una sostanza che acquista elettroni dagli altri è un ossidante.
+In parole semplici: H₂O₂ è ossidante perché ruba elettroni ad altre sostanze.
+Il motivo profondo è che il legame O–O nel perossido è abbastanza instabile. Gli ossigeni nel perossido stanno in uno stato intermedio, −1, e possono diventare più stabili passando a −2, come nell’acqua.
+
+### CAMPI ELETTROMAGNETICI e GRAVITAZIONALI
+
+Per due fili lunghi e paralleli : F/L = mu0 x I1 x I2 / (2 * pi * d )  
+d= distanza, mu0 = permeabilità magnetica del vuoto = 4π×10−7 N/A2
+
+Campo magnetico generato da un filo rettilineo percorso da corrente:
+B = mu0 * i / (2 * pi * r)
+B = campo magnetico (tesla, T)
+r = distanza dal filo
+
+legge di Coulomb: F = k | q1 x q2 | / r^2 
+k = costante di Coulomb = 9×10^9 N m2/C2
+
+gravità: F = G x m1 x m2 / r^2
+
+Il campo magnetico esercita una forza su una particella carica e in movimento, la 
+*forza di Lorentz* : F=qvBsinθ
+q = carica
+v = velocità
+B = campo magnetico
+θ = angolo tra velocità e campo.
+
+Se v è perpendicolare a B, sinθ = 1 e la forza e' perpendicolare alla velocità, è una forza centripeta, quindi il moto è circolare. Se v ha una componente parallela al campo magnetico, allora il moto é elicoidale. 
+
+
+
+### TETANO
+
+Grave malattia infettiva causata dal batterio Clostridium tetani
+Il batterio vive nel: terreno; polvere; feci di animali. Entra nell'organismo attraverso una ferita.
+Il batterio produce una tossina molto potente chiamata tetanospasmina.
+Questa tossina raggiunge il sistema nervoso e blocca i neuroni che normalmente rilassano i muscoli.
+I sintomi compaiono in genere dopo 3-21 giorni dalla ferita: 
+trisma (difficoltà ad aprire la bocca, "lockjaw");
+rigidità del collo;
+spasmi muscolari dolorosi;
+difficoltà a deglutire;
+inarcamento della schiena (opistotono);
+difficoltà respiratoria.
+
+### MUSCHIO LIEVITO FUNGO 
+
+Il muschio è una pianta (appartiene alle Briofite) e contiene clorofilla.
+I funghi non possiedono clorofilla. Non fanno fotosintesi, ma si nutrono assorbendo sostanze organiche già prodotte da altri organismi. Non sono piante. Sono eterotrofi: posso essere saprofiti (mangiano materia organica morta), o parassiti, o simbionti come i licheni (fungo + alga) o micorrize (fungo + radici di piante).
+Il lievito è un fungo unicellulare, si nutre di zucchero.
+
+
+
+La cariocinesi è la divisione del nucleo di una cellula. Avviene durante: la mitosi (per formare due cellule identiche); la meiosi (per formare i gameti: spermatozoi e ovuli).
+Dopo la cariocinesi avviene la citocinesi. La citocinesi è la divisione del citoplasma, che separa definitivamente la cellula in due cellule figlie.
+
+
+### PASTEUR FLEMING
+
+**Louis Pasteur** (1822–1895) è stato un chimico, biologo e microbiologo francese, universalmente riconosciuto come il padre della microbiologia moderna. 
+
+La **teoria dei germi**: ha dimostrato definitivamente che le malattie infettive sono causate da specifici microrganismi, smentendo la teoria della generazione spontanea.
+
+La **pastorizzazione**: ha ideato un processo termico (noto come pastorizzazione) per distruggere i batteri patogeni nel latte, nel vino e in altri alimenti, aumentandone la conservabilità e la sicurezza.
+
+I **vaccini**: ha sviluppato i primi vaccini efficaci della storia contro malattie letali come il carbonchio negli animali e, nel 1885, il vaccino per l'uomo contro la rabbia
+
+**Alexander Fleming** (1881–1955) è stato un medico, biologo e farmacologo scozzese, celebre per aver cambiato la storia della medicina moderna grazie a due scoperte fondamentali avvenute per "caso": il lisozima nel 1922 e, soprattutto, la penicillina nel 1928, il primo antibiotico della storia. Prese il Nobel nel 1945.
+
+La **Penicillina** (1928): Di ritorno nel suo laboratorio a Londra, Fleming dimenticò una piastra di coltura del batterio Staphylococcus aureus scoperta e non protetta prima di una vacanza. Al suo ritorno notò che la piastra era stata contaminata da una muffa (del genere Penicillium) che aveva ucciso tutti i batteri circostanti. Isolò la sostanza responsabile, dimostrandone il potente effetto antibatterico. 
+
+Il **Lisozima** (1922): Durante le sue ricerche scoprì questo enzima, presente naturalmente nelle lacrime, nella saliva e nel muco, capace di distruggere le pareti cellulari di molti batteri, dimostrando le prime difese naturali del corpo umano.
+
+
+**Jonas Salk** (1914–1995), Nazionalità: Statunitense. Professione: Medico e virologo.
+Famoso per: Aver sviluppato nel 1955 il primo vaccino efficace contro la **poliomielite**. Curiosità: Decise di non brevettare il vaccino, permettendone una rapida diffusione in tutto il mondo. Alla domanda su chi possedesse il brevetto rispose: "La gente. Si può brevettare il Sole?"
+
+**Andreas Vesalius** (1514–1564), Nazionalità: Fiammingo (attuale Belgio). Professione: Medico e anatomista.
+Famoso per: Aver rivoluzionato lo studio dell'**anatomia umana** grazie alla dissezione diretta dei cadaveri. Opera principale: De humani corporis fabrica, uno dei libri di anatomia più importanti della storia. Importanza: Corresse molti errori tramandati da oltre mille anni dagli studi di Galen, che aveva basato gran parte delle sue osservazioni sugli animali.
+
+
+**Marie Curie** (1867–1934) Nazionalità: Polacca naturalizzata francese. Professione: Fisica e chimica.
+Famosa per: Le sue ricerche sulla radioattività. Scoperte principali: Gli elementi **Polonio e Radio**.
+Riconoscimenti: Prima persona a vincere due Premi Nobel in discipline scientifiche diverse: Fisica (1903) Chimica (1911)
+Importanza: Le sue ricerche hanno posto le basi per lo sviluppo della radioterapia contro i tumori e per molti progressi della fisica nucleare.
+
+### MITOCONDRI
+
+TODO
+
+Le cellule che consumano molta energia ne possiedono moltissimi.
+
+Ad esempio:
+
+🫀 cellule del cuore, che si contraggono continuamente;
+💪 cellule muscolari, soprattutto durante l'attività fisica;
+🧠 neuroni, che mantengono costantemente impulsi elettrici;
+🫘 cellule dei tubuli renali, impegnate nel riassorbimento di sostanze.
+
+Al contrario, cellule con un basso fabbisogno energetico ne possiedono meno.
+
 
 
 ---
@@ -2529,10 +2976,195 @@ E) Fase luminosa della fotosintesi
 
 **BC = AB + CD** ← risposta corretta
 
+-- 
+
+
+
+
 ---
 
 ## RISORSE
 
 - Khan Academy – Phases of Meiosis: https://youtu.be/ijLc52LmFQg
 - Wikipedia – Ciclo di Krebs: https://it.wikipedia.org/wiki/Ciclo_di_Krebs
+- Preparazione al Test di Medicina https://www.youtube.com/@tdmedicina8369/videos
+
+
+### MODELLO DELL'ATOMO
+
+Il modello di Bohr (1913). Bohr immaginava gli elettroni come pianeti che girano attorno al Sole. L'elettrone percorreva una orbita precisa, circolare.
+
+Con la meccanica quantistica si è scoperto che:
+
+- l'elettrone non percorre una traiettoria precisa;
+- è impossibile conoscere contemporaneamente posizione e velocità (principio di indeterminazione di Heisenberg);
+- possiamo soltanto calcolare la probabilità di trovarlo in una certa regione dello spazio.
+
+Questa regione si chiama orbitale atomico. Un orbitale è quindi una "nuvola di probabilità". È una regione dello spazio nella quale la probabilità di trovare l'elettrone è molto elevata (convenzionalmente circa il 90–95%). È proprio ciò che descrive la funzione d'onda della meccanica quantistica.
+La funzione d'onda è una formula matematica di Erwin Schrödinger (indicata con la lettera greca ψ, psi: ψ(x,y,z,t)) che descrive completamente lo stato di una particella. Essa non dice dove si trova l'elettrone, ma permette di calcolare la probabilità di trovarlo in ogni punto dello spazio.
+ψ da sola non è una probabilità. Per ottenere una probabilità bisogna fare il quadrato del suo modulo: ∣ψ∣2
+
+### RADIAZIONE ALFA
+
+Sono nuclei di elio. Le radiazioni alfa (α) vengono emesse da alcuni nuclei atomici molto pesanti e instabili, come: 
+Uranio-238
+Radio-226
+Polonio-210
+Per diventare più stabili, questi nuclei espellono una particella alfa: 2 protoni + 2 neutroni, cioè carica +2 e massa = 4 uma.
+Sono poco penetranti, basta un foglio di carta.
+
+Le β⁻ (beta) sono elettroni.
+
+Le γ (gamma) sono fotoni.
+
+
+# Tavola Periodica degli Elementi
+
+| Z | Simbolo | Nome | A | Gruppo | Periodo | Tipo |
+|---:|:------:|----------------|------:|:------:|:------:|------------------------------|
+|1|H|Idrogeno|1.008|1|1|Non metallo|
+|2|He|Elio|4.003|18|1|Gas nobile|
+|3|Li|Litio|6.94|1|2|Metallo alcalino|
+|4|Be|Berillio|9.012|2|2|Metallo alcalino-terroso|
+|5|B|Boro|10.81|13|2|Metalloide|
+|6|C|Carbonio|12.011|14|2|Non metallo|
+|7|N|Azoto|14.007|15|2|Non metallo|
+|8|O|Ossigeno|15.999|16|2|Non metallo|
+|9|F|Fluoro|18.998|17|2|Alogeno|
+|10|Ne|Neon|20.180|18|2|Gas nobile|
+|11|Na|Sodio|22.990|1|3|Metallo alcalino|
+|12|Mg|Magnesio|24.305|2|3|Metallo alcalino-terroso|
+|13|Al|Alluminio|26.982|13|3|Metallo post-transizione|
+|14|Si|Silicio|28.085|14|3|Metalloide|
+|15|P|Fosforo|30.974|15|3|Non metallo|
+|16|S|Zolfo|32.06|16|3|Non metallo|
+|17|Cl|Cloro|35.45|17|3|Alogeno|
+|18|Ar|Argon|39.948|18|3|Gas nobile|
+|19|K|Potassio|39.098|1|4|Metallo alcalino|
+|20|Ca|Calcio|40.078|2|4|Metallo alcalino-terroso|
+|21|Sc|Scandio|44.956|3|4|Metallo di transizione|
+|22|Ti|Titanio|47.867|4|4|Metallo di transizione|
+|23|V|Vanadio|50.942|5|4|Metallo di transizione|
+|24|Cr|Cromo|51.996|6|4|Metallo di transizione|
+|25|Mn|Manganese|54.938|7|4|Metallo di transizione|
+|26|Fe|Ferro|55.845|8|4|Metallo di transizione|
+|27|Co|Cobalto|58.933|9|4|Metallo di transizione|
+|28|Ni|Nichel|58.693|10|4|Metallo di transizione|
+|29|Cu|Rame|63.546|11|4|Metallo di transizione|
+|30|Zn|Zinco|65.38|12|4|Metallo di transizione|
+|31|Ga|Gallio|69.723|13|4|Metallo post-transizione|
+|32|Ge|Germanio|72.630|14|4|Metalloide|
+|33|As|Arsenico|74.922|15|4|Metalloide|
+|34|Se|Selenio|78.971|16|4|Non metallo|
+|35|Br|Bromo|79.904|17|4|Alogeno|
+|36|Kr|Kripton|83.798|18|4|Gas nobile|
+|37|Rb|Rubidio|85.468|1|5|Metallo alcalino|
+|38|Sr|Stronzio|87.62|2|5|Metallo alcalino-terroso|
+|39|Y|Ittrio|88.906|3|5|Metallo di transizione|
+|40|Zr|Zirconio|91.224|4|5|Metallo di transizione|
+|41|Nb|Niobio|92.906|5|5|Metallo di transizione|
+|42|Mo|Molibdeno|95.95|6|5|Metallo di transizione|
+|43|Tc|Tecnezio|98|7|5|Metallo di transizione|
+|44|Ru|Rutenio|101.07|8|5|Metallo di transizione|
+|45|Rh|Rodio|102.91|9|5|Metallo di transizione|
+|46|Pd|Palladio|106.42|10|5|Metallo di transizione|
+|47|Ag|Argento|107.87|11|5|Metallo di transizione|
+|48|Cd|Cadmio|112.41|12|5|Metallo di transizione|
+|49|In|Indio|114.82|13|5|Metallo post-transizione|
+|50|Sn|Stagno|118.71|14|5|Metallo post-transizione|
+|51|Sb|Antimonio|121.76|15|5|Metalloide|
+|52|Te|Tellurio|127.60|16|5|Metalloide|
+|53|I|Iodio|126.90|17|5|Alogeno|
+|54|Xe|Xeno|131.29|18|5|Gas nobile|
+|55|Cs|Cesio|132.91|1|6|Metallo alcalino|
+|56|Ba|Bario|137.33|2|6|Metallo alcalino-terroso|
+|57|La|Lantanio|138.91|3|6|Lantanide|
+|58|Ce|Cerio|140.12|6|Lantanide|
+|59|Pr|Praseodimio|140.91|6|Lantanide|
+|60|Nd|Neodimio|144.24|6|Lantanide|
+|61|Pm|Promezio|145|6|Lantanide|
+|62|Sm|Samario|150.36|6|Lantanide|
+|63|Eu|Europio|151.96|6|Lantanide|
+|64|Gd|Gadolinio|157.25|6|Lantanide|
+|65|Tb|Terbio|158.93|6|Lantanide|
+|66|Dy|Disprosio|162.50|6|Lantanide|
+|67|Ho|Olmio|164.93|6|Lantanide|
+|68|Er|Erbio|167.26|6|Lantanide|
+|69|Tm|Tulio|168.93|6|Lantanide|
+|70|Yb|Itterbio|173.05|6|Lantanide|
+|71|Lu|Lutezio|174.97|6|Lantanide|
+|72|Hf|Afnio|178.49|4|6|Metallo di transizione|
+|73|Ta|Tantalio|180.95|5|6|Metallo di transizione|
+|74|W|Tungsteno|183.84|6|6|Metallo di transizione|
+|75|Re|Renio|186.21|7|6|Metallo di transizione|
+|76|Os|Osmio|190.23|8|6|Metallo di transizione|
+|77|Ir|Iridio|192.22|9|6|Metallo di transizione|
+|78|Pt|Platino|195.08|10|6|Metallo di transizione|
+|79|Au|Oro|196.97|11|6|Metallo di transizione|
+|80|Hg|Mercurio|200.59|12|6|Metallo di transizione|
+|81|Tl|Tallio|204.38|13|6|Metallo post-transizione|
+|82|Pb|Piombo|207.2|14|6|Metallo post-transizione|
+|83|Bi|Bismuto|208.98|15|6|Metallo post-transizione|
+|84|Po|Polonio|209|16|6|Metallo post-transizione|
+|85|At|Astato|210|17|6|Alogeno|
+|86|Rn|Radon|222|18|6|Gas nobile|
+|87|Fr|Francio|223|1|7|Metallo alcalino|
+|88|Ra|Radio|226|2|7|Metallo alcalino-terroso|
+|89|Ac|Attinio|227|3|7|Attinide|
+|90|Th|Torio|232.04|7|Attinide|
+|91|Pa|Protoattinio|231.04|7|Attinide|
+|92|U|Uranio|238.03|7|Attinide|
+|93|Np|Nettunio|237|7|Attinide|
+|94|Pu|Plutonio|244|7|Attinide|
+|95|Am|Americio|243|7|Attinide|
+|96|Cm|Curio|247|7|Attinide|
+|97|Bk|Berkelio|247|7|Attinide|
+|98|Cf|Californio|251|7|Attinide|
+|99|Es|Einsteinio|252|7|Attinide|
+|100|Fm|Fermio|257|7|Attinide|
+|101|Md|Mendelevio|258|7|Attinide|
+|102|No|Nobelio|259|7|Attinide|
+|103|Lr|Laurenzio|266|7|Attinide|
+|104|Rf|Rutherfordio|267|4|7|Metallo di transizione|
+|105|Db|Dubnio|268|5|7|Metallo di transizione|
+|106|Sg|Seaborgio|269|6|7|Metallo di transizione|
+|107|Bh|Bohrio|270|7|7|Metallo di transizione|
+|108|Hs|Hassio|277|8|7|Metallo di transizione|
+|109|Mt|Meitnerio|278|9|7|Metallo di transizione|
+|110|Ds|Darmstadtio|281|10|7|Metallo di transizione|
+|111|Rg|Roentgenio|282|11|7|Metallo di transizione|
+|112|Cn|Copernicio|285|12|7|Metallo di transizione|
+|113|Nh|Nihonio|286|13|7|Metallo post-transizione|
+|114|Fl|Flerovio|289|14|7|Metallo post-transizione|
+|115|Mc|Moscovio|290|15|7|Metallo post-transizione|
+|116|Lv|Livermorio|293|16|7|Metallo post-transizione|
+|117|Ts|Tennessino|294|17|7|Alogeno|
+|118|Og|Oganesson|294|18|7|Gas nobile (previsto)|
+
+### PONTE A IDROGENO, DIPOLO, VAN DER WAALS
+
+L'ossigeno è uno degli elementi più elettronegativi della tavola periodica. Attira fortemente gli elettroni. H—O—H è molto polare.
+Lo zolfo è meno elettronegativo dell'ossigeno. La molecola H-S-H è ancora polare, ma molto meno. 
+
+Un ponte a idrogeno è una forza di attrazione molto forte che può formarsi quando un idrogeno è legato a:
+Fluoro (F)
+Ossigeno (O)
+Azoto (N)
+
+Ricorda la sigla: F O N . Solo questi tre elementi producono veri ponti a idrogeno.
+
+Nell'H₂S lo zolfo è troppo poco elettronegativo. I ponti a idrogeno praticamente non si formano. Le molecole sono unite solo da:
+forze dipolo-dipolo
+forze di Van der Waals
+Molto più deboli.
+
+A parità di tipo di molecole, maggiore è il peso molecolare, maggiore tende a essere la temperatura di ebollizione. Ma il  ponte a idrogeno è molto più importante.
+
+Forze dipolo-dipolo, si trovano nelle molecole polari. Ad esempio:
+HCl
+SO₂
+Sono meno forti dei ponti a idrogeno.
+
+Le forze di Van der Waals sono Forze intermolecolari (molto più deboli), tipo tra le molecole dell'acqua. Aumentano con la massa della molecola.
+
 
