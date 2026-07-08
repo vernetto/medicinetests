@@ -1342,10 +1342,13 @@ Solo dopo questo "addestramento" diventano linfociti T maturi. Di lì, vanno in 
 
 **Eritrociti (globuli rossi):**
 - Forma: disco biconcavo, senza nucleo nei mammiferi adulti
-- Contenuto: pieni di emoglobina (~270 milioni di molecole per cellula)
+- Contenuto: pieni di emoglobina (~270 milioni di molecole per cellula), che è una proteina di trasporto
 - Funzione: trasportano O₂ dai polmoni ai tessuti, e CO₂ in senso inverso
 - Vita media: circa 120 giorni
 - Produzione: nel midollo osseo rosso (eritropoiesi)
+
+Nei polmoni, la concentrazione di ossigeno è molto alta negli alveoli e nel plasma sanguigno, mentre all'interno dei globuli rossi è inizialmente più bassa. L'ossigeno e' una molevola molto piccola, attraversa direttamente il doppio strato fosfolipidico della membrana cellulare. Questo processo si chiama DIFFUSIONE semplice. Una volta entrato, l'ossigeno si lega all'emoglobina. Questo legame mantiene bassa la concentrazione di ossigeno libero nel globulo rosso, favorendo l'ingresso di altro ossigeno.
+
 
 **Plasma:** è la parte liquida del sangue quando il sangue non ha coagulato.
 
@@ -1376,7 +1379,10 @@ Le soluzioni fisiologiche (ad esempio NaCl 0,9%) hanno un'osmolarità molto vici
 
 *Osmole:* Una osmole è una quantità di sostanza che corrisponde a 1 mole di particelle osmoticamente attive. In biologia si usa quasi sempre mOsm/L.
 
-**Emoglobina:** = 2 catene α + 2 catene β
+**Emoglobina:** = 2 catene proteiche α + 2 catene β, 4 gruppi eme. Al centro di ogni gruppo eme c'è uno ione: Fe2+. Il ferro lega una molecola di ossigeno. Quindi una molecola di emoglobina può trasportare fino a: 4 molecole di O2
+	​
+La bilirubina è un prodotto del catabolismo dell'emoglobina.
+
 
 ---
 
@@ -1673,6 +1679,8 @@ cervelletto  = equilibrio
 
 ## 12. CUORE E CIRCOLAZIONE
 
+10 centimetri per 15, peso 300 grammi. Portata: 5 litri di sangue al minuto, 8.000 litri al giorno. Più di 200 milioni di litri nel corso di una vita.
+
 ### Schema generale
 
 Il cuore è una pompa muscolare che spinge il sangue in due circuiti:
@@ -1831,6 +1839,93 @@ Riversano il loro prodotto direttamente nel sangue.
 
 
 La tiroide produce gli ormoni: Tiroxina (T4) e Triiodotironina (T3)  aumentano il consumo di energia e regolano la velocità del metabolismo 
+### ORMONI
+
+Gli ormoni non agiscono su tutte le cellule del corpo, ma solo su quelle che possiedono il recettore adatto.
+(chiave e serratura). 
+Una cellula bersaglio è una cellula che possiede il recettore specifico per un determinato ormone. Solo questa cellula può "leggere il messaggio". Le altre ignorano completamente quell'ormone.
+L'insulina per esempio agisce soprattutto su: cellule muscolari, cellule del fegato, cellule adipose perché possiedono il recettore dell'insulina.
+L'adrenalina viene prodotta quando siamo spaventati. Circola in tutto il corpo. Le cellule con i recettori adrenergici rispondono:
+il cuore batte più forte; i bronchi si dilatano; il fegato libera glucosio.
+Le cellule prive di questi recettori praticamente non rispondono. Ogni cellula esprime solo i recettori che le servono.
+
+Dove si trovano i recettori? Dipende dal tipo di ormone. 
+
+1. Recettori sulla membrana cellulare
+
+Per gli ormoni che non possono attraversare la membrana. L'ormone rimane fuori dalla cellula. Il recettore trasmette il messaggio all'interno.
+
+Esempi:
+
+insulina
+adrenalina
+glucagone
+
+2. Recettori all'interno della cellula
+
+Gli ormoni lipidici attraversano facilmente la membrana.
+
+Esempi:
+
+estrogeni
+testosterone
+cortisolo
+ormoni tiroidei (si legano a recettori intracellulari, spesso nel nucleo)
+
+Entrano nella cellula e si legano direttamente al loro recettore.
+
+
+Certi farmaci possono inibire gli ormoni: 
+1. Bloccare il recettore (antagonisti)
+Tamoxifene: blocca i recettori degli estrogeni nel tessuto mammario, usato nel tumore al seno.
+Spironolattone: blocca i recettori dell'aldosterone.
+Flutamide e bicalutamide: bloccano i recettori degli androgeni (testosterone).
+
+2. Ridurre la produzione dell'ormone
+
+Invece di bloccare il recettore, si impedisce alla ghiandola di produrre l'ormone. 
+I farmaci contro l'ipertiroidismo:
+metimazolo
+propiltiouracile
+riducono la produzione degli ormoni tiroidei.
+
+3. Distruggere o neutralizzare l'ormone
+
+Si usano anticorpi che si legano all'ormone. L'ormone non riesce più a raggiungere il recettore. È come intercettare un messaggero prima che consegni il messaggio.
+
+4. Diminuire il numero dei recettori (down-regulation)
+
+Se un recettore viene stimolato continuamente, la cellula può difendersi riducendone il numero. È un fenomeno naturale.
+
+Ad esempio:
+
+troppa insulina nel tempo può contribuire a una riduzione della sensibilità all'insulina (insieme ad altri meccanismi);
+esposizione prolungata ad alcuni ormoni o farmaci può ridurre il numero di recettori disponibili.
+
+5. Rendere il recettore meno sensibile
+
+Il recettore è ancora presente, ma funziona peggio.
+
+Questo fenomeno è chiamato desensibilizzazione.
+
+Un esempio è l'uso frequente di alcuni broncodilatatori per l'asma (agonisti β₂): i recettori possono diventare temporaneamente meno responsivi.
+
+6. Bloccare il segnale all'interno della cellula
+
+Anche se l'ormone si lega al recettore, il messaggio può essere interrotto lungo la cascata di segnali intracellulari.
+
+| Strategia                                | Cosa succede                                                          |
+| ---------------------------------------- | --------------------------------------------------------------------- |
+| **Antagonista del recettore**            | Il farmaco occupa il recettore e impedisce all'ormone di legarsi.     |
+| **Riduzione della produzione**           | La ghiandola produce meno ormone.                                     |
+| **Neutralizzazione dell'ormone**         | L'ormone viene legato e inattivato prima di raggiungere il recettore. |
+| **Down-regulation**                      | La cellula riduce il numero di recettori.                             |
+| **Desensibilizzazione**                  | I recettori diventano meno sensibili.                                 |
+| **Blocco della cascata di segnalazione** | Il recettore si attiva, ma il messaggio non viene trasmesso.          |
+
+
+
+
 
 ---
 
@@ -2275,7 +2370,7 @@ Periodo = riga orizzontale. Gli elementi dello stesso periodo hanno gli elettron
 
 ### Numeri quantici
 
-I numeri quantici servono a descrivere lo stato di un elettrone in un atomo.
+I numeri quantici sono 4, e servono a descrivere lo stato di un elettrone in un atomo.
 
 | Simbolo | Nome | Indica |
 |---|---|---|
@@ -2593,6 +2688,8 @@ Esempi collegabili: vaccini, TSO, consenso informato, sanità pubblica.
 
 **Regioni:** Le Regioni hanno competenze legislative in alcune materie. La sanità è molto legata all'organizzazione regionale. Il Servizio sanitario nazionale è nazionale nei principi, ma molte funzioni pratiche sono organizzate dalle Regioni.
 
+i **Ministeri** sono gli organi del Governo che si occupano di specifici settori della pubblica amministrazione (salute, istruzione, difesa, economia, ecc.). A capo di ogni ministero c'è un ministro, che fa parte del Consiglio dei Ministri, presieduto dal Presidente del Consiglio. Sono detti anche Dicasteri. I ministeri costituiscono la struttura fondamentale della pubblica amministrazione centrale dello Stato.
+
 **Revisione costituzionale (Art. 138):**
 
 La Costituzione è rigida. Per modificarla serve la procedura dell'articolo 138: la legge di revisione costituzionale deve essere approvata due volte da ciascuna Camera, con intervallo di almeno tre mesi. In certi casi può esserci un referendum costituzionale.
@@ -2627,6 +2724,17 @@ La Costituzione è rigida. Per modificarla serve la procedura dell'articolo 138:
 **Super-sintesi:** La Costituzione italiana nasce dopo il fascismo e fonda l'Italia come Repubblica democratica. I suoi valori fondamentali sono: democrazia, lavoro, uguaglianza, solidarietà, libertà, tutela della persona, pace, autonomie locali, diritto alla salute, diritto all'istruzione, tutela del lavoro.
 
 **Per infermieristica: l'articolo chiave è il 32**, perché definisce la salute come **diritto fondamentale dell'individuo e interesse della collettività**.
+
+### REATI DIVERSI CONTRO LA PUBBLICA AMMINISTRAZIONE
+
+| Reato               | Chi lo commette              | Cosa succede                                                                                                                   |
+| ------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| **Corruzione**      | Pubblico ufficiale + privato | Si mettono d'accordo: il pubblico ufficiale riceve un vantaggio in cambio di un favore.                                        |
+| **Concussione**     | Pubblico ufficiale           | Costringe o induce qualcuno a dare denaro o altri vantaggi abusando del proprio potere.                                        |
+| **Peculato**        | Pubblico ufficiale           | Si appropria di denaro o beni pubblici che gli sono stati affidati.                                                            |
+| **Abuso d'ufficio** | Pubblico ufficiale           | Usa il proprio potere violando la legge per favorire o danneggiare qualcuno. (Attenzione: in Italia è stato abolito nel 2024.) |
+
+
 
 
 ### RENE
@@ -2756,6 +2864,12 @@ CO₃²⁻ = ione carbonato
 
 SOLUZIONI COLLOIDALI contengono particelle disperse in un liquido, più grandi delle molecole di una soluzione vera, più piccole delle particelle di una sospensione (latte, maionese, gelatina). diametro 1–1000 nm .
 spesso mostrano l’effetto Tyndall, cioè disperdono la luce. presentano moto browniano.
+
+Il BICARBONATO è idrogenocarbonato di sodio NaHCO3 ; CO3-- è lo ione carbonato.
+Il CARBONATO di sodio è Na2CO3. Il BI non indica la presenza di DUE gruppi, è una vecchia terminologia in disuso.
+
+
+
 
 
 ### TRIANGOLI
@@ -2950,36 +3064,6 @@ Al contrario, cellule con un basso fabbisogno energetico ne possiedono meno.
 
 ---
 
-## DA RIVEDERE
-
-**1. Meiosi e contenuto di DNA:**
-> Se una cellula che in fase G1 contiene una quantità di DNA pari a x si divide per meiosi, quale sarà il contenuto di DNA di ogni singola cellula in profase II?
-
-*(Risposta: x — la meiosi I ha dimezzato i cromosomi ma in profase II ogni cromosoma ha ancora 2 cromatidi, quindi il contenuto è x)*
-
----
-
-**2. Quale di questi processi consuma ATP?**
-
-A) Ciclo di Calvin ← **risposta corretta**
-B) Ciclo di Krebs
-C) Fosforilazione ossidativa
-D) Trasformazione del piruvato in acido lattico
-E) Fase luminosa della fotosintesi
-
-*(Il Ciclo di Calvin consuma ATP per ridurre il CO₂ e rigenerare il RuBP)*
-
----
-
-**3. Trapezio rettangolo con semicirconferenza inscritta:**
-> Sia ABCD un trapezio rettangolo circoscritto ad una semicirconferenza avente per diametro l'altezza AD. Quale delle seguenti relazioni è vera?
-
-**BC = AB + CD** ← risposta corretta
-
--- 
-
-
-
 
 ---
 
@@ -3166,5 +3250,385 @@ SO₂
 Sono meno forti dei ponti a idrogeno.
 
 Le forze di Van der Waals sono Forze intermolecolari (molto più deboli), tipo tra le molecole dell'acqua. Aumentano con la massa della molecola.
+
+Il legame ionico è la forza di attrazione tra ioni di segno opposto nei composti ( e.g. Na+ Cl-). Allo stato solido il sale forma un reticolo cristallino: ogni ione Na⁺ è circondato da sei ioni Cl⁻, e ogni Cl⁻ da sei Na⁺.
+Nel legame covalente gli atomi condividono gli elettroni (H2, O2, H₂O, CH₄, CO₂ ). Nel legame ionico, invece, gli elettroni vengono trasferiti da un atomo all'altro.
+
+
+### RESPIRAZIONE CELLULARE
+
+La respirazione cellulare è il processo con cui le cellule ricavano energia (sotto forma di ATP, adenosina trifosfato) dalle sostanze nutritive, soprattutto dal glucosio.
+
+Respirazione aerobica
+
+È il metodo più efficiente e viene utilizzato dalla maggior parte delle cellule del nostro organismo.
+Equazione generale
+Glucosio C6H12O6​ + 6O2 → 6CO2 + 6H2O + Energia ATP
+
+La prima fase (GLICOLISI) avviene nel CITOPLASMA:
+Un glucosio (6 atomi di carbonio) viene spezzato in due molecole di piruvato (3 atomi di carbonio).
+Produce:
+2 ATP netti
+2 NADH (trasportatori di elettroni)
+
+Le fasi successive avvengono nei MITOCONDRI, le "centrali energetiche" della cellula.
+
+Ciclo di Krebs
+
+Il piruvato entra nei mitocondri e viene trasformato in Acetil-CoA. Qui viene completamente demolito.
+Produce:  CO₂ NADH FADH₂ 2 ATP
+
+Catena respiratoria
+
+È la fase che produce quasi tutta l'energia.
+
+I NADH e i FADH₂ cedono elettroni.
+
+Gli elettroni attraversano numerose proteine della membrana mitocondriale.
+
+Alla fine vengono catturati dall'ossigeno.
+
+L'ossigeno si combina con: 
+elettroni
+protoni (H⁺)
+
+formando:
+
+O2 + 4H+ + 4e− → 2H2O
+
+L'energia liberata serve per produrre ATP.
+
+Da una sola molecola di glucosio: circa 30–32 ATP
+
+RESPIRAZIONE ANAEROBICA
+
+Significa produrre energia senza utilizzare ossigeno. Tipicamente, in uno sprint, sollevamento pesi, azione intensa, mancanza di sangue, o grave anemia o insufficienza cardiaca. Negli esseri umani, in assenza di ossigeno sufficiente, si parla più propriamente di fermentazione lattica. La glicolisi continua normalmente.
+Produce: 2 ATP + piruvato
+Poiché manca l'ossigeno, il piruvato viene convertito in lattato.
+Questo permette di rigenerare il NAD⁺ necessario affinché la glicolisi possa continuare.
+Equazione semplificata:  Glucosio → 2 Lattato + 2 ATP
+Produce poco ATP, gran parte dell'energia rimane immagazzinata nel lattato.
+Il lattato viene poi trasportato soprattutto al fegato, dove può essere riconvertito in glucosio (tramite il ciclo di Cori), oppure viene utilizzato come combustibile da cuore e muscoli.
+
+FERMENTAZIONE ALCOLICA
+
+Alcuni organismi, come i lieviti, trasformano invece il piruvato in:
+etanolo e anidride carbonica.
+Equazione:
+Glucosio→ 2 Etanolo + 2CO2 + 2 ATP
+
+Questa fermentazione è usata per produrre:
+pane; birra; vino.
+
+
+### VIRUS
+
+Non è una cellula: non possiede citoplasma, organelli, ribosomi o metabolismo proprio. È costituito da pochi elementi essenziali.
+La maggior parte dei virus può infettare una gamma ristretta di ospiti.
+
+1. Materiale genetico (genoma). 
+Può essere costituito da: DNA oppure RNA
+
+Il genoma può essere:
+- a singolo filamento (ssDNA o ssRNA)
+- a doppio filamento (dsDNA o dsRNA)
+- lineare o circolare
+- segmentato (diviso in più molecole)
+
+2. Capside
+
+È il rivestimento proteico che circonda il materiale genetico.
+
+È formato da numerose subunità proteiche chiamate capsomeri, specifiche per ogni tipo di virus.
+
+Funzioni:
+
+- protegge il genoma
+- dà forma al virus
+- aiuta il virus ad attaccarsi alle cellule
+
+Le forme principali sono:
+
+- elicoidale
+- icosaedrica (simile a un poliedro con 20 facce)
+- complessa (come i batteriofagi)
+
+
+3. Envelope (pericapside) – presente solo in alcuni virus
+
+È una membrana lipidica esterna derivata dalla membrana della cellula ospite.
+
+Contiene proteine virali chiamate spicole (o glicoproteine).
+
+Funzioni:
+
+riconoscere le cellule bersaglio
+fondersi con la membrana cellulare
+facilitare l'ingresso del virus
+
+I virus con envelope sono generalmente più sensibili:
+
+al calore
+ai detergenti
+all'alcool
+all'essiccamento
+
+I virus senza envelope sono molto più resistenti nell'ambiente.
+
+4. Spicole (glicoproteine)
+
+Sono "punte" proteiche che sporgono dalla superficie.
+
+Servono per:
+
+- riconoscere recettori specifici sulla cellula
+- agganciarsi alla cellula
+- permettere l'ingresso del virus
+
+Sono spesso il bersaglio degli anticorpi.
+
+5. Enzimi virali (solo alcuni virus)
+
+Alcuni virus trasportano già enzimi indispensabili per infettare la cellula.
+
+Esempi:
+
+- trascrittasi inversa (nei retrovirus)
+- RNA-polimerasi RNA-dipendente (in molti virus a RNA)
+- proteasi
+- integrasi
+
+Questi enzimi permettono al virus di replicarsi una volta entrato nella cellula.
+
+Strutture particolari dei batteriofagi
+
+I virus che infettano i batteri (batteriofagi) hanno una struttura più complessa:
+
+- testa (contenente il DNA)
+- collo
+- guaina contrattile
+- tubo centrale
+- piastra basale
+- fibre caudali
+
+Le fibre riconoscono il batterio, mentre la coda inietta il DNA all'interno della cellula.
+
+### CORDONE OMBELICALE
+
+Collega il feto alla placenta.
+- 2 arterie ombelicali, che portano sangue povero di ossigeno e ricco di scarti dal feto alla placenta
+- 1 vena ombelicale, che porta dalla placenta al feto sangue ricco di ossigeno e di nutrienti
+- una sostanza gelatinosa protettiva chiamata gelatina di Wharton, anch'essa ricca di cellule staminali.
+
+Il cordone ombelicale e, soprattutto, il sangue che contiene sono quindi molto ricchi di cellule immature (cellule staminali)
+
+Le cellule staminali permettono di produrre continuamente:
+- globuli rossi;
+- globuli bianchi;
+- piastrine;
+- cellule del sistema immunitario.
+
+Contribuiscono anche alla crescita e alla riparazione dei tessuti durante lo sviluppo.
+
+Cellule staminali ematopoietiche: sono presenti nel sangue del cordone ombelicale.
+Producono tutte le cellule del sangue:
+- eritrociti (globuli rossi);
+- leucociti (globuli bianchi);
+- piastrine.
+
+Cellule staminali mesenchimali: sono presenti soprattutto nella gelatina di Wharton.
+Possono dare origine a:
+- osso;
+- cartilagine;
+- tessuto adiposo;
+- muscolo;
+- tessuto connettivo.
+
+Queste cellule possono essere impiegate nel trattamento di diverse patologie, ad esempio:
+
+- alcune leucemie;
+- linfomi;
+- aplasie midollari;
+- immunodeficienze congenite;
+- alcune malattie genetiche del sangue.
+
+Sono una valida alternativa al trapianto di midollo osseo in molti casi.
+Rispetto alle cellule staminali dell'adulto:
+
+- sono più giovani;
+- si moltiplicano più facilmente;
+- hanno accumulato meno mutazioni;
+- provocano più raramente rigetto nei trapianti.
+
+
+### LOGARITMI
+
+log a (b) = x -> a^x = b 
+es. log 2 (8) = 3
+
+Moltiplicazione:
+log a (z x y) = log a (z) + log a (y) 
+es. log 2 (8 x 4 ) = log 2 (8) + log 2 (4) = 3 + 2 = 5
+
+Divisione:
+log a (z / y) = log a (z) - log a (y) 
+es. log 2 (8 / 4 ) = log 2 (8) - log 2 (4) = 3 - 2 = 1
+
+Potenza:
+log a ( x ^ n ) = n log a (x)
+es. log 4 (16) = 4 log 4 (2) = 4 1/2 = 1/2
+
+
+log a^m (a^n) = n/m
+
+es. log 16 (4) = log 2^4 (2^2) = 1/2
+
+log a ( x ^ n) = n log a (x)
+
+log a (1 ) = 0
+
+log a ( a ) = 1
+
+log a (b) = log (b) / log (a) = ln (a) / ln (b)
+
+
+### EQUAZIONI DI SECONDO GRADO
+
+ax2 + bx + c = 0
+
+soluzioni: 
+
+x 1,2 = (- b +- sqrt(b^2 - 4ac) ) / 2a
+
+teorema di Viète:
+
+x1 + x2 = - b/a
+
+x1 x x2 = c/a
+
+
+### METAFORA SIMILITUDINE SINEDDOCHE
+
+"sei bello come il sole" → NON è una metafora, ma una SIMILITUDINE, perché usa "come" per fare un paragone.
+
+"quel bambino è un terremoto" → METAFORA. Il bambino non è davvero un terremoto: significa che è molto vivace e combina guai.
+
+La SINEDDOCHE è una figura retorica che consiste nel sostituire una parola con un'altra che ha con essa un rapporto di quantità o appartenenza.
+
+"Non ha un tetto" : "Tetto" = casa.
+"Ci sono cento teste." "Teste" = persone.
+"Ho bisogno di nuove braccia." braccia = lavoratori
+
+
+"Leggo Dante." → METONIMIA (autore per l'opera).
+
+
+### GONADI
+
+Gli organi riproduttivi primari, cioè gli organi che hanno due funzioni fondamentali:
+producono i gameti (cellule sessuali);
+producono gli ormoni sessuali.
+
+Sono i caratteri sessuali primari.
+
+| Sesso | Gonadi        | Producono gameti | Producono ormoni         |
+| ----- | ------------- | ---------------- | ------------------------ |
+| Uomo  | **Testicoli** | Spermatozoi      | Testosterone             |
+| Donna | **Ovaie**     | Ovociti (ovuli)  | Estrogeni e progesterone |
+
+
+Nei testicoli, la produzione degli spermatozoi avviene nei tubuli seminiferi attraverso la meiosi.
+Ormoni: Le cellule di Leydig producono testosterone. Il testosterone è responsabile di:
+
+- sviluppo degli organi genitali;
+- crescita della barba;
+- voce più grave;
+- aumento della massa muscolare;
+- produzione degli spermatozoi.
+
+Le ovaie svolgono anch'esse due funzioni.
+
+Produzione degli ovociti. Attraverso la meiosi si formano gli ovociti (cellule uovo). Durante l'ovulazione uno di essi viene liberato.
+
+Produzione di ormoni: Le ovaie producono: 
+estrogeni
+progesterone
+
+Questi ormoni regolano:
+
+- il ciclo mestruale;
+- lo sviluppo del seno;
+- la preparazione dell'utero alla gravidanza;
+- il mantenimento della gravidanza nelle fasi iniziali.
+
+Le gonadi appartengono al sistema endocrino perché rilasciano ormoni direttamente nel sangue.
+
+Quindi sono contemporaneamente:
+
+organi riproduttivi;
+ghiandole endocrine.
+
+Funzione esocrina → producono e rilasciano i gameti attraverso i rispettivi dotti.
+Per esempio: 
+i testicoli liberano gli spermatozoi nei dotti genitali;
+le ovaie rilasciano l'ovocita nella tuba uterina durante l'ovulazione.
+
+Le gonadi sono regolate dall'asse ipotalamo–ipofisi–gonadi.
+FSH (ormone follicolo-stimolante): stimola la formazione dei gameti.
+LH (ormone luteinizzante): stimola la produzione degli ormoni sessuali e, nella donna, induce l'ovulazione.
+
+
+I CARATTERI SESSUALI PRIMARI sono gli organi dell'apparato riproduttore presenti fin dalla nascita, direttamente coinvolti nella riproduzione. Sono chiamati primari perché sono essenziali per la funzione riproduttiva.
+
+UOMO testicoli (le gonadi), epididimi, dotti deferenti, vescicole seminali, prostata, pene, uretra (per la funzione riproduttiva)
+
+DONNA ovaie (le gonadi), tube di Falloppio, utero, cervice uterina, vagina, genitali esterni (vulva)
+
+
+I CARATTERI SESSUALI SECONDARI sono le caratteristiche che compaiono durante la pubertà grazie agli ormoni prodotti dalle gonadi.
+
+Uomo: barba; baffi; voce più profonda; aumento della massa muscolare; peli sul corpo.
+
+Donna: sviluppo del seno; allargamento del bacino; distribuzione del grasso su fianchi e cosce; peli pubici e ascellari.
+
+Questi non servono direttamente a produrre i gameti, ma distinguono i due sessi nell'aspetto e nella fisiologia.
+
+
+## DA RIVEDERE
+
+**1. Meiosi e contenuto di DNA:**
+> Se una cellula che in fase G1 contiene una quantità di DNA pari a x si divide per meiosi, quale sarà il contenuto di DNA di ogni singola cellula in profase II?
+
+*(Risposta: x — la meiosi I ha dimezzato i cromosomi ma in profase II ogni cromosoma ha ancora 2 cromatidi, quindi il contenuto è x)*
+
+---
+
+**2. Quale di questi processi consuma ATP?**
+
+A) Ciclo di Calvin ← **risposta corretta**
+B) Ciclo di Krebs
+C) Fosforilazione ossidativa
+D) Trasformazione del piruvato in acido lattico
+E) Fase luminosa della fotosintesi
+
+*(Il Ciclo di Calvin consuma ATP per ridurre il CO₂ e rigenerare il RuBP)*
+
+---
+
+**3. Trapezio rettangolo con semicirconferenza inscritta:**
+> Sia ABCD un trapezio rettangolo circoscritto ad una semicirconferenza avente per diametro l'altezza AD. Quale delle seguenti relazioni è vera?
+
+**BC = AB + CD** ← risposta corretta
+
+-- 
+
+
+Cinque persone (A, B, C, D, E) decidono di scambiarsi i regali di Natale di modo che ciascuno faccia
+un regalo a due persone e ne riceva da altre due persone. A fa un regalo a B e C; D fa un regalo a B
+e a una delle due persone che ricevono il regalo anche da E; C fa un regalo a D e alla stessa persona
+che riceve il regalo anche da B.
+Da chi riceve i regali E?
+
+
 
 
