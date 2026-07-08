@@ -1198,9 +1198,11 @@ prurito, gonfiore, muco, broncospasmo, ecc.
 
 AKA Globuli Bianchi (WBC white blood cells). Alcuni svolgono fagocitosi.
 
+I granulociti prendono il nome proprio dal tipo di colorante con cui i loro granuli si colorano meglio.
+
 | Tipo | % | Categoria | Funzione principale |
 |---|---|---|---|
-| Neutrofili | 50-70% | Granulociti | attaccano soprattutto batteri (fagocitosi), formano pus |
+| Neutrofili | 50-70% | Granulociti | attaccano soprattutto batteri (fagocitosi), formano pus; si colorano con entrambi i coloranti  |
 | Linfociti | 20-40% | Agranulociti | immunità specifica: anticorpi, cellule infette, memoria |
 | Monociti | 2-8% | Agranulociti | grandi; diventano macrofagi; "mangiano" patogeni e detriti |
 | Eosinofili | 1-4% | Granulociti | difesa contro parassiti e allergie; si colorano con eosina (colorante acido) |
@@ -3956,6 +3958,18 @@ Non esistono semi di dimensioni intermedie. Di conseguenza:
 
 La selezione naturale favorisce quindi i due estremi.
 La selezione divergente può favorire la comparsa di due popolazioni sempre più diverse, è quindi considerata uno dei meccanismi che possono contribuire alla speciazione.
+
+### MIELINA
+
+L'assone di molti neuroni è rivestito dalla guaina mielinica, prodotta:
+
+dalle cellule di Schwann nel sistema nervoso periferico (SNP);
+dagli oligodendrociti nel sistema nervoso centrale (SNC).
+
+La mielina è un ottimo isolante elettrico. Ma la guaina non è continua. Esistono piccole interruzioni chiamate NODI DI RANVIER.
+L'impulso viene rigenerato in ciascun nodo: CONDUZIONE SALTATORIA
+
+
 
 
 ## DA RIVEDERE
