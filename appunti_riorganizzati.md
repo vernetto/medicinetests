@@ -11,7 +11,8 @@ La cellula è come una piccola "fabbrica vivente".
 Le parti principali sono:
 
 **1. Membrana cellulare**
-È il confine della cellula. Decide cosa entra e cosa esce.
+È il confine della cellula. Decide cosa entra e cosa esce. Composta da lipidi (fosfolipidi, colesterolo, glicolipidi) e proteine. I lipidi formano il doppio strato lipidico, mentre le proteine sono immerse o associate a questo doppio strato.
+Le proteine servono per: trasporto, recettori, enzimi, adesione cellulare, comunicazione
 
 **2. Citoplasma**
 È il materiale gelatinoso interno, dove si trovano gli organuli.
@@ -1458,6 +1459,114 @@ Quando il chimo è pronto, passa poco alla volta attraverso il **piloro** (valvo
 
 `Stomaco = acido + pepsina + proteine → chimo`
 
+
+# Pepsinogeno e Pepsina
+
+## Cos'è il pepsinogeno?
+
+Il **pepsinogeno** è la **forma inattiva (zimogeno o proenzima)** della **pepsina**, l'enzima che digerisce le proteine.
+
+Viene prodotto in forma inattiva per evitare che digerisca le cellule dello stomaco che lo sintetizzano.
+
+---
+
+## Chi produce cosa?
+
+| Cellule | Secrezione | Funzione |
+|---------|------------|----------|
+| **Cellule principali (zimogene)** | Pepsinogeno | Precursore inattivo della pepsina |
+| **Cellule parietali (ossintiche)** | Acido cloridrico (HCl) | Acidifica lo stomaco (pH 1-2) e attiva il pepsinogeno |
+
+---
+
+## Come avviene l'attivazione?
+
+1. Le cellule principali secernono **pepsinogeno**.
+2. Le cellule parietali secernono **HCl**.
+3. L'ambiente acido (pH ≈ 1-2) provoca la rimozione di un piccolo peptide che blocca il sito attivo del pepsinogeno.
+4. Il pepsinogeno si trasforma in **pepsina attiva**.
+
+```text
+Pepsinogeno
+      │
+      │ HCl
+      ▼
+Pepsina
+```
+
+---
+
+## Autoattivazione
+
+Dopo che si è formata una piccola quantità di pepsina:
+
+- la **pepsina** attiva altro **pepsinogeno**;
+- il processo procede rapidamente "a cascata".
+
+```text
+HCl
+ │
+ ▼
+Prima pepsina
+ │
+ ▼
+Attiva altro pepsinogeno
+ │
+ ▼
+Sempre più pepsina
+```
+
+---
+
+## Funzione della pepsina
+
+La pepsina **rompe le proteine** degli alimenti in **peptidi**, che saranno poi ulteriormente digeriti nell'intestino tenue fino a diventare **amminoacidi**.
+
+```text
+Proteine
+    │
+    ▼
+Pepsina
+    │
+    ▼
+Peptidi
+    │
+    ▼
+Amminoacidi (intestino tenue)
+```
+
+---
+
+## Perché lo stomaco non si autodigerisce?
+
+Lo stomaco è protetto da quattro meccanismi:
+
+1. **Il pepsinogeno è inattivo** finché non viene secreto.
+2. **La pepsina si attiva solo nel lume dello stomaco**, grazie all'HCl.
+3. **Uno strato di muco** protegge la mucosa gastrica.
+4. **Il bicarbonato (HCO₃⁻)** presente nel muco neutralizza l'acido vicino alle cellule.
+
+---
+
+## Se le difese falliscono
+
+Acido e pepsina possono danneggiare la parete dello stomaco causando:
+
+- Gastrite
+- Ulcera gastrica
+- Ulcera duodenale
+
+---
+
+## Da ricordare
+
+- **Pepsinogeno = forma inattiva (zimogeno).**
+- **Pepsina = enzima attivo che digerisce le proteine.**
+- **HCl attiva il pepsinogeno e crea il pH ottimale per la pepsina.**
+- **La pepsina attiva altro pepsinogeno (autoattivazione).**
+- **La pepsina agisce in ambiente fortemente acido (pH 1-2).**
+
+
 ---
 
 ### Intestino tenue
@@ -2016,15 +2125,8 @@ Fulcro      Potenza      Resistenza
 | Etere | R–O–R' | es. CH₃–O–CH₃ |
 | Anidride | R–CO–O–CO–R' | anidride acetica CH₃–CO–O–CO–CH₃ |
 
-Regola mnemonica: 
-Etere è il più corto e poveraccio: R-O-R', 
-Alcol con R-OH
-Chetone segue con R-CO-R'
-Aldeide con R-CHO
-Estere R-COO-R'
-Anidride COOCO
-
-
+Regola mnemonica (in ordine crescente di "peso" degli atomi): 
+Etere O, Alcol OH, Chetone CO, Aldeide con CHO, Estere COO, Acido COOH, Anidride COOCO
 
 **Alcoli classificati per carbonio con –OH:**
 - Primario: `R–CH2–OH` (carbonio con –OH ha 2 H)
@@ -2501,6 +2603,17 @@ Le condizioni in cui il comportamento di un gas si avvicina di più a quello di 
   - v = velocità del corpo rispetto al fluido
   - C_x = coefficiente di resistenza aerodinamica
   - A = area frontale
+
+
+La RESISTENZA ELETTRICA di un filo si calcola con una formula molto semplice: 
+R = ρ L / A
+ρ = resistività del materiale (Ω·m) 
+L lunghezza, A area della sezione = πr^2 = πd^2​ / 4
+quindi R = 4 ρ L / πd^2​ 
+
+P = V x I    V = R x I    P = R x I^2   P = V^2 / R
+
+
 
 ---
 
@@ -3799,6 +3912,50 @@ LE GHIANDOLE MAMMARIE
 Sono ghiandole esocrine modificate. Producono: colostro; latte.
 Il latte viene espulso attraverso i dotti galattofori fino al capezzolo.
 
+
+### DNA POLIMERASI
+
+La DNA polimerasi usa deossiribonucleotidi trifosfato, cioè: dATP dGTP dCTP dTTP
+Lavora sempre 5'→3'. Il filamento stampo viene invece letto 3'→5'.s
+La DNA polimerasi legge il filamento stampo in direzione 3'→5' e sintetizza il nuovo filamento in direzione 5'→3'.
+
+### MENDEL
+
+Le leggi di Mendel sono tre principi fondamentali della genetica formulati dal monaco e biologo Gregor Mendel tra il 1856 e il 1865, grazie agli esperimenti sulle piante di pisello (Pisum sativum).
+
+Prima legge di Mendel: LEGGE DELL'UNIFORMITÀ (O DOMINANZA)
+Incrociando due individui omozigoti con caratteri opposti, tutta la prima generazione (F1) è uguale.
+
+GG × gg  -> Tutti i figli sono: Gg 
+
+Seconda legge di Mendel: LEGGE DELLA SEGREGAZIONE
+Perché durante la meiosi i due alleli di uno stesso gene si separano. Il gamete riceve un solo allele. Se una cellula possiede Gg i gameti saranno 50% G 50% g, mai Gg.
+
+Terza legge di Mendel: ASSORTIMENTO INDIPENDENTE
+Gli alleli di geni diversi si distribuiscono nei gameti indipendentemente l'uno dall'altro.
+Un individuo GgLl può produrre quattro tipi di gameti: GL Gl gL gl
+Tutti con uguale probabilità.
+
+
+### SELEZIONE DIVERGENTE
+
+La selezione divergente (o selezione dirompente) è un tipo di selezione naturale in cui vengono favoriti gli individui con caratteristiche estreme, mentre quelli con caratteristiche intermedie sono svantaggiati.
+
+È uno dei tre principali tipi di selezione naturale:
+
+Selezione stabilizzante → favorisce i caratteri intermedi.
+Selezione direzionale → favorisce uno dei due estremi.
+Selezione divergente (o dirompente) → favorisce entrambi gli estremi.
+
+Immagina una popolazione di uccelli con becchi di diversa grandezza.
+Supponiamo che nell'ambiente ci siano solo: semi molto piccoli; semi molto grandi.
+Non esistono semi di dimensioni intermedie. Di conseguenza:
+✔️ gli uccelli con becco piccolo mangiano facilmente i semi piccoli;
+✔️ gli uccelli con becco grande rompono facilmente i semi grandi;
+❌ gli uccelli con becco medio sono poco efficienti con entrambi i tipi di semi.
+
+La selezione naturale favorisce quindi i due estremi.
+La selezione divergente può favorire la comparsa di due popolazioni sempre più diverse, è quindi considerata uno dei meccanismi che possono contribuire alla speciazione.
 
 
 ## DA RIVEDERE
