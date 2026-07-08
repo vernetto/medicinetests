@@ -3593,6 +3593,213 @@ Donna: sviluppo del seno; allargamento del bacino; distribuzione del grasso su f
 
 Questi non servono direttamente a produrre i gameti, ma distinguono i due sessi nell'aspetto e nella fisiologia.
 
+### OSSA
+
+Le ossa sono organi viventi, non semplici strutture rigide. Sono costituite da diversi tipi di tessuto e svolgono molte funzioni:
+
+- sostengono il corpo;
+- proteggono organi vitali (cranio, gabbia toracica);
+- permettono il movimento insieme ai muscoli;
+- immagazzinano sali minerali, soprattutto calcio e fosforo;
+- ospitano il midollo osseo, che produce le cellule del sangue.
+
+In un osso lungo (come il femore) distinguiamo:
+
+- Periostio: membrana esterna ricca di vasi sanguigni e nervi. Serve per nutrire l'osso e permette la crescita in spessore.
+- Osso compatto: strato duro e resistente.
+- Osso spugnoso: rete di sottili trabecole che rende l'osso leggero.
+- Midollo osseo:
+rosso → produce cellule del sangue;
+giallo → ricco di grasso.
+
+Esistono due tipi principali di tessuto osseo.
+
+1. TESSUTO OSSEO COMPATTO
+
+È molto denso e resistente. Lo troviamo nella parte esterna di tutte le ossa; soprattutto nella diafisi (parte centrale) delle ossa lunghe.
+
+È formato da unità chiamate OSTEONI o sistemi di Havers. Ogni osteone contiene:
+
+un canale centrale con vasi sanguigni;
+tante lamelle ossee disposte come gli anelli di un tronco d'albero.
+
+Le lamelle ossee sono sottilissimi strati di tessuto osseo mineralizzato. Sono costituite da:  fibre di collagene, e sali di calcio (soprattutto idrossiapatite).
+
+Le fibre di collagene di una lamella sono orientate in una direzione, mentre nella lamella successiva sono orientate diversamente. Questo rende l'osso molto resistente alla compressione, e resistente anche alla torsione e alla flessione.
+
+Tra le lamelle vivono gli OSTEOCITI, le cellule dell'osso.
+
+Gli osteociti comunicano fra loro attraverso minuscoli canalicoli.
+
+2. TESSUTO OSSEO SPUGNOSO
+
+Il tessuto spugnoso non è realmente "spugnoso": è formato da una rete tridimensionale di sottili travi chiamate TRABECOLE OSSEE.
+
+Tra le trabecole si trova il MIDOLLO OSSEO ROSSO.
+
+Le trabecole seguono le linee lungo cui l'osso riceve le forze meccaniche. In questo modo l'osso pesa poco e rimane molto resistente. È lo stesso principio utilizzato nei ponti metallici.
+
+TIPI DI OSSA
+
+Le ossa si classificano soprattutto in base alla loro forma.
+
+1.OSSA LUNGHE
+Sono più lunghe che larghe.
+
+Esempi: Femore, Omero, Tibia
+
+Presentano: diafisi; epifisi; cavità midollare.
+
+2. OSSA CORTE
+
+Hanno dimensioni simili in tutte le direzioni.
+
+Esempi: Ossa del carpo, Ossa del tarso
+
+Servono a sopportare carichi distribuendo le forze.
+
+3. OSSA PIATTE
+
+Sono sottili e larghe.
+
+Esempi: Sterno, Scapola, molte ossa del Cranio.
+
+Sono costituite da: 
+
+uno strato di osso compatto;
+uno strato interno di osso spugnoso;
+un altro strato di osso compatto.
+
+Questa struttura è molto resistente pur mantenendo un peso contenuto.
+
+La loro funzione principale è la protezione (ad esempio il cranio protegge il cervello).
+
+4. OSSA IRREGOLARI
+
+Hanno forme complesse.
+
+Esempi: Vertebre; Sfenoide.
+
+Le cellule dell'osso
+
+Sono quattro tipi principali:
+
+- Cellule osteoprogenitrici: cellule staminali che danno origine alle cellule ossee.
+- Osteoblasti: costruiscono nuovo osso producendo collagene e sostanza fondamentale.
+- Osteociti: osteoblasti maturi intrappolati nella matrice; mantengono vivo il tessuto osseo e ne regolano il rimodellamento.
+- Osteoclasti: grandi cellule che riassorbono l'osso vecchio, liberando calcio nel sangue.
+
+L'osso è quindi in continuo rimodellamento: gli osteoclasti eliminano il tessuto usurato e gli osteoblasti ne costruiscono di nuovo. Questo processo permette di riparare microfratture, adattarsi ai carichi e mantenere costante la quantità di calcio nell'organismo.
+
+Riassunto da ricordare
+
+- Lamelle ossee = sottili strati concentrici di tessuto osseo ricchi di collagene e sali minerali.
+- Osteone = unità fondamentale dell'osso compatto, formato da lamelle concentriche attorno a un canale con vasi e nervi.
+- Trabecole = sottili strutture che formano l'osso spugnoso.
+- Osso compatto = duro, denso e molto resistente.
+- Osso spugnoso = leggero, contiene il midollo osseo rosso.
+- Ossa piatte = due strati di osso compatto con uno strato centrale di osso spugnoso; proteggono gli organi e offrono ampia superficie per l'inserzione dei muscoli.
+
+### GHIANDOLE ESOCRINE e ENDOCRINE
+
+1. Ghiandole esocrine: riversano il loro secreto attraverso un dotto (canale).
+
+Il prodotto non entra nel sangue, ma raggiunge:  la superficie della pelle; la cavità della bocca; lo stomaco; l'intestino; altri organi.
+ghiandole salivari → saliva, ghiandole sudoripare → sudore, ghiandole sebacee → sebo, ghiandole mammarie → latte, parte esocrina del pancreas → enzimi digestivi
+Producono: enzimi muco saliva latte sudore sebo
+
+2. Ghiandole endocrine: non possiedono dotti. 
+
+Gli ormoni vengono liberati direttamente nel sangue. Il sangue trasporta gli ormoni fino alle cellule bersaglio.
+
+Principali ghiandole endocrine
+Ipofisi, Epifisi, Tiroide, Paratiroidi, Ghiandole surrenali, parte endocrina del pancreas, gonadi (testicoli e ovaie)
+
+3. Ghiandole miste
+
+Alcune ghiandole svolgono sia funzione endocrina che esocrina.
+
+PANCREAS:
+Parte esocrina produce: amilasi  lipasi  proteasi
+
+che vengono riversate nell'intestino.
+
+Parte endocrina produce ormoni: Insulina (abbassa la glicemia), glucagone (aumenta la glicemia), somatostatina
+
+LE GHIANDOLE SURRENALI
+
+Le ghiandole surrenali si trovano sopra ciascun rene. Ogni ghiandola è composta da due parti.
+
+1. CORTECCIA SURRENALE
+
+Produce:  aldosterone cortisolo androgeni 
+
+Aldosterone regola: sodio potassio pressione arteriosa
+
+Cortisolo: È l'ormone dello stress. Serve a:  aumentare la glicemia, ridurre l'infiammazione, aiutare l'organismo durante gli stress prolungati.
+
+2. Midollare surrenale
+
+Produce: adrenalina , noradrenalina
+
+Questi ormoni:  aumentano il battito cardiaco; aumentano la pressione; preparano alla risposta "attacco o fuga".
+
+
+LE GHIANDOLE VESTIBOLARI
+
+Con il termine ghiandole vestibolari si indicano generalmente le ghiandole vestibolari maggiori, note anche come ghiandole di Bartholin.
+Si trovano ai lati dell'apertura vaginale. Funzione: producono un liquido lubrificante; facilitano i rapporti sessuali.
+Esistono anche ghiandole vestibolari minori distribuite nel vestibolo della vagina.
+
+
+LE GHIANDOLE VESCICOLARI
+
+Le ghiandole vescicolari, o vescicole seminali, fanno parte dell'apparato riproduttore maschile.
+
+Producono circa il 60–70% del liquido seminale.
+
+Il loro secreto contiene: fruttosio (nutrimento per gli spermatozoi), prostaglandine, proteine, sostanze alcaline
+
+Il liquido seminale si unisce poi agli spermatozoi e alle secrezioni della prostata.
+
+
+LA PROSTATA
+
+È una ghiandola esocrina. Produce un liquido che: protegge gli spermatozoi; migliora la loro motilità; contribuisce alla formazione dello sperma.
+
+LE GHIANDOLE SALIVARI
+
+Sono tre paia principali. Parotidi Sottomandibolari Sottolinguali
+
+Producono saliva contenente: acqua, muco, sali minerali, enzima amilasi
+
+LE GHIANDOLE SEBACEE
+
+Producono sebo, che protegge la pelle; impedisce l'eccessiva perdita di acqua; lubrifica i capelli.
+Sono quasi sempre associate ai follicoli piliferi.
+
+
+LE GHIANDOLE SUDORIPARE
+
+Sono di due tipi.
+
+Eccrine, distribuite in quasi tutta la pelle; producono sudore acquoso; regolano la temperatura corporea.
+
+Apocrine, presenti soprattutto: ascelle; regione genitale. Producono un secreto più denso che, una volta degradato dai batteri della pelle, contribuisce all'odore corporeo.
+
+LE GHIANDOLE LACRIMALI
+
+Producono le lacrime.
+
+Le lacrime:  lubrificano l'occhio;  rimuovono polvere e detriti; contengono lisozima, un enzima con azione antibatterica.
+
+
+LE GHIANDOLE MAMMARIE
+
+Sono ghiandole esocrine modificate. Producono: colostro; latte.
+Il latte viene espulso attraverso i dotti galattofori fino al capezzolo.
+
+
 
 ## DA RIVEDERE
 
