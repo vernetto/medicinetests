@@ -3980,6 +3980,22 @@ dagli oligodendrociti nel sistema nervoso centrale (SNC).
 La mielina è un ottimo isolante elettrico. Ma la guaina non è continua. Esistono piccole interruzioni chiamate NODI DI RANVIER.
 L'impulso viene rigenerato in ciascun nodo: CONDUZIONE SALTATORIA, l'impulso nervoso si propaga lungo la membrana dell'assone saltando da una porzione priva di mielina alla successiva.
 
+### CLOROPLASTO
+
+Il CLOROPLASTO è un organulo presente nelle cellule vegetali e nelle alghe. La sua funzione è svolgere la fotosintesi clorofilliana.
+
+È circondato da due membrane. Dentro contiene un liquido chiamato STROMA. Dentro lo stroma troviamo: enzimi, DNA del cloroplasto, ribosomi, amido, i tilacoidi. 
+
+I TILACOIDI sono piccoli sacchetti appiattiti costituiti da una membrana. Sembrano delle monetine. Molti tilacoidi vengono impilati uno sopra l'altro. Nella loro membrana si trovano: la clorofilla, i fotosistemi, la catena di trasporto degli elettroni, l'ATP sintasi.
+Qui avviene la fase luminosa della fotosintesi.
+
+La CLOROFILLA è il pigmento verde delle piante. Serve ad assorbire la luce. Assorbe soprattutto: blu e rosso; riflette invece il verde.
+
+Il FOTOSISTEMA è un complesso di pigmenti e proteine presente nella membrana dei tilacoidi del cloroplasto, capace di assorbire la luce e trasformarne l'energia in energia chimica. E' costituito da clorofilla, altri pigmenti e numerose proteine.
+
+Fotosistema II (PSII): 2H2​O → O2​ + 4H+ + 4e−
+
+Fotosistema I (PSI). Riceve gli elettroni provenienti dal Fotosistema II. Li "ricarica" grazie alla luce e permette la formazione del NADPH, una molecola ricca di energia.
 
 
 ## DA RIVEDERE
