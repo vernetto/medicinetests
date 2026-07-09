@@ -64,10 +64,15 @@ I filamenti intermedi sono una specie di "cavi resistenti". Non servono tanto al
 **12. Cloroplasti** – fanno la fotosintesi; producono zuccheri grazie alla luce. Dentro i cloroplasti ci sono strutture chiamate tilacoidi, impilate in gruppi chiamati grana. Nei tilacoidi c'è la clorofilla, il pigmento verde che assorbe la luce.
 
 **13. Grande vacuolo centrale** – contiene acqua e sostanze di riserva.
+Il vacuolo è una cavità delimitata da una membrana detta tonoplasto, presente nel citoplasma della cellula vegetale e piena di un liquido chiamato succo vacuolare.
+Nelle cellule vegetali mature occupa anche il 70-90% del volume della cellula.
 
 **Il nucleolo** è una regione dentro il nucleo dove si produce soprattutto RNA ribosomiale (rRNA). Serve a preparare i componenti dei ribosomi.
 
 I **batteri** sono procarioti: privi di un nucleo ben definito. Il loro DNA non è chiuso dentro un nucleo con membrana nucleare, ma si trova in una zona chiamata **nucleoide**.
+
+I **procarioti** non fanno la mitosi. Non hanno un nucleo; non hanno cromosomi racchiusi da una membrana nucleare;
+possiedono generalmente un solo cromosoma circolare libero nel citoplasma (nella regione chiamata nucleoide). Si dividono mediante scissione binaria (o fissione binaria).
 
 ---
 
