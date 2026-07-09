@@ -7,6 +7,7 @@
 ### Struttura della cellula
 
 La cellula è come una piccola "fabbrica vivente".
+Nell'uomo sono: somatiche germinali staminali
 
 Le parti principali sono:
 
@@ -401,6 +402,16 @@ paterno:  BBAA
 ```
 
 Il crossing-over serve ad aumentare la variabilità genetica. I figli non sono copie esatte dei genitori.
+
+La SINAPSI è il processo in cui i cromosomi omologhi (uno ereditato dalla madre e uno dal padre) si appaiano perfettamente lungo tutta la loro lunghezza.
+
+Questo fenomeno avviene solo durante la meiosi, precisamente nella profase I.
+
+Durante la sinapsi:
+
+i cromosomi omologhi si affiancano;
+formano una struttura chiamata bivalente o TETRADE (4 cromatidi in totale);
+può avvenire il crossing-over, cioè lo scambio di tratti di DNA tra cromatidi non fratelli, che aumenta la variabilità genetica.
 
 **Metafase I: gli omologhi si dispongono al centro**
 
@@ -3977,6 +3988,17 @@ L'impulso viene rigenerato in ciascun nodo: CONDUZIONE SALTATORIA, l'impulso ner
 > Se una cellula che in fase G1 contiene una quantità di DNA pari a x si divide per meiosi, quale sarà il contenuto di DNA di ogni singola cellula in profase II?
 
 *(Risposta: x — la meiosi I ha dimezzato i cromosomi ma in profase II ogni cromosoma ha ancora 2 cromatidi, quindi il contenuto è x)*
+
+
+
+Quale, tra questi eventi, caratterizza la meiosi e NON la mitosi?
+A) Appaiamento dei cromosomi omologhi
+B) Dissoluzione della membrana nucleare
+C) Duplicazione del DNA prima che inizi il processo
+D) Migrazione verso i poli opposti dei cromatidi fratelli di ciascun cromosoma
+E) Allineamento dei cromosomi nella regione mediana del fuso
+
+
 
 ---
 
