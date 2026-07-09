@@ -2346,7 +2346,7 @@ La coda lunga è apolare e si lega ai grassi; la testa ionica è polare e si leg
 
 ### Legame covalente e polarità
 
-Nella molecola d'acqua, il legame tra ossigeno e idrogeno è un **legame covalente**, perché O e H condividono elettroni. Però non li condividono "alla pari": l'ossigeno è più elettronegativo dell'idrogeno, quindi attira di più gli elettroni.
+Nella molecola d'acqua, il legame tra ossigeno e idrogeno è un **legame covalente**, perché O e H condividono elettroni. Però non li condividono "alla pari": l'ossigeno è più elettronegativo dell'idrogeno, quindi attira di più gli elettroni -> legame covalente polare.
 
 - **covalente** = elettroni condivisi
 - **polare** = condivisi in modo disuguale
@@ -2425,14 +2425,47 @@ A 25°C: **Kw = 10⁻¹⁴**
 . `H₂O + H⁺ → H₃O⁺` (H2O agisce da base)
 
 **Sistema tampone del sangue:**
-`H₂CO₃ ⇄ H⁺ + HCO₃⁻`
+Il pH normale del sangue è: 7,35 - 7,45
+Se scende sotto 7,35 si parla di acidosi. Se sale sopra 7,45 si parla di alcalosi.
 
+`CO₂ + H₂O ⇄ H₂CO₃ ⇄ H⁺ + HCO₃⁻`
+
+Se nel sangue arrivano molti H⁺, il pH tende a diminuire, allora gli ioni H⁺ vengono catturati: H⁺ + HCO₃⁻ -> H₂CO₃
+L'acido carbonico è instabile. Si trasforma in: H₂CO₃​ → CO₂ + H₂O e la CO₂ viene eliminata con la respirazione.
+Viceversa se il sangue diventra troppo basico H₂CO₃ -> H⁺ + HCO₃⁻ .
+Se il sangue e' acido, la respirazione accelera; se troppo basico, rallenta.
 
 Un acido DIPROTICO può fornire 2 H⁺ per molecola (es. H₂SO₄)
 
 Una reazione è OMOGENEA quando tutte le specie chimiche coinvolte si trovano nella stessa fase fisica (solido, liquido, gas, soluzione acquosa).
 
 Un acido colora la cartina tornasole di rosso. Una base di blu.
+
+### MISCELE
+
+Caratteristiche di una miscela:
+- È composta da almeno due sostanze.
+- Le sostanze non reagiscono chimicamente.
+- Ogni componente mantiene le proprie proprietà.
+- I componenti possono essere separati con metodi fisici.
+- Può essere solida, liquida o gassosa
+- Può avere una o più fasi
+- La composizione è variabile
+
+1. Miscela omogenea
+
+Ha un aspetto uniforme: non distingui i componenti.
+acqua e zucchero, acqua e sale, aria, ottone (lega di rame e zinco)
+In questo caso si parla anche di soluzione.
+
+2. Miscela eterogenea
+
+I componenti sono distinguibili.
+acqua e olio, sabbia e acqua, insalata, granito
+
+L'olio, ad esempio, galleggia sull'acqua formando due strati.
+
+
 
 ---
 
@@ -2575,11 +2608,13 @@ Le condizioni in cui il comportamento di un gas si avvicina di più a quello di 
 ### Trigonometria
 
 | Formula | |
-|---|---|
-| sin(2x) = 2 sin(x) cos(x) | |
-| cos²x = 1 − sin²x | |
-| cos(a + b) = cos(a)·cos(b) – sin(a)·sin(b) | |
-| sin(x) = cos(90° − x) | |
+|---|
+| sin(2x) = 2 sin(x) cos(x) |
+| cos(2x) = cos²x - sin²x |
+| cos(2x) = 2cos²x - 1 |
+| cos²x = 1 − sin²x |
+| cos(a + b) = cos(a)·cos(b) – sin(a)·sin(b) |
+| sin(x) = cos(90° − x) |
 
 | Angolo | sin |
 |---|---|
@@ -3051,6 +3086,33 @@ Bacilli: sono batteri a forma di bastoncino.
 Vibrioni: sono batteri a forma di virgola o bastoncino ricurvo.
 Spirilli: sono batteri a forma di spirale rigida, come una piccola elica.
 Spirochete: Sono batteri a forma di spirale flessibile, più sottili e mobili degli spirilli. Esempio: Treponema pallidum, il batterio della sifilide.
+
+
+Le CELLULE EPITELIALI non rivestono soltanto superfici, ma possono anche specializzarsi nella secrezione. Le cellule delle ghiandole (es. ghiandole salivari, sudoripare, pancreas, tiroide) sono infatti cellule epiteliali. 
+Gli epiteli rivestono: la superficie esterna del corpo (epidermide), le cavità interne (bocca, stomaco, intestino, vasi sanguigni, polmoni...), e formano le ghiandole. Quindi non si trovano solo all'esterno. Poggiano su una membrana basale. Sono avascolari. alcune sono secretorie (ghiandole), altre assorbenti (intestino), protettive (pelle) o ciliate (vie respiratorie).
+
+Le cellule epiteliali sono molto vicine tra loro, unite da giunzioni cellulari, e possiedono pochissima matrice extracellulare.
+L'abbondante matrice extracellulare è tipica del tessuto connettivo (ossa, cartilagine, tendini, derma...).
+
+### MATRICE EXTRACELLULARE
+
+La MATRICE EXTRACELLULARE (MEC) è tutto il materiale che si trova tra una cellula e l'altra. Contiene principalmente:
+- Fibre di collagene → danno resistenza.
+- Fibre elastiche → permettono ai tessuti di allungarsi e tornare alla forma originale.
+- Proteoglicani e glicoproteine → trattengono acqua e formano una specie di gel che riempie gli spazi.
+In pratica è una rete di proteine e sostanze gelatinose che sostiene le cellule, le tiene unite, permette il passaggio di nutrienti e segnali.
+
+Dove ce n'è tanta? Nei tessuti connettivi. Per esempio:
+
+🦴 Osso → la matrice è molto dura perché contiene sali di calcio.
+🦵 Cartilagine → la matrice è elastica e resistente.
+🦴 Tendini → tantissimo collagene.
+🧴 Derma della pelle → ricco di collagene ed elastina.
+
+Qui la matrice rappresenta gran parte del tessuto.
+
+Ce n'è poca negli epiteli, le cellule epiteliali sono praticamente attaccate una all'altra.
+
 
 ### Ka e Kb
 Il pKa misura quanto è forte o debole un acido.
@@ -3937,17 +3999,19 @@ La DNA polimerasi legge il filamento stampo in direzione 3'→5' e sintetizza il
 Le leggi di Mendel sono tre principi fondamentali della genetica formulati dal monaco e biologo Gregor Mendel tra il 1856 e il 1865, grazie agli esperimenti sulle piante di pisello (Pisum sativum).
 
 Prima legge di Mendel: LEGGE DELL'UNIFORMITÀ (O DOMINANZA)
+
 Incrociando due individui omozigoti con caratteri opposti, tutta la prima generazione (F1) è uguale.
 
 GG × gg  -> Tutti i figli sono: Gg 
 
 Seconda legge di Mendel: LEGGE DELLA SEGREGAZIONE
-Perché durante la meiosi i due alleli di uno stesso gene si separano. Il gamete riceve un solo allele. Se una cellula possiede Gg i gameti saranno 50% G 50% g, mai Gg.
+
+Durante la meiosi i due alleli di uno stesso gene si separano. Il gamete riceve un solo allele. Se una cellula possiede Gg i gameti saranno 50% G 50% g, mai Gg.
 
 Terza legge di Mendel: ASSORTIMENTO INDIPENDENTE
+
 Gli alleli di geni diversi si distribuiscono nei gameti indipendentemente l'uno dall'altro.
-Un individuo GgLl può produrre quattro tipi di gameti: GL Gl gL gl
-Tutti con uguale probabilità.
+Un individuo GgLl può produrre quattro tipi di gameti: GL Gl gL gl , tutti con uguale probabilità.
 
 
 ### SELEZIONE DIVERGENTE
@@ -3996,6 +4060,44 @@ Il FOTOSISTEMA è un complesso di pigmenti e proteine presente nella membrana de
 Fotosistema II (PSII): 2H2​O → O2​ + 4H+ + 4e−
 
 Fotosistema I (PSI). Riceve gli elettroni provenienti dal Fotosistema II. Li "ricarica" grazie alla luce e permette la formazione del NADPH, una molecola ricca di energia.
+
+### COREA DI HUNTINGTON
+
+La corea di Huntington è una malattia genetica ereditaria autosomica dominante che colpisce progressivamente il cervello, causando movimenti involontari, disturbi cognitivi e alterazioni del comportamento. Dal greco choreia, che significa danza. Si usa questo termine perché i pazienti compiono movimenti: involontari; rapidi; irregolari; come se stessero "danzando".
+È causata da una mutazione del gene HTT (Huntingtin), situato sul cromosoma 4.
+La mutazione consiste nella ripetizione eccessiva della sequenza di tre basi CAG.
+Persone sane: circa 10-35 ripetizioni.
+Persone con la malattia: 36 o più ripetizioni.
+Più ripetizioni ci sono, più la malattia tende a comparire precocemente e a essere grave.
+
+### GAS
+
+Se comprimi un gas: il volume diminuisce; la pressione aumenta. Legge di Boyle P1​V1​ = P2​V2​
+
+La solubilità è la quantità di gas che riesce a sciogliersi in un liquido.
+Più aumenta la pressione del gas sopra un liquido, più gas si scioglie nel liquido. Legge di Henry
+
+L'ossigeno è poco solubile. Per questo nel sangue: 
+solo circa 1-2% dell'ossigeno è disciolto nel plasma;
+circa 98-99% è trasportato dall'emoglobina.
+
+La CO₂ è circa 20 volte più solubile dell'ossigeno. Per questo viene trasportata facilmente.
+Nel sangue:
+una parte è disciolta;
+una parte legata all'emoglobina;
+la maggior parte diventa bicarbonato.
+
+Quando più gas sono mescolati, ciascuno esercita una propria pressione. Questa si chiama pressione parziale.
+Formula: P tot = P1 + P2 + P3 +…   (legge di Dalton)
+
+PO2 ​= 760 × 0,21 ≈ 160mmHg ( il 21% dell'aria e' O2)
+
+Legge di Charles, Pressione costante 
+T1V1 = T2V2 	​
+Più aumenta la temperatura, più aumenta il volume.
+Legge di Gay-Lussac, Volume costante T1P1 = T2P2 Se aumenta la temperatura, aumenta la pressione.
+
+
 
 
 ## DA RIVEDERE
