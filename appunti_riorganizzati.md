@@ -3967,8 +3967,7 @@ dalle cellule di Schwann nel sistema nervoso periferico (SNP);
 dagli oligodendrociti nel sistema nervoso centrale (SNC).
 
 La mielina è un ottimo isolante elettrico. Ma la guaina non è continua. Esistono piccole interruzioni chiamate NODI DI RANVIER.
-L'impulso viene rigenerato in ciascun nodo: CONDUZIONE SALTATORIA
-
+L'impulso viene rigenerato in ciascun nodo: CONDUZIONE SALTATORIA, l'impulso nervoso si propaga lungo la membrana dell'assone saltando da una porzione priva di mielina alla successiva.
 
 
 
@@ -4008,5 +4007,8 @@ che riceve il regalo anche da B.
 Da chi riceve i regali E?
 
 
+### REFERENZE
+
+https://it.wikipedia.org/wiki/Mitosi
 
 

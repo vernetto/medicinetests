@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Quiz · Mitosi e Meiosi</title>
+<style>
+  :root{
+    --ink:#15242b;
+    --paper:#f4f1e9;
+    --card:#ffffff;
+    --line:#d9d3c5;
+    --teal:#0f6e56;
+    --teal-soft:#e1f5ee;
+    --coral:#c2451f;
+    --coral-soft:#faece7;
+    --amber:#ba7517;
+    --muted:#5f5e5a;
+    --green:#3b6d11;
+    --green-soft:#eaf3de;
+    --red:#a32d2d;
+    --red-soft:#fcebeb;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{-webkit-text-size-adjust:100%}
+  body{
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    background:var(--paper);
+    color:var(--ink);
+    line-height:1.6;
+    padding:24px 16px 80px;
+  }
+  .wrap{max-width:720px;margin:0 auto}
+
+  header{
+    background:var(--ink);
+    color:var(--paper);
+    border-radius:18px;
+    padding:28px 28px 24px;
+    margin-bottom:22px;
+  }
+  .eyebrow{
+    font-size:12px;letter-spacing:.18em;text-transform:uppercase;
+    color:#9fd3c4;font-weight:600;margin-bottom:8px;
+  }
+  header h1{font-size:27px;font-weight:600;letter-spacing:-.01em;line-height:1.2}
+  header p{color:#c7d6d1;font-size:15px;margin-top:8px}
+
+  .toolbar{
+    display:flex;gap:10px;flex-wrap:wrap;align-items:center;
+    margin-bottom:18px;
+  }
+  .stat{
+    background:var(--card);border:1px solid var(--line);border-radius:12px;
+    padding:8px 14px;font-size:14px;color:var(--muted);
+  }
+  .stat b{color:var(--ink);font-weight:600}
+  .spacer{flex:1}
+  button.ghost{
+    background:var(--card);border:1px solid var(--line);border-radius:12px;
+    padding:9px 16px;font-size:14px;color:var(--ink);cursor:pointer;
+    font-weight:500;transition:border-color .15s,background .15s;
+  }
+  button.ghost:hover{border-color:var(--teal);background:var(--teal-soft)}
+
+  .bar{
+    height:8px;background:#e5ded0;border-radius:99px;overflow:hidden;margin-bottom:22px;
+  }
+  .bar span{display:block;height:100%;background:var(--teal);width:0;transition:width .35s ease}
+
+  .card{
+    background:var(--card);border:1px solid var(--line);border-radius:16px;
+    padding:24px 22px;margin-bottom:16px;
+  }
+  .qnum{
+    font-size:12px;letter-spacing:.14em;text-transform:uppercase;
+    color:var(--teal);font-weight:700;margin-bottom:10px;
+  }
+  .qtext{font-size:18px;font-weight:600;line-height:1.4;margin-bottom:18px}
+
+  .opt{
+    display:flex;gap:12px;align-items:flex-start;
+    border:1px solid var(--line);border-radius:12px;
+    padding:13px 15px;margin-bottom:10px;cursor:pointer;
+    transition:border-color .15s,background .15s;font-size:15.5px;
+  }
+  .opt:hover{border-color:var(--teal)}
+  .opt .letter{
+    flex:none;width:26px;height:26px;border-radius:7px;
+    background:var(--paper);border:1px solid var(--line);
+    display:flex;align-items:center;justify-content:center;
+    font-size:13px;font-weight:700;color:var(--muted);
+  }
+  .opt.correct{border-color:var(--green);background:var(--green-soft)}
+  .opt.correct .letter{background:var(--green);color:#fff;border-color:var(--green)}
+  .opt.wrong{border-color:var(--red);background:var(--red-soft)}
+  .opt.wrong .letter{background:var(--red);color:#fff;border-color:var(--red)}
+  .opt.locked{cursor:default}
+  .opt.locked:hover{border-color:var(--line)}
+  .opt.correct.locked:hover{border-color:var(--green)}
+  .opt.wrong.locked:hover{border-color:var(--red)}
+
+  .explain{
+    margin-top:6px;border-left:3px solid var(--amber);
+    background:#faf6ec;border-radius:0 8px 8px 0;
+    padding:12px 16px;font-size:14.5px;color:#4a4032;
+    display:none;
+  }
+  .explain.show{display:block}
+  .explain b{color:var(--amber)}
+
+  .nav{display:flex;gap:12px;margin-top:20px}
+  button.primary{
+    flex:1;background:var(--teal);color:#fff;border:none;border-radius:12px;
+    padding:14px;font-size:15px;font-weight:600;cursor:pointer;
+    transition:opacity .15s;
+  }
+  button.primary:hover{opacity:.9}
+  button.primary:disabled{opacity:.4;cursor:not-allowed}
+  button.sec{
+    background:var(--card);border:1px solid var(--line);border-radius:12px;
+    padding:14px 20px;font-size:15px;font-weight:500;cursor:pointer;color:var(--ink);
+  }
+  button.sec:disabled{opacity:.4;cursor:not-allowed}
+
+  .result{text-align:center;padding:44px 24px}
+  .result .big{font-size:52px;font-weight:700;color:var(--teal);line-height:1}
+  .result .lbl{color:var(--muted);font-size:15px;margin:10px 0 4px}
+  .result h2{font-size:22px;margin:18px 0 6px}
+  .result p{color:var(--muted);margin-bottom:22px}
+  .badge{display:inline-block;padding:6px 16px;border-radius:99px;font-weight:600;font-size:14px;margin-top:8px}
+
+  footer{text-align:center;color:var(--muted);font-size:13px;margin-top:30px}
+
+  @media (max-width:520px){
+    header h1{font-size:22px}
+    .qtext{font-size:16.5px}
+    .opt{font-size:14.5px}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="eyebrow">Professioni sanitarie · Biologia</div>
+    <h1>Mitosi e meiosi</h1>
+    <p>50 domande a risposta multipla con spiegazione. Rispondi, controlla e passa alla successiva.</p>
+  </header>
+
+  <div class="toolbar">
+    <div class="stat">Domanda <b id="pos">1</b> / <b id="tot">50</b></div>
+    <div class="stat">Corrette <b id="score">0</b></div>
+    <div class="spacer"></div>
+    <button class="ghost" id="shuffle">Rimescola</button>
+  </div>
+
+  <div class="bar"><span id="fill"></span></div>
+
+  <div id="quiz"></div>
+</div>
+
+<script>
+const QUESTIONS = [
+  {q:"In quale fase del ciclo cellulare avviene la duplicazione del DNA?",o:["Fase G1","Fase S","Fase G2","Mitosi"],a:1,e:"Il DNA si replica durante la fase S (sintesi) dell'interfase, prima che la cellula entri in divisione."},
+  {q:"Quante cellule figlie si formano al termine della mitosi?",o:["1","2","3","4"],a:1,e:"La mitosi produce 2 cellule figlie diploidi, geneticamente identiche alla cellula madre."},
+  {q:"Quante cellule figlie si formano al termine della meiosi?",o:["1","2","3","4"],a:3,e:"La meiosi comporta due divisioni successive e genera 4 cellule figlie aploidi."},
+  {q:"Le cellule figlie della mitosi sono:",o:["Geneticamente identiche alla madre","Aploidi","Diverse tra loro","Prive di nucleo"],a:0,e:"La mitosi conserva il corredo genetico: le figlie sono copie identiche della cellula madre."},
+  {q:"Le cellule figlie della meiosi sono:",o:["Diploidi","Aploidi","Triploidi","Identiche alla madre"],a:1,e:"La meiosi dimezza il numero cromosomico: le figlie (gameti) sono aploidi."},
+  {q:"Il crossing over avviene durante:",o:["Profase I della meiosi","Metafase mitotica","Anafase II","Telofase"],a:0,e:"Nella profase I gli omologhi si appaiano e scambiano segmenti di DNA (crossing over), generando variabilità."},
+  {q:"I cromatidi fratelli si separano durante:",o:["Anafase mitotica e anafase II","Profase I","Metafase I","Telofase I"],a:0,e:"I cromatidi fratelli restano uniti fino all'anafase della mitosi e all'anafase II della meiosi."},
+  {q:"I cromosomi omologhi si separano durante:",o:["Anafase I della meiosi","Anafase mitotica","Anafase II","Profase"],a:0,e:"È la meiosi I (divisione riduzionale) a separare i cromosomi omologhi."},
+  {q:"La mitosi produce cellule:",o:["Aploidi","Diploidi, uguali alla madre","Gameti","Spore"],a:1,e:"La mitosi mantiene la diploidia: da una cellula 2n si ottengono due cellule 2n."},
+  {q:"La meiosi è alla base di:",o:["Accrescimento dei tessuti","Riparazione delle ferite","Produzione dei gameti","Duplicazione batterica"],a:2,e:"La meiosi (gametogenesi) produce le cellule sessuali: spermatozoi e cellule uovo."},
+  {q:"Il numero cromosomico della specie umana è:",o:["23","46","44","92"],a:1,e:"L'uomo ha 46 cromosomi (23 coppie) nelle cellule somatiche."},
+  {q:"I gameti umani contengono quanti cromosomi?",o:["46","23","22","92"],a:1,e:"I gameti sono aploidi: 23 cromosomi, uno per ciascuna coppia."},
+  {q:"Durante la metafase i cromosomi si dispongono:",o:["Ai poli","Sulla piastra equatoriale","Attorno al nucleo","Nel citoplasma"],a:1,e:"In metafase i cromosomi si allineano sul piano equatoriale (piastra metafasica)."},
+  {q:"La struttura che unisce i due cromatidi fratelli è:",o:["Il centriolo","Il centromero","Il cinetocore","Il fuso"],a:1,e:"Il centromero è il punto di unione dei due cromatidi fratelli di un cromosoma duplicato."},
+  {q:"Il fuso mitotico è composto da:",o:["Microfilamenti","Microtubuli","Filamenti intermedi","Membrane"],a:1,e:"Il fuso è formato da microtubuli, che spostano i cromosomi verso i poli."},
+  {q:"La citodieresi (citochinesi) è:",o:["La divisione del nucleo","La divisione del citoplasma","La duplicazione del DNA","La condensazione dei cromosomi"],a:1,e:"La citochinesi è la divisione del citoplasma che completa la separazione delle due cellule figlie."},
+  {q:"Al termine della meiosi I si ottengono cellule:",o:["Diploidi con cromatidi singoli","Aploidi con cromosomi a due cromatidi","Diploidi con cromosomi a due cromatidi","Aploidi con cromatidi singoli"],a:1,e:"Dopo la meiosi I le cellule sono già aploidi, ma ogni cromosoma è ancora formato da due cromatidi."},
+  {q:"La variabilità genetica dei gameti è dovuta principalmente a:",o:["Mitosi","Crossing over e assortimento indipendente","Duplicazione del DNA","Citochinesi"],a:1,e:"Crossing over e assortimento indipendente degli omologhi ricombinano il patrimonio genetico."},
+  {q:"Una cellula diploide umana in fase G1 possiede:",o:["23 cromosomi","46 cromosomi","92 cromosomi","46 cromatidi"],a:1,e:"In G1, prima della duplicazione, la cellula ha 46 cromosomi a cromatidio singolo."},
+  {q:"La profase è caratterizzata da:",o:["Condensazione dei cromosomi","Separazione dei cromatidi","Allineamento equatoriale","Formazione dei nuclei figli"],a:0,e:"In profase la cromatina si condensa in cromosomi visibili e si dissolve l'involucro nucleare."},
+  {q:"Durante l'anafase mitotica migrano ai poli:",o:["Cromosomi omologhi","Cromatidi fratelli","Bivalenti","Gameti"],a:1,e:"Nella mitosi l'anafase separa i cromatidi fratelli, che diventano cromosomi indipendenti."},
+  {q:"La meiosi comporta quante divisioni cellulari successive?",o:["Una","Due","Tre","Quattro"],a:1,e:"La meiosi è composta da due divisioni: meiosi I (riduzionale) e meiosi II (equazionale)."},
+  {q:"La mitosi comporta quante divisioni?",o:["Una","Due","Tre","Quattro"],a:0,e:"La mitosi è una singola divisione che produce due cellule figlie."},
+  {q:"I cromosomi omologhi:",o:["Sono cromatidi identici","Hanno gli stessi geni ma alleli anche diversi","Sono sempre identici","Provengono dallo stesso genitore"],a:1,e:"Gli omologhi (uno materno, uno paterno) portano gli stessi geni, ma con alleli potenzialmente diversi."},
+  {q:"Il termine 'aploide' indica una cellula con:",o:["Doppio corredo cromosomico","Singolo corredo cromosomico","Nessun cromosoma","Cromosomi extra"],a:1,e:"Aploide (n) significa una sola copia di ciascun cromosoma; diploide (2n) ne ha due."},
+  {q:"Nella specie umana le cellule somatiche sono:",o:["Aploidi","Diploidi","Triploidi","Prive di cromosomi"],a:1,e:"Le cellule del corpo (somatiche) sono diploidi; solo i gameti sono aploidi."},
+  {q:"La tetrade (o bivalente) è formata da:",o:["Due cromatidi","Quattro cromatidi (coppia di omologhi duplicati)","Due cromosomi non omologhi","Un singolo cromosoma"],a:1,e:"La tetrade è l'appaiamento di due omologhi duplicati: 2 cromosomi × 2 cromatidi = 4 cromatidi."},
+  {q:"La sinapsi (appaiamento degli omologhi) avviene in:",o:["Profase I","Metafase mitotica","Anafase II","Telofase"],a:0,e:"La sinapsi, con formazione del complesso sinaptonemale, avviene nella profase I meiotica."},
+  {q:"La riduzione del numero cromosomico da diploide ad aploide avviene:",o:["Nella mitosi","Nella meiosi I","Nella meiosi II","Nella fase S"],a:1,e:"La meiosi I è la divisione riduzionale: separa gli omologhi e dimezza il numero cromosomico."},
+  {q:"La meiosi II è simile:",o:["Alla fase S","A una mitosi (separa i cromatidi)","Alla profase I","Alla citochinesi"],a:1,e:"La meiosi II ricorda una mitosi: separa i cromatidi fratelli, senza ulteriore duplicazione del DNA."},
+  {q:"Le cellule staminali si moltiplicano tramite:",o:["Meiosi","Mitosi","Gemmazione","Scissione binaria"],a:1,e:"Le staminali si dividono per mitosi, mantenendo il corredo diploide."},
+  {q:"La non disgiunzione dei cromosomi può causare:",o:["Crossing over","Aneuploidie (es. sindrome di Down)","Mitosi accelerata","Duplicazione del DNA"],a:1,e:"Se gli omologhi o i cromatidi non si separano correttamente, i gameti hanno un numero anomalo di cromosomi."},
+  {q:"La sindrome di Down (trisomia 21) è dovuta a:",o:["Delezione","Non disgiunzione del cromosoma 21","Crossing over","Poliploidia"],a:1,e:"La trisomia 21 deriva dalla non disgiunzione del cromosoma 21 durante la meiosi."},
+  {q:"Al termine della meiosi ogni gamete contiene:",o:["Una copia di ciascun cromosoma","Due copie","Nessun cromosoma","Tutti i cromosomi in coppia"],a:0,e:"Ogni gamete aploide porta una sola copia di ciascun cromosoma."},
+  {q:"La fase più lunga del ciclo cellulare è:",o:["La mitosi","L'interfase","L'anafase","La telofase"],a:1,e:"L'interfase (G1, S, G2) occupa la maggior parte del ciclo; la mitosi vera e propria è breve."},
+  {q:"In quale fase i cromosomi sono meno condensati?",o:["Metafase","Interfase","Anafase","Profase"],a:1,e:"In interfase il DNA è sotto forma di cromatina despiralizzata, quindi poco condensato."},
+  {q:"Prima delle due divisioni meiotiche, la duplicazione del DNA avviene:",o:["Una sola volta","Due volte","Tre volte","Mai"],a:0,e:"Il DNA si duplica una sola volta (in fase S) prima della meiosi I: per questo il risultato è aploide."},
+  {q:"La telofase è caratterizzata da:",o:["Ricomparsa dei nuclei e decondensazione dei cromosomi","Allineamento equatoriale","Separazione dei cromatidi","Duplicazione del DNA"],a:0,e:"In telofase si riformano gli involucri nucleari e i cromosomi si despiralizzano."},
+  {q:"Il cinetocore è:",o:["Il punto dove si legano i microtubuli del fuso","Un tipo di cromosoma","Una cellula figlia","Un organulo"],a:0,e:"Il cinetocore è una struttura proteica sul centromero a cui si agganciano i microtubuli del fuso."},
+  {q:"Quale processo NON produce variabilità genetica?",o:["Crossing over","Assortimento indipendente","Mitosi","Fecondazione"],a:2,e:"La mitosi genera cellule identiche: non introduce variabilità genetica."},
+  {q:"Una cellula umana al termine della meiosi I ha:",o:["46 cromosomi","23 cromosomi, ciascuno a due cromatidi","23 cromatidi singoli","92 cromosomi"],a:1,e:"Dopo la meiosi I la cellula è aploide (23) ma ogni cromosoma è ancora doppio."},
+  {q:"Nei vegetali la citochinesi avviene tramite:",o:["Strozzatura della membrana","Formazione della piastra cellulare","Lisi","Gemmazione"],a:1,e:"Le cellule vegetali, avendo la parete, formano una piastra cellulare (fragmoplasto) al centro."},
+  {q:"Nelle cellule animali la citochinesi avviene tramite:",o:["Piastra cellulare","Anello contrattile che strozza la cellula","Parete","Vacuoli"],a:1,e:"Un anello di actina e miosina strozza la cellula animale creando il solco di divisione."},
+  {q:"Lo scopo principale della mitosi negli organismi pluricellulari è:",o:["Produrre gameti","Crescita e rinnovamento dei tessuti","Ridurre i cromosomi","Creare variabilità"],a:1,e:"La mitosi serve alla crescita, al rinnovamento cellulare e alla riparazione dei tessuti."},
+  {q:"Due cellule figlie mitotiche differiscono dalla madre per:",o:["Il corredo cromosomico","Nulla, sono identiche","La ploidia","Il numero di geni"],a:1,e:"Le figlie mitotiche sono geneticamente identiche alla cellula madre."},
+  {q:"L'assortimento indipendente riguarda:",o:["La separazione casuale degli omologhi in meiosi I","La duplicazione del DNA","La citochinesi","La condensazione"],a:0,e:"In meiosi I ogni coppia di omologhi si distribuisce ai poli in modo casuale e indipendente dalle altre."},
+  {q:"Se una cellula diploide ha 8 cromosomi, i suoi gameti ne avranno:",o:["8","4","16","2"],a:1,e:"I gameti sono aploidi: metà del corredo, quindi 4 cromosomi."},
+  {q:"Il ciclo cellulare comprende, in ordine:",o:["S–G1–G2–M","G1–S–G2–M","M–G1–S","G2–S–G1"],a:1,e:"L'ordine è G1 (crescita), S (duplicazione DNA), G2 (preparazione), M (mitosi)."},
+  {q:"Il checkpoint (punto di controllo) del ciclo cellulare serve a:",o:["Accelerare la divisione","Verificare che ogni fase sia completata correttamente","Produrre gameti","Condensare i cromosomi"],a:1,e:"I checkpoint controllano l'integrità del DNA e la corretta esecuzione di ogni fase prima di procedere."},
+  {q:"Una divisione cellulare incontrollata è alla base di:",o:["Meiosi","Tumori","Produzione di gameti","Riduzione cromosomica"],a:1,e:"La perdita di controllo del ciclo cellulare porta a proliferazione incontrollata, tipica dei tumori."}
+];
+
+const LETTERS = ["A","B","C","D"];
+let order = QUESTIONS.map((_,i)=>i);
+let idx = 0;
+let score = 0;
+let answered = false;
+
+const quiz = document.getElementById('quiz');
+const posEl = document.getElementById('pos');
+const scoreEl = document.getElementById('score');
+const fill = document.getElementById('fill');
+document.getElementById('tot').textContent = QUESTIONS.length;
+
+function shuffle(arr){
+  for(let i=arr.length-1;i>0;i--){
+    const j=Math.floor(Math.random()*(i+1));
+    [arr[i],arr[j]]=[arr[j],arr[i]];
+  }
+}
+
+function render(){
+  answered = false;
+  const q = QUESTIONS[order[idx]];
+  posEl.textContent = idx+1;
+  scoreEl.textContent = score;
+  fill.style.width = (idx/QUESTIONS.length*100)+"%";
+
+  let opts = q.o.map((t,i)=>
+    `<div class="opt" data-i="${i}">
+       <span class="letter">${LETTERS[i]}</span>
+       <span>${t}</span>
+     </div>`).join("");
+
+  quiz.innerHTML =
+    `<div class="card">
+       <div class="qnum">Domanda ${idx+1}</div>
+       <div class="qtext">${q.q}</div>
+       <div class="opts">${opts}</div>
+       <div class="explain" id="exp"><b>Spiegazione.</b> ${q.e}</div>
+       <div class="nav">
+         <button class="sec" id="prev" ${idx===0?'disabled':''}>Indietro</button>
+         <button class="primary" id="next" disabled>Avanti</button>
+       </div>
+     </div>`;
+
+  quiz.querySelectorAll('.opt').forEach(el=>{
+    el.addEventListener('click',()=>choose(el, q));
+  });
+  document.getElementById('next').addEventListener('click',next);
+  document.getElementById('prev').addEventListener('click',prev);
+}
+
+function choose(el, q){
+  if(answered) return;
+  answered = true;
+  const chosen = +el.dataset.i;
+  const opts = quiz.querySelectorAll('.opt');
+  opts.forEach(o=>{
+    const i = +o.dataset.i;
+    o.classList.add('locked');
+    if(i===q.a) o.classList.add('correct');
+    if(i===chosen && chosen!==q.a) o.classList.add('wrong');
+  });
+  if(chosen===q.a){ score++; scoreEl.textContent = score; }
+  document.getElementById('exp').classList.add('show');
+  const nb = document.getElementById('next');
+  nb.disabled = false;
+  nb.textContent = (idx===QUESTIONS.length-1) ? 'Vedi risultato' : 'Avanti';
+}
+
+function next(){
+  if(idx===QUESTIONS.length-1){ showResult(); return; }
+  idx++; render();
+}
+function prev(){ if(idx>0){ idx--; render(); } }
+
+function showResult(){
+  fill.style.width = "100%";
+  posEl.textContent = QUESTIONS.length;
+  const pct = Math.round(score/QUESTIONS.length*100);
+  let msg, col, bg;
+  if(pct>=85){ msg="Preparazione ottima"; col="#3b6d11"; bg="#eaf3de"; }
+  else if(pct>=65){ msg="Buon livello, rifinisci i dettagli"; col="#ba7517"; bg="#faeeda"; }
+  else if(pct>=45){ msg="Basi presenti, ripassa gli argomenti chiave"; col="#c2451f"; bg="#faece7"; }
+  else{ msg="Da riprendere con calma dall'inizio"; col="#a32d2d"; bg="#fcebeb"; }
+
+  quiz.innerHTML =
+    `<div class="card result">
+       <div class="big">${score}<span style="font-size:26px;color:var(--muted)">/${QUESTIONS.length}</span></div>
+       <div class="lbl">${pct}% di risposte corrette</div>
+       <div class="badge" style="color:${col};background:${bg}">${msg}</div>
+       <h2>Quiz completato</h2>
+       <p>Puoi rifarlo con le domande rimescolate per allenarti meglio.</p>
+       <div class="nav">
+         <button class="primary" id="again">Ricomincia</button>
+       </div>
+     </div>`;
+  document.getElementById('again').addEventListener('click',()=>restart(false));
+}
+
+function restart(reshuffle){
+  if(reshuffle) shuffle(order);
+  idx=0; score=0; scoreEl.textContent=0;
+  render();
+}
+
+document.getElementById('shuffle').addEventListener('click',()=>restart(true));
+
+render();
+</script>
+<footer>Quiz di ripasso · Mitosi e meiosi · Biologia per professioni sanitarie</footer>
+</body>
+</html>
