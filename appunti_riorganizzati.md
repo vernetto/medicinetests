@@ -1175,7 +1175,7 @@ Le citochine sono sostanze prodotte dalle cellule immunitarie per comunicare. Tr
 **Interferone** = proteina-segnale prodotta dalle cellule, soprattutto quando c'è un'infezione virale. Fa parte delle citochine.
 
 Funzioni principali degli interferoni:
-- rallentano la replicazione virale
+- rallentano mla replicazione virale
 - attivano cellule difensive come macrofagi e natural killer
 - aumentano la presentazione degli antigeni
 
@@ -1738,7 +1738,7 @@ Sistema nervoso
 Controlla: muscoli scheletrici, movimenti volontari, sensibilità cosciente (tatto, dolore, temperatura, posizione del corpo).
 
 **B. Sistema nervoso autonomo o vegetativo** (automatico)
-Controlla funzioni che normalmente non comandiamo volontariamente: battito cardiaco, pressione arteriosa, digestione, sudorazione, diametro delle pupille, respirazione in parte, secrezioni delle ghiandole, movimenti intestinali.
+Controlla funzioni che normalmente non comandiamo volontariamente: battito cardiaco, pressione arteriosa, digestione, sudorazione, diametro delle pupille, respirazione in parte, secrezioni delle ghiandole, movimenti intestinali. Contribuisce a mantenere l'omeostasi dell'organismo.
 
 Si divide in:
 
@@ -2441,6 +2441,7 @@ Viceversa se il sangue diventra troppo basico H₂CO₃ -> H⁺ + HCO₃⁻ .
 Se il sangue e' acido, la respirazione accelera; se troppo basico, rallenta.
 
 Un acido DIPROTICO può fornire 2 H⁺ per molecola (es. H₂SO₄)
+Un acido é detto POLIPROTICO quando in acqua puô cedere più di un protone al solvente.
 
 Una reazione è OMOGENEA quando tutte le specie chimiche coinvolte si trovano nella stessa fase fisica (solido, liquido, gas, soluzione acquosa).
 
@@ -2449,6 +2450,8 @@ Un acido colora la cartina tornasole di rosso. Una base di blu.
 Una SOLUZIONE IPERTONICA è una soluzione che contiene una concentrazione di soluti maggiore rispetto a un'altra soluzione con cui è a contatto, separata da una membrana semipermeabile (cioè una membrana che lascia passare l'acqua ma non, o solo in parte, i soluti).
 L'effetto principale è questo: L'acqua esce dalla cellula (o dalla soluzione meno concentrata) e si sposta verso la soluzione ipertonica.
 Questo avviene per osmosi: l'acqua tende a muoversi dove la concentrazione di soluti è maggiore.
+CRENAZIONE è quando il globulo rosso perde acqua in una soluzione ipertonica. PLASMOLISI è il fenomeno analogo nelle cellule vegetali.
+Lo stesso principio viene sfruttato per conservare alcuni alimenti con molto sale o molto zucchero (ad esempio prosciutti, merluzzo sotto sale o marmellate): l'ambiente ipertonico sottrae acqua anche ai microrganismi, ostacolandone la crescita.
 
 
 ### MISCELE
@@ -2485,6 +2488,12 @@ L'olio, ad esempio, galleggia sull'acqua formando due strati.
 - H₃PO₄: acido fosforico | PO₄³⁻: ione fosfato | HPO₄²⁻: idrogenofosfato
 - Ossido di metallo → di solito **ossido basico**
 - Ossido di non metallo → di solito **ossido acido / anidride**
+- Solfato acido di piombo (II) o anche Idrogenosolfato di piombo (II) Pb(HSO4)2  :  "II" indica il numero di ossidazione del Pb: HSO4- x 2 -> Pb è +2. Viene detto ACIDO perchè l'anione ha ancora un H+.
+
+Catione = ione con carica positiva (+)
+Anione = ione con carica negativa (−)
+
+
 
 **Conversioni di pressione:**
 
@@ -2617,6 +2626,8 @@ Più aumenta la pressione del gas, più gas si scioglie nel liquido. Esempio cla
 **Terzo principio:** Quando la temperatura si avvicina allo zero assoluto, l'entropia di un cristallo perfetto tende a zero.
 
 Le condizioni in cui il comportamento di un gas si avvicina di più a quello di un gas perfetto :  Bassa pressione e alta temperatura.
+
+L'energia interna di un gas perfetto è la somma delle energie cinetiche delle diverse molecole.
 
 
 
@@ -3160,6 +3171,8 @@ Il MUGHETTO è una micosi della mucosa orale, cioè un’infezione da fungo che 
 
 ### OSSIDAZIONE
 
+OIL RIG oxidation is loss, reduction is gain (of an electron)
+
 H₂O₂, cioè perossido di idrogeno, è ossidante perché l’ossigeno che contiene “vuole” prendere elettroni e trasformarsi in una forma più stabile. 
 In H₂O₂ l’ossigeno ha numero di ossidazione −1. Nell’acqua H₂O, invece, l’ossigeno ha numero di ossidazione −2.
 Quindi H₂O₂ può trasformarsi in acqua così:
@@ -3307,6 +3320,13 @@ Sono poco penetranti, basta un foglio di carta.
 Le β⁻ (beta) sono elettroni.
 
 Le γ (gamma) sono fotoni.
+
+### ENERGIA DI IONIZZAZIONE
+
+L'ENERGIA DI IONIZZAZIONE è l'energia necessaria per strappare il primo elettrone a un atomo neutro.
+All'interno dello stesso periodo della tavola periodica, l'energia di ionizzazione aumenta da sinistra verso destra.
+Questo perche' aumenta il numero di protoni, quindi l'attrazione aumenta. Ci sarebbe anche piu' repulsione fra gli elettroni, ma questo effetto è secondario.
+Invece nel gruppo (dall'alto in basso) → energia di ionizzazione diminuisce.
 
 
 # Tavola Periodica degli Elementi
