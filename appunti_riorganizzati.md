@@ -2446,6 +2446,11 @@ Una reazione è OMOGENEA quando tutte le specie chimiche coinvolte si trovano ne
 
 Un acido colora la cartina tornasole di rosso. Una base di blu.
 
+Una SOLUZIONE IPERTONICA è una soluzione che contiene una concentrazione di soluti maggiore rispetto a un'altra soluzione con cui è a contatto, separata da una membrana semipermeabile (cioè una membrana che lascia passare l'acqua ma non, o solo in parte, i soluti).
+L'effetto principale è questo: L'acqua esce dalla cellula (o dalla soluzione meno concentrata) e si sposta verso la soluzione ipertonica.
+Questo avviene per osmosi: l'acqua tende a muoversi dove la concentrazione di soluti è maggiore.
+
+
 ### MISCELE
 
 Caratteristiche di una miscela:
@@ -2538,7 +2543,16 @@ Massa atomica relativa (aka peso atomico) = è la media pesata delle masse degli
 Massa molecolare relativa (aka peso molecolare) = la somma dei pesi atomici di tutti gli atomi costituenti una molecola
 
 
-Un isotopo è un elemento con stesso numero atomico (protoni) ma diverso numero di neutroni (Idrogeno 1 protone 0 neutroni, Deuterio = idrogeno con 1 protone e 1 neutrone, Trizio = idrogeno con 1 protone e 2 neutroni)
+Un ISOTOPO è un elemento con stesso numero atomico (protoni) ma diverso numero di neutroni (Idrogeno 1 protone 0 neutroni, Deuterio = idrogeno con 1 protone e 1 neutrone, Trizio = idrogeno con 1 protone e 2 neutroni)
+
+Un NUCLIDE è una specie di atomo definita dal numero di protoni e di neutroni presenti nel suo nucleo.
+In altre parole, due atomi appartengono allo stesso nuclide se hanno:
+lo stesso numero di protoni (Z);
+lo stesso numero di neutroni (N).
+Si usa la notazione A.Z.X , tipo 12.6.C (6 protoni 6 neutroni)  14.6.C (6 protoni 8 neutroni), C12 e C14 sono due nuclidi differenti.
+Gli isotopi sono nuclidi dello stesso elemento che differiscono per il numero di neutroni.
+
+
 
 
 ---
@@ -3559,7 +3573,7 @@ riconoscere le cellule bersaglio
 fondersi con la membrana cellulare
 facilitare l'ingresso del virus
 
-I virus con envelope sono generalmente più sensibili:
+I virus con envelope (SARS-CoV-2, influenza, HIV, Herpes Simplex) sono generalmente più sensibili:
 
 al calore
 ai detergenti
@@ -3785,6 +3799,12 @@ Uomo: barba; baffi; voce più profonda; aumento della massa muscolare; peli sul 
 Donna: sviluppo del seno; allargamento del bacino; distribuzione del grasso su fianchi e cosce; peli pubici e ascellari.
 
 Questi non servono direttamente a produrre i gameti, ma distinguono i due sessi nell'aspetto e nella fisiologia.
+
+
+ANFIGONIA = fecondazione + unione del patrimonio genetico di due genitori. amphi = da entrambe le parti, gonia = generazione
+L'anfigonia permette: ✅ il rimescolamento dei geni dei due genitori; ✅ la variabilità genetica; ✅ una maggiore capacità della specie di adattarsi ai cambiamenti ambientali.
+
+
 
 ### OSSA
 
