@@ -28,17 +28,25 @@ Producono energia. Sono le "centrali energetiche" della cellula.
 Costruiscono le proteine.
 
 **6. Reticolo endoplasmatico rugoso (RER)**
-Ha ribosomi attaccati. Produce e trasporta proteine.
+Una grande rete di tubi e sacchetti membranosi che attraversa il citoplasma. È collegato direttamente alla membrana del nucleo.
+Si chiama rugoso perché sulla sua superficie sono attaccati moltissimi ribosomi, che gli danno un aspetto "puntinato". Produce e trasporta proteine.
 `produrre proteine → modificarle → mandarle verso l'apparato di Golgi`
 
 **7. Reticolo endoplasmatico liscio (REL)**
-Produce lipidi, cioè grassi e fosfolipidi; produce alcuni ormoni steroidei; detossifica sostanze (soprattutto nel fegato); immagazzina calcio (specialmente nelle cellule muscolari). Si chiama liscio perché non ha ribosomi sulla superficie.
+Produce lipidi, cioè grassi e fosfolipidi; produce alcuni ormoni steroidei; detossifica sostanze (soprattutto nel fegato); immagazzina calcio (specialmente nelle cellule muscolari dove viene chiamato reticolo sarcoplasmatico). Si chiama liscio perché non ha ribosomi sulla superficie.
 
 **8. Apparato di Golgi**
 Modifica, impacchetta e spedisce sostanze prodotte dalla cellula.
 
 **9. Lisosomi**
 Digeriscono materiali di scarto e sostanze da eliminare.
+Il LISOSOMA è un piccolo organulo della cellula, circondato da una membrana, che contiene enzimi digestivi (detti enzimi idrolitici).
+Puoi immaginarlo come il "sacco della spazzatura con il trituratore incorporato" della cellula.
+Il suo compito è digerire: batteri e virus entrati nella cellula; organuli vecchi o danneggiati; proteine non più utili; sostanze che la cellula ha inglobato.
+Dentro il lisosoma ci sono... Decine di enzimi capaci di rompere: proteine → in amminoacidi; lipidi → in acidi grassi; carboidrati → in zuccheri semplici; DNA e RNA → in nucleotidi. Per questo si chiamano enzimi idrolitici. Idrolitico significa che spezza le molecole usando l'acqua (idrolisi).
+Perché è importante? La cellula produce continuamente materiale da eliminare. Il lisosoma svolge una specie di raccolta differenziata. Ad esempio: un mitocondrio è troppo vecchio; viene racchiuso in una vescicola; questa si fonde con il lisosoma; gli enzimi lo smontano; i pezzi vengono riciclati. Questo processo si chiama autofagia ("mangiare se stessi").
+I lisosomi sono tipici soprattutto delle cellule animali. Le cellule vegetali possiedono un grande vacuolo centrale, che oltre a immagazzinare acqua e sostanze può svolgere anche funzioni digestive simili a quelle dei lisosomi.
+
 
 **10. Citoscheletro**
 È l'impalcatura interna: dà forma, sostegno e aiuta il movimento.
@@ -151,14 +159,14 @@ mRNA → contiene i codoni , tRNA → contiene glii anticodoni, complementari al
 
 ---
 
-### Splicing
+### Splicing del pre-mRNA
 
 Lo splicing avviene sull'RNA appena trascritto, cioè sul pre-mRNA o trascritto primario:
 
 ```
 DNA gene eucariotico
         ↓ trascrizione
-pre-mRNA / trascritto primario
+pre-mRNA / trascritto primario - immaturo
 contiene: esoni + introni
         ↓ splicing (taglia gli introni)
 mRNA maturo
@@ -166,6 +174,33 @@ contiene: solo esoni
         ↓ traduzione
 proteina
 ```
+
+Lo spliceosoma (un grande complesso formato da RNA e proteine) "legge" il pre-mRNA, taglia via gli introni e unisce gli esoni. Quel che si ottiene è l'mRNA maturo, che uscirà dal nucleo e verrà letto dai ribosomi per costruire la proteina.
+
+Nello splicing alternativo, alcuni esoni vengono omessi, così da codificare proteine diverse con lo stesso gene.
+
+Lo splicing avviene nel nucleo.
+
+
+### ESONI
+
+Gli esoni sono le porzioni di un gene che vengono conservate nell'RNA maturo dopo il processo di maturazione e, nella maggior parte dei casi, contengono le informazioni per produrre una proteina.
+Un esone contiene molti codoni.
+
+Un gene non è tutto "utile". Un gene è formato da due tipi di sequenze:
+Esòni (exons) → vengono mantenuti.
+Intròni (introns) → vengono eliminati.
+Quando il DNA viene copiato, si ottiene un pre-RNA messaggero (pre-mRNA).
+Questo contiene ancora sia esoni che introni.
+Prima che l'RNA possa essere usato per costruire una proteina, avviene lo splicing.
+Lo spliceosoma taglia via gli introni e unisce gli esoni.
+Questo è l'mRNA maturo.
+L'mRNA maturo arriva ai ribosomi, che leggono gli esoni e costruiscono la proteina (TRADUZIONE).
+La maggior parte degli esoni contiene sequenze codificanti, ma alcuni comprendono anche regioni che non vengono tradotte in proteina (le cosiddette UTR, regioni non tradotte). Tuttavia, fanno comunque parte dell'mRNA maturo e per questo sono considerati esoni.
+
+
+
+
 
 ---
 
@@ -355,6 +390,29 @@ In Telofase, grazie a un anello di proteine che stringe e strozza la cellula al 
 ---
 
 ### MEIOSI
+
+Mitosi = 1 replicazione + 1 divisione
+
+Meiosi = 1 replicazione + 2 divisioni
+
+```
+Cellula iniziale
+46 cromosomi semplici
+        │
+        │  (1 replicazione del DNA)
+        ▼
+46 cromosomi doppi
+        │
+        │  Meiosi I
+        ▼
+2 cellule
+23 cromosomi doppi
+        │
+        │  Meiosi II
+        ▼
+4 cellule
+23 cromosomi semplici
+```
 
 La meiosi è il processo con cui una cellula diploide produce cellule aploidi, cioè cellule con metà dei cromosomi.
 
@@ -594,7 +652,13 @@ Gruppo 0 donatore universale
 
 ### Emofilia e Daltonismo (recessivi X-linked)
 
+L'emofilia è una malattia recessiva legata al cromosoma X. Il gene dell'emofilia si trova sul cromosoma X.
+
 XH = allele normale | Xh = allele malato
+
+- una donna deve avere XʰXʰ per essere malata;
+- un uomo basta che abbia XʰY, perché possiede un solo cromosoma X.
+
 
 | Genotipo femmina | Genotipo maschio | Possibile esito |
 |---|---|---|
@@ -606,8 +670,10 @@ XH = allele normale | Xh = allele malato
 | XhXh (malata) | XHY (sano) | maschio sempre malato, femmina sempre portatrice |
 
 Regole chiave:
-- Se il maschio è malato, la femmina è sempre almeno portatrice
-- Se la femmina è malata, il maschio è sempre malato
+- Se il maschio è malato, la figlia femmina è sempre almeno portatrice
+- Se la femmina è malata, il figlio maschio è sempre malato
+
+"affetti da emofilia" significa "malati"; i "portatori sani" sono esclusi.
 
 ---
 
@@ -1076,6 +1142,16 @@ I linfociti T non producono anticorpi. I principali tipi sono: T helper, T citot
 
 **T helper:** coordinano la risposta con citochine; servono ad attivare linfociti B, macrofagi, linfociti T citotossici, altre cellule immunitarie.
 *Il T helper coordina la risposta immunitaria.*
+
+Quando un linfocita T helper prolifera, significa che:
+
+riconosce un antigene specifico;
+si attiva;
+si divide molte volte per mitosi;
+genera un grande numero di cloni identici (prolifera);
+questi cloni aiutano a organizzare la risposta immunitaria e alcuni diventano cellule della memoria.
+
+In altre parole, "proliferare" significa aumentare rapidamente di numero, producendo molte copie identiche della stessa cellula.
 
 **T citotossici (T killer):** Uccidono cellule del nostro corpo che sono diventate pericolose.
 
@@ -1885,6 +1961,8 @@ Funzionamento: durante la sistole ventricolare (pressione alta) si aprono → sa
 | Atrioventricolari | tricuspide, mitrale | tra atri e ventricoli |
 | Semilunari | polmonare, aortica | tra ventricoli e arterie |
 
+Durante la sistole ventricolare, le valvole fra ventricoli e arterie sono aperte.
+
 ---
 
 ## 13. ANATOMIA VARIA
@@ -2247,6 +2325,23 @@ Classificazione per numero di carboni:
 
 **Polisaccaridi:** amido, glicogeno, cellulosa, amilosio
 
+La CELLULOSA è il principale componente della parete cellulare delle cellule vegetali. È la molecola organica più abbondante sulla Terra e costituisce circa il 40-50% del legno e una grande parte del cotone. La cellulosa è un polisaccaride, cioè una lunga catena formata da migliaia di molecole di glucosio. (C₆H₁₀O₅)ₙ dove n può andare da alcune centinaia fino a oltre 10.000 unità di glucosio. 
+Anche l'amido è formato da glucosio, ma cambia il tipo di legame.
+
+Cellulosa: legami β(1→4) (beta)
+Amido: legami α(1→4) (alfa)
+
+Questa piccola differenza cambia completamente le proprietà della molecola.
+- Amido: le catene si avvolgono formando una spirale. È facilmente digeribile.
+- Cellulosa: Le catene rimangono dritte e parallele. Possono affiancarsi formando moltissimi legami a idrogeno. Il risultato è una fibra estremamente resistente. Ogni catena di cellulosa è lunga e lineare. Molte catene si mettono una accanto all'altra e vengono tenute insieme da legami a idrogeno. Si formano così le microfibrille. Le microfibrille si riuniscono poi in fibre ancora più grandi. La cellulosa svolge una funzione strutturale. 
+
+Perché noi non la digeriamo? Per rompere i legami β(1→4) serve un enzima chiamato CELLULASI.
+Gli esseri umani non producono la cellulasi. Di conseguenza la cellulosa attraversa quasi intatta il nostro apparato digerente. Per noi costituisce la fibra alimentare. Chi riesce a digerirla? Molti erbivori possono utilizzarla, ma non perché producano direttamente la cellulasi. La digestione è svolta da batteri e altri microrganismi che vivono nel loro apparato digerente.
+
+La cellulosa fa ingrassare? No. Poiché non viene digerita: non fornisce praticamente calorie; aumenta il senso di sazietà; favorisce il transito intestinale; aiuta a prevenire la stitichezza; contribuisce a rallentare l'assorbimento di zuccheri e grassi.
+
+Nelle cellule vegetali la cellulosa è immersa in una matrice composta anche da:  emicellulose; pectine; acqua; nelle parti legnose anche lignina, che rende la parete ancora più rigida. La lignina non sostituisce la cellulosa: la "cementa" e la rinforza, soprattutto nel legno.
+
 **Amido:** (C₆H₁₀O₅)ₙ — polisaccaride formato da tante unità di glucosio.
 
 **Reazione di condensazione:**
@@ -2489,9 +2584,21 @@ L'olio, ad esempio, galleggia sull'acqua formando due strati.
 - Ossido di metallo → di solito **ossido basico**
 - Ossido di non metallo → di solito **ossido acido / anidride**
 - Solfato acido di piombo (II) o anche Idrogenosolfato di piombo (II) Pb(HSO4)2  :  "II" indica il numero di ossidazione del Pb: HSO4- x 2 -> Pb è +2. Viene detto ACIDO perchè l'anione ha ancora un H+.
+- Solfito acido di sodio NaHSO3
 
 Catione = ione con carica positiva (+)
 Anione = ione con carica negativa (−)
+
+Gli ossidi dei metalli alcalini (Li, Na, K, Rb, Cs) reagiscono con l'acqua formando sempre un IDROSSIDO.
+Per esempio:
+Na₂O + H₂O → 2 NaOH
+K₂O + H₂O → 2 KOH
+Li₂O + H₂O → 2 LiOH
+Questi sono tutti ossidi basici.
+
+Gli ossidi dei non metalli invece formano acidi:
+CO2 ​+ H2​O → H2​CO3 carbonico
+SO3 + H2​O → H2​SO4​ solforico
 
 
 
@@ -2552,7 +2659,7 @@ Massa atomica relativa (aka peso atomico) = è la media pesata delle masse degli
 Massa molecolare relativa (aka peso molecolare) = la somma dei pesi atomici di tutti gli atomi costituenti una molecola
 
 
-Un ISOTOPO è un elemento con stesso numero atomico (protoni) ma diverso numero di neutroni (Idrogeno 1 protone 0 neutroni, Deuterio = idrogeno con 1 protone e 1 neutrone, Trizio = idrogeno con 1 protone e 2 neutroni)
+Un ISOTOPO è un elemento con stesso numero atomico (protoni) ma diverso numero di neutroni (Idrogeno 1 protone 0 neutroni, Deuterio = idrogeno con 1 protone e 1 neutrone, Trizio = idrogeno con 1 protone e 2 neutroni), quindi diverso numero di massa.
 
 Un NUCLIDE è una specie di atomo definita dal numero di protoni e di neutroni presenti nel suo nucleo.
 In altre parole, due atomi appartengono allo stesso nuclide se hanno:
@@ -3733,6 +3840,8 @@ x1 + x2 = - b/a
 
 x1 x x2 = c/a
 
+equazione di una parabola ad asse verticale con vertice in (h,k):  y = a(x−h)^2 + k
+
 
 ### METAFORA SIMILITUDINE SINEDDOCHE
 
@@ -4059,9 +4168,9 @@ Gli alleli di geni diversi si distribuiscono nei gameti indipendentemente l'uno 
 Un individuo GgLl può produrre quattro tipi di gameti: GL Gl gL gl , tutti con uguale probabilità.
 
 
-### SELEZIONE DIVERGENTE
+### EVOLUZIONE E SELEZIONE
 
-La selezione divergente (o selezione dirompente) è un tipo di selezione naturale in cui vengono favoriti gli individui con caratteristiche estreme, mentre quelli con caratteristiche intermedie sono svantaggiati.
+La SELEZIONE DIVERGENTE (o selezione dirompente) è un tipo di selezione naturale in cui vengono favoriti gli individui con caratteristiche estreme, mentre quelli con caratteristiche intermedie sono svantaggiati.
 
 È uno dei tre principali tipi di selezione naturale:
 
@@ -4078,6 +4187,13 @@ Non esistono semi di dimensioni intermedie. Di conseguenza:
 
 La selezione naturale favorisce quindi i due estremi.
 La selezione divergente può favorire la comparsa di due popolazioni sempre più diverse, è quindi considerata uno dei meccanismi che possono contribuire alla speciazione.
+
+EVOLUZIONE DIVERGENTE: Una specie ancestrale dà origine a specie diverse che, adattandosi ad ambienti differenti, diventano sempre più diverse. Un antenato comune dei mammiferi possedeva un arto anteriore. Nel tempo quell'arto è diventato: mano nell'uomo; ala nel pipistrello; pinna nella balena; zampa nel cavallo.
+
+L'EVOLUZIONE CONVERGENTE è un fenomeno per cui specie diverse, non strettamente imparentate, evolvono caratteristiche simili perché vivono in ambienti simili o affrontano gli stessi problemi. Esempio: il corpo dello squalo è molto simile a quello del delfino, ma il primo è un pesce e il secondo un mammifero.
+
+
+
 
 ### MIELINA
 
