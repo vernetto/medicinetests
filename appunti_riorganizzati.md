@@ -4520,7 +4520,27 @@ Il cDNA significa DNA complementare (complementary DNA).
 
 DNA -> trascrizione -> mRNA -> trascrittasi inversa -> cDNA
 
-L'enzima usato è la trascrittasi inversa, che compie il processo opposto alla trascrizione: invece di sintetizzare RNA dal DNA, sintetizza DNA a partire dall'RNA.
+L'enzima usato è la trascrittasi inversa, che compie il processo opposto alla trascrizione: invece di sintetizzare RNA dal DNA, sintetizza DNA a partire dall'RNA. 
+Se si produce il cDNA di tutti gli mRNA presenti in una cellula, si ottiene una libreria di cDNA.
+Questa libreria contiene solo i geni che erano espressi in quella cellula in quel momento.
+Il cDNA non contiene introni, quindi può essere inserito direttamente in batteri per produrre proteine umane (es. insulina).
+
+
+Le SEQUENZE INTERGENICHE sono i tratti di DNA situati tra un gene e il successivo. In altre parole, sono le regioni del genoma che non fanno parte di alcun gene. Per molti anni furono chiamate DNA spazzatura (junk DNA), ma oggi sappiamo che molte hanno funzioni fondamentali.
+
+1. Regolano l'espressione dei geni
+
+Contengono sequenze che decidono:
+quando un gene deve essere acceso; in quale tessuto; con quale intensità.
+
+Ad esempio possono contenere: enhancer, silencer, insulator che controllano anche geni molto lontani.
+
+2. Contengono geni per RNA non codificanti
+
+Non tutte le sequenze intergeniche sono completamente inattive.
+Possono contenere geni che producono: microRNA (miRNA), lncRNA (long non coding RNA), snoRNA
+Questi RNA non producono proteine ma regolano molti processi cellulari.
+
 
 
 ## DA RIVEDERE
