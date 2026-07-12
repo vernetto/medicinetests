@@ -2219,18 +2219,35 @@ Fulcro      Potenza      Resistenza
 
 ### Gruppi funzionali principali
 
-| Gruppo | Formula | Esempio |
-|---|---|---|
-| Alcol | R–CH₂OH | etanolo |
-| Aldeide | R–CHO | acetaldeide CH₃–CHO |
-| Chetone | R–CO–R' | acetone CH₃–CO–CH₃ |
-| Acido carbossilico | R–COOH | — |
-| Estere | R–COO–R' | es. CH₃CH₂–COO–CH₃ |
-| Etere | R–O–R' | es. CH₃–O–CH₃ |
-| Anidride | R–CO–O–CO–R' | anidride acetica CH₃–CO–O–CO–CH₃ |
+| Classe di composti     | Gruppo funzionale             | Formula generale | Desinenza / Nome      | Esempio                          |
+| ---------------------- | ----------------------------- | ---------------- | --------------------- | -------------------------------- |
+| **Alcani**             | Nessuno (solo legami singoli) | CₙH₂ₙ₊₂           | **-ano**              | Metano (CH₄), Etano (C₂H₆)       |
+| **Alcheni**            | Doppio legame C=C             | R-CH=CH-R'       | **-ene**              | Etene (CH₂=CH₂)                  |
+| **Alchini**            | Triplo legame C≡C             | R-C≡C-R'         | **-ino**              | Etino (HC≡CH)                    |
+| **Alcoli**             | -OH (ossidrile)               | R-OH             | **-olo**              | Etanolo (CH₃CH₂OH)               |
+| **Aldeidi**            | -CHO                          | R-CHO            | **-ale**              | Etanale/acetaldeide (CH₃CHO)     |
+| **Chetoni**            | >C=O                          | R-CO-R'          | **-one**              | Propanone/acetone (CH₃COCH₃)     |
+| **Acidi carbossilici** | -COOH                         | R-COOH           | **Acido ...-oico**    | Acido etanoico (CH₃COOH)         |
+| **Esteri**             | -COO-                         | R-COO-R'         | **...oato di ...ile** | Etanoato di etile (CH₃COOCH₂CH₃) |
+| **Eteri**              | -O-                           | R-O-R'           | ...ossi... oppure etere dialchilico | Etossietano CH₃–O–CH₃|
+| **Ammidi**             | -CONH₂                        | R-CONH₂          | **-ammide**           | Etanammide (CH₃CONH₂)            |
+| **Ammine**             | -NH₂                          | R-NH₂            | **-ammina**           | Etanammina (CH₃CH₂NH₂)           |
+| **Anidride**           | -CO-O-CO-                     | (RCO)₂O          | **Anidride ...ica / ...oica** | Anidride etanoica |
+
 
 Regola mnemonica (in ordine crescente di "peso" degli atomi): 
-Etere O, Alcol OH, Chetone CO, Aldeide con CHO, Estere COO, Acido COOH, Anidride COOCO
+```
+-OH → alcol
+-O- → etere
+-CHO → aldeide
+-CO- → chetone
+-COOH → acido carbossilico
+-COO- → estere
+-CO-O-CO- → anidride
+-CONH₂ → ammide
+-NH₂ → ammina
+```
+
 
 **Alcoli classificati per carbonio con –OH:**
 - Primario: `R–CH2–OH` (carbonio con –OH ha 2 H)
@@ -4264,6 +4281,67 @@ T1V1 = T2V2 	​
 Più aumenta la temperatura, più aumenta il volume.
 Legge di Gay-Lussac, Volume costante T1P1 = T2P2 Se aumenta la temperatura, aumenta la pressione.
 
+
+# POSTULATI DI KOCH
+
+I postulati di Koch sono quattro criteri formulati dal medico tedesco Robert Koch alla fine del XIX secolo per dimostrare che un determinato microrganismo è la causa di una specifica malattia infettiva.
+
+1. Il microrganismo deve essere presente in tutti gli individui malati. Invece, il batterio non dovrebbe essere presente negli individui sani.
+
+2. Il microrganismo deve essere isolato e coltivato. Bisogna prendere il microrganismo dal malato e farlo crescere in una coltura pura, cioè senza altri microorganismi.
+
+3. Il microrganismo deve causare la stessa malattia in un organismo sano. Il batterio coltivato viene introdotto in un organismo sano e suscettibile. Se è davvero il responsabile della malattia, anche il nuovo organismo dovrebbe sviluppare gli stessi sintomi.
+
+4. Il microrganismo deve essere nuovamente isolato. Infine bisogna recuperare il microrganismo dall'animale che si è ammalato. Se è identico a quello isolato inizialmente, si completa la dimostrazione.
+
+Robert Koch applicò questi postulati al batterio oggi noto come Mycobacterium tuberculosis.
+
+Il batterio era presente nei malati di tubercolosi.
+Lo isolò e lo coltivò.
+Lo inoculò in animali sani, che svilupparono la tubercolosi.
+Isolò nuovamente lo stesso batterio dagli animali infetti.
+
+Questo dimostrò che il batterio era la causa della malattia.
+
+Limiti: Esistono portatori sani, Alcuni microrganismi non si riescono a coltivare, Non è etico infettare persone sane, I virus hanno bisogno di cellule vive per replicarsi e non possono essere coltivati come i batteri su un semplice terreno di coltura.
+
+### ACIDI GRASSI
+
+Un acido grasso è formato da:
+un gruppo carbossilico (-COOH) a un'estremità;
+una lunga catena di atomi di carbonio e idrogeno.
+
+CH3-(CH2)n-COOH ovvero COOH — C — C — C — C — C — C — CH3
+
+- SATURO significa che ogni atomo di carbonio è saturo di atomi di idrogeno, cioè tra i carboni ci sono solo legami semplici:
+
+C—C—C—C—C . 
+
+Proprietà: catene dritte, si impacchettano molto bene, per questo motivo sono spesso solidi, come burro e strutto
+
+Esempio: Acido palmitico.
+
+- MONOINSATURO, esiste un solo doppio legame:
+
+C—C=C—C—C
+
+Esempio: Acido oleico (quello dell'olio d'oliva).
+
+
+- POLINSATURO due o più doppi legami:
+
+C=C—C—C=C—C
+
+Esempi: Omega-3, Omega-6
+
+Il doppio legame crea una "piega" nella molecola: ////\////
+Le molecole non riescono più a stare vicine. Per questo sono generalmente liquidi: oli vegetali, olio d'oliva
+
+Gli ACIDI GRASSI ESSENZIALI sono acidi grassi che il nostro organismo non è in grado di produrre da solo, oppure ne produce quantità insufficienti. Per questo motivo devono essere assunti con l'alimentazione:
+
+- Acido linoleico (Omega-6 18:2 (ω-6) CH3—C—C—C—C—C=C...) 18 atomi di carbonio 2 doppi legami, primo doppio legame a 6 atomi di carbonio dall'estremità omega (CH₃). Si trova in: olio di girasole, olio di mais, olio di soia, frutta secca, semi.
+
+- Acido α-linolenico (Omega-3 18:3 (ω-3) CH3—C—C=C—C—C—... ) 18 carboni, 3 doppi legami, primo doppio legame a 3 carboni dall'estremità omega. Si trova in: semi di lino, semi di chia, noci, olio di colza
 
 
 
