@@ -2256,6 +2256,18 @@ Regola mnemonica (in ordine crescente di "peso" degli atomi):
 
 In un **alcol secondario**, il carbonio che porta il gruppo –OH è legato a: 2 atomi di carbonio, 1 atomo di idrogeno e 1 gruppo –OH.
 
+Come riconoscere un alcol:
+
+| Carboni | Prefisso | Esempio|
+| ------: | -------- | -------- |
+|       1 | Met-    CH₃OH → metanolo |
+|       2 | Et-     | CH₃CH₂OH → etanolo |
+|       3 | Prop-    | CH₃CH₂CH₂OH → propanolo|
+|       4 | But-     |CH₃CH₂CH₂CH₂OH → butanolo|
+|       5 | Pent-    | CH3-CH2-CH2-CH2-CH2OH Pentanolo|
+|       6 | Es-      | CH3-CH2-CH2-CH2-CH2-CH2OH Esanolo | 
+
+
 ---
 
 ### Idrocarburi
@@ -2469,7 +2481,7 @@ La coda lunga è apolare e si lega ai grassi; la testa ionica è polare e si leg
 
 ## 15. CHIMICA INORGANICA E GENERALE
 
-### Legame covalente e polarità
+### Legame covalente e polarità, legame ionico
 
 Nella molecola d'acqua, il legame tra ossigeno e idrogeno è un **legame covalente**, perché O e H condividono elettroni. Però non li condividono "alla pari": l'ossigeno è più elettronegativo dell'idrogeno, quindi attira di più gli elettroni -> legame covalente polare.
 
@@ -2492,7 +2504,8 @@ Ione idronio H₃O⁺
 
 "uro" sono anioni (cloruro Cl-, bromuro Br-, Ioduro I-, Idruro H-)
 
-
+Il **LEGAME IONICO** è la forza di attrazione tra ioni di segno opposto nei composti ( e.g. Na+ Cl-). Allo stato solido il sale forma un reticolo cristallino: ogni ione Na⁺ è circondato da sei ioni Cl⁻, e ogni Cl⁻ da sei Na⁺.
+Nel legame covalente gli atomi condividono gli elettroni (H2, O2, H₂O, CH₄, CO₂ ). Nel legame ionico, invece, gli elettroni vengono trasferiti da un atomo all'altro.
 
 ---
 
@@ -2536,7 +2549,7 @@ KOH è una base forte. Le basi forti, quando formano il loro ione positivo, gene
 
 Se HCN è un acido debole, allora il suo ione negativo: CN− è una base debole. CN− + H2​O ⇌ HCN + OH− si formano ioni OH⁻ che rendono la soluzione basica.
 
-
+Quando una base forte (o un acido forte) ha concentrazione uguale o inferiore a 10−6  M, bisogna considerare l'autodissociazione dell'acqua. NaOH 10−2  M → si trascura l'acqua. NaOH 10−4  M → si trascura l'acqua. NaOH 10−7  M → NON si può trascurare l'acqua, e il pH risulta leggermente maggiore di 7 (circa 7,21).
 
 
 **Kw** = prodotto ionico dell'acqua.
@@ -2686,6 +2699,8 @@ Massa molecolare relativa (aka peso molecolare) = la somma dei pesi atomici di t
 
 Un ISOTOPO è un elemento con stesso numero atomico (protoni) ma diverso numero di neutroni (Idrogeno 1 protone 0 neutroni, Deuterio = idrogeno con 1 protone e 1 neutrone, Trizio = idrogeno con 1 protone e 2 neutroni), quindi diverso numero di massa.
 
+Un ISOMERO è una sostanza che ha la stessa formula molecolare di un'altra, ma gli atomi sono disposti in modo diverso.
+
 Un NUCLIDE è una specie di atomo definita dal numero di protoni e di neutroni presenti nel suo nucleo.
 In altre parole, due atomi appartengono allo stesso nuclide se hanno:
 lo stesso numero di protoni (Z);
@@ -2740,7 +2755,8 @@ Più aumenta la pressione del gas, più gas si scioglie nel liquido. Esempio cla
 |---|---|
 | Lavoisier | Conservazione della massa |
 | Dalton | Teoria atomica; proporzioni multiple (quando due elementi formano più composti, le masse di uno dei due che si combinano con una massa fissa dell'altro stanno in rapporti semplici e interi) |
-| Avogadro | Numero di Avogadro; volumi uguali di gas |
+| Avogadro | Numero di Avogadro; volumi uguali di gas diversi, nelle stesse condizioni di temperatura e di
+pressione, contengono lo stesso numero di molecole|
 | Charles | Legge dei gas: volume e temperatura |
 | Proust (proporzioni definite) | formulata da Joseph Louis Proust |
 
@@ -3417,13 +3433,6 @@ Al contrario, cellule con un basso fabbisogno energetico ne possiedono meno.
 
 ---
 
-## RISORSE
-
-- Khan Academy – Phases of Meiosis: https://youtu.be/ijLc52LmFQg
-- Wikipedia – Ciclo di Krebs: https://it.wikipedia.org/wiki/Ciclo_di_Krebs
-- Preparazione al Test di Medicina https://www.youtube.com/@tdmedicina8369/videos
-
-
 ### MODELLO DELL'ATOMO
 
 Il modello di Bohr (1913). Bohr immaginava gli elettroni come pianeti che girano attorno al Sole. L'elettrone percorreva una orbita precisa, circolare.
@@ -3437,6 +3446,44 @@ Con la meccanica quantistica si è scoperto che:
 Questa regione si chiama orbitale atomico. Un orbitale è quindi una "nuvola di probabilità". È una regione dello spazio nella quale la probabilità di trovare l'elettrone è molto elevata (convenzionalmente circa il 90–95%). È proprio ciò che descrive la funzione d'onda della meccanica quantistica.
 La funzione d'onda è una formula matematica di Erwin Schrödinger (indicata con la lettera greca ψ, psi: ψ(x,y,z,t)) che descrive completamente lo stato di una particella. Essa non dice dove si trova l'elettrone, ma permette di calcolare la probabilità di trovarlo in ogni punto dello spazio.
 ψ da sola non è una probabilità. Per ottenere una probabilità bisogna fare il quadrato del suo modulo: ∣ψ∣2
+
+### NUMERI QUANTICI
+
+I numeri quantici sono quattro valori che descrivono completamente lo stato di un elettrone all'interno di un atomo.
+
+1. Numero quantico principale (n)
+
+Indica: il livello energetico dell'elettrone; la distanza media dal nucleo.
+Può assumere solo valori interi positivi: n=1,2,3,4,…
+Maggiore è n: maggiore è l'energia; maggiore è la dimensione dell'orbitale.
+
+2. Numero quantico secondario (l)
+
+chiamato anche azimutale o orbitale. Indica la forma dell'orbitale.
+Può assumere valori: l=0,1,2,…,n−1
+0 = s (sferico)
+1 = p (due lobi)
+2 = d (4 lobi)
+3 = f (complicato)
+
+3. Numero quantico magnetico (mₗ)
+
+Indica l'orientamento nello spazio di un orbitale. Può assumere valori compresi tra −l e +l (es. esistono 5 orbitali d: -2 -1 0 +1 +2)
+
+4. Numero quantico di spin (mₛ)
+
+Lo spin è una proprietà intrinseca dell'elettrone, simile a un momento angolare interno. Anche se spesso viene rappresentato come una rotazione su sé stesso, questa è solo un'analogia: l'elettrone non è una sfera che gira realmente. Può essere +1/2 e -1/2, ovvero ↑ oppure ↓
+Ogni orbitale può contenere al massimo due elettroni, e devono avere spin opposti: Principio di esclusione di Pauli.
+ 
+Regola di Hund: Quando più orbitali hanno la stessa energia, gli elettroni occupano prima gli orbitali uno alla volta con spin parallelo; solo dopo iniziano ad appaiarsi.
+
+L'energia di un orbitale dipende principalmente da:
+
+- Numero quantico principale (n) → è il fattore più importante.
+- Numero quantico secondario (l) → negli atomi con più di un elettrone diventa molto importante.
+- Carica del nucleo e schermatura dovuta agli altri elettroni.
+
+
 
 ### RADIAZIONE ALFA
 
@@ -3608,8 +3655,7 @@ Sono meno forti dei ponti a idrogeno.
 
 Le forze di Van der Waals sono Forze intermolecolari (molto più deboli), tipo tra le molecole dell'acqua. Aumentano con la massa della molecola.
 
-Il legame ionico è la forza di attrazione tra ioni di segno opposto nei composti ( e.g. Na+ Cl-). Allo stato solido il sale forma un reticolo cristallino: ogni ione Na⁺ è circondato da sei ioni Cl⁻, e ogni Cl⁻ da sei Na⁺.
-Nel legame covalente gli atomi condividono gli elettroni (H2, O2, H₂O, CH₄, CO₂ ). Nel legame ionico, invece, gli elettroni vengono trasferiti da un atomo all'altro.
+
 
 
 ### RESPIRAZIONE CELLULARE
@@ -4008,7 +4054,7 @@ TIPI DI OSSA
 
 Le ossa si classificano soprattutto in base alla loro forma.
 
-1.OSSA LUNGHE
+1. OSSA LUNGHE
 Sono più lunghe che larghe.
 
 Esempi: Femore, Omero, Tibia
@@ -4394,6 +4440,10 @@ Da chi riceve i regali E?
 
 ### REFERENZE
 
-https://it.wikipedia.org/wiki/Mitosi
+- Mitosi https://it.wikipedia.org/wiki/Mitosi
+- Khan Academy – Phases of Meiosis: https://youtu.be/ijLc52LmFQg
+- Wikipedia – Ciclo di Krebs: https://it.wikipedia.org/wiki/Ciclo_di_Krebs
+- Preparazione al Test di Medicina https://www.youtube.com/@tdmedicina8369/videos
+
 
 
