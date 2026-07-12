@@ -67,7 +67,7 @@ I filamenti intermedi sono una specie di "cavi resistenti". Non servono tanto al
 
 **Solo nelle cellule vegetali:**
 
-**11. Parete cellulare** – struttura rigida esterna alla membrana.
+**11. Parete cellulare** – struttura rigida esterna alla membrana, formata da cellulosa, un polisaccaride formato da lunghe catene di glucosio. La cellulosa: conferisce rigidità e resistenza alla cellula; protegge la cellula; impedisce che scoppi quando assorbe acqua per osmosi; dà sostegno alla pianta.
 
 **12. Cloroplasti** – fanno la fotosintesi; producono zuccheri grazie alla luce. Dentro i cloroplasti ci sono strutture chiamate tilacoidi, impilate in gruppi chiamati grana. Nei tilacoidi c'è la clorofilla, il pigmento verde che assorbe la luce.
 
@@ -3078,6 +3078,59 @@ La Costituzione è rigida. Per modificarla serve la procedura dell'articolo 138:
 
 ### RENE
 
+1. Filtrano il sangue
+Questa è la funzione principale. Ogni giorno i reni filtrano circa 180 litri di filtrato, dai quali vengono prodotti 1-2 litri di urina.
+Durante la filtrazione: eliminano sostanze di rifiuto; recuperano acqua e sostanze utili; mantengono nel sangue ciò che serve all'organismo.
+
+2. Producono l'urina
+L'urina contiene: urea; acido urico; creatinina; farmaci; tossine; acqua in eccesso; sali minerali in eccesso.
+L'urina passa poi: negli ureteri; nella vescica; viene eliminata attraverso l'uretra.
+
+3. Eliminano le sostanze di rifiuto
+I reni eliminano i prodotti del metabolismo, tra cui:
+urea (deriva dalla degradazione delle proteine);
+creatinina (deriva dal metabolismo muscolare);
+acido urico (deriva dal metabolismo delle purine).
+
+4. Regolano l'acqua dell'organismo
+Se bevi molto: producono più urina.
+Se sei disidratato: trattengono acqua e producono meno urina.
+In questo modo mantengono costante la quantità di liquidi corporei.
+
+5. Regolano i sali minerali
+Mantengono il giusto equilibrio di:
+sodio (Na⁺);
+potassio (K⁺);
+calcio (Ca²⁺);
+magnesio (Mg²⁺);
+fosfati;
+cloro (Cl⁻).
+
+6. Mantengono il pH del sangue 
+Il sangue deve avere un pH di circa 7,35-7,45.
+I reni: eliminano gli ioni H⁺ (acidità); riassorbono bicarbonato (HCO₃⁻).
+In questo modo contribuiscono all'equilibrio acido-base.
+
+7. Regolano la pressione arteriosa 
+Producono la renina. La renina attiva il sistema renina-angiotensina-aldosterone (RAAS), che:
+aumenta la pressione arteriosa quando è troppo bassa;
+aiuta a trattenere sodio e acqua.
+
+8. Producono eritropoietina (EPO)
+L'eritropoietina è un ormone che:
+stimola il midollo osseo;
+aumenta la produzione di globuli rossi.
+Per questo chi ha una grave insufficienza renale può sviluppare anemia.
+
+9. Attivano la vitamina D
+I reni trasformano la vitamina D nella sua forma attiva (calcitriolo).
+Il calcitriolo: favorisce l'assorbimento intestinale del calcio; contribuisce alla salute di ossa e denti.
+
+10. Mantengono l'omeostasi
+L'omeostasi è il mantenimento dell'equilibrio interno dell'organismo.
+I reni regolano:
+acqua; sali minerali; pH; pressione arteriosa; volume del sangue.
+
 Capsula di Bowman, avvolge il glomerulo renale, che è una fitta rete di capillari sanguigni situata all'interno del nefrone, l'unità funzionale dei reni. La sua funzione principale è filtrare il plasma sanguigno (filtrato glomerulare) per rimuovere le scorie e produrre l'urina.
 
 ### NEUROTRASMETTITORI
@@ -3113,7 +3166,7 @@ La parte anteriore e laterale è più rigida perché ci sono gli anelli cartilag
 La parte posteriore, invece, è più morbida e muscolare, perché sta davanti all’esofago e deve lasciargli spazio quando passa il cibo.
 
 I PRIONI sono agenti infettivi molto particolari: non sono cellule, non sono batteri, non sono virus.
-Sono fatti praticamente solo da una proteina anomala. una proteina normale del corpo cambia forma, diventa “sbagliata”, e poi induce altre proteine simili a cambiare forma anche loro. I prioni colpiscono soprattutto il sistema nervoso, quindi cervello e midollo spinale, causando malattie degenerative gravi. 
+Sono fatti praticamente solo da una proteina anomala. una proteina normale del corpo cambia forma, diventa “sbagliata”, e poi induce altre proteine simili a cambiare forma anche loro. I prioni colpiscono soprattutto il sistema nervoso, quindi cervello e midollo spinale, causando malattie degenerative gravi:
 malattia di Creutzfeldt-Jakob nell’uomo
 encefalopatia spongiforme bovina, cioè la “mucca pazza”
 scrapie nelle pecore
@@ -3308,9 +3361,51 @@ pKb grande   → base più debole
 
 ## FEGATO
 
+Il fegato è la ghiandola più grande del corpo umano ed è uno degli organi più importanti, perché svolge oltre 500 funzioni.
+
+1. Produce la bile (funzione digestiva)
+2. Regola il metabolismo dei carboidrati 
+Quando c'è troppo glucosio, lo trasforma in glicogeno (glicogenesi).
+Quando il glucosio nel sangue diminuisce, trasforma il glicogeno in glucosio (glicogenolisi).
+Può produrre glucosio da altre sostanze (gluconeogenesi).
+3. Metabolismo dei lipidi
+sintetizza colesterolo;
+produce trigliceridi;
+sintetizza lipoproteine (HDL, LDL, VLDL);
+produce corpi chetonici durante il digiuno.
+4. Metabolismo delle proteine
+sintetizza albumina;
+produce quasi tutti i fattori della coagulazione;
+sintetizza molte proteine del plasma;
+trasforma gli amminoacidi.
+5. Disintossicazione
+elimina o rende meno tossiche molte sostanze:
+farmaci;
+alcol;
+droghe;
+sostanze tossiche;
+ormoni in eccesso.
+6. Trasforma l'ammoniaca in urea
+Quando vengono degradate le proteine si forma ammoniaca (NH₃) che è molto tossica. Il fegato la converte in urea che viene eliminata dai reni con le urine.
+7. Deposito di sostanze
+Il fegato immagazzina: glicogeno; ferro; rame; vitamina A; vitamina D; vitamina B12; vitamina K.
+8. Produce proteine del sangue ⭐
+Produce: albumina; fibrinogeno; protrombina; fattori della coagulazione; proteine del complemento.
+9. Difesa immunitaria
+Nel fegato sono presenti le cellule di Kupffer, che: eliminano batteri; rimuovono cellule vecchie; fagocitano detriti presenti nel sangue.
+10. Demolisce i globuli rossi vecchi
+Contribuisce alla degradazione dei globuli rossi invecchiati. L'emoglobina viene trasformata fino a formare la bilirubina, che viene eliminata attraverso la bile.
+11. Regola gli ormoni
+Il fegato: inattiva ormoni in eccesso; partecipa al metabolismo di insulina, glucagone, estrogeni e ormoni tiroidei.
+12. Produce sostanze importanti
+Produce: colesterolo; sali biliari; proteine plasmatiche; molte molecole indispensabili per il metabolismo.
+
+
+
 La VENA PORTA porta al fegato ciò che l’intestino ha assorbito; l’ARTERIA EPATICA porta ossigeno al fegato; le VENE EPATICHE portano via il sangue dal fegato verso il cuore.
 
 Il fegato produce la bile; la colecisti la conserva; il coledoco la porta nell’intestino.
+
 
 
 Il MUGHETTO è una micosi della mucosa orale, cioè un’infezione da fungo che colpisce la bocca, generalmente causata da Candida albicans.
@@ -4389,6 +4484,43 @@ Gli ACIDI GRASSI ESSENZIALI sono acidi grassi che il nostro organismo non è in 
 
 - Acido α-linolenico (Omega-3 18:3 (ω-3) CH3—C—C=C—C—C—... ) 18 carboni, 3 doppi legami, primo doppio legame a 3 carboni dall'estremità omega. Si trova in: semi di lino, semi di chia, noci, olio di colza
 
+### LIBRERIA GENOMICA e cDNA
+Una libreria genomica è una collezione di frammenti del DNA di un organismo, conservati in modo da poter essere studiati.
+
+Immagina di avere un libro di 3 miliardi di lettere (il genoma umano).
+
+Poiché è troppo grande da analizzare tutto insieme, gli scienziati:
+
+estraggono il DNA;
+lo tagliano in tanti piccoli pezzi;
+inseriscono ogni pezzo in un vettore (ad esempio un plasmide o un virus);
+ogni vettore viene inserito in un batterio.
+
+Alla fine si ottengono migliaia o milioni di batteri, ognuno contenente un diverso frammento del genoma.
+
+L'insieme di tutti questi frammenti costituisce la libreria genomica.
+
+Cosa contiene?
+
+Contiene tutto il DNA dell'organismo:
+
+✅ geni;
+✅ introni;
+✅ esoni;
+✅ promotori;
+✅ sequenze regolatrici;
+✅ DNA non codificante;
+✅ DNA ripetitivo.
+
+In pratica contiene l'intero genoma.
+
+Il cDNA significa DNA complementare (complementary DNA).
+
+È un DNA artificiale, costruito in laboratorio partendo da una molecola di mRNA.
+
+DNA -> trascrizione -> mRNA -> trascrittasi inversa -> cDNA
+
+L'enzima usato è la trascrittasi inversa, che compie il processo opposto alla trascrizione: invece di sintetizzare RNA dal DNA, sintetizza DNA a partire dall'RNA.
 
 
 ## DA RIVEDERE
