@@ -119,14 +119,14 @@ Gli istoni sono proteine attorno alle quali il DNA si avvolge, come un filo atto
 
 ---
 
-### DNA e RNA – Basi azotate
+### DNA e RNA – Basi azotate - Nucleotidi
 
 | Molecola | Basi |
 |---|---|
 | RNA | A G U C (adenina, guanina, **uracile**, citosina) |
 | DNA | A G T C (adenina, guanina, **timina**, citosina) |
 
-- **Purine** (doppio anello): adenina, guanina
+- **Purine** (doppio anello): adenina, guanina → **PURe As Gold**
 - **Pirimidine** (anello singolo): citosina, uracile, timina → **CUT**
 
 chi è complementare a chi?
@@ -136,8 +136,14 @@ oppure in RNA:
 Adenina ↔ Uracile
 Guanina ↔ Citosina
 
-adenina, guanina : purine, doppio anello
-citosina uracile timina (CUT) : pirimidine, anello singolo
+Le basi azotate sono le "lettere" con cui è scritto il DNA.
+
+Nucleotide = base azotata + zucchero + fosfato
+
+Il DNA è una lunghissima catena di nucleotidi, ciascuno contenente una base azotata.
+
+Il ribosoma non legge una base alla volta; legge tre nucleotidi per volta -> il CODONE.
+Il ribosoma prende un codone e aggiunge un amminoacido. L'amminoacido non fa parte del DNA, ne é solo il prodotto finale. 
 
 
 ---
@@ -180,6 +186,8 @@ Lo spliceosoma (un grande complesso formato da RNA e proteine) "legge" il pre-mR
 Nello splicing alternativo, alcuni esoni vengono omessi, così da codificare proteine diverse con lo stesso gene.
 
 Lo splicing avviene nel nucleo.
+
+L'mRNA maturo attraversa poi i pori nucleari e va nel citoplasma.
 
 
 ### ESONI
@@ -3208,13 +3216,11 @@ uretere sinistro: dal rene sinistro alla vescica.
 L’uretere non è un semplice “tubo passivo”: ha una parete muscolare che fa piccole contrazioni, dette peristalsi, per spingere l’urina verso la vescica.
 L'URETRA porta l’urina dalla vescica fuori dal corpo.
 
-
 La sindrome di Klinefelter è una condizione genetica in cui una persona di sesso maschile ha un cromosoma X in più. 
 Di solito il maschio ha: 46, XY. Con Klinefelter ha 47, XXY.
 Questo può causare soprattutto problemi legati allo sviluppo dei testicoli e alla produzione di testosterone e infertilità.
 
 Nell'uomo, il patrimonio genetico è identico tra Gemelli monozigotici.
-
 
 Specie: due gruppi sono specie diverse quando c’è isolamento riproduttivo, cioè non riescono più a riprodursi tra loro, oppure producono figli non fertili. cavallo + asino → mulo. il mulo di solito è sterile. Questo indica che cavallo e asino appartengono a specie diverse.
 
