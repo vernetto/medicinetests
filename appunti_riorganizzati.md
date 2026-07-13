@@ -4542,6 +4542,28 @@ Possono contenere geni che producono: microRNA (miRNA), lncRNA (long non coding 
 Questi RNA non producono proteine ma regolano molti processi cellulari.
 
 
+### TERATOGENO
+
+Il termine TERATOGENO indica qualsiasi agente capace di provocare malformazioni o alterazioni nello sviluppo dell'embrione o del feto durante la gravidanza.
+La parola deriva dal greco: teras (τέρας) = mostro, malformazione   -geno = che genera, che produce
+Quindi teratogeno significa letteralmente "che produce malformazioni".
+
+Un agente teratogeno può interferire con questi processi:
+
+divisione cellulare;
+migrazione delle cellule;
+differenziamento cellulare;
+formazione degli organi (organogenesi).
+
+Il periodo più delicato è tra la 3ª e l'8ª settimana di gravidanza, quando avviene l'organogenesi, cioè la formazione dei principali organi. Dalla 9ª settimana fino alla nascita: sono più frequenti alterazioni della crescita e dello sviluppo funzionale, soprattutto del sistema nervoso.
+Sono teratogeni: 
+- farmaci (talidomide, antitumorali, antiepilettici); 
+- alcol, che può provocare la sindrome alcolica fetale (FAS, ritardo della crescita; anomalie del volto; difficoltà cognitive e comportamentali; problemi di apprendimento.) 
+- droghe; ad esempio: cocaina; metanfetamine;
+- infezioni; alcune infezioni contratte in gravidanza possono essere teratogene, tra cui: virus della rosolia; Toxoplasma gondii (toxoplasmosi); citomegalovirus; virus Zika.
+- radiazioni; l'esposizione a elevate dosi di radiazioni ionizzanti (ad esempio raggi X ad alte dosi)
+- sostanze chimiche; ad esempio: piombo; mercurio; alcuni pesticidi; alcuni solventi industriali.
+
 
 ## DA RIVEDERE
 
