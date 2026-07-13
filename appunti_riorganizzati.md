@@ -2823,7 +2823,13 @@ Più aumenta la pressione del gas, più gas si scioglie nel liquido. Esempio cla
 1. Abbassamento della tensione di vapore (→ Raoult)
 2. Innalzamento della temperatura di ebollizione
 3. Abbassamento della temperatura di congelamento
-4. Pressione osmotica: **π = i·M·R·T** (dove i = numero di particelle prodotte dal soluto, M = molarità, R = costante)
+4. Pressione osmotica: **π = i·M·R·T** (dove i = fattore di van 't Hoff, cioè numero di particelle prodotte dal soluto, M = molarità, R = costante)
+
+Due soluzioni sono ISOTONICHE quando hanno la stessa pressione osmotica (osmolarità).
+Nel caso di soluzioni NON ELETTROLITICHE, questo equivale ad avere la stessa concentrazione di particelle di soluto. Nei non elettroliti: molarità = osmolarità.
+Gli ELETTROLITI invece si dissociano in ioni. Una mole di NaCl produce: 1 mole di Na⁺ e 1 mole di Cl⁻, cioè 2 moli di particelle: 1 mol/L di NaCl ≈ 2 osmoli/L
+la pressione osmotica dipende dal numero totale di particelle, non dal numero di molecole iniziali.
+
 
 ---
 
