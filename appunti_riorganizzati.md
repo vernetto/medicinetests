@@ -2344,6 +2344,13 @@ Come riconoscere un alcol:
 |       5 | Pent-    | CH3-CH2-CH2-CH2-CH2OH Pentanolo|
 |       6 | Es-      | CH3-CH2-CH2-CH2-CH2-CH2OH Esanolo | 
 
+Il FENOLO non è un alcol. È un composto organico formato da un anello benzenico a cui è legato direttamente un gruppo ossidrile (-OH): C6H5OH
+Nel fenolo il gruppo -OH è legato direttamente all'anello aromatico.
+Il fenolo può perdere un protone: C6H5OH → C6H5O− + H+ , quindi ha comportamento acido.
+I fenoli sono molto diffusi in natura. Sono presenti in:
+tè, vino rosso, cacao, olio d'oliva, frutti di bosco, spezie, numerose piante medicinali
+Molti dei cosiddetti polifenoli sono potenti antiossidanti.
+L'acido salicilico è un composto fenilico.
 
 ---
 
@@ -2364,6 +2371,14 @@ Anche etano, propano e Cicloesano sono alifatici. Il Benzene e' aromatico.
 
 
 Un anello aromatico è un anello di atomi di carbonio che possiede una particolare distribuzione degli elettroni, che lo rende eccezionalmente stabile: 6 elettroni "π" (pi greco) che si distribuiscono su tutto l'anello.
+
+Gli alcani hanno solo legami semplici, non hanno una nube elettronica facilmente attaccabile; quindi non sono soggetti ad addizione elettrofila che richiede legami doppi o tripli. Esempio di addizione: CH2​=CH2 ​+ Br2​ → CH2​Br−CH2​Br
+
+Gli alcani invece ammettono:
+- SOSTITUZIONE CH4​ + Cl2 -> ​CH3​Cl + HCl
+- DEIDROGENAZIONE CH3​−CH3​ → CH2​=CH2 ​+ H2​
+- ALOGENAZIONE (una particolare sostituzione) CH4​ + Cl2​ → CH3​Cl + HCl
+- COMBUSTIONE CH4​ + 2O2​ → CO2 ​+ 2H2​O
 
 ---
 
