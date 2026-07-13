@@ -138,7 +138,10 @@ Guanina ↔ Citosina
 
 Le basi azotate sono le "lettere" con cui è scritto il DNA.
 
-Nucleotide = base azotata + zucchero + fosfato
+NUCLEOTIDE = base azotata + zucchero + fosfato
+
+Un NUCLEOSIDE è una molecola formata da una base azotata legata a uno zucchero, senza gruppi fosfato.
+
 
 Il DNA è una lunghissima catena di nucleotidi, ciascuno contenente una base azotata.
 
@@ -205,10 +208,6 @@ Lo spliceosoma taglia via gli introni e unisce gli esoni.
 Questo è l'mRNA maturo.
 L'mRNA maturo arriva ai ribosomi, che leggono gli esoni e costruiscono la proteina (TRADUZIONE).
 La maggior parte degli esoni contiene sequenze codificanti, ma alcuni comprendono anche regioni che non vengono tradotte in proteina (le cosiddette UTR, regioni non tradotte). Tuttavia, fanno comunque parte dell'mRNA maturo e per questo sono considerati esoni.
-
-
-
-
 
 ---
 
@@ -722,6 +721,39 @@ ATP sintasi
 ATP
 ```
 
+L'ATP (Adenosina Trifosfato) è la principale "moneta energetica" della cellula.  È composto da tre parti:
+Adenina (una base azotata)
+Ribosio (uno zucchero a 5 atomi di carbonio)
+Tre gruppi fosfato
+
+I tre fosfati vengono chiamati:
+α (alfa) → quello attaccato al ribosio
+β (beta) → quello centrale
+γ (gamma) → quello più esterno
+
+I legami tra i fosfati (specialmente quello tra β e γ) contengono molta energia chimica disponibile.
+
+A = Adenosina (adenina + ribosio)
+L'energia è immagazzinata nei legami tra i gruppi fosfato, soprattutto nell'ultimo.
+Quando la cellula ha bisogno di energia, rompe l'ultimo legame di ATP e produce ADP = Adenosina Difosfato + Pi = fosfato inorganico
+L'energia necessaria per la reazione inversa ADP -> ATP proviene principalmente da:
+- respirazione cellulare
+- fotosintesi (nelle piante)
+- fermentazione (in alcune cellule e microrganismi)
+
+L'ATP alimenta praticamente tutto ciò che richiede energia: 
+1. Contrazione muscolare
+2. Trasporto attivo (pompa sodio-potassio)
+3. Sintesi di molecole
+4. Movimento cellulare
+
+Nelle cellule eucariotiche, la maggior parte dell'ATP viene prodotta nei mitocondri.
+Nei batteri, che non hanno mitocondri, l'ATP viene prodotto principalmente sulla membrana plasmatica.
+
+L'ATP e' un nucleotide ( Adenina base azotata, Ribosio, zucchero a 5 C, uno o più gruppi fosfati): ribonucleotide trifosfato.
+
+
+ 
 ---
 
 ### Ciclo di Krebs
@@ -1054,7 +1086,7 @@ va nel linfonodo
 presenta antigene ai linfociti T
 ```
 
-**Cellule NK (Natural Killer):** Uccidono cellule sospette, soprattutto cellule infettate da virus e cellule tumorali. Non hanno bisogno dello stesso riconoscimento specifico dei linfociti T. Sono una risposta più immediata.
+**Cellule NK (Natural Killer):** Uccidono cellule sospette, soprattutto cellule infettate da virus e cellule tumorali. Non hanno bisogno dello stesso riconoscimento specifico dei linfociti T. Sono una risposta più immediata, fanno parte dell'immunità innata.
 
 ---
 
@@ -1296,7 +1328,31 @@ prurito, gonfiore, muco, broncospasmo, ecc.
 
 **17. Leucociti – tabella riassuntiva**
 
-AKA Globuli Bianchi (WBC white blood cells). Alcuni svolgono fagocitosi.
+AKA Globuli Bianchi (WBC white blood cells). Sono tutte le cellule del sangue coinvolte nella difesa dell'organismo contro infezioni, virus, batteri, parassiti e cellule tumorali. Alcuni svolgono fagocitosi.
+```
+Cellule del sangue
+│
+├── Globuli rossi (eritrociti)
+├── Piastrine
+└── Globuli bianchi (leucociti)
+      │
+      ├── Granulociti
+      │     ├── Neutrofili
+      │     ├── Eosinofili
+      │     └── Basofili
+      │
+      ├── Monociti
+      │     └── diventano macrofagi nei tessuti
+      │
+      └── Linfociti
+            ├── Linfociti B
+            ├── Linfociti T
+            │     ├── T helper (CD4⁺)
+            │     ├── T citotossici (CD8⁺)
+            │     └── T regolatori
+            └── Cellule NK (Natural Killer)
+```			
+			
 
 I granulociti prendono il nome proprio dal tipo di colorante con cui i loro granuli si colorano meglio.
 
@@ -1846,6 +1902,27 @@ Simpatico = accelera, allarme, azione
 Parasimpatico = rallenta, riposo, digestione
 Enterico = intestino
 ```
+
+La glia (o neuroglia) è l'insieme delle cellule del sistema nervoso che non trasmettono impulsi nervosi, ma svolgono funzioni essenziali di supporto, nutrimento, protezione e regolazione dei neuroni.
+Il sistema nervoso è formato principalmente da due tipi di cellule:
+Neuroni → trasmettono gli impulsi nervosi.
+Cellule gliali → aiutano i neuroni a vivere e funzionare.
+Le cellule gliali:
+🧠 nutrono i neuroni;
+🛡️ li proteggono da sostanze dannose;
+⚡ isolano gli assoni formando la guaina mielinica;
+🧹 eliminano cellule morte e microrganismi;
+⚖️ mantengono l'equilibrio chimico dell'ambiente extracellulare;
+🩹 partecipano alla riparazione del tessuto nervoso;
+🤝 regolano la comunicazione tra i neuroni.
+
+Sono: astrociti, oligodendrociti, Cellule di Schwann, Microglia, Cellule ependimali
+Molte malattie coinvolgono direttamente le cellule gliali:
+- Sclerosi multipla: il sistema immunitario distrugge la mielina prodotta dagli oligodendrociti.
+- Glioma: tumore che origina dalle cellule gliali.
+- Malattia di Alzheimer: astrociti e microglia partecipano ai processi infiammatori e alla progressione della malattia.
+
+
 
 ---
 
@@ -2638,6 +2715,7 @@ Gli ossidi dei non metalli invece formano acidi:
 CO2 ​+ H2​O → H2​CO3 carbonico
 SO3 + H2​O → H2​SO4​ solforico
 
+Per ottenere un sale si può anche far reagire un acido e un idrossido (reazione di neutralizzazione) HCl + NaOH -> NaCl + H2O.
 
 
 **Conversioni di pressione:**
@@ -2667,7 +2745,7 @@ Esempi: ferro, rame, nichel, titanio, cromo.
 
 ### Tavola periodica – Gruppi
 
-Gruppo = colonna verticale. Gli elementi dello stesso gruppo hanno spesso proprietà chimiche simili, perché hanno lo stesso numero di elettroni di valenza, cioè gli elettroni più esterni.
+Gruppo = colonna verticale. Gli elementi dello stesso gruppo hanno spesso proprietà chimiche simili, perché hanno lo stesso numero di elettroni di valenza, cioè gli elettroni più esterni. Le proprietà chimiche sono determinate dal numero atomico.
 Periodo = riga orizzontale. Gli elementi dello stesso periodo hanno gli elettroni distribuiti nello stesso numero di livelli energetici principali, cioè “gusci elettronici”
 
 | Gruppo | Nome |
@@ -3424,6 +3502,20 @@ Il numero di ossidazione diminuisce. Questo significa che l’ossigeno si riduce
 E una sostanza che acquista elettroni dagli altri è un ossidante.
 In parole semplici: H₂O₂ è ossidante perché ruba elettroni ad altre sostanze.
 Il motivo profondo è che il legame O–O nel perossido è abbastanza instabile. Gli ossigeni nel perossido stanno in uno stato intermedio, −1, e possono diventare più stabili passando a −2, come nell’acqua.
+
+Come assegnare rapidamente i numeri di ossidazione:
+
+| Elemento                             | Numero di ossidazione |
+| ------------------------------------ | --------------------- |
+| Elemento puro (H₂, O₂, Cl₂, Br₂...)  | **0**                 |
+| Metalli alcalini (Na, K...)          | **+1**                |
+| Metalli alcalino-terrosi (Mg, Ca...) | **+2**                |
+| Fluoro                               | **−1**                |
+| Ossigeno                             | quasi sempre **−2**   |
+| Idrogeno                             | quasi sempre **+1**   |
+
+
+
 
 ### CAMPI ELETTROMAGNETICI e GRAVITAZIONALI
 
@@ -4563,6 +4655,139 @@ Sono teratogeni:
 - infezioni; alcune infezioni contratte in gravidanza possono essere teratogene, tra cui: virus della rosolia; Toxoplasma gondii (toxoplasmosi); citomegalovirus; virus Zika.
 - radiazioni; l'esposizione a elevate dosi di radiazioni ionizzanti (ad esempio raggi X ad alte dosi)
 - sostanze chimiche; ad esempio: piombo; mercurio; alcuni pesticidi; alcuni solventi industriali.
+
+### IPERBOLE PARABOLA ELLISSE
+
+Ellisse: ha sempre un segno + tra i due termini quadratici:
+x^2/a^2 + y^2/b^2 = 1
+
+Iperbole: ha sempre un segno + tra i due termini quadratici:
+x^2/a^2 - y^2/b^2 = 1   oppure
+xy = a (iperbole equilatera, asintoti coincidenti con gli assi cartesiani)
+
+Una parabola si riconosce perché solo una delle due variabili è al quadrato:
+y=ax2+bx+c  asse verticale
+x=ay2+by+c asse orizzontale
+
+### MALATTIE AUTOIMMUNI
+
+Le malattie autoimmuni sono malattie in cui il sistema immunitario, invece di difendere l'organismo da virus, batteri e altri agenti estranei, attacca per errore i propri tessuti.
+In pratica, il sistema immunitario perde la capacità di distinguere il "self" (ciò che appartiene all'organismo) dal "non-self" (ciò che è estraneo).
+Il sistema immunitario non attacca le cellule sane, perché durante il loro sviluppo i linfociti imparano la cosiddetta tolleranza immunologica. Quando questa tolleranza si rompe, possono comparire le malattie autoimmuni.
+
+Gli AUTOANTICORPI sono anticorpi che, invece di legarsi a un batterio o a un virus, si legano a componenti del proprio organismo. Ad esempio possono riconoscere:
+
+proteine delle cellule
+DNA
+recettori cellulari
+membrane cellulari
+collagene
+ormoni
+
+Questi anticorpi provocano infiammazione e danni ai tessuti.
+Le cause sono: 
+1. Predisposizione genetica, 
+2. Infezioni , alcuni virus o batteri possono "confondere" il sistema immunitario. Questo fenomeno si chiama mimetismo molecolare. Virus ha proteina molto simile a una proteina umana, il sistema immunitario attacca entrambe.
+3 Fattori ambientali.
+Possono contribuire: fumo, radiazioni UV, alcuni farmaci, sostanze chimiche, stress intenso (può influenzare il sistema immunitario, anche se da solo raramente è la causa)
+4. Fattori ormonali
+Molte malattie autoimmuni sono più frequenti nelle donne. Gli estrogeni sembrano influenzare la risposta immunitaria.
+
+Malattie autoimmuni SISTEMICHE: colpiscono molti organi. Esempi:
+Lupus eritematoso sistemico
+Artrite reumatoide
+Sclerodermia
+Sindrome di Sjögren
+
+Malattie autoimmuni ORGANO-SPECIFICHE: Attaccano un solo organo:
+
+| Organo          | Malattia                  |
+| --------------- | ------------------------- |
+| Tiroide         | Tiroidite di Hashimoto    |
+| Tiroide         | Malattia di Graves        |
+| Pancreas        | Diabete mellito di tipo 1 |
+| Sistema nervoso | Sclerosi multipla         |
+| Pelle           | Vitiligine                |
+
+| Autoanticorpo              | Bersaglio            | Malattia associata                |
+| -------------------------- | -------------------- | --------------------------------- |
+| ANA (anticorpi antinucleo) | Nucleo cellulare     | Lupus e altre malattie autoimmuni |
+| Anti-DNA                   | DNA                  | Lupus                             |
+| Anti-TPO                   | Enzima della tiroide | Tiroidite di Hashimoto            |
+| Anti-recettore del TSH     | Recettore del TSH    | Malattia di Graves                |
+| Anti-GAD                   | Enzima GAD           | Diabete di tipo 1                 |
+| Fattore reumatoide         | Immunoglobuline      | Artrite reumatoide                |
+
+
+Anche i linfociti T autoreattivi possono causare danni, quindi non tutte le malattie autoimmuni sono dovute principalmente agli autoanticorpi.
+
+### TRASPORTO
+
+Uniporto, simporto e antiporto sono i tre principali meccanismi con cui le proteine di trasporto fanno attraversare la membrana a una o più sostanze.
+
+1. Uniporto
+
+Il uniporto trasporta una sola sostanza in una sola direzione.
+Esempio: trasportatore GLUT nelle cellule umane (trasporta solo glucosio).
+Può essere: 
+passivo (diffusione facilitata) 
+oppure attivo, se utilizza energia.
+
+2. Simporto
+
+Il simporto trasporta due sostanze contemporaneamente nella stessa direzione.
+Nell'intestino umano: sodio (Na⁺) e glucosio entrano insieme nella cellula.
+Il gradiente del sodio fornisce l'energia necessaria a far entrare anche il glucosio.
+
+3. Antiporto
+
+L'antiporto trasporta due sostanze in direzioni opposte.
+Scambiatore: Na⁺ entra H⁺ esce
+oppure: Na⁺ entra Ca²⁺ esce
+
+Nei batteri esistono tutti e tre i tipi di trasporto.
+
+### BATTERI, PEPTIDOGLICANO
+
+Il PEPTIDOGLICANO è una grande molecola che costituisce la parete cellulare dei batteri.
+La sua funzione è quella di dare forma, rigidità e protezione alla cellula batterica.
+Il nome peptidoglicano indica che è formato da due componenti:
+peptido = piccole catene di amminoacidi
+glicano = catene di zuccheri
+Quindi è una rete di zuccheri collegati tra loro da piccoli peptidi.
+Gli zuccheri sono N-acetilglucosamina (NAG) e N-acetilmuramico (NAM) uniti da ponti peptidici,
+
+Batteri Gram positivi: Hanno uno strato molto spesso di peptidoglicano (20–80 nm), che trattiene il colorante viola della colorazione di Gram.
+
+Batteri Gram negativi: Hanno uno strato sottile di peptidoglicano (2–7 nm), situato tra la membrana interna e una membrana esterna.
+
+Molti antibiotici agiscono proprio sul peptidoglicano.
+Il più famoso è la penicillina, che blocca gli enzimi responsabili della formazione dei legami tra le catene di peptidoglicano.
+Senza una parete resistente: il Batterio non riesce a costruire il peptidoglicano, entra acqua, lisi cellulare
+Per questo la penicillina è efficace soprattutto sui batteri che stanno crescendo e costruendo nuova parete cellulare.
+
+### UREOTELICI
+
+In che modo gli animali eliminano l'azoto in eccesso prodotto dal metabolismo delle proteine?
+Nel metabolismo delle proteine, si produce ammoniaca (NH₃), che è molto tossica e deve essere eliminata.
+
+1. Ammoniotelici : eliminano direttamente l'ammoniaca.
+Proteine → Ammoniaca (NH₃) → Urina
+Vantaggi: Costa pochissima energia.
+Svantaggi: L'ammoniaca è molto tossica, deve essere diluita con tantissima acqua.
+Sono ammoniotelici soprattutto gli animali acquatici.
+
+2. Ureotelici: trasformano l'ammoniaca in urea CO(NH₂)₂ , che è molto meno tossica.
+Vantaggi: L'urea è poco tossica. Serve molta meno acqua rispetto all'ammoniaca.
+Svantaggi: per produrla bisogna spendere energia.
+Sono ureotelici: uomo, tutti i mammiferi, anfibi adulti, squali
+
+3. Uricotelici
+Trasformano l'ammoniaca in acido urico C₅H₄N₄O₃ .
+L'acido urico è pochissimo solubile e viene eliminato come una pasta bianca.
+Vantaggi: consuma pochissima acqua.
+Svantaggi: Richiede molta energia per essere prodotto.
+Sono uricotelici: uccelli, rettili, molti insetti
 
 
 ## DA RIVEDERE
