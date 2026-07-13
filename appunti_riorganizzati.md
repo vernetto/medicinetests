@@ -2562,10 +2562,10 @@ La coda lunga è apolare e si lega ai grassi; la testa ionica è polare e si leg
 
 Nella molecola d'acqua, il legame tra ossigeno e idrogeno è un **legame covalente**, perché O e H condividono elettroni. Però non li condividono "alla pari": l'ossigeno è più elettronegativo dell'idrogeno, quindi attira di più gli elettroni -> legame covalente polare.
 
-- **covalente** = elettroni condivisi
+- **covalente** = elettroni condivisi 
 - **polare** = condivisi in modo disuguale
 
-Un **legame covalente puro** (o apolare) è un legame in cui due atomi condividono gli elettroni in modo perfettamente uguale (H–H, O=O, Cl–Cl, N≡N).
+Un **legame covalente puro** (o apolare o omopolare) è un legame in cui due atomi condividono gli elettroni in modo perfettamente uguale (H–H, O=O, Cl–Cl, N≡N).
 
 Legame semplice = 1 coppia di elettroni condivisi ( 2 elettroni)  H-H
 Legame doppio = 2 coppie di elettroni condivisi ( 4 elettroni) O=O
@@ -4794,6 +4794,18 @@ L'acido urico è pochissimo solubile e viene eliminato come una pasta bianca.
 Vantaggi: consuma pochissima acqua.
 Svantaggi: Richiede molta energia per essere prodotto.
 Sono uricotelici: uccelli, rettili, molti insetti
+
+### CHIMICA, VARIE
+
+La FORMULA MINIMA (o FORMULA EMPIRICA) di un composto è la formula che indica il rapporto più semplice, espresso con numeri interi, tra gli atomi degli elementi presenti.
+Non dice il numero reale di atomi nella molecola (FORMULA MOLECOLARE), ma solo le loro proporzioni.
+Esempio: H2​O2 ha formula minima HO. C6​H12​O6​ ha CH2O. C6​H6​ -> CH
+
+Una BASE DI LEWIS è una sostanza che dona una coppia di elettroni per formare un nuovo legame chimico.
+È una definizione più ampia rispetto a Brønsted-Lowry che parla solo di H+ (protoni).
+Base di Lewis = donatore di una coppia di elettroni. (NH₃ H₂O OH⁻ Cl⁻ F⁻ CN⁻)
+Acido di Lewis = accettore di una coppia di elettroni. (H⁺ BF₃ AlCl₃ Fe³⁺ Cu²⁺)
+
 
 
 ## DA RIVEDERE
