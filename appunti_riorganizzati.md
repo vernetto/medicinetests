@@ -2830,6 +2830,9 @@ Nel caso di soluzioni NON ELETTROLITICHE, questo equivale ad avere la stessa con
 Gli ELETTROLITI invece si dissociano in ioni. Una mole di NaCl produce: 1 mole di Na⁺ e 1 mole di Cl⁻, cioè 2 moli di particelle: 1 mol/L di NaCl ≈ 2 osmoli/L
 la pressione osmotica dipende dal numero totale di particelle, non dal numero di molecole iniziali.
 
+L'acqua può coesistere contemporaneamente nei tre stati solido, liquido e aeriforme in una condizione molto particolare chiamata PUNTO TRIPLO. Temperatura: 0,01 °C (273,16 K)  Pressione: 611,657 Pa (circa 0,006 atm o 6,11 mbar)
+
+
 
 ---
 
@@ -3312,15 +3315,14 @@ Due codoni diversi, stesso amminoacido.
 L’insieme dei geni di un organismo si chiama GENOMA
 
 
-### GRUPPO AMMINICO e CARBONILICO
+### GRUPPO AMMINICO AMMIDICO e CARBONILICO
 
-Un gruppo amminico primario è: −R−NH2
+Un gruppo AMMINICO primario è: −R−NH2
 L’azoto ha un doppietto elettronico libero e può accettare un protone H+  dall’acqua:
 R−NH2 ​ + H2O ⇌ R−NH3+ + OH−
-Quindi diventa:
-R−NH3+
+Quindi diventa: R−NH3+, cioè ione ammonio alchilico. Quindi si comporta da base di Brønsted, perché accetta protoni. Esempio: Metilammina CH3​−NH2​ è una ammina primaria. Dimetilammina CH3​−NH−CH3​ ammina secondaria. Trimetilammina (CH3​)3​N ammina terziaria.
 
-cioè ione ammonio alchilico. Quindi si comporta da base di Brønsted, perché accetta protoni.
+Le AMMIDI derivano invece dagli acidi carbossilici COOH. Si ottengono sostituendo il gruppo –OH del gruppo carbossilico con –NH₂, –NHR oppure –NR₂. R−CO−NH2​ oppure R−CO−NHR oppure R−CO−NR2​ . Nelle ammidi compare sempre il gruppo C=O. Quando due amminoacidi si uniscono si forma il legame peptidico, che è proprio un tipo di legame ammidico.
 
 Il gruppo CARBONILICO è: C=O 
 Nei CHETONI, quel carbonio del carbonile è legato ad altri due carboni: R−CO−R′ (es. propanone / acetone CH3−CO−CH3 ), per cui non è terminale.
@@ -3848,8 +3850,18 @@ Sono meno forti dei ponti a idrogeno.
 
 Le forze di Van der Waals sono Forze intermolecolari (molto più deboli), tipo tra le molecole dell'acqua. Aumentano con la massa della molecola.
 
+### ELETTRONEGATIVITÀ
 
+L'ELETTRONEGATIVITÀ è la tendenza di un atomo ad attrarre verso di sé gli elettroni condivisi in un legame chimico. 
+Dipende principalmente da due fattori:
+1. Carica positiva del nucleo: Più protoni possiede il nucleo, maggiore è l'attrazione sugli elettroni.
+2. Distanza degli elettroni dal nucleo: Più gli elettroni sono lontani, meno vengono attratti.
 
+Nella Tavola degli Elementi aumenta andando da sinistra verso destra; aumenta andando dal basso verso l'alto. L'elemento più elettronegativo è il fluoro (F).
+L'elettronegatività è diversa da altre proprietà:
+- Affinità elettronica: energia liberata quando un atomo acquista un elettrone.
+- Energia di ionizzazione: energia necessaria per togliere un elettrone a un atomo.
+- Elettronegatività: capacità di attirare gli elettroni già condivisi in un legame chimico.
 
 ### RESPIRAZIONE CELLULARE
 
