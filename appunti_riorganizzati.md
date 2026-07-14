@@ -65,6 +65,11 @@ I microtubuli sono più grossi, come piccoli tubicini. Servono come "binari" lun
 
 I filamenti intermedi sono una specie di "cavi resistenti". Non servono tanto al movimento, ma alla stabilità: impediscono che la cellula si rompa facilmente.
 
+**10.1 Centrioli** I centrioli sono piccoli organuli cilindrici costituiti da microtubuli. Si trovano nel centrosoma, una regione del citoplasma vicina al nucleo, e hanno un ruolo fondamentale nell'organizzazione del citoscheletro e nella divisione cellulare. Ogni centriolo è un cilindro lungo circa 0,5 μm. La sua parete è formata da: 9 gruppi (triplette) di microtubuli; ogni gruppo contiene 3 microtubuli. I centrioli fanno parte del centrosoma, che è il principale centro organizzatore dei microtubuli (MTOC, Microtubule Organizing Center). Funzioni sono: 1. Organizzare i microtubuli 2. Formare il fuso mitotico 3. Dare origine a ciglia e flagelli 
+
+**10.2 Centrosoma** Il centrosoma è un organulo presente nelle cellule animali che rappresenta il principale centro organizzatore dei microtubuli (Microtubule Organizing Center, MTOC). La sua funzione è organizzare il citoscheletro (microtubuli) e dirigere la formazione del fuso mitotico durante la divisione cellulare.
+
+
 **Solo nelle cellule vegetali:**
 
 **11. Parete cellulare** – struttura rigida esterna alla membrana, formata da cellulosa, un polisaccaride formato da lunghe catene di glucosio. La cellulosa: conferisce rigidità e resistenza alla cellula; protegge la cellula; impedisce che scoppi quando assorbe acqua per osmosi; dà sostegno alla pianta.
@@ -2004,6 +2009,42 @@ Tutto il corpo
 **Riassunto circolare da memorizzare:**
 `Corpo → vene cave → atrio dx → ventricolo dx → arteria polmonare → polmoni → vene polmonari → atrio sx → ventricolo sx → aorta → corpo`
 
+CAROTIDE:
+- ✅ Le carotidi sono le principali arterie del collo.
+- ✅ La carotide comune destra nasce dal tronco brachiocefalico.
+- ✅ La carotide comune sinistra nasce dall'arco dell'aorta.
+- ✅ La carotide interna irrora il cervello e non dà rami nel collo.
+- ✅ La carotide esterna irrora volto, collo e cuoio capelluto.
+- ✅ Il seno carotideo contiene barocettori (controllo della pressione arteriosa).
+- ✅ Il glomo carotideo contiene chemiocettori (controllo di ossigeno, CO₂ e pH).
+- ✅ La stenosi carotidea aumenta il rischio di ictus ischemico.
+Il polso carotideo è uno dei più importanti da valutare. Si palpa: lateralmente alla laringe; tra trachea e muscolo sternocleidomastoideo.
+
+```
+Arco dell'aorta
+        │
+ ┌──────┴──────────┐
+ │                 │
+Carotide       Carotide
+ comune dx     comune sx
+        │
+        ▼
+Biforcazione carotidea
+        │
+ ┌──────┴─────────┐
+ │                │
+ ▼                ▼
+Carotide      Carotide
+ interna       esterna
+ │                │
+ ▼                ▼
+Cervello     Volto, collo,
+Occhi        lingua, tiroide,
+             cuoio capelluto
+```
+
+
+
 ---
 
 ### Arterie e vene: regola importante
@@ -2089,6 +2130,7 @@ Luce    ↓ Cornea    ↓ Umor acqueo    ↓ Pupilla (regolata dall'iride)    �
 
 Vertebre mobili: cervicali + toraciche + lombari = **24**
 Le sacrali e le coccigee sono invece saldate tra loro.
+L’articolazione tra le vertebre è detta: Semimobile (Anfiartrosi)
 
 ---
 
@@ -3923,17 +3965,67 @@ L'energia liberata serve per produrre ATP.
 
 Da una sola molecola di glucosio: circa 30–32 ATP
 
-RESPIRAZIONE ANAEROBICA
+**METABOLISMO ANAEROBICO** (fermentazione lattica)
 
-Significa produrre energia senza utilizzare ossigeno. Tipicamente, in uno sprint, sollevamento pesi, azione intensa, mancanza di sangue, o grave anemia o insufficienza cardiaca. Negli esseri umani, in assenza di ossigeno sufficiente, si parla più propriamente di fermentazione lattica. La glicolisi continua normalmente.
-Produce: 2 ATP + piruvato
-Poiché manca l'ossigeno, il piruvato viene convertito in lattato.
-Questo permette di rigenerare il NAD⁺ necessario affinché la glicolisi possa continuare.
-Equazione semplificata:  Glucosio → 2 Lattato + 2 ATP
-Produce poco ATP, gran parte dell'energia rimane immagazzinata nel lattato.
-Il lattato viene poi trasportato soprattutto al fegato, dove può essere riconvertito in glucosio (tramite il ciclo di Cori), oppure viene utilizzato come combustibile da cuore e muscoli.
+Significa produrre ATP quando l'ossigeno disponibile è insufficiente rispetto alla richiesta energetica. Si verifica tipicamente durante sprint, sollevamento pesi, esercizio molto intenso, oppure in condizioni patologiche come ischemia, grave anemia o insufficienza cardiaca.
 
-FERMENTAZIONE ALCOLICA
+Negli esseri umani, in queste condizioni avviene la fermentazione lattica.
+
+La glicolisi continua normalmente e produce:
+
+2 ATP
+2 molecole di piruvato
+NADH
+
+Poiché il piruvato non può essere ossidato abbastanza rapidamente nei mitocondri, viene convertito in lattato dall'enzima lattato deidrogenasi (LDH):
+
+Piruvato + NADH → Lattato + NAD⁺
+
+La rigenerazione del NAD⁺ è essenziale perché permette alla glicolisi di continuare a produrre ATP.
+
+Equazione complessiva semplificata:
+
+Glucosio → 2 Lattato + 2 ATP
+
+La resa energetica è bassa (solo 2 ATP per molecola di glucosio), perché gran parte dell'energia del glucosio rimane ancora contenuta nel lattato.
+
+Successivamente il lattato può:
+
+- essere riconvertito in piruvato e utilizzato come combustibile da muscoli e cuore quando l'ossigeno torna disponibile;
+- essere trasportato al fegato, dove viene riconvertito in glucosio tramite il ciclo di Cori.
+
+
+** ENZIMI DELLA RESPIRAZIONE **
+
+- La catena respiratoria si trova nella membrana interna del mitocondrio. 
+- È composta da 5 complessi enzimatici.
+
+| Complesso | Enzima                      |
+| --------- | --------------------------- |
+| I         | NADH deidrogenasi           |
+| II        | Succinato deidrogenasi      |
+| III       | Complesso del citocromo bc₁ |
+| IV        | Citocromo c ossidasi        |
+| V         | ATP sintasi                 |
+
+
+- I Complessi I, III e IV pompano protoni (H⁺).
+- Il Complesso II non pompa protoni.
+- Il coenzima Q e il citocromo c sono trasportatori mobili di elettroni, non enzimi.
+- L'ossigeno è l'accettore finale degli elettroni e viene ridotto ad acqua.
+- L'ATP sintasi (Complesso V) sfrutta il gradiente protonico per sintetizzare ATP.
+
+Un semplice trucco mnemonico
+```
+I → riceve elettroni dal NADH
+II → riceve elettroni dal FADH₂
+Q → li raccoglie entrambi
+III → li passa al citocromo c
+IV → li consegna all'O₂
+V → produce ATP grazie al flusso dei protoni.
+```
+
+**FERMENTAZIONE ALCOLICA**
 
 Alcuni organismi, come i lieviti, trasformano invece il piruvato in:
 etanolo e anidride carbonica.
@@ -4279,7 +4371,10 @@ Sono più lunghe che larghe.
 
 Esempi: Femore, Omero, Tibia
 
-Presentano: diafisi; epifisi; cavità midollare.
+Presentano: diafisi (centrale); epifisi (estremità); metafisi (transizione); cavità midollare.
+
+Nel bambino, quasi tutto il midollo osseo è rosso, sia nella diafisi sia nelle epifisi.
+Nell'adulto: nella diafisi c'è midollo osseo giallo, ricco di tessuto adiposo e con funzione di riserva energetica; nelle epifisi delle ossa lunghe è presente midollo osseo rosso, che svolge una funzione emopoietica, cioè produce le cellule del sangue.
 
 2. OSSA CORTE
 
