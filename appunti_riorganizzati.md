@@ -335,6 +335,12 @@ Si riformano le membrane nucleari attorno ai due nuovi set di cromatidi e il fus
 
 Infine, lungo l'equatore della cellula si forma un anello di proteine che stringe e strozza la cellula fino a dividerla materialmente in **due cellule figlie** distinte.
 
+
+La cariocinesi è la divisione del nucleo di una cellula. Avviene durante: la mitosi (per formare due cellule identiche); la meiosi (per formare i gameti: spermatozoi e ovuli).
+Dopo la cariocinesi avviene la citocinesi. La citocinesi è la divisione del citoplasma, che separa definitivamente la cellula in due cellule figlie.
+
+
+
 ---
 
 ### Quiz – Mitosi (20 domande)
@@ -1462,6 +1468,17 @@ Vaccini: creano memoria immunitaria senza dover subire la malattia completa
 **La frase più importante:**
 Il sistema immunitario riconosce, elimina e ricorda gli agenti estranei, cercando di non danneggiare il self.
 
+### MASTOCITI
+
+I MASTOCITI sono cellule "sentinella" del sistema immunitario che:
+- individuano rapidamente i pericoli nei tessuti;
+- avviano l'infiammazione rilasciando istamina e altre sostanze;
+- richiamano altre cellule immunitarie;
+- combattono soprattutto i parassiti;
+- svolgono un ruolo centrale nelle allergie e nell'anafilassi.
+
+In sostanza, sono una sorta di "allarme biologico": quando percepiscono una minaccia, rilasciano in pochi secondi sostanze che mettono in moto l'intera risposta immunitaria. Vivono nei tessuti, sono molto numerosi nella pelle e nelle mucose, Contengono istamina ed eparina. non sono granulociti. i mastociti sono leucociti, ma con una particolarità importante: non sono leucociti circolanti.
+
 ---
 
 ## 6. SISTEMA LINFATICO
@@ -1973,6 +1990,8 @@ cervelletto  = equilibrio
 ## 12. CUORE E CIRCOLAZIONE
 
 10 centimetri per 15, peso 300 grammi. Portata: 5 litri di sangue al minuto, 8.000 litri al giorno. Più di 200 milioni di litri nel corso di una vita.
+
+Lo stimolo che provoca la contrazione del tessuto cardiaco è generato spontaneamente dal nodo senoatriale, il pacemaker naturale del cuore. L'impulso si propaga attraverso il sistema di conduzione cardiaco (nodo atrioventricolare, fascio di His e fibre di Purkinje), coordinando la contrazione di atri e ventricoli. Il sistema nervoso autonomo non genera il battito, ma ne regola frequenza e intensità.
 
 ### Schema generale
 
@@ -2681,7 +2700,7 @@ Un **sale neutro** è un sale che, sciolto in acqua, non rende la soluzione né 
 
 KOH è una base forte. Le basi forti, quando formano il loro ione positivo, generano ioni praticamente “neutri” dal punto di vista acido-base. K+ non rende la soluzione né acida né basica.
 
-Se HCN è un acido debole, allora il suo ione negativo: CN− è una base debole. CN− + H2​O ⇌ HCN + OH− si formano ioni OH⁻ che rendono la soluzione basica.
+HCN è un acido debole, quindi il suo ione negativo: CN− è una base debole. CN− + H2​O ⇌ HCN + OH− si formano ioni OH⁻ che rendono la soluzione basica.
 
 Quando una base forte (o un acido forte) ha concentrazione uguale o inferiore a 10−6  M, bisogna considerare l'autodissociazione dell'acqua. NaOH 10−2  M → si trascura l'acqua. NaOH 10−4  M → si trascura l'acqua. NaOH 10−7  M → NON si può trascurare l'acqua, e il pH risulta leggermente maggiore di 7 (circa 7,21).
 
@@ -3628,10 +3647,8 @@ Il muschio è una pianta (appartiene alle Briofite) e contiene clorofilla.
 I funghi non possiedono clorofilla. Non fanno fotosintesi, ma si nutrono assorbendo sostanze organiche già prodotte da altri organismi. Non sono piante. Sono eterotrofi: posso essere saprofiti (mangiano materia organica morta), o parassiti, o simbionti come i licheni (fungo + alga) o micorrize (fungo + radici di piante).
 Il lievito è un fungo unicellulare, si nutre di zucchero.
 
+Le muffe sono funghi filamentosi, cioè costituiti da lunghi filamenti chiamati ife.
 
-
-La cariocinesi è la divisione del nucleo di una cellula. Avviene durante: la mitosi (per formare due cellule identiche); la meiosi (per formare i gameti: spermatozoi e ovuli).
-Dopo la cariocinesi avviene la citocinesi. La citocinesi è la divisione del citoplasma, che separa definitivamente la cellula in due cellule figlie.
 
 
 ### PASTEUR FLEMING
@@ -3711,7 +3728,7 @@ Maggiore è n: maggiore è l'energia; maggiore è la dimensione dell'orbitale.
 
 2. Numero quantico secondario (l)
 
-chiamato anche azimutale o orbitale. Indica la forma dell'orbitale.
+chiamato anche azimutale o orbitale o angolare. Indica la forma dell'orbitale.
 Può assumere valori: l=0,1,2,…,n−1
 0 = s (sferico)
 1 = p (due lobi)
@@ -4460,7 +4477,7 @@ Le ghiandole surrenali si trovano sopra ciascun rene. Ogni ghiandola è composta
 
 Produce:  aldosterone cortisolo androgeni 
 
-Aldosterone regola: sodio potassio pressione arteriosa
+Aldosterone ormone che regola: sodio potassio pressione arteriosa
 
 Cortisolo: È l'ormone dello stress. Serve a:  aumentare la glicemia, ridurre l'infiammazione, aiutare l'organismo durante gli stress prolungati.
 
@@ -4928,6 +4945,12 @@ Una BASE DI LEWIS è una sostanza che dona una coppia di elettroni per formare u
 Base di Lewis = donatore di una coppia di elettroni. (NH₃ H₂O OH⁻ Cl⁻ F⁻ CN⁻)
 Acido di Lewis = accettore di una coppia di elettroni. (H⁺ BF₃ AlCl₃ Fe³⁺ Cu²⁺)
 
+Il principio di AUFBAU ("costruzione"), secondo il quale gli elettroni occupano prima gli orbitali a energia più bassa.
+Per confrontare l'energia degli orbitali si usa la regola di MADELUNG (o regola di n + l ).
+Per ogni orbitale si calcola:  n + l
+dove:  n = numero quantico principale   l = numero quantico angolare
+L'orbitale con il valore di n+l più piccolo ha energia minore e viene occupato per primo.
+Se due orbitali hanno lo stesso valore di n+l, si riempie prima quello con n più piccolo.
 
 
 ## DA RIVEDERE
