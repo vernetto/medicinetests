@@ -2117,6 +2117,7 @@ Durante la sistole ventricolare, le valvole fra ventricoli e arterie sono aperte
 | Struttura | Funzione |
 |---|---|
 | Iride | Parte colorata; regola la quantità di luce modificando il diametro della pupilla (muscolo sfintere e dilatatore). Al centro c'è un foro chiamato pupilla |
+| Pupilla | La pupilla è il foro nero che si trova al centro dell'iride. Non è una struttura solida o un tessuto: è semplicemente un'apertura attraverso cui la luce entra nell'occhio. |
 | Sclerotica | Parte bianca; membrana resistente, protettiva, dà forma al bulbo oculare |
 | Cornea | Parte trasparente davanti; fa entrare la luce; rifrazione (prima lente dell'occhio). Priva di vasi sanguigni ma ricca di terminazioni nervose |
 | Retina | Membrana interna sensibile alla luce; contiene coni e bastoncelli; trasforma luce in impulsi nervosi |
@@ -2372,6 +2373,8 @@ Fulcro      Potenza      Resistenza
 | **Ammine**             | -NH₂                          | R-NH₂            | **-ammina**           | Etanammina (CH₃CH₂NH₂)           |
 | **Anidride**           | -CO-O-CO-                     | (RCO)₂O          | **Anidride ...ica / ...oica** | Anidride etanoica |
 
+
+C=O gruppo carbonile, COOH gruppo carbossile , CHO gruppo aldeidico
 
 Regola mnemonica (in ordine crescente di "peso" degli atomi): 
 ```
@@ -2696,6 +2699,8 @@ I sali sono sempre elettroliti forti.
 | Acido forte + base debole | Acido | NH₄Cl |
 | Acido debole + base forte | Basico | CH₃COONa |
 
+Esistono i **sali acidi**, in cui viene sostituito solo parte dell'idrogeno.
+
 Un **sale neutro** è un sale che, sciolto in acqua, non rende la soluzione né acida né basica. Derivano da acido forte + base forte: HCl + NaOH → NaCl + H₂O. Questi ioni non reagiscono con l'acqua in modo significativo.
 
 KOH è una base forte. Le basi forti, quando formano il loro ione positivo, generano ioni praticamente “neutri” dal punto di vista acido-base. K+ non rende la soluzione né acida né basica.
@@ -2738,6 +2743,10 @@ L'effetto principale è questo: L'acqua esce dalla cellula (o dalla soluzione me
 Questo avviene per osmosi: l'acqua tende a muoversi dove la concentrazione di soluti è maggiore.
 CRENAZIONE è quando il globulo rosso perde acqua in una soluzione ipertonica. PLASMOLISI è il fenomeno analogo nelle cellule vegetali.
 Lo stesso principio viene sfruttato per conservare alcuni alimenti con molto sale o molto zucchero (ad esempio prosciutti, merluzzo sotto sale o marmellate): l'ambiente ipertonico sottrae acqua anche ai microrganismi, ostacolandone la crescita.
+
+L'acqua ha pH 7 solo a 25 gradi, a 50 il pH vale 6.6 ma l'acqua resta neutra perchè [H+] = [OH−] ,
+questo perchè la dissociazione dell'acqua è una reazione endotermica, quindi l'equilibrio si sposta verso destra all'aumentare della T H2​O ⇌ H+ + OH−
+
 
 
 ### MISCELE
@@ -3643,12 +3652,12 @@ difficoltà respiratoria.
 
 ### MUSCHIO LIEVITO FUNGO 
 
-Il muschio è una pianta (appartiene alle Briofite) e contiene clorofilla.
-I funghi non possiedono clorofilla. Non fanno fotosintesi, ma si nutrono assorbendo sostanze organiche già prodotte da altri organismi. Non sono piante. Sono eterotrofi: posso essere saprofiti (mangiano materia organica morta), o parassiti, o simbionti come i licheni (fungo + alga) o micorrize (fungo + radici di piante).
-Il lievito è un fungo unicellulare, si nutre di zucchero.
+Il **muschio** è una pianta (appartiene alle Briofite) e contiene clorofilla.
+I **funghi** non possiedono clorofilla. Non fanno fotosintesi, ma si nutrono assorbendo sostanze organiche già prodotte da altri organismi. Non sono piante. Sono eterotrofi: posso essere saprofiti (mangiano materia organica morta), o parassiti, o simbionti come i **licheni** (fungo + alga) o micorrize (fungo + radici di piante).
+Il **lievito** è un fungo unicellulare, si nutre di zucchero.
 
-Le muffe sono funghi filamentosi, cioè costituiti da lunghi filamenti chiamati ife.
-
+Le **muffe** sono funghi filamentosi, cioè costituiti da lunghi filamenti chiamati ife.
+Le muffe si riproducono producendo spore.
 
 
 ### PASTEUR FLEMING
@@ -4951,6 +4960,22 @@ Per ogni orbitale si calcola:  n + l
 dove:  n = numero quantico principale   l = numero quantico angolare
 L'orbitale con il valore di n+l più piccolo ha energia minore e viene occupato per primo.
 Se due orbitali hanno lo stesso valore di n+l, si riempie prima quello con n più piccolo.
+
+
+### LENTI E RIFRAZIONE 
+
+**Rifrazione** : È la deviazione subita da un'onda (come la luce) quando passa da un mezzo materiale a un altro con una diversa densità ottica (ad esempio dall'aria al vetro, o dall'aria all'acqua). Il cambiamento di mezzo causa un cambio di velocità di propagazione della luce. Questo varia l'angolo del raggio luminoso secondo la **Legge di Snell**: n1 x sin(theta_1) = n_2 x sin(theta_2) con n1 e n2 gli indici di rifrazione dei due mezzi, e theta_1 theta_2 gli angoli di incidenza e rifrazione con la normale.
+
+**Diffrazione** : È un fenomeno tipico della natura ondulatoria della luce che si verifica quando un'onda incontra un ostacolo o passa attraverso una fenditura di dimensioni paragonabili alla sua lunghezza d'onda. Come funziona: L'onda, anziché proseguire in linea retta, "si piega" attorno ai bordi dell'ostacolo e si diffonde oltre la fenditura, creando frange chiare e scure.
+
+### CAPACITA TERMICA
+
+La **capacità termica** è la quantità di calore che bisogna fornire a un corpo per aumentare la sua temperatura di 1 °C (o 1 K). Si misura in J/K . La capacità termica C dipende dalla massa dell'oggetto e dal materiale di cui è fatto:
+C = m x c  dove:  m = massa (kg) c = calore specifico (J/kg·K)
+
+Il **calore specifico** non dipende dalla massa, ma solo dal materiale. 
+
+calore Q = m x c x Delta(T) = C x Delta(T)
 
 
 ## DA RIVEDERE
