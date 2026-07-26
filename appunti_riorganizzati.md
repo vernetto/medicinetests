@@ -2854,6 +2854,44 @@ I numeri quantici sono 4, e servono a descrivere lo stato di un elettrone in un 
 | m | Magnetico | Orientamento dell'orbitale nello spazio |
 | s | Di spin | Verso dello spin: +1/2 o –1/2 |
 
+
+I numeri quantici sono quattro valori che descrivono completamente lo stato di un elettrone all'interno di un atomo.
+
+1. Numero quantico principale (n)
+
+Indica: il livello energetico dell'elettrone; la distanza media dal nucleo.
+Può assumere solo valori interi positivi: n=1,2,3,4,…
+Maggiore è n: maggiore è l'energia; maggiore è la dimensione dell'orbitale.
+
+2. Numero quantico secondario (l)
+
+chiamato anche azimutale o orbitale o angolare. Indica la forma dell'orbitale.
+Può assumere valori: l=0,1,2,…,n−1
+0 = s (sferico)
+1 = p (due lobi)
+2 = d (4 lobi)
+3 = f (complicato)
+
+3. Numero quantico magnetico (mₗ)
+
+Indica l'orientamento nello spazio di un orbitale. Può assumere valori compresi tra −l e +l (es. esistono 5 orbitali d: -2 -1 0 +1 +2)
+
+4. Numero quantico di spin (mₛ)
+
+Lo spin è una proprietà intrinseca dell'elettrone, simile a un momento angolare interno. Anche se spesso viene rappresentato come una rotazione su sé stesso, questa è solo un'analogia: l'elettrone non è una sfera che gira realmente. Può essere +1/2 e -1/2, ovvero ↑ oppure ↓
+Ogni orbitale può contenere al massimo due elettroni, e devono avere spin opposti: Principio di esclusione di Pauli.
+ 
+Regola di Hund: Quando più orbitali hanno la stessa energia, gli elettroni occupano prima gli orbitali uno alla volta con spin parallelo; solo dopo iniziano ad appaiarsi.
+
+L'energia di un orbitale dipende principalmente da:
+
+- Numero quantico principale (n) → è il fattore più importante.
+- Numero quantico secondario (l) → negli atomi con più di un elettrone diventa molto importante.
+- Carica del nucleo e schermatura dovuta agli altri elettroni.
+
+
+
+
 Numero atomico Z = protoni 
 Numero di massa A = protoni + neutroni
 Massa atomica relativa (aka peso atomico) = è la media pesata delle masse degli isotopi naturali. è un rapporto.
@@ -3191,7 +3229,7 @@ Esempi collegabili: vaccini, TSO, consenso informato, sanità pubblica.
 
 **Governo:** può emanare decreti-legge e decreti legislativi nei casi previsti.
 
-**Presidente della Repubblica:** nomina il Presidente del Consiglio, promulga le leggi, può sciogliere le Camere, presiede il CSM, comanda le Forze armate, può concedere la grazia. Eletto ogni 7 anni.
+**Presidente della Repubblica:** nomina il Presidente del Consiglio, promulga le leggi, può sciogliere le Camere (indire le elezioni), invia messaggi alle Camere, presiede il Consiglio Superiore della Magistratura, comanda le Forze armate, può concedere la grazia. Eletto ogni 7 anni.
 
 **Magistratura:** esercita il potere giudiziario. È autonoma e indipendente. I giudici devono applicare la legge e garantire giustizia.
 
@@ -3233,6 +3271,8 @@ La Costituzione è rigida. Per modificarla serve la procedura dell'articolo 138:
 | 139 | Repubblica non modificabile |
 
 **Super-sintesi:** La Costituzione italiana nasce dopo il fascismo e fonda l'Italia come Repubblica democratica. I suoi valori fondamentali sono: democrazia, lavoro, uguaglianza, solidarietà, libertà, tutela della persona, pace, autonomie locali, diritto alla salute, diritto all'istruzione, tutela del lavoro.
+
+La Repubblica si dice presidenziale quando: il Presidente è anche capo del governo.
 
 **Per infermieristica: l'articolo chiave è il 32**, perché definisce la salute come **diritto fondamentale dell'individuo e interesse della collettività**.
 
@@ -3441,6 +3481,7 @@ Un triangolo esiste se il lato maggiore è minore della somma degli altri due.
 Se i tre lati sono tutti diversi, allora è SCALENO.
 Quando: lato maggiore² > somma degli altri due quadrati, il triangolo è OTTUSANGOLO.
 Quando lato maggiore² < b² + c²  → triangolo ACUTANGOLO
+Quando lato maggiore² = b² + c²  → triangolo rettangolo
 Un triangolo è ISOSCELE quando ha almeno due lati uguali.
 
 terza legge di Keplero sul periodo di un'orbita: T² ∝ R³
@@ -3571,12 +3612,13 @@ Il fegato: inattiva ormoni in eccesso; partecipa al metabolismo di insulina, glu
 12. Produce sostanze importanti
 Produce: colesterolo; sali biliari; proteine plasmatiche; molte molecole indispensabili per il metabolismo.
 
-
+L'EPATOCITA è la cellula principale del fegato. Circa l'80% della massa del fegato è costituita da epatociti, che svolgono centinaia di funzioni diverse. Hanno forma poliedrica, sono organizzati in lamine (o cordoni) spesse una sola cellula. Fra una lamina e l'altra scorrono i sinusoidi epatici, speciali capillari nei quali passa il sangue.
 
 La VENA PORTA porta al fegato ciò che l’intestino ha assorbito; l’ARTERIA EPATICA porta ossigeno al fegato; le VENE EPATICHE portano via il sangue dal fegato verso il cuore.
 
 Il fegato produce la bile; la colecisti la conserva; il coledoco la porta nell’intestino.
 
+Lo sfintere di Oddi è un anello di muscolatura liscia posto all'estremità del coledoco e del dotto pancreatico; quando è rilassato, permette a bile e succo pancreatico di entrare nel duodeno.
 
 
 Il MUGHETTO è una micosi della mucosa orale, cioè un’infezione da fungo che colpisce la bocca, generalmente causata da Candida albicans.
@@ -3725,42 +3767,6 @@ Questa regione si chiama orbitale atomico. Un orbitale è quindi una "nuvola di 
 La funzione d'onda è una formula matematica di Erwin Schrödinger (indicata con la lettera greca ψ, psi: ψ(x,y,z,t)) che descrive completamente lo stato di una particella. Essa non dice dove si trova l'elettrone, ma permette di calcolare la probabilità di trovarlo in ogni punto dello spazio.
 ψ da sola non è una probabilità. Per ottenere una probabilità bisogna fare il quadrato del suo modulo: ∣ψ∣2
 
-### NUMERI QUANTICI
-
-I numeri quantici sono quattro valori che descrivono completamente lo stato di un elettrone all'interno di un atomo.
-
-1. Numero quantico principale (n)
-
-Indica: il livello energetico dell'elettrone; la distanza media dal nucleo.
-Può assumere solo valori interi positivi: n=1,2,3,4,…
-Maggiore è n: maggiore è l'energia; maggiore è la dimensione dell'orbitale.
-
-2. Numero quantico secondario (l)
-
-chiamato anche azimutale o orbitale o angolare. Indica la forma dell'orbitale.
-Può assumere valori: l=0,1,2,…,n−1
-0 = s (sferico)
-1 = p (due lobi)
-2 = d (4 lobi)
-3 = f (complicato)
-
-3. Numero quantico magnetico (mₗ)
-
-Indica l'orientamento nello spazio di un orbitale. Può assumere valori compresi tra −l e +l (es. esistono 5 orbitali d: -2 -1 0 +1 +2)
-
-4. Numero quantico di spin (mₛ)
-
-Lo spin è una proprietà intrinseca dell'elettrone, simile a un momento angolare interno. Anche se spesso viene rappresentato come una rotazione su sé stesso, questa è solo un'analogia: l'elettrone non è una sfera che gira realmente. Può essere +1/2 e -1/2, ovvero ↑ oppure ↓
-Ogni orbitale può contenere al massimo due elettroni, e devono avere spin opposti: Principio di esclusione di Pauli.
- 
-Regola di Hund: Quando più orbitali hanno la stessa energia, gli elettroni occupano prima gli orbitali uno alla volta con spin parallelo; solo dopo iniziano ad appaiarsi.
-
-L'energia di un orbitale dipende principalmente da:
-
-- Numero quantico principale (n) → è il fattore più importante.
-- Numero quantico secondario (l) → negli atomi con più di un elettrone diventa molto importante.
-- Carica del nucleo e schermatura dovuta agli altri elettroni.
-
 
 
 ### RADIAZIONE ALFA
@@ -3775,6 +3781,25 @@ Sono poco penetranti, basta un foglio di carta.
 Le β⁻ (beta) sono elettroni.
 
 Le γ (gamma) sono fotoni.
+
+| Isotopo | Protoni | Neutroni | Totale |
+| ------- | ------: | -------: | -----: |
+| U-235   |      92 |      143 |    235 |
+| U-238   |      92 |      146 |    238 |
+
+I tre neutroni in più dell'U-238 lo rendono leggermente più stabile.
+L'U-235 ha una vita media molto più breve, 704 milioni di anni, quindi si è consumato molto più rapidamente.
+U-238: emivita di circa 4,47 miliardi di anni.
+Entrambi decadono lentamente emettendo una particella alfa (2 protoni e 2 neutroni).
+U235 -> Th231 + alfa -> Pb206 ; U238 -> Th234 + alfa  -> Pb207
+
+L' U235 può essere fisso da un neutrone lento in Ba + Kr + 2 o 3 neutroni + energia
+
+L' U238 (fertile) se colpito da neurone diventa U239, che è instabile e decade (beta) in Nettunio Np239 e poi Plutonio Pu239, che è ottimo materiale fissile. 
+L'arricchimento dell'uranio serve ad aumentare la percentuale di U-235, perché nell'uranio naturale ce n'è troppo poco per la maggior parte delle applicazioni: 99,27% U-238 , 0,72% U-235
+L'uranio viene trasformato nel gas esafluoruro di uranio (UF₆) -> centrifughe a gas -> uranio arricchito.
+L'uranio impoverito - con ancor meno U235 - può essere usato per produrre Pu239, come schermante o per applicazioni militari.
+
 
 ### ENERGIA DI IONIZZAZIONE
 
@@ -4967,6 +4992,14 @@ Se due orbitali hanno lo stesso valore di n+l, si riempie prima quello con n pi�
 **Rifrazione** : È la deviazione subita da un'onda (come la luce) quando passa da un mezzo materiale a un altro con una diversa densità ottica (ad esempio dall'aria al vetro, o dall'aria all'acqua). Il cambiamento di mezzo causa un cambio di velocità di propagazione della luce. Questo varia l'angolo del raggio luminoso secondo la **Legge di Snell**: n1 x sin(theta_1) = n_2 x sin(theta_2) con n1 e n2 gli indici di rifrazione dei due mezzi, e theta_1 theta_2 gli angoli di incidenza e rifrazione con la normale.
 
 **Diffrazione** : È un fenomeno tipico della natura ondulatoria della luce che si verifica quando un'onda incontra un ostacolo o passa attraverso una fenditura di dimensioni paragonabili alla sua lunghezza d'onda. Come funziona: L'onda, anziché proseguire in linea retta, "si piega" attorno ai bordi dell'ostacolo e si diffonde oltre la fenditura, creando frange chiare e scure.
+
+Propagazione dell'onda:
+v = f ⋅ λ  
+v = velocità dell'onda
+f = frequenza
+λ = lunghezza d'onda
+la velocità di propagazione è determinata dal mezzo
+
 
 ### CAPACITA TERMICA
 
