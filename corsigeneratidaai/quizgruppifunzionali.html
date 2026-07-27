@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<title>Quiz - Gruppi Funzionali</title>
+
+<style>
+body{
+    font-family:Arial,Helvetica,sans-serif;
+    background:#f0f2f5;
+    margin:0;
+    padding:30px;
+}
+
+.container{
+    max-width:900px;
+    margin:auto;
+    background:white;
+    padding:30px;
+    border-radius:12px;
+    box-shadow:0 0 15px rgba(0,0,0,.15);
+}
+
+h1{
+    text-align:center;
+}
+
+.question{
+    margin-bottom:25px;
+    padding:20px;
+    border-radius:10px;
+    background:#fafafa;
+    border:1px solid #ddd;
+}
+
+button{
+    padding:10px 20px;
+    font-size:16px;
+    cursor:pointer;
+    margin-top:10px;
+}
+
+.correct{
+    color:green;
+    font-weight:bold;
+}
+
+.wrong{
+    color:red;
+    font-weight:bold;
+}
+
+.explanation{
+    margin-top:10px;
+    background:#eef5ff;
+    padding:10px;
+    border-left:5px solid steelblue;
+}
+
+.score{
+    font-size:24px;
+    text-align:center;
+    margin-top:30px;
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Quiz sui Gruppi Funzionali</h1>
+
+<div id="quiz"></div>
+
+<div class="score" id="score"></div>
+
+<div style="text-align:center">
+<button onclick="startQuiz()">Nuovo Quiz</button>
+</div>
+
+</div>
+
+<script>
+
+const questions=[
+
+{
+q:"Qual è il gruppo funzionale degli alcoli?",
+a:["-OH","-COOH","-CHO","-NH₂"],
+c:0,
+e:"Gli alcoli possiedono il gruppo ossidrile (-OH), legato ad un atomo di carbonio."
+},
+
+{
+q:"Qual è il gruppo funzionale delle aldeidi?",
+a:["-COOH","-CHO","-CO-","-O-"],
+c:1,
+e:"Le aldeidi contengono il gruppo -CHO sempre posto alla fine della catena."
+},
+
+{
+q:"Qual è il gruppo funzionale dei chetoni?",
+a:["-CO-","-COOH","-CHO","-NH₂"],
+c:0,
+e:"Nei chetoni il carbonile (>C=O) è interno alla catena."
+},
+
+{
+q:"Quale composto contiene il gruppo -COOH?",
+a:["Estere","Acido carbossilico","Alcol","Ammina"],
+c:1,
+e:"Il gruppo carbossile (-COOH) identifica gli acidi carbossilici."
+},
+
+{
+q:"Qual è il gruppo funzionale degli esteri?",
+a:["-COO-","-COOH","-CONH₂","-O-"],
+c:0,
+e:"Gli esteri possiedono il gruppo -COO- tra due radicali organici."
+},
+
+{
+q:"Qual è il gruppo funzionale delle ammine?",
+a:["-NH₂","-CONH₂","-CHO","-COOH"],
+c:0,
+e:"Le ammine derivano formalmente dall'ammoniaca sostituendo uno o più H."
+},
+
+{
+q:"Qual è il gruppo funzionale delle ammidi?",
+a:["-NH₂","-COO-","-CONH₂","-OH"],
+c:2,
+e:"Le ammidi derivano dagli acidi carbossilici sostituendo -OH con -NH₂."
+},
+
+{
+q:"Quale classe contiene il doppio legame C=C?",
+a:["Alchini","Alcheni","Alcani","Aldeidi"],
+c:1,
+e:"Gli alcheni sono caratterizzati da almeno un doppio legame carbonio-carbonio."
+},
+
+{
+q:"Quale classe contiene il triplo legame C≡C?",
+a:["Alcheni","Alcani","Alchini","Chetoni"],
+c:2,
+e:"Gli alchini possiedono almeno un triplo legame."
+},
+
+{
+q:"Gli alcani hanno:",
+a:["solo legami singoli","un doppio legame","un triplo legame","un gruppo OH"],
+c:0,
+e:"Gli alcani sono idrocarburi saturi con soli legami semplici."
+},
+
+{
+q:"La desinenza degli alcoli è:",
+a:["-one","-ale","-olo","-ino"],
+c:2,
+e:"Gli alcoli terminano con la desinenza -olo."
+},
+
+{
+q:"La desinenza degli alcheni è:",
+a:["-ene","-ano","-olo","-ale"],
+c:0,
+e:"Gli alcheni terminano con -ene."
+},
+
+{
+q:"La desinenza degli alcani è:",
+a:["-ino","-ene","-ano","-one"],
+c:2,
+e:"Gli alcani terminano sempre con -ano."
+},
+
+{
+q:"La desinenza dei chetoni è:",
+a:["-olo","-ale","-one","-ammide"],
+c:2,
+e:"I chetoni terminano con -one."
+},
+
+{
+q:"La desinenza delle aldeidi è:",
+a:["-ale","-one","-olo","-ene"],
+c:0,
+e:"Le aldeidi terminano con -ale."
+},
+
+{
+q:"Quale composto è un alcol?",
+a:["Etanolo","Acetone","Etanale","Metano"],
+c:0,
+e:"L'etanolo contiene il gruppo -OH."
+},
+
+{
+q:"Quale composto è un chetone?",
+a:["Etanolo","Acetone","Acido etanoico","Etanale"],
+c:1,
+e:"L'acetone (propanone) è il più semplice chetone."
+},
+
+{
+q:"Quale composto è un'acido carbossilico?",
+a:["Etanoato di etile","Acido etanoico","Etanolo","Metano"],
+c:1,
+e:"L'acido etanoico contiene il gruppo -COOH."
+},
+
+{
+q:"Quale gruppo funzionale possiedono gli eteri?",
+a:["-O-","-OH","-COO-","-NH₂"],
+c:0,
+e:"Negli eteri un ossigeno collega due gruppi carboniosi."
+},
+
+{
+q:"Qual è il gruppo funzionale delle anidridi?",
+a:["-CO-O-CO-","-COOH","-CONH₂","-CHO"],
+c:0,
+e:"Le anidridi derivano dalla condensazione di due acidi carbossilici."
+},
+
+{
+q:"Qual è la formula generale degli alcani?",
+a:["CnH2n","CnH2n+2","CnH2n-2","CnHn"],
+c:1,
+e:"Gli alcani hanno formula generale CₙH₂ₙ₊₂."
+},
+
+{
+q:"Il gruppo carbonile interno identifica:",
+a:["aldeidi","chetoni","ammine","alcoli"],
+c:1,
+e:"Se il carbonile è interno alla catena si tratta di un chetone."
+},
+
+{
+q:"Il gruppo -CHO si trova:",
+a:["sempre all'inizio o alla fine della catena","solo al centro","solo negli alcani","solo negli alcoli"],
+c:0,
+e:"Il carbonile delle aldeidi è terminale."
+},
+
+{
+q:"Quale nome corrisponde ad un estere?",
+a:["Etanolo","Etanoato di etile","Etanale","Etanammide"],
+c:1,
+e:"Gli esteri hanno nomi del tipo '...oato di ...ile'."
+},
+
+{
+q:"Quale gruppo contiene azoto ma NON carbonile?",
+a:["Ammina","Ammide","Estere","Chetone"],
+c:0,
+e:"Le ammine possiedono -NH₂ senza il gruppo carbonile."
+}
+
+];
+
+function shuffle(array){
+for(let i=array.length-1;i>0;i--){
+let j=Math.floor(Math.random()*(i+1));
+[array[i],array[j]]=[array[j],array[i]];
+}
+}
+
+function startQuiz(){
+
+document.getElementById("score").innerHTML="";
+
+const quiz=document.getElementById("quiz");
+quiz.innerHTML="";
+
+shuffle(questions);
+
+let score=0;
+
+questions.forEach((q,index)=>{
+
+const div=document.createElement("div");
+div.className="question";
+
+div.innerHTML="<h3>"+(index+1)+". "+q.q+"</h3>";
+
+q.a.forEach((ans,i)=>{
+
+const b=document.createElement("button");
+
+b.innerHTML=ans;
+
+b.style.display="block";
+b.style.margin="8px 0";
+
+b.onclick=function(){
+
+if(div.dataset.done) return;
+div.dataset.done=true;
+
+if(i===q.c){
+score++;
+b.classList.add("correct");
+}
+else{
+b.classList.add("wrong");
+}
+
+const res=document.createElement("div");
+
+if(i===q.c){
+
+res.innerHTML="<p class='correct'>✔ Corretto!</p>";
+
+}else{
+
+res.innerHTML="<p class='wrong'>✘ Sbagliato. La risposta corretta è: <b>"+q.a[q.c]+"</b></p>";
+
+}
+
+res.innerHTML+="<div class='explanation'><b>Spiegazione:</b> "+q.e+"</div>";
+
+div.appendChild(res);
+
+document.getElementById("score").innerHTML=
+"Punteggio: <b>"+score+" / "+questions.length+"</b>";
+
+};
+
+div.appendChild(b);
+
+});
+
+quiz.appendChild(div);
+
+});
+
+}
+
+startQuiz();
+
+</script>
+
+</body>
+</html>

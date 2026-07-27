@@ -289,6 +289,8 @@ Il ciclo si divide in 5 fasi principali:
 
 **1. Interfase** — fase di preparazione in cui la cellula non si moltiplica ma si duplica.
 
+![Interfase](meiosi/001interfase.png)
+
 - **Fase G1**: La fase più lunga. Il DNA si trova nel nucleo sotto forma di cromosomi a singolo cromatidio. La cellula produce gli enzimi necessari alla successiva duplicazione.
 
 - **Fase S**: Avviene la vera e propria duplicazione del DNA.
@@ -301,6 +303,9 @@ Il ciclo si divide in 5 fasi principali:
 
 Il DNA si condensa e si impacchetta attorno alle proteine formando i cromosomi.
 
+![Profase](meiosi/002profaseI.png)
+
+
 A causa della duplicazione avvenuta nella fase S, i cromatidi ora sono doppi (cromatidi fratelli) e sono legati in un punto centrale detto **centromero**.
 
 Il centrosoma si duplica e le due parti migrano ai poli opposti della cellula, iniziando a produrre i microtubuli che formeranno la rete del **fuso mitotico**.
@@ -310,6 +315,8 @@ Il centrosoma si duplica e le due parti migrano ai poli opposti della cellula, i
 **3. Metafase**
 
 La membrana del nucleo si dissolve, lasciando liberi i cromosomi all'interno della cellula.
+
+![Metafase](meiosi/003metafaseI.png)
 
 I microtubuli del fuso si allungano e si agganciano al centromero di ciascun cromosoma. Ogni cromatidio fratello è così legato a uno dei due poli opposti.
 
@@ -321,6 +328,8 @@ I cromosomi si allineano perfettamente al centro della cellula lungo la cosiddet
 
 I cromatidi fratelli si separano.
 
+![Anafase](meiosi/004anafaseI.png)
+
 I microtubuli iniziano ad accorciarsi e a ritirarsi, trascinando i singoli cromatidi verso i due centrosomi ai poli opposti della cellula.
 
 In questo modo, il DNA si spartisce equamente in due gruppi speculari.
@@ -331,10 +340,20 @@ In questo modo, il DNA si spartisce equamente in due gruppi speculari.
 
 È la fase conclusiva: i cromatidi raggiungono i poli e si "spacchettano", tornando allo stato di cromatina meno condensata.
 
+![Telofase](meiosi/005telofaseI.png)
+
+
 Si riformano le membrane nucleari attorno ai due nuovi set di cromatidi e il fuso mitotico scompare.
 
 Infine, lungo l'equatore della cellula si forma un anello di proteine che stringe e strozza la cellula fino a dividerla materialmente in **due cellule figlie** distinte.
 
+![ProfaseII](meiosi/006profaseII.png)
+
+![MetafaseII](meiosi/007metafaseII.png)
+
+![AnafaseII](meiosi/008anafaseII.png)
+
+![TelofaseII](meiosi/009telofaseII.png)
 
 La cariocinesi è la divisione del nucleo di una cellula. Avviene durante: la mitosi (per formare due cellule identiche); la meiosi (per formare i gameti: spermatozoi e ovuli).
 Dopo la cariocinesi avviene la citocinesi. La citocinesi è la divisione del citoplasma, che separa definitivamente la cellula in due cellule figlie.
@@ -2364,7 +2383,7 @@ Fulcro      Potenza      Resistenza
 | **Alcheni**            | Doppio legame C=C             | R-CH=CH-R'       | **-ene**              | Etene (CH₂=CH₂)                  |
 | **Alchini**            | Triplo legame C≡C             | R-C≡C-R'         | **-ino**              | Etino (HC≡CH)                    |
 | **Alcoli**             | -OH (ossidrile)               | R-OH             | **-olo**              | Etanolo (CH₃CH₂OH)               |
-| **Aldeidi**            | -CHO                          | R-CHO            | **-ale**              | Etanale/acetaldeide (CH₃CHO)     |
+| **Aldeidi**            | -CHO                          | R-CHO            | **-ale**              | Metanale/formaldeide HCHO, Etanale/acetaldeide (CH₃CHO) |
 | **Chetoni**            | >C=O                          | R-CO-R'          | **-one**              | Propanone/acetone (CH₃COCH₃)     |
 | **Acidi carbossilici** | -COOH                         | R-COOH           | **Acido ...-oico**    | Acido etanoico (CH₃COOH)         |
 | **Esteri**             | -COO-                         | R-COO-R'         | **...oato di ...ile** | Etanoato di etile (CH₃COOCH₂CH₃) |
@@ -2847,16 +2866,6 @@ Periodo = riga orizzontale. Gli elementi dello stesso periodo hanno gli elettron
 
 I numeri quantici sono 4, e servono a descrivere lo stato di un elettrone in un atomo.
 
-| Simbolo | Nome | Indica |
-|---|---|---|
-| n | Principale | Livello energetico ("guscio"): 1, 2, 3… |
-| l | Azimutale/secondario | Tipo di orbitale: s, p, d, f |
-| m | Magnetico | Orientamento dell'orbitale nello spazio |
-| s | Di spin | Verso dello spin: +1/2 o –1/2 |
-
-
-I numeri quantici sono quattro valori che descrivono completamente lo stato di un elettrone all'interno di un atomo.
-
 1. Numero quantico principale (n)
 
 Indica: il livello energetico dell'elettrone; la distanza media dal nucleo.
@@ -2866,7 +2875,7 @@ Maggiore è n: maggiore è l'energia; maggiore è la dimensione dell'orbitale.
 2. Numero quantico secondario (l)
 
 chiamato anche azimutale o orbitale o angolare. Indica la forma dell'orbitale.
-Può assumere valori: l=0,1,2,…,n−1
+Può assumere valori: l = 0,1,2,…,n−1
 0 = s (sferico)
 1 = p (due lobi)
 2 = d (4 lobi)
@@ -2888,9 +2897,6 @@ L'energia di un orbitale dipende principalmente da:
 - Numero quantico principale (n) → è il fattore più importante.
 - Numero quantico secondario (l) → negli atomi con più di un elettrone diventa molto importante.
 - Carica del nucleo e schermatura dovuta agli altri elettroni.
-
-
-
 
 Numero atomico Z = protoni 
 Numero di massa A = protoni + neutroni
@@ -3220,7 +3226,7 @@ Esempi collegabili: vaccini, TSO, consenso informato, sanità pubblica.
 |---|---|---|
 | Parlamento | Legislativo (fa le leggi) | Camera dei deputati (Montecitorio) + Senato (Palazzo Madama); **bicameralismo perfetto** |
 | Governo | Esecutivo | Presidente del Consiglio + Ministri + Consiglio dei ministri |
-| Presidente della Repubblica | Garante dell'unità | Eletto dal Parlamento in seduta comune; dura **7 anni** |
+| Presidente della Repubblica | Garante dell'unità | Eletto dal Parlamento; dura **7 anni** |
 | Magistratura | Giudiziario | Autonoma e indipendente da ogni altro potere |
 | Corte Costituzionale | Controllo leggi | Controlla conformità delle leggi alla Costituzione |
 | Regioni ed enti locali | Autonomie territoriali | — |
@@ -3229,7 +3235,7 @@ Esempi collegabili: vaccini, TSO, consenso informato, sanità pubblica.
 
 **Governo:** può emanare decreti-legge e decreti legislativi nei casi previsti.
 
-**Presidente della Repubblica:** nomina il Presidente del Consiglio, promulga le leggi, può sciogliere le Camere (indire le elezioni), invia messaggi alle Camere, presiede il Consiglio Superiore della Magistratura, comanda le Forze armate, può concedere la grazia. Eletto ogni 7 anni.
+**Presidente della Repubblica:** nomina il Presidente del Consiglio, promulga le leggi, può sciogliere le Camere (indire le elezioni), invia messaggi alle Camere, presiede il Consiglio Superiore della Magistratura, comanda le Forze armate, può concedere la grazia. Eletto ogni 7 anni. Viene eletto dal Parlamento in seduta comune integrata da delegati delle Regioni (3 per Regione + 1 VDA) eletti dai Consigli regionali; nei primi 3 scrutini serve una maggioranza di 2/3, dal quarto basta la maggioranza assoluta. Non c'e' limite nel numero dei mandati.
 
 **Magistratura:** esercita il potere giudiziario. È autonoma e indipendente. I giudici devono applicare la legge e garantire giustizia.
 
@@ -3404,6 +3410,12 @@ TARSO  = piede. astragalo, calcagno, scafoide tarsale / navicolare, cuboide, tre
 
 
 ### MUTAZIONI
+
+Una mutazione del DNA è una modifica permanente della sequenza delle basi azotate del DNA.
+Le mutazioni possono verificarsi:
+Spontaneamente, a causa di errori durante la duplicazione del DNA.
+Per effetto di agenti mutageni (radiazioni, agenti chimici, virus).
+Le modifiche possono essere: sostituzione, inserzione, delezione.
 
 Una mutazione silente è una mutazione del DNA che non cambia l’amminoacido inserito nella proteina.
 Succede perché il codice genetico è ridondante: più codoni diversi possono indicare lo stesso amminoacido. Esempio:
@@ -4272,7 +4284,7 @@ x1 + x2 = - b/a
 
 x1 x x2 = c/a
 
-equazione di una parabola ad asse verticale con vertice in (h,k):  y = a(x−h)^2 + k
+
 
 
 ### METAFORA SIMILITUDINE SINEDDOCHE
@@ -4287,8 +4299,13 @@ La SINEDDOCHE è una figura retorica che consiste nel sostituire una parola con 
 "Ci sono cento teste." "Teste" = persone.
 "Ho bisogno di nuove braccia." braccia = lavoratori
 
-
 "Leggo Dante." → METONIMIA (autore per l'opera).
+
+Il CHIASMO consiste nell'incrociare l'ordine delle parole o delle idee (Bisogna mangiare per vivere, non vivere per mangiare).
+
+L'IPERBOLE è un'esagerazione volontaria. (te l'ho detto 1000 volte)
+
+L'ANADIPLOSI consiste nel ripetere, all'inizio di una frase, l'ultima parola della frase precedente. "La paura genera odio. L'odio genera violenza."
 
 
 ### GONADI
@@ -4848,6 +4865,9 @@ Una parabola si riconosce perché solo una delle due variabili è al quadrato:
 y=ax2+bx+c  asse verticale
 x=ay2+by+c asse orizzontale
 
+equazione di una parabola ad asse verticale con vertice in (h,k):  y = a(x−h)^2 + k
+
+
 ### MALATTIE AUTOIMMUNI
 
 Le malattie autoimmuni sono malattie in cui il sistema immunitario, invece di difendere l'organismo da virus, batteri e altri agenti estranei, attacca per errore i propri tessuti.
@@ -4968,6 +4988,10 @@ Vantaggi: consuma pochissima acqua.
 Svantaggi: Richiede molta energia per essere prodotto.
 Sono uricotelici: uccelli, rettili, molti insetti
 
+Animali OMEOTERMI mantengono la temperatura corporea pressoché costante, indipendentemente dalla temperatura dell'ambiente.
+Gli animali PECILOTERMI (o, più correttamente, nella maggior parte dei casi, ECTOTERMI) hanno una temperatura corporea che varia con quella dell'ambiente.
+
+
 ### CHIMICA, VARIE
 
 La FORMULA MINIMA (o FORMULA EMPIRICA) di un composto è la formula che indica il rapporto più semplice, espresso con numeri interi, tra gli atomi degli elementi presenti.
@@ -5010,6 +5034,11 @@ Il **calore specifico** non dipende dalla massa, ma solo dal materiale.
 
 calore Q = m x c x Delta(T) = C x Delta(T)
 
+### INSIEMI
+
+dati due insiemi S e N,  ∣S∪N∣ = ∣S∣ + ∣N∣ − ∣S∩N∣  ( studenti totali = studenti spagnolo + studenti nuoto - studenti spagnolo&nuoto )
+
+
 
 ## DA RIVEDERE
 
@@ -5047,8 +5076,6 @@ E) Fase luminosa della fotosintesi
 > Sia ABCD un trapezio rettangolo circoscritto ad una semicirconferenza avente per diametro l'altezza AD. Quale delle seguenti relazioni è vera?
 
 **BC = AB + CD** ← risposta corretta
-
--- 
 
 
 Cinque persone (A, B, C, D, E) decidono di scambiarsi i regali di Natale di modo che ciascuno faccia
