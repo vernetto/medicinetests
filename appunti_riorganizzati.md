@@ -48,16 +48,17 @@ Perché è importante? La cellula produce continuamente materiale da eliminare. 
 I lisosomi sono tipici soprattutto delle cellule animali. Le cellule vegetali possiedono un grande vacuolo centrale, che oltre a immagazzinare acqua e sostanze può svolgere anche funzioni digestive simili a quelle dei lisosomi.
 
 
+
 **10. Citoscheletro**
 È l'impalcatura interna: dà forma, sostegno e aiuta il movimento.
 
 È formato soprattutto da tre tipi di strutture:
 
-| Struttura | Proteina | Funzione |
-|---|---|---|
-| Microfilamenti | actina | movimento, forma cellulare, contrazione (con miosina) |
-| Microtubuli | tubulina | trasporto interno, fuso mitotico, ciglia e flagelli |
-| Filamenti intermedi | proteine fibrose | resistenza meccanica |
+|Struttura|Proteina|Funzione|
+|-|-|-|
+|Microfilamenti|actina|movimento, forma cellulare, contrazione (con miosina)|
+|Microtubuli|tubulina|trasporto interno, fuso mitotico, ciglia e flagelli|
+|Filamenti intermedi|proteine fibrose avvolti in fasci|resistenza meccanica|
 
 I microfilamenti di actina sono i più sottili. Servono per il movimento della cellula, per cambiare forma e, insieme alla miosina, per la contrazione muscolare.
 
@@ -65,9 +66,10 @@ I microtubuli sono più grossi, come piccoli tubicini. Servono come "binari" lun
 
 I filamenti intermedi sono una specie di "cavi resistenti". Non servono tanto al movimento, ma alla stabilità: impediscono che la cellula si rompa facilmente.
 
-**10.1 Centrioli** I centrioli sono piccoli organuli cilindrici costituiti da microtubuli. Si trovano nel centrosoma, una regione del citoplasma vicina al nucleo, e hanno un ruolo fondamentale nell'organizzazione del citoscheletro e nella divisione cellulare. Ogni centriolo è un cilindro lungo circa 0,5 μm. La sua parete è formata da: 9 gruppi (triplette) di microtubuli; ogni gruppo contiene 3 microtubuli. I centrioli fanno parte del centrosoma, che è il principale centro organizzatore dei microtubuli (MTOC, Microtubule Organizing Center). Funzioni sono: 1. Organizzare i microtubuli 2. Formare il fuso mitotico 3. Dare origine a ciglia e flagelli 
+**10.1 Centrioli** I centrioli sono piccoli organuli cilindrici costituiti da microtubuli. Si trovano nel centrosoma, una regione del citoplasma vicina al nucleo, e hanno un ruolo fondamentale nell'organizzazione del citoscheletro e nella divisione cellulare. Ogni centriolo è un cilindro lungo circa 0,5 μm. La sua parete è formata da: 9 gruppi (triplette) di microtubuli; ogni gruppo contiene 3 microtubuli. I centrioli fanno parte del centrosoma, che è il principale centro organizzatore dei microtubuli (MTOC, Microtubule Organizing Center). Funzioni sono: 1. Organizzare i microtubuli 2. Formare il fuso mitotico 3. Dare origine a ciglia e flagelli
 
 **10.2 Centrosoma** Il centrosoma è un organulo presente nelle cellule animali che rappresenta il principale centro organizzatore dei microtubuli (Microtubule Organizing Center, MTOC). La sua funzione è organizzare il citoscheletro (microtubuli) e dirigere la formazione del fuso mitotico durante la divisione cellulare.
+
 
 
 **Solo nelle cellule vegetali:**
@@ -96,11 +98,8 @@ La membrana plasmatica è la "pellicola" che delimita la cellula. È una sottile
 È fatta soprattutto da:
 
 1. **Fosfolipidi**: Formano un doppio strato lipidico. Immaginalo come un muro flessibile fatto di grassi.
-
 2. **Proteine**: Sono inserite nella membrana e servono per trasportare sostanze, ricevere segnali, riconoscere altre cellule, ecc.
-
 3. **Colesterolo**: Serve a regolare la fluidità della membrana, rendendola né troppo rigida né troppo molle.
-
 4. **Carboidrati**: Spesso legati a proteine o lipidi, servono anche per il riconoscimento cellulare.
 
 La cosa fondamentale è questa:
@@ -109,30 +108,31 @@ La cosa fondamentale è questa:
 Vuol dire che non lascia passare tutto liberamente. Alcune sostanze passano facilmente, altre hanno bisogno di canali o trasportatori.
 
 Esempi:
-- Passano facilmente: ossigeno, anidride carbonica, alcune molecole piccole e liposolubili.
-- Passano con difficoltà: ioni, glucosio, molecole grandi o cariche.
+
+* Passano facilmente: ossigeno, anidride carbonica, alcune molecole piccole e liposolubili.
+* Passano con difficoltà: ioni, glucosio, molecole grandi o cariche.
 
 ---
 
 ### Cromatina e cromosomi
 
 Cromatina = materiale genetico degli eucarioti formato da: **DNA + proteine istoniche**. E' DNA despiralizzato.
-Gli istoni sono proteine attorno alle quali il DNA si avvolge, come un filo attorno a rocchetti. Questo serve a compattare e organizzare il DNA dentro il nucleo.
+Gli ISTONI sono proteine attorno alle quali il DNA si avvolge, come un filo attorno a rocchetti. Questo serve a compattare e organizzare il DNA dentro il nucleo.
 
-- DNA rilassato nel nucleo = **cromatina**
-- Cromatina molto condensata durante divisione = **cromosomi**
+* DNA rilassato nel nucleo = **cromatina**
+* Cromatina molto condensata durante divisione = **cromosomi**
 
 ---
 
 ### DNA e RNA – Basi azotate - Nucleotidi
 
-| Molecola | Basi |
-|---|---|
-| RNA | A G U C (adenina, guanina, **uracile**, citosina) |
-| DNA | A G T C (adenina, guanina, **timina**, citosina) |
+|Molecola|Basi|
+|-|-|
+|RNA|A G U C (adenina, guanina, **uracile**, citosina)|
+|DNA|A G T C (adenina, guanina, **timina**, citosina)|
 
-- **Purine** (doppio anello): adenina, guanina → **PURe As Gold**
-- **Pirimidine** (anello singolo): citosina, uracile, timina → **CUT**
+* **Purine** (doppio anello): adenina, guanina → **PURe As Gold**
+* **Pirimidine** (anello singolo): citosina, uracile, timina → **CUT**
 
 chi è complementare a chi?
 Adenina  (A)  ↔  Timina   (T) (2 legami idrogeno)
@@ -147,12 +147,11 @@ NUCLEOTIDE = base azotata + zucchero + fosfato
 
 Un NUCLEOSIDE è una molecola formata da una base azotata legata a uno zucchero, senza gruppi fosfato.
 
-
 Il DNA è una lunghissima catena di nucleotidi, ciascuno contenente una base azotata.
 
 Il ribosoma non legge una base alla volta; legge tre nucleotidi per volta -> il CODONE.
-Il ribosoma prende un codone e aggiunge un amminoacido. L'amminoacido non fa parte del DNA, ne é solo il prodotto finale. 
-
+Il ribosoma prende un codone e aggiunge un amminoacido. L'amminoacido non fa parte del DNA, ne é solo il prodotto finale.
+Il CODONE è una tripletta di nucleotidi sull'mRNA, e vengono letti dal ribosoma durante la TRADUZIONE. Sul DNA si parla piuttosto di TRIPLETTE.
 
 ---
 
@@ -171,11 +170,12 @@ Servono a riconoscere i codoni dell’mRNA durante la sintesi delle proteine.
 mRNA → contiene i codoni , tRNA → contiene glii anticodoni, complementari al codone dell’mRNA.
 
 
+
 ---
 
 ### Splicing del pre-mRNA
 
-Lo splicing avviene sull'RNA appena trascritto, cioè sul pre-mRNA o trascritto primario:
+Lo splicing avviene nel nucleo, sull'RNA appena trascritto, cioè sul pre-mRNA o trascritto primario:
 
 ```
 DNA gene eucariotico
@@ -196,6 +196,7 @@ Nello splicing alternativo, alcuni esoni vengono omessi, così da codificare pro
 Lo splicing avviene nel nucleo.
 
 L'mRNA maturo attraversa poi i pori nucleari e va nel citoplasma.
+
 
 
 ### ESONI
@@ -254,16 +255,16 @@ L'**elettroforesi del DNA** serve a separare frammenti di DNA in base alla loro 
 
 ### Enzimi e proteine cellulari varie
 
-Un enzima accelera una reazione biologica legando il substrato nel **sito attivo** e trasformandolo in prodotto. Il **sito allosterico** è una zona diversa dal sito attivo, dove si legano molecole regolatrici che possono attivare o inibire l'enzima.
+Un enzima accelera una reazione biologica legando il substrato nel **sito attivo** e trasformandolo in prodotto. Il **sito allosterico** è una zona diversa dal sito attivo, dove si legano molecole regolatrici (effettore o modulatore allosterico) che possono attivare o inibire l'enzima.
 
 Gli **inibitori competitivi** riducono l'attività di un enzima legandosi al sito attivo dell'enzima.
 
-| Proteina | Funzione |
-|---|---|
-| Dineine | proteine motrici, movimento su microtubuli |
-| Connessine | formano giunzioni comunicanti tra cellule |
-| Integrine | adesione cellula-matrice extracellulare |
-| Clatrine | vescicole/endocitosi |
+|Proteina|Funzione|
+|-|-|
+|Dineine|proteine motrici, movimento su microtubuli|
+|Connessine|formano giunzioni comunicanti tra cellule|
+|Integrine|adesione cellula-matrice extracellulare|
+|Clatrine|vescicole/endocitosi|
 
 **Struttura primaria di una proteina**: sequenza degli amminoacidi nella catena, uniti da legami peptidici.
 
@@ -289,13 +290,11 @@ Il ciclo si divide in 5 fasi principali:
 
 **1. Interfase** — fase di preparazione in cui la cellula non si moltiplica ma si duplica.
 
-![Interfase](meiosi/001interfase.png)
 
-- **Fase G1**: La fase più lunga. Il DNA si trova nel nucleo sotto forma di cromosomi a singolo cromatidio. La cellula produce gli enzimi necessari alla successiva duplicazione.
 
-- **Fase S**: Avviene la vera e propria duplicazione del DNA.
-
-- **Fase G2**: Il DNA si spiralizza di nuovo e la cellula esegue un controllo di integrità del DNA duplicato; se ci sono danni il processo si interrompe, altrimenti si passa alla mitosi vera e propria.
+* **Fase G1**: La fase più lunga. Il DNA si trova nel nucleo sotto forma di cromosomi a singolo cromatidio. La cellula produce gli enzimi necessari alla successiva duplicazione.
+* **Fase S**: Avviene la vera e propria duplicazione del DNA.
+* **Fase G2**: Il DNA si spiralizza di nuovo e la cellula esegue un controllo di integrità del DNA duplicato; se ci sono danni il processo si interrompe, altrimenti si passa alla mitosi vera e propria.
 
 ---
 
@@ -303,7 +302,6 @@ Il ciclo si divide in 5 fasi principali:
 
 Il DNA si condensa e si impacchetta attorno alle proteine formando i cromosomi.
 
-![Profase](meiosi/002profaseI.png)
 
 
 A causa della duplicazione avvenuta nella fase S, i cromatidi ora sono doppi (cromatidi fratelli) e sono legati in un punto centrale detto **centromero**.
@@ -316,8 +314,6 @@ Il centrosoma si duplica e le due parti migrano ai poli opposti della cellula, i
 
 La membrana del nucleo si dissolve, lasciando liberi i cromosomi all'interno della cellula.
 
-![Metafase](meiosi/003metafaseI.png)
-
 I microtubuli del fuso si allungano e si agganciano al centromero di ciascun cromosoma. Ogni cromatidio fratello è così legato a uno dei due poli opposti.
 
 I cromosomi si allineano perfettamente al centro della cellula lungo la cosiddetta **piastra equatoriale**.
@@ -328,7 +324,7 @@ I cromosomi si allineano perfettamente al centro della cellula lungo la cosiddet
 
 I cromatidi fratelli si separano.
 
-![Anafase](meiosi/004anafaseI.png)
+
 
 I microtubuli iniziano ad accorciarsi e a ritirarsi, trascinando i singoli cromatidi verso i due centrosomi ai poli opposti della cellula.
 
@@ -340,20 +336,13 @@ In questo modo, il DNA si spartisce equamente in due gruppi speculari.
 
 È la fase conclusiva: i cromatidi raggiungono i poli e si "spacchettano", tornando allo stato di cromatina meno condensata.
 
-![Telofase](meiosi/005telofaseI.png)
+
 
 
 Si riformano le membrane nucleari attorno ai due nuovi set di cromatidi e il fuso mitotico scompare.
 
 Infine, lungo l'equatore della cellula si forma un anello di proteine che stringe e strozza la cellula fino a dividerla materialmente in **due cellule figlie** distinte.
 
-![ProfaseII](meiosi/006profaseII.png)
-
-![MetafaseII](meiosi/007metafaseII.png)
-
-![AnafaseII](meiosi/008anafaseII.png)
-
-![TelofaseII](meiosi/009telofaseII.png)
 
 La cariocinesi è la divisione del nucleo di una cellula. Avviene durante: la mitosi (per formare due cellule identiche); la meiosi (per formare i gameti: spermatozoi e ovuli).
 Dopo la cariocinesi avviene la citocinesi. La citocinesi è la divisione del citoplasma, che separa definitivamente la cellula in due cellule figlie.
@@ -458,12 +447,32 @@ Nell'uomo serve a produrre i gameti: spermatozoi nell'uomo, ovociti nella donna.
 **Frase chiave: meiosi = da 2n a n**
 
 Nell'uomo:
-- cellula diploide = 46 cromosomi
-- gamete aploide = 23 cromosomi
+
+* cellula diploide = 46 cromosomi
+* gamete aploide = 23 cromosomi
 
 **1 replicazione + 2 divisioni → 4 cellule aploidi**
 
 ---
+
+![Interfase](meiosi/001interfase.png)
+
+![Profase](meiosi/002profaseI.png)
+
+![Metafase](meiosi/003metafaseI.png)
+
+![Anafase](meiosi/004anafaseI.png)
+
+![Telofase](meiosi/005telofaseI.png)
+
+![ProfaseII](meiosi/006profaseII.png)
+
+![MetafaseII](meiosi/007metafaseII.png)
+
+![AnafaseII](meiosi/008anafaseII.png)
+
+![TelofaseII](meiosi/009telofaseII.png)
+
 
 **1. Prima della meiosi: replicazione del DNA**
 
@@ -481,6 +490,8 @@ Attenzione: questa replicazione avviene **una volta sola**. Poi arrivano due div
 ---
 
 **Meiosi I: divisione riduzionale**
+
+
 
 La meiosi I è la più importante da capire, perché qui il numero dei cromosomi viene dimezzato. Da 2n si passa a n. Per questo si chiama **divisione riduzionale**.
 
@@ -537,8 +548,9 @@ Alla fine della meiosi I si ottengono **2 cellule aploidi**.
 Però attenzione: ogni cromosoma è ancora formato da due cromatidi fratelli.
 
 Quindi dopo meiosi I:
-- numero cromosomi dimezzato
-- DNA ancora duplicato
+
+* numero cromosomi dimezzato
+* DNA ancora duplicato
 
 ---
 
@@ -566,8 +578,8 @@ Nella donna invece il processo è asimmetrico: si forma un grande ovocita e picc
 
 **Mitosi vs. Meiosi: La differenza principale**
 
-- **Mitosi**: Crea cellule del corpo identiche (come quelle della pelle o dello stomaco); fondamentale per la crescita e la riparazione dei tessuti.
-- **Meiosi**: Produce sperma e cellule uovo (gameti).
+* **Mitosi**: Crea cellule del corpo identiche (come quelle della pelle o dello stomaco); fondamentale per la crescita e la riparazione dei tessuti.
+* **Meiosi**: Produce sperma e cellule uovo (gameti).
 
 Mentre le normali cellule del corpo umano contengono 46 cromosomi, i gameti ne contengono solo 23. Per questo motivo la meiosi viene definita una **divisione di riduzione**: si parte da una cellula con 46 cromosomi per arrivare a cellule finali con una quantità dimezzata. Questa riduzione è fondamentale affinché, al momento della fecondazione, l'unione di uno spermatozoo (23) e di un ovulo (23) dia origine a un nuovo individuo con il corretto corredo umano di 46 cromosomi.
 
@@ -611,10 +623,10 @@ Se i cromosomi non si separano correttamente durante le fasi di anafase, questo 
 
 ### Differenza fondamentale tra mitosi e meiosi
 
-| Processo | Risultato | A cosa serve |
-|---|---|---|
-| Mitosi | 2 cellule uguali, diploidi | crescita, riparazione, ricambio cellulare |
-| Meiosi | 4 cellule diverse, aploidi | produzione di gameti |
+|Processo|Risultato|A cosa serve|
+|-|-|-|
+|Mitosi|2 cellule uguali, diploidi|crescita, riparazione, ricambio cellulare|
+|Meiosi|4 cellule diverse, aploidi|produzione di gameti|
 
 ```
 MITOSI
@@ -643,41 +655,41 @@ Il linkage significa: due geni stanno sullo stesso cromosoma, quindi tendono a e
 
 ### Aneuploidia e variazioni cromosomiche
 
-| Termine | Significato |
-|---|---|
-| Aneuploidia | uno o pochi cromosomi in più o in meno |
-| (auto)Poliploidia | interi assetti cromosomici in più (3n, 4n) |
-| Allopoliploidia | molte serie di cromosomi provenienti da specie diverse (frumento tenero) |
-| Diploidia | condizione normale con due serie di cromosomi (2n) |
-| Monosomia | manca un cromosoma di una coppia |
-| Aploidia | una sola serie di cromosomi (n), come nei gameti |
-| Trisomia 21 | Sindrome di Down |
+|Termine|Significato|
+|-|-|
+|Aneuploidia|uno o pochi cromosomi in più o in meno|
+|(auto)Poliploidia|interi assetti cromosomici in più (3n, 4n)|
+|Allopoliploidia|molte serie di cromosomi provenienti da specie diverse (frumento tenero)|
+|Diploidia|condizione normale con due serie di cromosomi (2n)|
+|Monosomia|manca un cromosoma di una coppia|
+|Aploidia|una sola serie di cromosomi (n), come nei gameti|
+|Trisomia 21|Sindrome di Down|
 
 ---
 
 ### Gruppi sanguigni e genetica
 
-- AB: sempre **eterozigote**; A e B sono codominanti (si esprimono entrambi)
-- 0: sempre **omozigote recessivo**
-- Rh+: dominante; Rh-: recessivo
+* AB: sempre **eterozigote**; A e B sono codominanti (si esprimono entrambi)
+* 0: sempre **omozigote recessivo**
+* Rh+: dominante; Rh-: recessivo
 
 Gruppo 0 donatore universale
 
-| Gruppo | Antigeni sui globuli rossi | Anticorpi nel plasma |
-| ------ | -------------------------- | -------------------- |
-| **A**  | A                          | anti-B               |
-| **B**  | B                          | anti-A               |
-| **AB** | A e B                      | nessuno              |
-| **0**  | nessuno                    | anti-A e anti-B      |
+|Gruppo|Antigeni sui globuli rossi|Anticorpi nel plasma|
+|-|-|-|
+|**A**|A|anti-B|
+|**B**|B|anti-A|
+|**AB**|A e B|nessuno|
+|**0**|nessuno|anti-A e anti-B|
 
 
 
-| Ricevente | Può ricevere da |
-| --------- | --------------- |
-| **0**     | 0               |
-| **A**     | A, 0            |
-| **B**     | B, 0            |
-| **AB**    | A, B, AB, 0     |
+|Ricevente|Può ricevere da|
+|-|-|
+|**0**|0|
+|**A**|A, 0|
+|**B**|B, 0|
+|**AB**|A, B, AB, 0|
 
 
 
@@ -693,22 +705,24 @@ L'emofilia è una malattia recessiva legata al cromosoma X. Il gene dell'emofili
 
 XH = allele normale | Xh = allele malato
 
-- una donna deve avere XʰXʰ per essere malata;
-- un uomo basta che abbia XʰY, perché possiede un solo cromosoma X.
+* una donna deve avere XʰXʰ per essere malata;
+* un uomo basta che abbia XʰY, perché possiede un solo cromosoma X.
 
 
-| Genotipo femmina | Genotipo maschio | Possibile esito |
-|---|---|---|
-| XHXH (sana) | XhY (malato) | maschio sempre sano; può nascere femmina portatrice |
-| XHXH (sana) | XHY (sano) | tutti sani |
-| XhXH (portatrice) | XhY (malato) | può nascere maschio malato, femmina malata o portatrice |
-| XhXH (portatrice) | XHY (sano) | può nascere maschio malato, femmina portatrice |
-| XhXh (malata) | XhY (malato) | maschio sempre malato, femmina sempre malata |
-| XhXh (malata) | XHY (sano) | maschio sempre malato, femmina sempre portatrice |
+
+|Genotipo femmina|Genotipo maschio|Possibile esito|
+|-|-|-|
+|XHXH (sana)|XhY (malato)|maschio sempre sano; può nascere femmina portatrice|
+|XHXH (sana)|XHY (sano)|tutti sani|
+|XhXH (portatrice)|XhY (malato)|può nascere maschio malato, femmina malata o portatrice|
+|XhXH (portatrice)|XHY (sano)|può nascere maschio malato, femmina portatrice|
+|XhXh (malata)|XhY (malato)|maschio sempre malato, femmina sempre malata|
+|XhXh (malata)|XHY (sano)|maschio sempre malato, femmina sempre portatrice|
 
 Regole chiave:
-- Se il maschio è malato, la figlia femmina è sempre almeno portatrice
-- Se la femmina è malata, il figlio maschio è sempre malato
+
+* Se il maschio è malato, la figlia femmina è sempre almeno portatrice
+* Se la femmina è malata, il figlio maschio è sempre malato
 
 "affetti da emofilia" significa "malati"; i "portatori sani" sono esclusi.
 
@@ -717,9 +731,10 @@ Regole chiave:
 ### Anemia falciforme
 
 Causata da una mutazione nella catena beta dell'emoglobina.
-- Emoglobina normale: HbA; falciforme: HbS
-- emoglobina = 2 catene α + 2 catene β
-- Nella catena β al posto dell'acido glutammico entra la **valina**
+
+* Emoglobina normale: HbA; falciforme: HbS
+* emoglobina = 2 catene α + 2 catene β
+* Nella catena β al posto dell'acido glutammico entra la **valina**
 
 ---
 
@@ -767,11 +782,13 @@ A = Adenosina (adenina + ribosio)
 L'energia è immagazzinata nei legami tra i gruppi fosfato, soprattutto nell'ultimo.
 Quando la cellula ha bisogno di energia, rompe l'ultimo legame di ATP e produce ADP = Adenosina Difosfato + Pi = fosfato inorganico
 L'energia necessaria per la reazione inversa ADP -> ATP proviene principalmente da:
-- respirazione cellulare
-- fotosintesi (nelle piante)
-- fermentazione (in alcune cellule e microrganismi)
 
-L'ATP alimenta praticamente tutto ciò che richiede energia: 
+* respirazione cellulare
+* fotosintesi (nelle piante)
+* fermentazione (in alcune cellule e microrganismi)
+
+L'ATP alimenta praticamente tutto ciò che richiede energia:
+
 1. Contrazione muscolare
 2. Trasporto attivo (pompa sodio-potassio)
 3. Sintesi di molecole
@@ -783,7 +800,7 @@ Nei batteri, che non hanno mitocondri, l'ATP viene prodotto principalmente sulla
 L'ATP e' un nucleotide ( Adenina base azotata, Ribosio, zucchero a 5 C, uno o più gruppi fosfati): ribonucleotide trifosfato.
 
 
- 
+
 ---
 
 ### Ciclo di Krebs
@@ -889,7 +906,7 @@ FADH₂ → Complesso II → meno pompaggio H⁺ → meno ATP
 Il Coenzima Q è mobile nella membrana interna. Fa da navetta:
 
 ```
-Complesso I  \
+Complesso I  
               → Coenzima Q → Complesso III
 Complesso II /
 ```
@@ -913,6 +930,7 @@ Il Complesso IV è l'ultimo della catena. Qui gli elettroni arrivano finalmente 
 Senza ossigeno, gli elettroni non saprebbero dove andare. La catena si bloccherebbe.
 
 Se si blocca la catena:
+
 ```
 NADH non scarica gli elettroni
 ↓
@@ -941,8 +959,8 @@ Quindi la catena respiratoria non produce direttamente ATP in grande quantità. 
 
 **Perché si chiama fosforilazione ossidativa?**
 
-- *Fosforilazione* perché si aggiunge un fosfato all'ADP: ADP + Pᵢ → ATP
-- *Ossidativa* perché tutto dipende da reazioni di ossidoriduzione (NADH → NAD⁺; O₂ → H₂O)
+* *Fosforilazione* perché si aggiunge un fosfato all'ADP: ADP + Pᵢ → ATP
+* *Ossidativa* perché tutto dipende da reazioni di ossidoriduzione (NADH → NAD⁺; O₂ → H₂O)
 
 Produce la maggior parte dell'ATP nelle cellule eucariotiche aerobiche. Avviene sulla membrana interna dei mitocondri.
 
@@ -975,8 +993,8 @@ MATRICE
 
 **Quanta ATP produce?**
 
-- 1 NADH → circa 2,5 ATP
-- 1 FADH₂ → circa 1,5 ATP
+* 1 NADH → circa 2,5 ATP
+* 1 FADH₂ → circa 1,5 ATP
 
 **La frase da ricordare all'esame:**
 
@@ -988,9 +1006,10 @@ NADH/FADH₂ scaricano elettroni → H⁺ vengono pompati → H⁺ rientrano nel
 ---
 
 Note importanti:
-- Fotosintesi: non usa principalmente NADH, ma **NADPH**
-- Respirazione nei mitocondri, fotosintesi nei cloroplasti
-- Fotosintesi = processo **anabolico**, costruisce zuccheri; respirazione = processo **catabolico**, demolisce zuccheri
+
+* Fotosintesi: non usa principalmente NADH, ma **NADPH**
+* Respirazione nei mitocondri, fotosintesi nei cloroplasti
+* Fotosintesi = processo **anabolico**, costruisce zuccheri; respirazione = processo **catabolico**, demolisce zuccheri
 
 ---
 
@@ -999,8 +1018,9 @@ Note importanti:
 Il Ciclo di Calvin costruisce zuccheri usando CO₂. Noto anche come **fase oscura** della fotosintesi. Avviene nelle cellule vegetali, nei cloroplasti. È un processo **anabolico** (di biosintesi) che avviene nello **stroma** dei cloroplasti. Il suo obiettivo è fissare il carbonio inorganico (CO₂) per produrre molecole organiche come il glucosio.
 
 Per ridurre la CO₂ e sintetizzare gli zuccheri, il ciclo richiede un massiccio apporto di energia chimica e potere riducente, che provengono direttamente dalla fase luminosa:
-- **Consumo di ATP**: Viene utilizzato per fosforilare i composti intermedi
-- **Consumo di NADPH**: Fornisce gli elettroni necessari alla riduzione
+
+* **Consumo di ATP**: Viene utilizzato per fosforilare i composti intermedi
+* **Consumo di NADPH**: Fornisce gli elettroni necessari alla riduzione
 
 **Fase I – Fissazione della CO₂:**
 `1 CO₂ + 1 RuBP (ribulosio-1,5-bisfosfato) → 2 molecole di 3-PGA (3-fosfoglicerato)`
@@ -1020,10 +1040,10 @@ Per fare un glucosio, servono grosso modo 2 G3P, quindi: 6 CO₂ → 1 glucosio
 
 ### Fermentazione
 
-| Tipo | Schema | CO₂ | Prodotto |
-|---|---|---|---|
-| Lattica | piruvato → lattato | No | acido lattico |
-| Alcolica | piruvato → etanolo + CO₂ | Sì | etanolo |
+|Tipo|Schema|CO₂|Prodotto|
+|-|-|-|-|
+|Lattica|piruvato → lattato|No|acido lattico|
+|Alcolica|piruvato → etanolo + CO₂|Sì|etanolo|
 
 ---
 
@@ -1041,19 +1061,19 @@ Un **Operone** è un gruppo di geni batterici comandati dallo stesso interruttor
 
 **Agenti patogeni:**
 
-| Malattia | Tipo di agente |
-|---|---|
-| Vaiolo | Virus |
-| *Clostridium tetani* | Batterio |
-| *Yersinia pestis* (peste) | Batterio |
-| *Vibrio cholerae* (colera) | Batterio |
-| *Streptococcus pneumoniae* | Batterio |
-| Botulismo (*Clostridium botulinum*) | Batterio (tossina) |
-| Mononucleosi | Virus di Epstein-Barr |
-| Malaria | Protozoo *Plasmodium* |
-| Rabbia | Virus della rabbia |
-| Epatite B | Virus HBV |
-| *Saccharomyces cerevisiae* | Fungo unicellulare eucariote (lievito) |
+|Malattia|Tipo di agente|
+|-|-|
+|Vaiolo|Virus|
+|*Clostridium tetani*|Batterio|
+|*Yersinia pestis* (peste)|Batterio|
+|*Vibrio cholerae* (colera)|Batterio|
+|*Streptococcus pneumoniae*|Batterio|
+|Botulismo (*Clostridium botulinum*)|Batterio (tossina)|
+|Mononucleosi|Virus di Epstein-Barr|
+|Malaria|Protozoo *Plasmodium*|
+|Rabbia|Virus della rabbia|
+|Epatite B|Virus HBV|
+|*Saccharomyces cerevisiae*|Fungo unicellulare eucariote (lievito)|
 
 Il materiale genetico dei **retrovirus** come l'HIV è RNA a singolo filamento che viene usato come stampo per la sintesi di DNA.
 
@@ -1061,6 +1081,7 @@ Fibrosi cistica mutazione genetica nel gene CFTR; porta a muco molto denso, infe
 Sindrome di Down: 3 cromosomi 21. nasce da un errore casuale nella formazione dell’ovulo o dello spermatozoo, chiamato non-disgiunzione: i cromosomi non si separano correttamente. Esistono anche forme più rare, come la traslocazione, che in alcuni casi può essere ereditaria.
 
 Morbo di Basedow, chiamato anche malattia di Graves, è una malattia autoimmune della tiroide. il sistema immunitario produce anticorpi che stimolano troppo la tiroide, come se imitassero il TSH. La tiroide quindi lavora eccessivamente e produce troppi ormoni tiroidei: T3 e T4. Il risultato è un ipertiroidismo.
+
 
 
 
@@ -1098,6 +1119,7 @@ Non riconosce "quel preciso virus con quel preciso antigene" come fa invece il s
 **Neutrofili:** Sono tra i primi ad arrivare in caso di infezione batterica. Fanno soprattutto fagocitosi. Sono importantissimi nel pus (il pus contiene molti neutrofili morti, batteri, detriti cellulari).
 
 **Macrofagi:** Sono grandi cellule "spazzine". Fanno tre cose fondamentali:
+
 1. mangiano microbi e detriti
 2. producono sostanze infiammatorie
 3. presentano antigeni ai linfociti T
@@ -1186,23 +1208,24 @@ Gli anticorpi possono: neutralizzare virus e tossine, favorire la fagocitosi, at
 
 **Struttura degli anticorpi (immunoglobuline):**
 
-Una **IMMUNOGLOBULINA** è un **ANTICORPO**. Proteina prodotta dai linfociti B (più precisamente dalle plasmacellule) per riconoscere e legarsi a sostanze estranee chiamate antigeni.
+Una **IMMUNOGLOBULINA** è un **ANTICORPO**, cioè una PROTEINA prodotta dai linfociti B (più precisamente dalle plasmacellule) per riconoscere e legarsi a sostanze estranee chiamate antigeni.
 
 Sono normalmente costituiti da 4 catene polipeptidiche: 2 catene pesanti (lunghe) + 2 catene leggere (corte), tenute insieme da ponti disolfuro.
 
 La struttura classica dell'anticorpo è a forma di Y:
-- le due "braccia" della Y riconoscono l'antigene
-- il "gambo" della Y può richiamare altre parti del sistema immunitario
+
+* le due "braccia" della Y riconoscono l'antigene
+* il "gambo" della Y può richiamare altre parti del sistema immunitario
 
 **Classi di immunoglobuline:**
 
-| Classe | Funzione principale |
-|---|---|
-| IgG | le più abbondanti nel sangue; memoria immunitaria; attraversano la placenta |
-| IgM | prime prodotte in una risposta immunitaria |
-| IgA | presenti nelle mucose, saliva, lacrime, latte materno |
-| IgE | allergie e difesa contro parassiti |
-| IgD | presenti sui linfociti B, funzione più regolatoria |
+|Classe|Funzione principale|
+|-|-|
+|IgG|le più abbondanti nel sangue; memoria immunitaria; attraversano la placenta|
+|IgM|prime prodotte in una risposta immunitaria|
+|IgA|presenti nelle mucose, saliva, lacrime, latte materno|
+|IgE|allergie e difesa contro parassiti|
+|IgD|presenti sui linfociti B, funzione più regolatoria|
 
 ---
 
@@ -1321,9 +1344,10 @@ Le citochine sono sostanze prodotte dalle cellule immunitarie per comunicare. Tr
 **Interferone** = proteina-segnale prodotta dalle cellule, soprattutto quando c'è un'infezione virale. Fa parte delle citochine.
 
 Funzioni principali degli interferoni:
-- rallentano mla replicazione virale
-- attivano cellule difensive come macrofagi e natural killer
-- aumentano la presentazione degli antigeni
+
+* rallentano mla replicazione virale
+* attivano cellule difensive come macrofagi e natural killer
+* aumentano la presentazione degli antigeni
 
 ---
 
@@ -1359,6 +1383,7 @@ prurito, gonfiore, muco, broncospasmo, ecc.
 **17. Leucociti – tabella riassuntiva**
 
 AKA Globuli Bianchi (WBC white blood cells). Sono tutte le cellule del sangue coinvolte nella difesa dell'organismo contro infezioni, virus, batteri, parassiti e cellule tumorali. Alcuni svolgono fagocitosi.
+
 ```
 Cellule del sangue
 │
@@ -1382,17 +1407,18 @@ Cellule del sangue
             │     └── T regolatori
             └── Cellule NK (Natural Killer)
 ```			
-			
+
+
 
 I granulociti prendono il nome proprio dal tipo di colorante con cui i loro granuli si colorano meglio.
 
-| Tipo | % | Categoria | Funzione principale |
-|---|---|---|---|
-| Neutrofili | 50-70% | Granulociti | attaccano soprattutto batteri (fagocitosi), formano pus; si colorano con entrambi i coloranti  |
-| Linfociti | 20-40% | Agranulociti | immunità specifica: anticorpi, cellule infette, memoria |
-| Monociti | 2-8% | Agranulociti | grandi; diventano macrofagi; "mangiano" patogeni e detriti |
-| Eosinofili | 1-4% | Granulociti | difesa contro parassiti e allergie; si colorano con eosina (colorante acido) |
-| Basofili | <1% | Granulociti | reazioni allergiche/infiammatorie; liberano istamina ed eparina; si colorano con basi |
+|Tipo|%|Categoria|Funzione principale|
+|-|-|-|-|
+|Neutrofili|50-70%|Granulociti|attaccano soprattutto batteri (fagocitosi), formano pus; si colorano con entrambi i coloranti|
+|Linfociti|20-40%|Agranulociti|immunità specifica: anticorpi, cellule infette, memoria|
+|Monociti|2-8%|Agranulociti|grandi; diventano macrofagi; "mangiano" patogeni e detriti|
+|Eosinofili|1-4%|Granulociti|difesa contro parassiti e allergie; si colorano con eosina (colorante acido)|
+|Basofili|<1%|Granulociti|reazioni allergiche/infiammatorie; liberano istamina ed eparina; si colorano con basi|
 
 
 
@@ -1456,11 +1482,13 @@ Eosinofili → difesa contro parassiti e partecipazione alle allergie.
 Basofili → rilasciano istamina ed eparina, responsabili delle reazioni allergiche e infiammatorie.
 
 
+
 granulociti: granuli visibili al microscopio. Agranulociti: non hanno grani visibili al microscopio.
 
 **Mnemonica:**
-- Granulociti = **NEB** (Neutrofili, Eosinofili, Basofili)
-- Agranulociti = **LiMo** (Linfociti, Monociti)
+
+* Granulociti = **NEB** (Neutrofili, Eosinofili, Basofili)
+* Agranulociti = **LiMo** (Linfociti, Monociti)
 
 ---
 
@@ -1490,11 +1518,12 @@ Il sistema immunitario riconosce, elimina e ricorda gli agenti estranei, cercand
 ### MASTOCITI
 
 I MASTOCITI sono cellule "sentinella" del sistema immunitario che:
-- individuano rapidamente i pericoli nei tessuti;
-- avviano l'infiammazione rilasciando istamina e altre sostanze;
-- richiamano altre cellule immunitarie;
-- combattono soprattutto i parassiti;
-- svolgono un ruolo centrale nelle allergie e nell'anafilassi.
+
+* individuano rapidamente i pericoli nei tessuti;
+* avviano l'infiammazione rilasciando istamina e altre sostanze;
+* richiamano altre cellule immunitarie;
+* combattono soprattutto i parassiti;
+* svolgono un ruolo centrale nelle allergie e nell'anafilassi.
 
 In sostanza, sono una sorta di "allarme biologico": quando percepiscono una minaccia, rilasciano in pochi secondi sostanze che mettono in moto l'intera risposta immunitaria. Vivono nei tessuti, sono molto numerosi nella pelle e nelle mucose, Contengono istamina ed eparina. non sono granulociti. i mastociti sono leucociti, ma con una particolarità importante: non sono leucociti circolanti.
 
@@ -1503,6 +1532,7 @@ In sostanza, sono una sorta di "allarme biologico": quando percepiscono una mina
 ## 6. SISTEMA LINFATICO
 
 Il sistema linfatico è una rete di vasi, linfa e organi linfatici che ha tre grandi scopi:
+
 1. **Drenare** i liquidi in eccesso dai tessuti
 2. **Difendere** l'organismo dalle infezioni
 3. **Assorbire grassi** dall'intestino
@@ -1517,21 +1547,24 @@ Alla fine la linfa torna nella circolazione sanguigna vicino alle vene succlavie
 
 **Elementi principali:** linfa, capillari linfatici, vasi linfatici, linfonodi, milza, timo, tonsille, midollo osseo.
 
-| Organo | Funzione chiave |
-|---|---|
-| Linfonodi | filtrano la linfa; difesa immunitaria |
-| Milza | controlla il sangue; elimina globuli rossi vecchi; partecipa alla risposta immunitaria; conserva piastrine |
-| Timo | maturazione linfociti **T** |
-| Midollo osseo | maturazione linfociti **B** |
+|Organo|Funzione chiave|
+|-|-|
+|Linfonodi|filtrano la linfa; difesa immunitaria|
+|Milza|controlla il sangue; elimina globuli rossi vecchi; partecipa alla risposta immunitaria; conserva piastrine|
+|Timo|maturazione linfociti **T**|
+|Midollo osseo|maturazione linfociti **B**|
+
 
 
 Il TIMO sta dietro lo sterno e davanti al cuore, nella parte superiore del torace. È molto sviluppato nei bambini e negli adolescenti, mentre nell'adulto tende a ridursi di dimensioni (processo chiamato involuzione del timo).
-È la "scuola" dei linfociti T. I linfociti T nascono nel midollo osseo, ma lì non sono ancora maturi. Essi migrano nel timo, dove: 
-- imparano a riconoscere gli agenti estranei;
-- imparano a non attaccare le cellule del proprio organismo (tolleranza immunologica);
-- vengono eliminati quelli che funzionano male o che potrebbero causare malattie autoimmuni.
+È la "scuola" dei linfociti T. I linfociti T nascono nel midollo osseo, ma lì non sono ancora maturi. Essi migrano nel timo, dove:
+
+* imparano a riconoscere gli agenti estranei;
+* imparano a non attaccare le cellule del proprio organismo (tolleranza immunologica);
+* vengono eliminati quelli che funzionano male o che potrebbero causare malattie autoimmuni.
 
 Solo dopo questo "addestramento" diventano linfociti T maturi. Di lì, vanno in linfonodi, milza e sangue.
+
 
 
 
@@ -1541,13 +1574,15 @@ Solo dopo questo "addestramento" diventano linfociti T maturi. Di lì, vanno in 
 ## 7. SANGUE
 
 **Eritrociti (globuli rossi):**
-- Forma: disco biconcavo, senza nucleo nei mammiferi adulti
-- Contenuto: pieni di emoglobina (~270 milioni di molecole per cellula), che è una proteina di trasporto
-- Funzione: trasportano O₂ dai polmoni ai tessuti, e CO₂ in senso inverso
-- Vita media: circa 120 giorni
-- Produzione: nel midollo osseo rosso (eritropoiesi)
+
+* Forma: disco biconcavo, senza nucleo nei mammiferi adulti
+* Contenuto: pieni di emoglobina (~270 milioni di molecole per cellula), che è una proteina di trasporto
+* Funzione: trasportano O₂ dai polmoni ai tessuti, e CO₂ in senso inverso
+* Vita media: circa 120 giorni
+* Produzione: nel midollo osseo rosso (eritropoiesi)
 
 Nei polmoni, la concentrazione di ossigeno è molto alta negli alveoli e nel plasma sanguigno, mentre all'interno dei globuli rossi è inizialmente più bassa. L'ossigeno e' una molevola molto piccola, attraversa direttamente il doppio strato fosfolipidico della membrana cellulare. Questo processo si chiama DIFFUSIONE semplice. Una volta entrato, l'ossigeno si lega all'emoglobina. Questo legame mantiene bassa la concentrazione di ossigeno libero nel globulo rosso, favorendo l'ingresso di altro ossigeno.
+
 
 
 **Plasma:** è la parte liquida del sangue quando il sangue non ha coagulato.
@@ -1557,46 +1592,52 @@ Contiene: acqua (~90%), sali minerali, proteine plasmatiche (albumina, globuline
 Nel plasma sono sospesi: globuli rossi, globuli bianchi, piastrine.
 
 **Siero** è ciò che resta del plasma dopo la coagulazione.
-- Plasma = **con fibrinogeno**
-- Siero = **senza fibrinogeno**
+
+* Plasma = **con fibrinogeno**
+* Siero = **senza fibrinogeno**
 
 **Coagulazione:**
-- Il **fibrinogeno** è una proteina del plasma fondamentale per la coagulazione.
-- L'enzima che trasforma il fibrinogeno in **fibrina** si chiama **trombina**.
-- La fibrina forma una rete di fili, che intrappola globuli rossi, piastrine e altre cellule del sangue → si forma il coagulo.
+
+* Il **fibrinogeno** è una proteina del plasma fondamentale per la coagulazione.
+* L'enzima che trasforma il fibrinogeno in **fibrina** si chiama **trombina**.
+* La fibrina forma una rete di fili, che intrappola globuli rossi, piastrine e altre cellule del sangue → si forma il coagulo.
 
 **Osmolarità del plasma:** normalmente **275–295 mOsm/L**
 
 L'osmolarità è data dalla concentrazione totale delle particelle disciolte. Le principali sono:
-- Sodio (Na⁺) → il contributo più importante
-- Anioni che accompagnano il sodio (Cl⁻ e HCO₃⁻)
-- Glucosio, Urea
+
+* Sodio (Na⁺) → il contributo più importante
+* Anioni che accompagnano il sodio (Cl⁻ e HCO₃⁻)
+* Glucosio, Urea
 
 Le soluzioni fisiologiche (ad esempio NaCl 0,9%) hanno un'osmolarità molto vicina a quella del plasma → **isotoniche**.
 
-- glucosio → rimane 1 particella → 1 mole di glucosio dà circa: **1 Osm**
-- NaCl → Na⁺ + Cl⁻ → 1 mole di NaCl dà circa: **2 Osm**
+* glucosio → rimane 1 particella → 1 mole di glucosio dà circa: **1 Osm**
+* NaCl → Na⁺ + Cl⁻ → 1 mole di NaCl dà circa: **2 Osm**
 
 *Osmole:* Una osmole è una quantità di sostanza che corrisponde a 1 mole di particelle osmoticamente attive. In biologia si usa quasi sempre mOsm/L.
 
 **Emoglobina:** = 2 catene proteiche α + 2 catene β, 4 gruppi eme. Al centro di ogni gruppo eme c'è uno ione: Fe2+. Il ferro lega una molecola di ossigeno. Quindi una molecola di emoglobina può trasportare fino a: 4 molecole di O2
-	​
+​
 La bilirubina è un prodotto del catabolismo dell'emoglobina.
+
 
 
 ---
 
 ## 8. VITAMINE
 
-| Vitamina | Nome chimico | Funzione |
-|---|---|---|
-| A | Retinolo | vista, pelle, mucose |
-| B₆ | Piridossale | metabolismo degli amminoacidi e delle proteine |
-| B₁₂ | Cobalamina | importante per sangue e sistema nervoso  |
-| C | Acido ascorbico | collagene e antiossidante; cicatrizzazione; pelle, gengive, vasi sanguigni, tendini, ossa |
-| D | Calciferolo (D₂ = ergocalciferolo, D₃ = colecalciferolo)  | assorbimento intestinale di calcio e fosforo → ossa forti |
-| E | Tocoferolo | antiossidante |
-| K | Fillochinone / menachinone | coagulazione |
+Le vitamine sono molecole organiche essenziali. Non apportano calorie. Molte hanno ruolo di COENZIMI, cioè aiutano certi enzimi a funzionare.
+
+|Vitamina|Nome chimico|Funzione|
+|-|-|-|
+|A|Retinolo|vista, pelle, mucose|
+|B₆|Piridossale|metabolismo degli amminoacidi e delle proteine|
+|B₁₂|Cobalamina|importante per sangue e sistema nervoso|
+|C|Acido ascorbico|collagene e antiossidante; cicatrizzazione; pelle, gengive, vasi sanguigni, tendini, ossa|
+|D|Calciferolo (D₂ = ergocalciferolo, D₃ = colecalciferolo)|assorbimento intestinale di calcio e fosforo → ossa forti|
+|E|Tocoferolo|antiossidante|
+|K|Fillochinone / menachinone|coagulazione|
 
 
 
@@ -1609,9 +1650,10 @@ Esempi: bocca, naso, trachea, bronchi, stomaco, intestino, vescica, uretra, appa
 Sono chiamate mucose perché spesso producono muco, che serve a proteggere, lubrificare e trattenere particelle o microrganismi.
 
 **SIEROSE:** rivestono cavità chiuse, cioè che non comunicano con l'esterno.
-- Pleura → intorno ai polmoni
-- Pericardio → intorno al cuore
-- Peritoneo → nella cavità addominale
+
+* Pleura → intorno ai polmoni
+* Pericardio → intorno al cuore
+* Peritoneo → nella cavità addominale
 
 Producono un liquido sieroso che riduce l'attrito tra gli organi.
 
@@ -1631,10 +1673,10 @@ Il cibo arriva dall'esofago attraverso il **cardias** (valvola tra esofago e sto
 
 Le ghiandole della parete dello stomaco producono succo gastrico, che contiene:
 
-- **Acido cloridrico HCl** → rende l'ambiente molto acido (circa pH 1-2)
-- **Pepsinogeno** → forma inattiva dell'enzima pepsina
-- **Muco** → protegge la parete dello stomaco dall'acido
-- **Fattore intrinseco** → serve per assorbire la vitamina B12 nell'intestino
+* **Acido cloridrico HCl** → rende l'ambiente molto acido (circa pH 1-2)
+* **Pepsinogeno** → forma inattiva dell'enzima pepsina
+* **Muco** → protegge la parete dello stomaco dall'acido
+* **Fattore intrinseco** → serve per assorbire la vitamina B12 nell'intestino
 
 **3. L'acido attiva la pepsina**
 
@@ -1659,6 +1701,7 @@ Quando il chimo è pronto, passa poco alla volta attraverso il **piloro** (valvo
 `Stomaco = acido + pepsina + proteine → chimo`
 
 
+
 # Pepsinogeno e Pepsina
 
 ## Cos'è il pepsinogeno?
@@ -1671,10 +1714,10 @@ Viene prodotto in forma inattiva per evitare che digerisca le cellule dello stom
 
 ## Chi produce cosa?
 
-| Cellule | Secrezione | Funzione |
-|---------|------------|----------|
-| **Cellule principali (zimogene)** | Pepsinogeno | Precursore inattivo della pepsina |
-| **Cellule parietali (ossintiche)** | Acido cloridrico (HCl) | Acidifica lo stomaco (pH 1-2) e attiva il pepsinogeno |
+|Cellule|Secrezione|Funzione|
+|-|-|-|
+|**Cellule principali (zimogene)**|Pepsinogeno|Precursore inattivo della pepsina|
+|**Cellule parietali (ossintiche)**|Acido cloridrico (HCl)|Acidifica lo stomaco (pH 1-2) e attiva il pepsinogeno|
 
 ---
 
@@ -1699,8 +1742,8 @@ Pepsina
 
 Dopo che si è formata una piccola quantità di pepsina:
 
-- la **pepsina** attiva altro **pepsinogeno**;
-- il processo procede rapidamente "a cascata".
+* la **pepsina** attiva altro **pepsinogeno**;
+* il processo procede rapidamente "a cascata".
 
 ```text
 HCl
@@ -1751,19 +1794,20 @@ Lo stomaco è protetto da quattro meccanismi:
 
 Acido e pepsina possono danneggiare la parete dello stomaco causando:
 
-- Gastrite
-- Ulcera gastrica
-- Ulcera duodenale
+* Gastrite
+* Ulcera gastrica
+* Ulcera duodenale
 
 ---
 
 ## Da ricordare
 
-- **Pepsinogeno = forma inattiva (zimogeno).**
-- **Pepsina = enzima attivo che digerisce le proteine.**
-- **HCl attiva il pepsinogeno e crea il pH ottimale per la pepsina.**
-- **La pepsina attiva altro pepsinogeno (autoattivazione).**
-- **La pepsina agisce in ambiente fortemente acido (pH 1-2).**
+* **Pepsinogeno = forma inattiva (zimogeno).**
+* **Pepsina = enzima attivo che digerisce le proteine.**
+* **HCl attiva il pepsinogeno e crea il pH ottimale per la pepsina.**
+* **La pepsina attiva altro pepsinogeno (autoattivazione).**
+* **La pepsina agisce in ambiente fortemente acido (pH 1-2).**
+
 
 
 ---
@@ -1779,9 +1823,10 @@ L'intestino tenue è la parte più lunga e più importante per la digestione chi
 **Duodeno** — primo tratto, subito dopo lo stomaco.
 
 Qui arriva il chimo. Il duodeno è un punto fondamentale perché riceve:
-- la **bile**, prodotta dal fegato e conservata nella cistifellea
-- il **succo pancreatico**, prodotto dal pancreas
-- secrezioni proprie della mucosa intestinale
+
+* la **bile**, prodotta dal fegato e conservata nella cistifellea
+* il **succo pancreatico**, prodotto dal pancreas
+* secrezioni proprie della mucosa intestinale
 
 La sua funzione: **neutralizzare l'acidità** dello stomaco e completare la digestione chimica.
 
@@ -1816,8 +1861,9 @@ Tra ileo e colon c'è la **valvola ileocecale** (regola il passaggio e impedisce
 I villi intestinali sono piccole sporgenze della mucosa, come minuscole dita. I microvilli sono ancora più piccoli e stanno sulla superficie delle cellule intestinali. Servono ad aumentare enormemente la superficie di assorbimento.
 
 Dentro ogni villo ci sono:
-- **capillari sanguigni** (assorbono zuccheri e amminoacidi)
-- un **vaso chilifero** (i grassi entrano qui e nei vasi linfatici)
+
+* **capillari sanguigni** (assorbono zuccheri e amminoacidi)
+* un **vaso chilifero** (i grassi entrano qui e nei vasi linfatici)
 
 ---
 
@@ -1840,17 +1886,15 @@ Si divide in: cieco, colon ascendente, colon trasverso, colon discendente, colon
 **Retto:** tratto finale del crasso; serve come serbatoio temporaneo delle feci; la distensione delle pareti attiva il riflesso della defecazione.
 
 **Canale anale e ano:** controllato da due sfinteri:
-- sfintere anale **interno**: involontario (funziona automaticamente)
-- sfintere anale **esterno**: volontario (lo possiamo controllare)
+
+* sfintere anale **interno**: involontario (funziona automaticamente)
+* sfintere anale **esterno**: volontario (lo possiamo controllare)
 
 **Struttura della parete intestinale (dall'interno verso l'esterno):**
 
 1. **Mucosa** — a contatto con il contenuto intestinale; produce muco; secerne enzimi; assorbe nutrienti; difende dai microbi. Nel tenue ha villi e microvilli; nel colon ha molte ghiandole che producono muco.
-
 2. **Sottomucosa** — strato di sostegno; contiene vasi sanguigni, vasi linfatici, nervi, tessuto connettivo.
-
 3. **Tonaca muscolare** — muscolatura liscia (due strati: circolare interno + longitudinale esterno); permette peristalsi (spinge il contenuto in avanti) e segmentazione (mescola il contenuto con gli enzimi).
-
 4. **Sierosa o avventizia** — strato più esterno; riveste e protegge l'intestino.
 
 **Flora batterica intestinale (microbiota):**
@@ -1861,18 +1905,18 @@ Nel colon vive una grande quantità di batteri. Svolgono funzioni utili: ferment
 
 **Tabella riassuntiva dell'intestino**
 
-| Tratto | Funzione principale |
-|---|---|
-| Duodeno | Digestione chimica (bile + succo pancreatico); neutralizza l'acido |
-| Digiuno | Assorbimento principale dei nutrienti |
-| Ileo | Vitamina B12, sali biliari, difesa immunitaria (placche di Peyer) |
-| Cieco | Ricezione dall'ileo; appendice |
-| Colon ascendente | Riassorbimento acqua; inizio compattazione |
-| Colon trasverso | Continuazione assorbimento + fermentazione batterica |
-| Colon discendente | Trasporto e compattazione |
-| Sigma | Deposito temporaneo feci |
-| Retto | Stimolo alla defecazione |
-| Ano | Eliminazione controllata |
+|Tratto|Funzione principale|
+|-|-|
+|Duodeno|Digestione chimica (bile + succo pancreatico); neutralizza l'acido|
+|Digiuno|Assorbimento principale dei nutrienti|
+|Ileo|Vitamina B12, sali biliari, difesa immunitaria (placche di Peyer)|
+|Cieco|Ricezione dall'ileo; appendice|
+|Colon ascendente|Riassorbimento acqua; inizio compattazione|
+|Colon trasverso|Continuazione assorbimento + fermentazione batterica|
+|Colon discendente|Trasporto e compattazione|
+|Sigma|Deposito temporaneo feci|
+|Retto|Stimolo alla defecazione|
+|Ano|Eliminazione controllata|
 
 ```
 tenue = digestione finale e assorbimento dei nutrienti
@@ -1935,6 +1979,7 @@ Quando si attiva: ↓ battito cardiaco, favorisce la digestione, stimola la sali
 Controlla movimenti intestinali, secrezioni digestive, coordinamento della digestione. A volte viene chiamato "secondo cervello". Lavora in parte da solo, ma comunica con simpatico e parasimpatico.
 
 **Schema da ricordare:**
+
 ```
 Somatico = volontario
 Autonomo = automatico
@@ -1959,9 +2004,10 @@ Le cellule gliali:
 
 Sono: astrociti, oligodendrociti, Cellule di Schwann, Microglia, Cellule ependimali
 Molte malattie coinvolgono direttamente le cellule gliali:
-- Sclerosi multipla: il sistema immunitario distrugge la mielina prodotta dagli oligodendrociti.
-- Glioma: tumore che origina dalle cellule gliali.
-- Malattia di Alzheimer: astrociti e microglia partecipano ai processi infiammatori e alla progressione della malattia.
+
+* Sclerosi multipla: il sistema immunitario distrugge la mielina prodotta dagli oligodendrociti.
+* Glioma: tumore che origina dalle cellule gliali.
+* Malattia di Alzheimer: astrociti e microglia partecipano ai processi infiammatori e alla progressione della malattia.
 
 
 
@@ -1969,22 +2015,24 @@ Molte malattie coinvolgono direttamente le cellule gliali:
 
 ### Aree cerebrali
 
-| Struttura | Funzione |
-|---|---|
-| Lobo frontale | movimento volontario, pensiero, decisioni |
-| Lobo parietale | sensibilità corporea, tatto, dolore, temperatura |
-| Lobo temporale | udito, memoria, comprensione del linguaggio |
-| Lobo occipitale | vista |
-| Cervelletto | equilibrio, postura, tono muscolare, precisione dei movimenti, coordinazione motoria |
-| Midollo allungato (bulbo) | respirazione, battito cardiaco, pressione arteriosa, riflessi (tosse, vomito, deglutizione) |
-| Mesencefalo | riflessi visivi/uditivi, movimenti oculari, controllo motorio, stato di vigilanza |
-| Corpo calloso | collega i due emisferi cerebrali (emisfero destro ↔ emisfero sinistro) |
+|Struttura|Funzione|
+|-|-|
+|Lobo frontale|movimento volontario, pensiero, decisioni|
+|Lobo parietale|sensibilità corporea, tatto, dolore, temperatura|
+|Lobo temporale|udito, memoria, comprensione del linguaggio|
+|Lobo occipitale|vista|
+|Cervelletto|equilibrio, postura, tono muscolare, precisione dei movimenti, coordinazione motoria|
+|Midollo allungato (bulbo)|respirazione, battito cardiaco, pressione arteriosa, riflessi (tosse, vomito, deglutizione)|
+|Mesencefalo|riflessi visivi/uditivi, movimenti oculari, controllo motorio, stato di vigilanza|
+|Corpo calloso|collega i due emisferi cerebrali (emisfero destro ↔ emisfero sinistro)|
 
 **Diencefalo** = regione profonda che comprende soprattutto:
-- **Talamo**: stazione di smistamento delle informazioni sensitive verso la corteccia cerebrale
-- **Ipotalamo**: controlla fame, sete, temperatura corporea, sonno-veglia, controllo dell'ipofisi, equilibrio interno
+
+* **Talamo**: stazione di smistamento delle informazioni sensitive verso la corteccia cerebrale
+* **Ipotalamo**: controlla fame, sete, temperatura corporea, sonno-veglia, controllo dell'ipofisi, equilibrio interno
 
 **Da ricordare:**
+
 ```
 precentrale  = motoria
 postcentrale = sensitiva
@@ -1997,12 +2045,12 @@ cervelletto  = equilibrio
 
 ### Nervi cranici (esempi)
 
-| Nervo | Funzione |
-|---|---|
-| Trigemino | sensibilità della faccia, masticazione |
-| Faciale | muscoli della mimica facciale |
-| Vestibolococleare | udito ed equilibrio |
-| Ipoglosso | movimenti della lingua |
+|Nervo|Funzione|
+|-|-|
+|Trigemino|sensibilità della faccia, masticazione|
+|Faciale|muscoli della mimica facciale|
+|Vestibolococleare|udito ed equilibrio|
+|Ipoglosso|movimenti della lingua|
 
 ---
 
@@ -2015,8 +2063,9 @@ Lo stimolo che provoca la contrazione del tessuto cardiaco è generato spontanea
 ### Schema generale
 
 Il cuore è una pompa muscolare che spinge il sangue in due circuiti:
-- **piccola circolazione**: cuore → polmoni → cuore
-- **grande circolazione**: cuore → tutto il corpo → cuore
+
+* **piccola circolazione**: cuore → polmoni → cuore
+* **grande circolazione**: cuore → tutto il corpo → cuore
 
 È diviso in quattro cavità: atrio destro, ventricolo destro, atrio sinistro, ventricolo sinistro.
 
@@ -2048,14 +2097,15 @@ Tutto il corpo
 `Corpo → vene cave → atrio dx → ventricolo dx → arteria polmonare → polmoni → vene polmonari → atrio sx → ventricolo sx → aorta → corpo`
 
 CAROTIDE:
-- ✅ Le carotidi sono le principali arterie del collo.
-- ✅ La carotide comune destra nasce dal tronco brachiocefalico.
-- ✅ La carotide comune sinistra nasce dall'arco dell'aorta.
-- ✅ La carotide interna irrora il cervello e non dà rami nel collo.
-- ✅ La carotide esterna irrora volto, collo e cuoio capelluto.
-- ✅ Il seno carotideo contiene barocettori (controllo della pressione arteriosa).
-- ✅ Il glomo carotideo contiene chemiocettori (controllo di ossigeno, CO₂ e pH).
-- ✅ La stenosi carotidea aumenta il rischio di ictus ischemico.
+
+* ✅ Le carotidi sono le principali arterie del collo.
+* ✅ La carotide comune destra nasce dal tronco brachiocefalico.
+* ✅ La carotide comune sinistra nasce dall'arco dell'aorta.
+* ✅ La carotide interna irrora il cervello e non dà rami nel collo.
+* ✅ La carotide esterna irrora volto, collo e cuoio capelluto.
+* ✅ Il seno carotideo contiene barocettori (controllo della pressione arteriosa).
+* ✅ Il glomo carotideo contiene chemiocettori (controllo di ossigeno, CO₂ e pH).
+* ✅ La stenosi carotidea aumenta il rischio di ictus ischemico.
 Il polso carotideo è uno dei più importanti da valutare. Si palpa: lateralmente alla laringe; tra trachea e muscolo sternocleidomastoideo.
 
 ```
@@ -2088,8 +2138,9 @@ Occhi        lingua, tiroide,
 ### Arterie e vene: regola importante
 
 La regola vera (non "arteria = ossigenato"):
-- **arterie**: portano il sangue **via dal cuore**
-- **vene**: portano il sangue **verso il cuore**
+
+* **arterie**: portano il sangue **via dal cuore**
+* **vene**: portano il sangue **verso il cuore**
 
 Eccezione nota: l'arteria polmonare parte dal cuore ma trasporta sangue **povero** di ossigeno; le vene polmonari sono vene ma trasportano sangue **ricco** di ossigeno.
 
@@ -2101,12 +2152,12 @@ Il ventricolo sinistro ha una parete muscolare molto più spessa del destro (dev
 
 Le valvole servono a far andare il sangue in una sola direzione. Impediscono il reflusso.
 
-| Valvola | Dove si trova | Funzione |
-|---|---|---|
-| Tricuspide | tra atrio destro e ventricolo destro | fa passare sangue da atrio dx a ventricolo dx |
-| Polmonare | tra ventricolo destro e arteria polmonare | fa uscire sangue verso i polmoni |
-| Mitrale (bicuspide) | tra atrio sinistro e ventricolo sinistro | fa passare sangue da atrio sx a ventricolo sx |
-| Aortica | tra ventricolo sinistro e aorta | fa uscire sangue verso tutto il corpo |
+|Valvola|Dove si trova|Funzione|
+|-|-|-|
+|Tricuspide|tra atrio destro e ventricolo destro|fa passare sangue da atrio dx a ventricolo dx|
+|Polmonare|tra ventricolo destro e arteria polmonare|fa uscire sangue verso i polmoni|
+|Mitrale (bicuspide)|tra atrio sinistro e ventricolo sinistro|fa passare sangue da atrio sx a ventricolo sx|
+|Aortica|tra ventricolo sinistro e aorta|fa uscire sangue verso tutto il corpo|
 
 **Valvole atrioventricolari** (tra atri e ventricoli): **tricuspide + mitrale**
 
@@ -2120,10 +2171,10 @@ Si chiamano semilunari perché le loro cuspidi hanno forma di mezzaluna.
 
 Funzionamento: durante la sistole ventricolare (pressione alta) si aprono → sangue esce. Durante la diastole (ventricoli rilassati) si chiudono → impediscono che il sangue torni indietro dall'aorta/arteria polmonare nei ventricoli.
 
-| Tipo di valvola | Quali sono | Posizione |
-|---|---|---|
-| Atrioventricolari | tricuspide, mitrale | tra atri e ventricoli |
-| Semilunari | polmonare, aortica | tra ventricoli e arterie |
+|Tipo di valvola|Quali sono|Posizione|
+|-|-|-|
+|Atrioventricolari|tricuspide, mitrale|tra atri e ventricoli|
+|Semilunari|polmonare, aortica|tra ventricoli e arterie|
 
 Durante la sistole ventricolare, le valvole fra ventricoli e arterie sono aperte.
 
@@ -2133,16 +2184,16 @@ Durante la sistole ventricolare, le valvole fra ventricoli e arterie sono aperte
 
 ### Occhio
 
-| Struttura | Funzione |
-|---|---|
-| Iride | Parte colorata; regola la quantità di luce modificando il diametro della pupilla (muscolo sfintere e dilatatore). Al centro c'è un foro chiamato pupilla |
-| Pupilla | La pupilla è il foro nero che si trova al centro dell'iride. Non è una struttura solida o un tessuto: è semplicemente un'apertura attraverso cui la luce entra nell'occhio. |
-| Sclerotica | Parte bianca; membrana resistente, protettiva, dà forma al bulbo oculare |
-| Cornea | Parte trasparente davanti; fa entrare la luce; rifrazione (prima lente dell'occhio). Priva di vasi sanguigni ma ricca di terminazioni nervose |
-| Retina | Membrana interna sensibile alla luce; contiene coni e bastoncelli; trasforma luce in impulsi nervosi |
-| Cristallino | Il cristallino è una lente trasparente situata dietro la pupilla. È sospeso tramite sottili fibre chiamate zonule ed è controllato dal muscolo ciliare. Può modificare la propria forma. Per guardare lontano il cristallino diventa più piatto. Per guardare vicino il cristallino diventa più convesso. Questo processo si chiama accomodazione. Con l'età il cristallino diventa meno elastico: compare la presbiopia, cioè la difficoltà a mettere a fuoco da vicino. |
-| Nervo ottico | Trasporta il segnale al cervello |
-| Fovea | Piccola area centrale della retina, ricca di fotoricettori o coni → visione più precisa |
+|Struttura|Funzione|
+|-|-|
+|Iride|Parte colorata; regola la quantità di luce modificando il diametro della pupilla (muscolo sfintere e dilatatore). Al centro c'è un foro chiamato pupilla|
+|Pupilla|La pupilla è il foro nero che si trova al centro dell'iride. Non è una struttura solida o un tessuto: è semplicemente un'apertura attraverso cui la luce entra nell'occhio.|
+|Sclerotica|Parte bianca; membrana resistente, protettiva, dà forma al bulbo oculare|
+|Cornea|Parte trasparente davanti; fa entrare la luce; rifrazione (prima lente dell'occhio). Priva di vasi sanguigni ma ricca di terminazioni nervose|
+|Retina|Membrana interna sensibile alla luce; contiene coni e bastoncelli; trasforma luce in impulsi nervosi|
+|Cristallino|Il cristallino è una lente trasparente situata dietro la pupilla. È sospeso tramite sottili fibre chiamate zonule ed è controllato dal muscolo ciliare. Può modificare la propria forma. Per guardare lontano il cristallino diventa più piatto. Per guardare vicino il cristallino diventa più convesso. Questo processo si chiama accomodazione. Con l'età il cristallino diventa meno elastico: compare la presbiopia, cioè la difficoltà a mettere a fuoco da vicino.|
+|Nervo ottico|Trasporta il segnale al cervello|
+|Fovea|Piccola area centrale della retina, ricca di fotoricettori o coni → visione più precisa|
 
 I **bastoncelli** sono più importanti per la visione con poca luce e sono più distribuiti nella periferia della retina.
 I **coni** → visione diurna e dei colori.
@@ -2159,13 +2210,13 @@ Luce    ↓ Cornea    ↓ Umor acqueo    ↓ Pupilla (regolata dall'iride)    �
 
 ### Vertebre (33 totali)
 
-| Segmento | Numero |
-|---|---|
-| Cervicali | 7 |
-| Toraciche (dorsali) | 12 |
-| Lombari | 5 |
-| Sacrali | 5 (fuse) |
-| Coccigee | 3-5 (fuse) |
+|Segmento|Numero|
+|-|-|
+|Cervicali|7|
+|Toraciche (dorsali)|12|
+|Lombari|5|
+|Sacrali|5 (fuse)|
+|Coccigee|3-5 (fuse)|
 
 Vertebre mobili: cervicali + toraciche + lombari = **24**
 Le sacrali e le coccigee sono invece saldate tra loro.
@@ -2181,46 +2232,49 @@ Riversano il loro prodotto direttamente nel sangue.
 
 `ipotalamo → ipofisi → altre ghiandole → ormoni nel sangue`
 
-| Ormone | Funzione |
-|---|---|
-| GH (ormone della crescita) | Crescita delle ossa e dei tessuti |
-| TSH | Stimola la tiroide a produrre ormoni tiroidei (metabolismo, energia, temperatura) |
-| ACTH | Stimola le ghiandole surrenali a produrre cortisolo (stress, metabolismo, pressione) |
-| FSH, LH | Gonadi: ovulazione, ciclo mestruale, spermatozoi, testosterone, estrogeni, progesterone |
-| Prolattina | Stimola la produzione di latte |
-| ADH (ipofisi posteriore) | Regola il riassorbimento di acqua nei reni; se manca, si urina moltissimo |
-| Ossitocina (ipofisi posteriore) | Contrazioni del parto; espulsione del latte; presente in maschi e femmine |
+|Ormone|Funzione|
+|-|-|
+|GH (ormone della crescita)|Crescita delle ossa e dei tessuti|
+|TSH|Stimola la tiroide a produrre ormoni tiroidei (metabolismo, energia, temperatura)|
+|ACTH|Stimola le ghiandole surrenali a produrre cortisolo (stress, metabolismo, pressione)|
+|FSH, LH|Gonadi: ovulazione, ciclo mestruale, spermatozoi, testosterone, estrogeni, progesterone|
+|Prolattina|Stimola la produzione di latte|
+|ADH (ipofisi posteriore)|Regola il riassorbimento di acqua nei reni; se manca, si urina moltissimo|
+|Ossitocina (ipofisi posteriore)|Contrazioni del parto; espulsione del latte; presente in maschi e femmine|
+
 
 
 *Ipofisi = centrale di comando ormonale del corpo.*
 
-| Ghiandola | Ormoni prodotti |
-|---|---|
-| Surrene | adrenalina, noradrenalina, cortisolo, aldosterone |
-| Pancreas | insulina, glucagone, somatostatina |
-| Tiroide | T3, T4, calcitonina |
+|Ghiandola|Ormoni prodotti|
+|-|-|
+|Surrene|adrenalina, noradrenalina, cortisolo, aldosterone|
+|Pancreas|insulina, glucagone, somatostatina|
+|Tiroide|T3, T4, calcitonina|
 
-|Sostanza|	Dove viene prodotta|
-|---|---|
-|Insulina|	Pancreas endocrino, cellule β delle isole di Langerhans|
-|Progesterone	|Soprattutto ovaio, in particolare corpo luteo; anche placenta in gravidanza|
-|Melanina	|Non è un ormone: è un pigmento prodotto dai melanociti della pelle|
-|Aldosterone|	Corteccia surrenale, zona glomerulare|
-|Adrenalina	|Midollare del surrene|
+|Sostanza|Dove viene prodotta|
+|-|-|
+|Insulina|Pancreas endocrino, cellule β delle isole di Langerhans|
+|Progesterone|Soprattutto ovaio, in particolare corpo luteo; anche placenta in gravidanza|
+|Melanina|Non è un ormone: è un pigmento prodotto dai melanociti della pelle|
+|Aldosterone|Corteccia surrenale, zona glomerulare|
+|Adrenalina|Midollare del surrene|
 
 
-La tiroide produce gli ormoni: Tiroxina (T4) e Triiodotironina (T3)  aumentano il consumo di energia e regolano la velocità del metabolismo 
+
+La tiroide produce gli ormoni: Tiroxina (T4) e Triiodotironina (T3)  aumentano il consumo di energia e regolano la velocità del metabolismo
+
 ### ORMONI
 
 Gli ormoni non agiscono su tutte le cellule del corpo, ma solo su quelle che possiedono il recettore adatto.
-(chiave e serratura). 
+(chiave e serratura).
 Una cellula bersaglio è una cellula che possiede il recettore specifico per un determinato ormone. Solo questa cellula può "leggere il messaggio". Le altre ignorano completamente quell'ormone.
 L'insulina per esempio agisce soprattutto su: cellule muscolari, cellule del fegato, cellule adipose perché possiedono il recettore dell'insulina.
 L'adrenalina viene prodotta quando siamo spaventati. Circola in tutto il corpo. Le cellule con i recettori adrenergici rispondono:
 il cuore batte più forte; i bronchi si dilatano; il fegato libera glucosio.
 Le cellule prive di questi recettori praticamente non rispondono. Ogni cellula esprime solo i recettori che le servono.
 
-Dove si trovano i recettori? Dipende dal tipo di ormone. 
+Dove si trovano i recettori? Dipende dal tipo di ormone.
 
 1. Recettori sulla membrana cellulare
 
@@ -2246,15 +2300,16 @@ ormoni tiroidei (si legano a recettori intracellulari, spesso nel nucleo)
 Entrano nella cellula e si legano direttamente al loro recettore.
 
 
-Certi farmaci possono inibire gli ormoni: 
+
+Certi farmaci possono inibire gli ormoni:
+
 1. Bloccare il recettore (antagonisti)
 Tamoxifene: blocca i recettori degli estrogeni nel tessuto mammario, usato nel tumore al seno.
 Spironolattone: blocca i recettori dell'aldosterone.
 Flutamide e bicalutamide: bloccano i recettori degli androgeni (testosterone).
-
 2. Ridurre la produzione dell'ormone
 
-Invece di bloccare il recettore, si impedisce alla ghiandola di produrre l'ormone. 
+Invece di bloccare il recettore, si impedisce alla ghiandola di produrre l'ormone.
 I farmaci contro l'ipertiroidismo:
 metimazolo
 propiltiouracile
@@ -2285,14 +2340,14 @@ Un esempio è l'uso frequente di alcuni broncodilatatori per l'asma (agonisti β
 
 Anche se l'ormone si lega al recettore, il messaggio può essere interrotto lungo la cascata di segnali intracellulari.
 
-| Strategia                                | Cosa succede                                                          |
-| ---------------------------------------- | --------------------------------------------------------------------- |
-| **Antagonista del recettore**            | Il farmaco occupa il recettore e impedisce all'ormone di legarsi.     |
-| **Riduzione della produzione**           | La ghiandola produce meno ormone.                                     |
-| **Neutralizzazione dell'ormone**         | L'ormone viene legato e inattivato prima di raggiungere il recettore. |
-| **Down-regulation**                      | La cellula riduce il numero di recettori.                             |
-| **Desensibilizzazione**                  | I recettori diventano meno sensibili.                                 |
-| **Blocco della cascata di segnalazione** | Il recettore si attiva, ma il messaggio non viene trasmesso.          |
+|Strategia|Cosa succede|
+|-|-|
+|**Antagonista del recettore**|Il farmaco occupa il recettore e impedisce all'ormone di legarsi.|
+|**Riduzione della produzione**|La ghiandola produce meno ormone.|
+|**Neutralizzazione dell'ormone**|L'ormone viene legato e inattivato prima di raggiungere il recettore.|
+|**Down-regulation**|La cellula riduce il numero di recettori.|
+|**Desensibilizzazione**|I recettori diventano meno sensibili.|
+|**Blocco della cascata di segnalazione**|Il recettore si attiva, ma il messaggio non viene trasmesso.|
 
 
 
@@ -2307,33 +2362,40 @@ Anche se l'ormone si lega al recettore, il messaggio può essere interrotto lung
 Il pancreas è una ghiandola voluminosa situata all'interno della cavità addominale con caratteristiche anatomiche e funzionali ben precise, fondamentali sia per l'attività digestiva sia per la regolazione metabolica.
 
 ## Anatomia e Rapporti
+
 * **Posizione:** È situato molto posteriormente nella cavità addominale ed è classificato come un organo **retroperitoneale** (ovvero rivestito dal peritoneo solo nella sua parte anteriore).
 * **Struttura:** Si suddivide in tre porzioni principali:
+
   * **Testa** (la parte iniziale, più allargata)
   * **Corpo** (la parte centrale)
   * **Coda** (la porzione terminale, più sottile)
 * **Rapporti anatomici:** La testa del pancreas è strettamente accolta e inserita nella curvatura del **duodeno** (la prima porzione dell'intestino tenue).
 
 ## Funzione Ghiandolare (Ghiandola Mista)
+
 Il pancreas è una ghiandola anfìcrina, svolge cioè una doppia funzione, sia esocrina che endocrina. La componente esocrina costituisce la maggior parte della massa dell'organo.
 
 ### 1. Componente Esocrina
+
 * **Secreto:** Produce il **succo pancreatico**, un liquido ricco di enzimi digestivi.
 * **Destinazione:** Il secreto viene convogliato attraverso una rete di dotti secondari nel **dotto pancreatico principale (dotto di Wirsung)**.
 * **Anatomia delle vie biliari:** Il dotto principale converge con il **dotto coledoco** (proveniente dalle vie biliari/cistifellea) per riversare insieme il secreto e la bile all'interno del **duodeno**, dove partecipano attivamente ai processi digestivi.
 
 ### 2. Componente Endocrina
+
 * **Struttura:** È formata da piccoli ammassi cellulari sparsi nel tessuto esocrino, noti come **isole di Langerhans**.
 * **Destinazione:** Gli ormoni prodotti vengono riversati direttamente nel **circolo sanguigno**.
 * **Ormoni principali e regolazione della glicemia:**
+
   * **Insulina:** Ha l'obiettivo di ridurre i livelli di glucosio nel sangue (azione ipoglicemizzante).
   * **Glucagone:** Ha l'obiettivo di aumentare i livelli di glucosio nel sangue (azione iperglicemizzante).
   * **Somatostatina:** frena insulina, glucagone e attività digestive.
 
 
+
 ### UTERO
 
-L'utero è formato da tre strati: 
+L'utero è formato da tre strati:
 Endometrio → strato interno (quello che si sfalda con le mestruazioni).
 Miometrio → strato muscolare, responsabile delle contrazioni durante il parto.
 Perimetrio → strato più esterno, che riveste l'utero.
@@ -2347,26 +2409,28 @@ Se non avviene la fecondazione, Il corpo luteo smette di produrre progesterone. 
 
 ### Leve
 
-- **I genere**: F (fulcro) in mezzo → può essere vantaggiosa o svantaggiosa. Altalena, Forbici. 
+* **I genere**: F (fulcro) in mezzo → può essere vantaggiosa o svantaggiosa. Altalena, Forbici.
 
 Potenza      Fulcro      Resistenza
-   ↓            ▲             ↑
+↓            ▲             ↑
 ---│------------▲-------------│---
 
 
-- **II genere**: R (resistenza) in mezzo → sempre **vantaggiosa** . Carriola, Schiaccianoci.
+
+* **II genere**: R (resistenza) in mezzo → sempre **vantaggiosa** . Carriola, Schiaccianoci.
 
 Fulcro      Resistenza      Potenza
-  ▲             ↓              ↑
+▲             ↓              ↑
 --▲-------------│--------------│---
 
 
 
-- **III genere**: P (potenza) in mezzo → sempre **svantaggiosa** . Braccio umano, Canna da pesca.
+* **III genere**: P (potenza) in mezzo → sempre **svantaggiosa** . Braccio umano, Canna da pesca.
 
 Fulcro      Potenza      Resistenza
-  ▲            ↑              ↓
+▲            ↑              ↓
 --▲------------│--------------│---
+
 
 
 
@@ -2377,25 +2441,27 @@ Fulcro      Potenza      Resistenza
 
 ### Gruppi funzionali principali
 
-| Classe di composti     | Gruppo funzionale             | Formula generale | Desinenza / Nome      | Esempio                          |
-| ---------------------- | ----------------------------- | ---------------- | --------------------- | -------------------------------- |
-| **Alcani**             | Nessuno (solo legami singoli) | CₙH₂ₙ₊₂           | **-ano**              | Metano (CH₄), Etano (C₂H₆)       |
-| **Alcheni**            | Doppio legame C=C             | R-CH=CH-R'       | **-ene**              | Etene (CH₂=CH₂)                  |
-| **Alchini**            | Triplo legame C≡C             | R-C≡C-R'         | **-ino**              | Etino (HC≡CH)                    |
-| **Alcoli**             | -OH (ossidrile)               | R-OH             | **-olo**              | Etanolo (CH₃CH₂OH)               |
-| **Aldeidi**            | -CHO                          | R-CHO            | **-ale**              | Metanale/formaldeide HCHO, Etanale/acetaldeide (CH₃CHO) |
-| **Chetoni**            | >C=O                          | R-CO-R'          | **-one**              | Propanone/acetone (CH₃COCH₃)     |
-| **Acidi carbossilici** | -COOH                         | R-COOH           | **Acido ...-oico**    | Acido etanoico (CH₃COOH)         |
-| **Esteri**             | -COO-                         | R-COO-R'         | **...oato di ...ile** | Etanoato di etile (CH₃COOCH₂CH₃) |
-| **Eteri**              | -O-                           | R-O-R'           | ...ossi... oppure etere dialchilico | Etossietano CH₃–O–CH₃|
-| **Ammidi**             | -CONH₂                        | R-CONH₂          | **-ammide**           | Etanammide (CH₃CONH₂)            |
-| **Ammine**             | -NH₂                          | R-NH₂            | **-ammina**           | Etanammina (CH₃CH₂NH₂)           |
-| **Anidride**           | -CO-O-CO-                     | (RCO)₂O          | **Anidride ...ica / ...oica** | Anidride etanoica |
+|Classe di composti|Gruppo funzionale|Formula generale|Desinenza / Nome|Esempio|
+|-|-|-|-|-|
+|**Alcani**|Nessuno (solo legami singoli)|CₙH₂ₙ₊₂|**-ano**|Metano (CH₄), Etano (C₂H₆)|
+|**Alcheni**|Doppio legame C=C|R-CH=CH-R'|**-ene**|Etene (CH₂=CH₂)|
+|**Alchini**|Triplo legame C≡C|R-C≡C-R'|**-ino**|Etino (HC≡CH)|
+|**Alcoli**|-OH (ossidrile)|R-OH|**-olo**|Etanolo (CH₃CH₂OH)|
+|**Aldeidi**|-CHO|R-CHO|**-ale**|Metanale/formaldeide HCHO, Etanale/acetaldeide (CH₃CHO)|
+|**Chetoni**|>C=O|R-CO-R'|**-one**|Propanone/acetone (CH₃COCH₃)|
+|**Acidi carbossilici**|-COOH|R-COOH|**Acido ...-oico**|Acido etanoico (CH₃COOH)|
+|**Esteri**|-COO-|R-COO-R'|**...oato di ...ile**|Etanoato di etile (CH₃COOCH₂CH₃)|
+|**Eteri**|-O-|R-O-R'|...ossi... oppure etere dialchilico|Etossietano CH₃–O–CH₃|
+|**Ammidi**|-CONH₂|R-CONH₂|**-ammide**|Etanammide (CH₃CONH₂)|
+|**Ammine**|-NH₂|R-NH₂|**-ammina**|Etanammina (CH₃CH₂NH₂)|
+|**Anidride**|-CO-O-CO-|(RCO)₂O|**Anidride ...ica / ...oica**|Anidride etanoica|
+
 
 
 C=O gruppo carbonile, COOH gruppo carbossile , CHO gruppo aldeidico
 
-Regola mnemonica (in ordine crescente di "peso" degli atomi): 
+Regola mnemonica (in ordine crescente di "peso" degli atomi):
+
 ```
 -OH → alcol
 -O- → etere
@@ -2409,23 +2475,25 @@ Regola mnemonica (in ordine crescente di "peso" degli atomi):
 ```
 
 
+
 **Alcoli classificati per carbonio con –OH:**
-- Primario: `R–CH2–OH` (carbonio con –OH ha 2 H)
-- Secondario: `R–CH(OH)–R'` (carbonio con –OH ha 1 H)
-- Terziario: `R–C(OH)(R')–R''` (carbonio con –OH ha 0 H)
+
+* Primario: `R–CH2–OH` (carbonio con –OH ha 2 H)
+* Secondario: `R–CH(OH)–R'` (carbonio con –OH ha 1 H)
+* Terziario: `R–C(OH)(R')–R''` (carbonio con –OH ha 0 H)
 
 In un **alcol secondario**, il carbonio che porta il gruppo –OH è legato a: 2 atomi di carbonio, 1 atomo di idrogeno e 1 gruppo –OH.
 
 Come riconoscere un alcol:
 
-| Carboni | Prefisso | Esempio|
-| ------: | -------- | -------- |
-|       1 | Met-    CH₃OH → metanolo |
-|       2 | Et-     | CH₃CH₂OH → etanolo |
-|       3 | Prop-    | CH₃CH₂CH₂OH → propanolo|
-|       4 | But-     |CH₃CH₂CH₂CH₂OH → butanolo|
-|       5 | Pent-    | CH3-CH2-CH2-CH2-CH2OH Pentanolo|
-|       6 | Es-      | CH3-CH2-CH2-CH2-CH2-CH2OH Esanolo | 
+|Carboni|Prefisso|Esempio|
+|-:|-|-|
+|1|Met-    CH₃OH → metanolo||
+|2|Et-|CH₃CH₂OH → etanolo|
+|3|Prop-|CH₃CH₂CH₂OH → propanolo|
+|4|But-|CH₃CH₂CH₂CH₂OH → butanolo|
+|5|Pent-|CH3-CH2-CH2-CH2-CH2OH Pentanolo|
+|6|Es-|CH3-CH2-CH2-CH2-CH2-CH2OH Esanolo|
 
 Il FENOLO non è un alcol. È un composto organico formato da un anello benzenico a cui è legato direttamente un gruppo ossidrile (-OH): C6H5OH
 Nel fenolo il gruppo -OH è legato direttamente all'anello aromatico.
@@ -2439,11 +2507,11 @@ L'acido salicilico è un composto fenilico.
 
 ### Idrocarburi
 
-| Classe | Legame | Formula | Esempi |
-|---|---|---|---|
-| Alcani (saturi) | C–C semplice | CₙH₂ₙ₊₂ | metano CH₄, etano C₂H₆, propano C₃H₈, butano C₄H₁₀ |
-| Alcheni (insaturi) | C=C doppio | CₙH₂ₙ | etilene/etene C₂H₄, propene C₃H₆ |
-| Alchini (insaturi) | C≡C triplo | CₙH₂ₙ₋₂ | etino/acetilene C₂H₂ |
+|Classe|Legame|Formula|Esempi|
+|-|-|-|-|
+|Alcani (saturi)|C–C semplice|CₙH₂ₙ₊₂|metano CH₄, etano C₂H₆, propano C₃H₈, butano C₄H₁₀|
+|Alcheni (insaturi)|C=C doppio|CₙH₂ₙ|etilene/etene C₂H₄, propene C₃H₆|
+|Alchini (insaturi)|C≡C triplo|CₙH₂ₙ₋₂|etino/acetilene C₂H₂|
 
 **Cicloalcani:** CₙH₂ₙ — es. metilcicloesano: cicloesano (C₆H₁₂) + metile (CH₃) = C₇H₁₄
 
@@ -2453,27 +2521,29 @@ Composti aromatici: contengono un anello aromatico, come quello del benzene, con
 Anche etano, propano e Cicloesano sono alifatici. Il Benzene e' aromatico.
 
 
+
 Un anello aromatico è un anello di atomi di carbonio che possiede una particolare distribuzione degli elettroni, che lo rende eccezionalmente stabile: 6 elettroni "π" (pi greco) che si distribuiscono su tutto l'anello.
 
 Gli alcani hanno solo legami semplici, non hanno una nube elettronica facilmente attaccabile; quindi non sono soggetti ad addizione elettrofila che richiede legami doppi o tripli. Esempio di addizione: CH2​=CH2 ​+ Br2​ → CH2​Br−CH2​Br
 
 Gli alcani invece ammettono:
-- SOSTITUZIONE CH4​ + Cl2 -> ​CH3​Cl + HCl
-- DEIDROGENAZIONE CH3​−CH3​ → CH2​=CH2 ​+ H2​
-- ALOGENAZIONE (una particolare sostituzione) CH4​ + Cl2​ → CH3​Cl + HCl
-- COMBUSTIONE CH4​ + 2O2​ → CO2 ​+ 2H2​O
+
+* SOSTITUZIONE CH4​ + Cl2 -> ​CH3​Cl + HCl
+* DEIDROGENAZIONE CH3​−CH3​ → CH2​=CH2 ​+ H2​
+* ALOGENAZIONE (una particolare sostituzione) CH4​ + Cl2​ → CH3​Cl + HCl
+* COMBUSTIONE CH4​ + 2O2​ → CO2 ​+ 2H2​O
 
 ---
 
 ### Reazioni organiche principali
 
-| Reazione | Schema |
-|---|---|
-| Alcol primario + ossidazione | → Aldeide + H₂: es. etanolo → etanale/acetaldeide CH₃CH₂OH → CH₃–CHO + H₂ |
-| Metanolo + ossidazione | → metanale/formaldeide: CH₃OH → H–CHO + H₂ |
-| Alcol secondario + ossidazione | → Chetone: propan-2-olo → acetone CH₃–CHOH–CH₃ → CH₃–CO–CH₃ + H₂ |
-| 2 alcol + disidratazione intermolecolare | → Etere + H₂O: etanolo + etanolo → etere dietilico CH₃CH₂OH + HOCH₂CH₃ → CH₃CH₂–O–CH₂CH₃ + H₂O |
-| Alcol + disidratazione intramolecolare | → Alchene + H₂O: etanolo → etene CH₃–CH₂OH → CH₂=CH₂ + H₂O |
+|Reazione|Schema|
+|-|-|
+|Alcol primario + ossidazione|→ Aldeide + H₂: es. etanolo → etanale/acetaldeide CH₃CH₂OH → CH₃–CHO + H₂|
+|Metanolo + ossidazione|→ metanale/formaldeide: CH₃OH → H–CHO + H₂|
+|Alcol secondario + ossidazione|→ Chetone: propan-2-olo → acetone CH₃–CHOH–CH₃ → CH₃–CO–CH₃ + H₂|
+|2 alcol + disidratazione intermolecolare|→ Etere + H₂O: etanolo + etanolo → etere dietilico CH₃CH₂OH + HOCH₂CH₃ → CH₃CH₂–O–CH₂CH₃ + H₂O|
+|Alcol + disidratazione intramolecolare|→ Alchene + H₂O: etanolo → etene CH₃–CH₂OH → CH₂=CH₂ + H₂O|
 
 **Ossidazione in organica:** + legami con O, − legami con H
 **Riduzione in organica:** − legami con O, + legami con H
@@ -2484,28 +2554,29 @@ Il carbonio *perde* un legame con H e *aumenta* il legame con O → si ossida.
 
 ### Orbitali del carbonio e ibridazione
 
-| Ibridazione | Geometria | Angolo | Tipo di legame | Esempio |
-|---|---|---|---|---|
-| sp³ | Tetraedrica | 109,5° | 4 legami singoli | CH₄ metano |
-| sp² | Trigonale planare | 120° | 1 doppio legame | CH₂=CH₂ etene |
-| sp | Lineare | 180° | 1 triplo legame | HC≡CH etino |
+|Ibridazione|Geometria|Angolo|Tipo di legame|Esempio|
+|-|-|-|-|-|
+|sp³|Tetraedrica|109,5°|4 legami singoli|CH₄ metano|
+|sp²|Trigonale planare|120°|1 doppio legame|CH₂=CH₂ etene|
+|sp|Lineare|180°|1 triplo legame|HC≡CH etino|
 
 ---
 
 ### Legami tra biomolecole
 
-| Biomolecola | Legame |
-|---|---|
-| Carboidrati (monosaccaridi) | Glicosidico |
-| Proteine (amminoacidi) | Peptidico |
-| Acidi nucleici (nucleotidi) | Fosfodiesterico |
-| Trigliceridi (glicerolo + acidi grassi) | Estere |
-| Idrocarburi | legami C–C e C–H |
+|Biomolecola|Legame|
+|-|-|
+|Carboidrati (monosaccaridi)|Glicosidico|
+|Proteine (amminoacidi)|Peptidico|
+|Acidi nucleici (nucleotidi)|Fosfodiesterico|
+|Trigliceridi (glicerolo + acidi grassi)|Estere|
+|Idrocarburi|legami C–C e C–H|
 
 **Legame glicosidico:** unisce monosaccaridi.
-- Glucosio + glucosio → maltosio
-- Glucosio + fruttosio → saccarosio
-- Glucosio + galattosio → lattosio
+
+* Glucosio + glucosio → maltosio
+* Glucosio + fruttosio → saccarosio
+* Glucosio + galattosio → lattosio
 
 I due glucosi si attaccano tramite un ossigeno: zucchero–O–zucchero con zucchero–OH + HO–zucchero → zucchero–O–zucchero + H₂O
 Quell’ossigeno in mezzo è il “ponte” del legame glicosidico.
@@ -2513,39 +2584,41 @@ Quell’ossigeno in mezzo è il “ponte” del legame glicosidico.
 I polisaccaridi sono catene formate da tanti monosaccaridi uniti tra loro da legami glicosidici. Quando fai idrolisi, cioè “rompi con acqua” quei legami, la catena si spezza e torna ai suoi mattoncini di base: polisaccaride → monosaccaridi.
 
 
+
 ---
 
 ### Monosaccaridi, disaccaridi, polisaccaridi
 
-**Monosaccaridi importanti:** glucosio, fruttosio, galattosio (isomeri, formula C₆H₁₂O₆)
+**Monosaccaridi importanti:** glucosio, fruttosio, galattosio (isomeri, formula C₆H₁₂O₆, tutti esosi)
 
-Hanno molti gruppi ossidrile, per questo sono molto solubili in acqua, perchè OH forma legami a idrogeno con l'acqua.
+Hanno molti gruppi ossidrile OH, per questo sono molto solubili in acqua, perchè OH forma legami a idrogeno con l'acqua.
 
 Classificazione per numero di carboni:
 
-| Nome | Carboni |
-|---|---|
-| trioso | 3 |
-| tetroso | 4 |
-| pentoso | 5 |
-| esoso | 6 |
+|Nome|Carboni|
+|-|-|
+|trioso|3|
+|tetroso|4|
+|pentoso|5|
+|esoso|6|
 
-- **glucosio e galattosio**: aldoesosi (gruppo –CHO aldeidico)
-- **fruttosio**: chetoesoso (gruppo C=O chetonico)
+* **glucosio e galattosio**: aldoesosi (gruppo –CHO aldeidico)
+* **fruttosio**: chetoesoso (gruppo C=O chetonico)
 
 **Disaccaridi:** saccarosio (gluc+frut), lattosio (gluc+gal), maltosio (gluc+gluc)
 
 **Polisaccaridi:** amido, glicogeno, cellulosa, amilosio
 
-La CELLULOSA è il principale componente della parete cellulare delle cellule vegetali. È la molecola organica più abbondante sulla Terra e costituisce circa il 40-50% del legno e una grande parte del cotone. La cellulosa è un polisaccaride, cioè una lunga catena formata da migliaia di molecole di glucosio. (C₆H₁₀O₅)ₙ dove n può andare da alcune centinaia fino a oltre 10.000 unità di glucosio. 
+La CELLULOSA è il principale componente della parete cellulare delle cellule vegetali. È la molecola organica più abbondante sulla Terra e costituisce circa il 40-50% del legno e una grande parte del cotone. La cellulosa è un polisaccaride, cioè una lunga catena formata da migliaia di molecole di glucosio. (C₆H₁₀O₅)ₙ dove n può andare da alcune centinaia fino a oltre 10.000 unità di glucosio.
 Anche l'amido è formato da glucosio, ma cambia il tipo di legame.
 
 Cellulosa: legami β(1→4) (beta)
 Amido: legami α(1→4) (alfa)
 
 Questa piccola differenza cambia completamente le proprietà della molecola.
-- Amido: le catene si avvolgono formando una spirale. È facilmente digeribile.
-- Cellulosa: Le catene rimangono dritte e parallele. Possono affiancarsi formando moltissimi legami a idrogeno. Il risultato è una fibra estremamente resistente. Ogni catena di cellulosa è lunga e lineare. Molte catene si mettono una accanto all'altra e vengono tenute insieme da legami a idrogeno. Si formano così le microfibrille. Le microfibrille si riuniscono poi in fibre ancora più grandi. La cellulosa svolge una funzione strutturale. 
+
+* Amido: le catene si avvolgono formando una spirale. È facilmente digeribile.
+* Cellulosa: Le catene rimangono dritte e parallele. Possono affiancarsi formando moltissimi legami a idrogeno. Il risultato è una fibra estremamente resistente. Ogni catena di cellulosa è lunga e lineare. Molte catene si mettono una accanto all'altra e vengono tenute insieme da legami a idrogeno. Si formano così le microfibrille. Le microfibrille si riuniscono poi in fibre ancora più grandi. La cellulosa svolge una funzione strutturale.
 
 Perché noi non la digeriamo? Per rompere i legami β(1→4) serve un enzima chiamato CELLULASI.
 Gli esseri umani non producono la cellulasi. Di conseguenza la cellulosa attraversa quasi intatta il nostro apparato digerente. Per noi costituisce la fibra alimentare. Chi riesce a digerirla? Molti erbivori possono utilizzarla, ma non perché producano direttamente la cellulasi. La digestione è svolta da batteri e altri microrganismi che vivono nel loro apparato digerente.
@@ -2566,18 +2639,20 @@ Nelle cellule vegetali la cellulosa è immersa in una matrice composta anche da:
 
 `CH₂OH–CHOH–CHOH–CHOH–CHOH–CHO`
 
-- 1 gruppo aldeidico: –CHO
-- 5 gruppi ossidrilici: –OH
+* 1 gruppo aldeidico: –CHO
+* 5 gruppi ossidrilici: –OH
 
 ---
 
 ### Amminoacidi
 
+Si legano fra loro per formare le proteine.
 Struttura generale: `NH₂–CH(R)–COOH`
 
 Il carbonio centrale si chiama **carbonio alfa (α)**.
 
 Ogni amminoacido ha:
+
 1. gruppo amminico —NH₂
 2. gruppo carbossilico —COOH
 3. un atomo di idrogeno —H
@@ -2591,11 +2666,13 @@ Ogni amminoacido ha:
 **α-amminoacidi:** "unità di base" con cui sono costruite le proteine. Il gruppo amminico è legato al carbonio α (il carbonio immediatamente vicino al –COOH).
 
 `NH₂–CH(R)–COOH`
-- R è la catena laterale, diversa per ogni amminoacido.
+
+* R è la catena laterale, diversa per ogni amminoacido.
 
 Esempi:
-- `NH₂–CH₂–COOH` = **glicina** (R = H)
-- `NH₂–CH(CH₃)–COOH` = **alanina** (R = CH₃)
+
+* `NH₂–CH₂–COOH` = **glicina** (R = H)
+* `NH₂–CH(CH₃)–COOH` = **alanina** (R = CH₃)
 
 A pH fisiologico (~7), gli amminoacidi stanno nella forma ionica **zwitterione**:
 `⁺NH₃–CH(R)–COO⁻`
@@ -2610,32 +2687,34 @@ Gli esseri umani utilizzano 20 amminoacidi proteinogenici standard per costruire
 
 I 20 amminoacidi standard
 
-| Amminoacido                   | Sigla (3 lettere) | Sigla (1 lettera) | Essenziale? |
-| ----------------------------- | ----------------- | ----------------- | ----------- |
-| Glicina                       | Gly               | G                 | No          |
-| Alanina                       | Ala               | A                 | No          |
-| Valina                        | Val               | V                 | **Sì**      |
-| Leucina                       | Leu               | L                 | **Sì**      |
-| Isoleucina                    | Ile               | I                 | **Sì**      |
-| Prolina                       | Pro               | P                 | No          |
-| Metionina                     | Met               | M                 | **Sì**      |
-| Fenilalanina                  | Phe               | F                 | **Sì**      |
-| Triptofano                    | Trp               | W                 | **Sì**      |
-| Serina                        | Ser               | S                 | No          |
-| Treonina                      | Thr               | T                 | **Sì**      |
-| Cisteina                      | Cys               | C                 | No*         |
-| Tirosina                      | Tyr               | Y                 | No*         |
-| Asparagina                    | Asn               | N                 | No          |
-| Glutammina                    | Gln               | Q                 | No          |
-| Acido aspartico (Aspartato)   | Asp               | D                 | No          |
-| Acido glutammico (Glutammato) | Glu               | E                 | No          |
-| Lisina                        | Lys               | K                 | **Sì**      |
-| Arginina                      | Arg               | R                 | No**        |
-| Istidina                      | His               | H                 | **Sì**      |
+|Amminoacido|Sigla (3 lettere)|Sigla (1 lettera)|Essenziale?|
+|-|-|-|-|
+|Glicina|Gly|G|No|
+|Alanina|Ala|A|No|
+|Valina|Val|V|**Sì**|
+|Leucina|Leu|L|**Sì**|
+|Isoleucina|Ile|I|**Sì**|
+|Prolina|Pro|P|No|
+|Metionina|Met|M|**Sì**|
+|Fenilalanina|Phe|F|**Sì**|
+|Triptofano|Trp|W|**Sì**|
+|Serina|Ser|S|No|
+|Treonina|Thr|T|**Sì**|
+|Cisteina|Cys|C|No*|
+|Tirosina|Tyr|Y|No*|
+|Asparagina|Asn|N|No|
+|Glutammina|Gln|Q|No|
+|Acido aspartico (Aspartato)|Asp|D|No|
+|Acido glutammico (Glutammato)|Glu|E|No|
+|Lisina|Lys|K|**Sì**|
+|Arginina|Arg|R|No**|
+|Istidina|His|H|**Sì**|
 
 Note
+
 * La cisteina deriva dalla metionina e la tirosina deriva dalla fenilalanina: diventano essenziali se manca il loro precursore.
 ** L'arginina è considerata condizionatamente essenziale nei bambini e in alcune situazioni (crescita, traumi, ustioni, malattie).
+
 
 
 ---
@@ -2646,10 +2725,12 @@ Note
 `R–COOH + NaOH → R–COO⁻ Na⁺ + H₂O`
 
 Struttura del sapone:
+
 ```
 coda lunga idrofoba       testa idrofila
 CH₃–(CH₂)n–CH₂    —     COO⁻ Na⁺
 ```
+
 La coda lunga è apolare e si lega ai grassi; la testa ionica è polare e si lega all'acqua.
 
 ---
@@ -2660,8 +2741,8 @@ La coda lunga è apolare e si lega ai grassi; la testa ionica è polare e si leg
 
 Nella molecola d'acqua, il legame tra ossigeno e idrogeno è un **legame covalente**, perché O e H condividono elettroni. Però non li condividono "alla pari": l'ossigeno è più elettronegativo dell'idrogeno, quindi attira di più gli elettroni -> legame covalente polare.
 
-- **covalente** = elettroni condivisi 
-- **polare** = condivisi in modo disuguale
+* **covalente** = elettroni condivisi
+* **polare** = condivisi in modo disuguale
 
 Un **legame covalente puro** (o apolare o omopolare) è un legame in cui due atomi condividono gli elettroni in modo perfettamente uguale (H–H, O=O, Cl–Cl, N≡N).
 
@@ -2673,7 +2754,7 @@ Più coppie condividono, più il legame diventa forte.
 
 Ioni importanti:
 
-Ione idruro H⁻ 
+Ione idruro H⁻
 Ione idrogeno H⁺ ( = protone)
 Ione idronio H₃O⁺
 
@@ -2698,10 +2779,10 @@ H₂CO₃ (carbonico), H₃PO₄ (fosforico)
 
 **Idracidi** (H + non-metallo, senza O): HCl, HBr, HI
 
-| Tipo | Definizione | Esempio |
-|---|---|---|
-| Idracido | H + non metallo | HCl (acido cloridrico) |
-| Ossiacido | H + non metallo + O | HClO₃ (acido clorico) |
+|Tipo|Definizione|Esempio|
+|-|-|-|
+|Idracido|H + non metallo|HCl (acido cloridrico)|
+|Ossiacido|H + non metallo + O|HClO₃ (acido clorico)|
 
 ---
 
@@ -2712,11 +2793,11 @@ Es. HCl -> NaCl, H2SO4 -> NaHSO4, Na2SO4
 
 I sali sono sempre elettroliti forti.
 
-| Origine del sale | Comportamento in soluzione acquosa | Esempio |
-|---|---|---|
-| Acido forte + base forte | Neutro (pH ≈ 7) | NaCl, KCl |
-| Acido forte + base debole | Acido | NH₄Cl |
-| Acido debole + base forte | Basico | CH₃COONa |
+|Origine del sale|Comportamento in soluzione acquosa|Esempio|
+|-|-|-|
+|Acido forte + base forte|Neutro (pH ≈ 7)|NaCl, KCl|
+|Acido forte + base debole|Acido|NH₄Cl|
+|Acido debole + base forte|Basico|CH₃COONa|
 
 Esistono i **sali acidi**, in cui viene sostituito solo parte dell'idrogeno.
 
@@ -2729,14 +2810,16 @@ HCN è un acido debole, quindi il suo ione negativo: CN− è una base debole. C
 Quando una base forte (o un acido forte) ha concentrazione uguale o inferiore a 10−6  M, bisogna considerare l'autodissociazione dell'acqua. NaOH 10−2  M → si trascura l'acqua. NaOH 10−4  M → si trascura l'acqua. NaOH 10−7  M → NON si può trascurare l'acqua, e il pH risulta leggermente maggiore di 7 (circa 7,21).
 
 
+
 **Kw** = prodotto ionico dell'acqua.
 `H₂O ⇄ H⁺ + OH⁻`
 A 25°C: **Kw = 10⁻¹⁴**
 
 **Coppia acido-base coniugata (Brønsted-Lowry):** coppia di sostanze che differiscono per un solo H⁺.
-- acido = dona H⁺; base = accetta H⁺
-- `HCl → H⁺ + Cl⁻` (Cl⁻ = base coniugata di HCl)
-- `NH₃ + H⁺ → NH₄⁺` (NH₃ è base; NH₄⁺ è il suo acido coniugato)
+
+* acido = dona H⁺; base = accetta H⁺
+* `HCl → H⁺ + Cl⁻` (Cl⁻ = base coniugata di HCl)
+* `NH₃ + H⁺ → NH₄⁺` (NH₃ è base; NH₄⁺ è il suo acido coniugato)
 . `H₂O + H⁺ → H₃O⁺` (H2O agisce da base)
 
 **Sistema tampone del sangue:**
@@ -2771,14 +2854,14 @@ questo perchè la dissociazione dell'acqua è una reazione endotermica, quindi l
 ### MISCELE
 
 Caratteristiche di una miscela:
-- È composta da almeno due sostanze.
-- Le sostanze non reagiscono chimicamente.
-- Ogni componente mantiene le proprie proprietà.
-- I componenti possono essere separati con metodi fisici.
-- Può essere solida, liquida o gassosa
-- Può avere una o più fasi
-- La composizione è variabile
 
+* È composta da almeno due sostanze.
+* Le sostanze non reagiscono chimicamente.
+* Ogni componente mantiene le proprie proprietà.
+* I componenti possono essere separati con metodi fisici.
+* Può essere solida, liquida o gassosa
+* Può avere una o più fasi
+* La composizione è variabile
 1. Miscela omogenea
 
 Ha un aspetto uniforme: non distingui i componenti.
@@ -2798,12 +2881,12 @@ L'olio, ad esempio, galleggia sull'acqua formando due strati.
 
 ### Composti inorganici vari
 
-- Solfuro: CaS | Solfito: CaSO₃ | Solfato: CaSO₄
-- H₃PO₄: acido fosforico | PO₄³⁻: ione fosfato | HPO₄²⁻: idrogenofosfato
-- Ossido di metallo → di solito **ossido basico**
-- Ossido di non metallo → di solito **ossido acido / anidride**
-- Solfato acido di piombo (II) o anche Idrogenosolfato di piombo (II) Pb(HSO4)2  :  "II" indica il numero di ossidazione del Pb: HSO4- x 2 -> Pb è +2. Viene detto ACIDO perchè l'anione ha ancora un H+.
-- Solfito acido di sodio NaHSO3
+* Solfuro: CaS | Solfito: CaSO₃ | Solfato: CaSO₄
+* H₃PO₄: acido fosforico | PO₄³⁻: ione fosfato | HPO₄²⁻: idrogenofosfato
+* Ossido di metallo → di solito **ossido basico**
+* Ossido di non metallo → di solito **ossido acido / anidride**
+* Solfato acido di piombo (II) o anche Idrogenosolfato di piombo (II) Pb(HSO4)2  :  "II" indica il numero di ossidazione del Pb: HSO4- x 2 -> Pb è +2. Viene detto ACIDO perchè l'anione ha ancora un H+.
+* Solfito acido di sodio NaHSO3
 
 Catione = ione con carica positiva (+)
 Anione = ione con carica negativa (−)
@@ -2822,14 +2905,15 @@ SO3 + H2​O → H2​SO4​ solforico
 Per ottenere un sale si può anche far reagire un acido e un idrossido (reazione di neutralizzazione) HCl + NaOH -> NaCl + H2O.
 
 
+
 **Conversioni di pressione:**
 
-| Unità | Valore |
-|---|---|
-| 1 bar | 10⁵ Pa |
-| 1 atm | 1,013 × 10⁵ Pa |
-| 1 atm | 760 torr (o mm Hg) |
-| 1 Pa | 1 N/m² |
+|Unità|Valore|
+|-|-|
+|1 bar|10⁵ Pa|
+|1 atm|1,013 × 10⁵ Pa|
+|1 atm|760 torr (o mm Hg)|
+|1 Pa|1 N/m²|
 
 ---
 
@@ -2852,13 +2936,13 @@ Esempi: ferro, rame, nichel, titanio, cromo.
 Gruppo = colonna verticale. Gli elementi dello stesso gruppo hanno spesso proprietà chimiche simili, perché hanno lo stesso numero di elettroni di valenza, cioè gli elettroni più esterni. Le proprietà chimiche sono determinate dal numero atomico.
 Periodo = riga orizzontale. Gli elementi dello stesso periodo hanno gli elettroni distribuiti nello stesso numero di livelli energetici principali, cioè “gusci elettronici”
 
-| Gruppo | Nome |
-|---|---|
-| 1 | Metalli alcalini |
-| 2 | Metalli alcalino-terrosi |
-| 3–12 | Metalli di transizione |
-| 17 | Alogeni (ex VIIA) |
-| 18 | Gas nobili (ex VIIIA) |
+|Gruppo|Nome|
+|-|-|
+|1|Metalli alcalini|
+|2|Metalli alcalino-terrosi|
+|3–12|Metalli di transizione|
+|17|Alogeni (ex VIIA)|
+|18|Gas nobili (ex VIIIA)|
 
 ---
 
@@ -2889,19 +2973,20 @@ Indica l'orientamento nello spazio di un orbitale. Può assumere valori compresi
 
 Lo spin è una proprietà intrinseca dell'elettrone, simile a un momento angolare interno. Anche se spesso viene rappresentato come una rotazione su sé stesso, questa è solo un'analogia: l'elettrone non è una sfera che gira realmente. Può essere +1/2 e -1/2, ovvero ↑ oppure ↓
 Ogni orbitale può contenere al massimo due elettroni, e devono avere spin opposti: Principio di esclusione di Pauli.
- 
+
 Regola di Hund: Quando più orbitali hanno la stessa energia, gli elettroni occupano prima gli orbitali uno alla volta con spin parallelo; solo dopo iniziano ad appaiarsi.
 
 L'energia di un orbitale dipende principalmente da:
 
-- Numero quantico principale (n) → è il fattore più importante.
-- Numero quantico secondario (l) → negli atomi con più di un elettrone diventa molto importante.
-- Carica del nucleo e schermatura dovuta agli altri elettroni.
+* Numero quantico principale (n) → è il fattore più importante.
+* Numero quantico secondario (l) → negli atomi con più di un elettrone diventa molto importante.
+* Carica del nucleo e schermatura dovuta agli altri elettroni.
 
-Numero atomico Z = protoni 
+Numero atomico Z = protoni
 Numero di massa A = protoni + neutroni
 Massa atomica relativa (aka peso atomico) = è la media pesata delle masse degli isotopi naturali. è un rapporto.
 Massa molecolare relativa (aka peso molecolare) = la somma dei pesi atomici di tutti gli atomi costituenti una molecola
+
 
 
 Un ISOTOPO è un elemento con stesso numero atomico (protoni) ma diverso numero di neutroni (Idrogeno 1 protone 0 neutroni, Deuterio = idrogeno con 1 protone e 1 neutrone, Trizio = idrogeno con 1 protone e 2 neutroni), quindi diverso numero di massa.
@@ -2918,6 +3003,7 @@ Gli isotopi sono nuclidi dello stesso elemento che differiscono per il numero di
 
 
 
+
 ---
 
 ### Osmolarità e proprietà colligative
@@ -2927,18 +3013,20 @@ Gli isotopi sono nuclidi dello stesso elemento che differiscono per il numero di
 **Legge di Raoult:** una soluzione con un soluto non volatile → la pressione di vapore del solvente diminuisce rispetto a quella del solvente puro.
 
 `P = X_solvente × P₀`
-- P = pressione di vapore della soluzione
-- X_solvente = frazione molare del solvente
-- P₀ = pressione di vapore del solvente puro
+
+* P = pressione di vapore della soluzione
+* X_solvente = frazione molare del solvente
+* P₀ = pressione di vapore del solvente puro
 
 → abbassamento della pressione di vapore nelle soluzioni.
 
 **Legge di Henry:** la quantità di gas che si scioglie in un liquido è proporzionale alla pressione parziale di quel gas sopra il liquido. A temperatura costante:
 
 `C = k_H · P`
-- C = concentrazione del gas disciolto
-- k = costante di Henry
-- P = pressione parziale del gas
+
+* C = concentrazione del gas disciolto
+* k = costante di Henry
+* P = pressione parziale del gas
 
 Più aumenta la pressione del gas, più gas si scioglie nel liquido. Esempio classico: acqua frizzante; subacquei.
 
@@ -2949,6 +3037,7 @@ Più aumenta la pressione del gas, più gas si scioglie nel liquido. Esempio cla
 **Legge di Hess:** la variazione di entalpia di una reazione dipende solo dallo stato iniziale e dallo stato finale, non dal percorso seguito.
 
 **Proprietà colligative** = dipendono dal numero di particelle disciolte (non dal tipo di sostanza). Le principali sono quattro:
+
 1. Abbassamento della tensione di vapore (→ Raoult)
 2. Innalzamento della temperatura di ebollizione
 3. Abbassamento della temperatura di congelamento
@@ -2967,14 +3056,14 @@ L'acqua può coesistere contemporaneamente nei tre stati solido, liquido e aerif
 
 ### Leggi e principi chimici dei fondatori
 
-| Legge/Scienziato | Contenuto |
-|---|---|
-| Lavoisier | Conservazione della massa |
-| Dalton | Teoria atomica; proporzioni multiple (quando due elementi formano più composti, le masse di uno dei due che si combinano con una massa fissa dell'altro stanno in rapporti semplici e interi) |
-| Avogadro | Numero di Avogadro; volumi uguali di gas diversi, nelle stesse condizioni di temperatura e di
-pressione, contengono lo stesso numero di molecole|
-| Charles | Legge dei gas: volume e temperatura |
-| Proust (proporzioni definite) | formulata da Joseph Louis Proust |
+|Legge/Scienziato|Contenuto|
+|-|-|
+|Lavoisier|Conservazione della massa|
+|Dalton|Teoria atomica; proporzioni multiple (quando due elementi formano più composti, le masse di uno dei due che si combinano con una massa fissa dell'altro stanno in rapporti semplici e interi)|
+|Avogadro|Numero di Avogadro; volumi uguali di gas diversi, nelle stesse condizioni di temperatura e di|
+|pressione, contengono lo stesso numero di molecole 6,022 x 10^23||
+|Charles|Legge dei gas: volume e temperatura|
+|Proust (proporzioni definite)|formulata da Joseph Louis Proust|
 
 ---
 
@@ -3010,48 +3099,49 @@ L'energia interna di un gas perfetto è la somma delle energie cinetiche delle d
 | cos(a + b) = cos(a)·cos(b) – sin(a)·sin(b) |
 | sin(x) = cos(90° − x) |
 
-| Angolo | sin |
-|---|---|
-| 15° | (√6 − √2)/4 ≈ 0,259 |
-| 30° | 1/2 |
-| 45° | √2/2 ≈ 0,707 |
-| 60° | √3/2 ≈ 0,866 |
+|Angolo|sin|
+|-|-|
+|15°|(√6 − √2)/4 ≈ 0,259|
+|30°|1/2|
+|45°|√2/2 ≈ 0,707|
+|60°|√3/2 ≈ 0,866|
 
 ---
 
 ### Probabilità
 
-- P(X ∪ Y) = P(X) + P(Y) − P(X ∩ Y)
-- A e C **incompatibili**: P(A ∩ C) = 0 → P(A ∪ C) = P(A) + P(C)
-- B e C **indipendenti**: P(B ∩ C) = P(B)·P(C)
+* P(X ∪ Y) = P(X) + P(Y) − P(X ∩ Y)
+* A e C **incompatibili**: P(A ∩ C) = 0 → P(A ∪ C) = P(A) + P(C)
+* B e C **indipendenti**: P(B ∩ C) = P(B)·P(C)
 
 ---
 
 ### Geometria e algebra
 
-- Area cerchio: A = πr² | Circonferenza: C = 2πr
-- a^(1/n) = radice n-esima di a
-- **Distanza punto–retta:** se il punto è P = (x₀, y₀), la retta è ax+by+c=0:
-  `d = |a·x₀ + b·y₀ + c| / √(a² + b²)`
+* Area cerchio: A = πr² | Circonferenza: C = 2πr
+* a^(1/n) = radice n-esima di a
+* **Distanza punto–retta:** se il punto è P = (x₀, y₀), la retta è ax+by+c=0:
+`d = |a·x₀ + b·y₀ + c| / √(a² + b²)`
 
 ---
 
 ## 18. FISICA
 
-- **Pendolo semplice:** T = 2π√(L/g) — dove L è la lunghezza del pendolo; **indipendente dalla massa**.
+* **Pendolo semplice:** T = 2π√(L/g) — dove L è la lunghezza del pendolo; **indipendente dalla massa**.
+* **Resistenza aerodinamica:** F = ½ρv²C_x A
 
-- **Resistenza aerodinamica:** F = ½ρv²C_x A
-  - ρ = densità del fluido
-  - v = velocità del corpo rispetto al fluido
-  - C_x = coefficiente di resistenza aerodinamica
-  - A = area frontale
+  * ρ = densità del fluido
+  * v = velocità del corpo rispetto al fluido
+  * C_x = coefficiente di resistenza aerodinamica
+  * A = area frontale
 
 
-La RESISTENZA ELETTRICA di un filo si calcola con una formula molto semplice: 
+
+La RESISTENZA ELETTRICA di un filo si calcola con una formula molto semplice:
 R = ρ L / A
-ρ = resistività del materiale (Ω·m) 
+ρ = resistività del materiale (Ω·m)
 L lunghezza, A area della sezione = πr^2 = πd^2​ / 4
-quindi R = 4 ρ L / πd^2​ 
+quindi R = 4 ρ L / πd^2​
 
 P = V x I    V = R x I    P = R x I^2   P = V^2 / R
 
@@ -3061,11 +3151,11 @@ P = V x I    V = R x I    P = R x I^2   P = V^2 / R
 
 ## 19. LOGICA
 
-| Regola | Schema |
-|---|---|
-| **Modus ponens** | "Se p allora q. p è vero → quindi q è vero" |
-| **Modus tollens** | "Se p allora q. q è falso → quindi p è falso" |
-| **Proposizione contronominale** | "Se p allora q" ≡ "Se non-q allora non-p" |
+|Regola|Schema|
+|-|-|
+|**Modus ponens**|"Se p allora q. p è vero → quindi q è vero"|
+|**Modus tollens**|"Se p allora q. q è falso → quindi p è falso"|
+|**Proposizione contronominale**|"Se p allora q" ≡ "Se non-q allora non-p"|
 
 ∧ = AND | ∨ = OR
 
@@ -3078,11 +3168,12 @@ P = V x I    V = R x I    P = R x I^2   P = V^2 / R
 La Costituzione italiana è la legge fondamentale dello Stato. È entrata in vigore il **1° gennaio 1948**, dopo la caduta del fascismo e la nascita della Repubblica.
 
 È una Costituzione:
-- **scritta**: raccolta in un testo ufficiale
-- **rigida**: non può essere modificata con una legge ordinaria, ma solo con una procedura aggravata
-- **lunga**: contiene anche diritti sociali, economici e civili
-- **democratica**: fonda il potere sulla sovranità popolare
-- **compromissoria**: nacque dall'accordo tra diverse culture politiche (cattolica, liberale, socialista, comunista)
+
+* **scritta**: raccolta in un testo ufficiale
+* **rigida**: non può essere modificata con una legge ordinaria, ma solo con una procedura aggravata
+* **lunga**: contiene anche diritti sociali, economici e civili
+* **democratica**: fonda il potere sulla sovranità popolare
+* **compromissoria**: nacque dall'accordo tra diverse culture politiche (cattolica, liberale, socialista, comunista)
 
 Una Costituzione è *rigida* quando: può essere modificata, ma serve una procedura speciale, più complessa rispetto a quella prevista per le leggi ordinarie.
 
@@ -3096,11 +3187,11 @@ Una Costituzione è *flessibile* quando può essere modificata con una normale l
 
 **Struttura:** 139 articoli + disposizioni transitorie e finali
 
-| Parte | Contenuto |
-|---|---|
-| Principi fondamentali | articoli 1–12 |
-| Parte I | Diritti e doveri dei cittadini, artt. 13–54 |
-| Parte II | Ordinamento della Repubblica, artt. 55–139 |
+|Parte|Contenuto|
+|-|-|
+|Principi fondamentali|articoli 1–12|
+|Parte I|Diritti e doveri dei cittadini, artt. 13–54|
+|Parte II|Ordinamento della Repubblica, artt. 55–139|
 
 ---
 
@@ -3113,8 +3204,9 @@ Una Costituzione è *flessibile* quando può essere modificata con una normale l
 **Art. 3** — Tutti i cittadini hanno pari dignità sociale e sono uguali davanti alla legge, senza distinzione di sesso, razza, lingua, religione, opinioni politiche, condizioni personali e sociali. Poi aggiunge che la Repubblica deve rimuovere gli ostacoli economici e sociali che impediscono l'uguaglianza sostanziale.
 
 Quindi ci sono due tipi di uguaglianza:
-- **Uguaglianza formale**: tutti sono uguali davanti alla legge
-- **Uguaglianza sostanziale**: lo Stato deve aiutare chi parte svantaggiato
+
+* **Uguaglianza formale**: tutti sono uguali davanti alla legge
+* **Uguaglianza sostanziale**: lo Stato deve aiutare chi parte svantaggiato
 
 *Esempio sanitario: non basta dire "tutti possono curarsi"; bisogna anche garantire ospedali, medici, assistenza, accesso alle cure.*
 
@@ -3142,12 +3234,12 @@ Quindi ci sono due tipi di uguaglianza:
 
 Si divide in quattro "titoli":
 
-| Titolo | Contenuto |
-|---|---|
-| I – Rapporti civili | libertà personali |
-| II – Rapporti etico-sociali | famiglia, salute, scuola |
-| III – Rapporti economici | lavoro, proprietà, impresa |
-| IV – Rapporti politici | voto, partiti, doveri civici |
+|Titolo|Contenuto|
+|-|-|
+|I – Rapporti civili|libertà personali|
+|II – Rapporti etico-sociali|famiglia, salute, scuola|
+|III – Rapporti economici|lavoro, proprietà, impresa|
+|IV – Rapporti politici|voto, partiti, doveri civici|
 
 **Diritti civili:**
 
@@ -3172,8 +3264,9 @@ Si divide in quattro "titoli":
 **Art. 32** ← ⭐ *Articolo più importante per infermieristica.*
 
 La Repubblica tutela la salute come:
-- **fondamentale diritto dell'individuo** e
-- **interesse della collettività**
+
+* **fondamentale diritto dell'individuo** e
+* **interesse della collettività**
 
 Garantisce cure gratuite agli indigenti.
 
@@ -3181,13 +3274,13 @@ Nessuno può essere obbligato a un trattamento sanitario se non per disposizione
 
 La legge non può in nessun caso violare i limiti imposti dal rispetto della persona umana.
 
-| Concetto | Significato |
-|---|---|
-| Diritto individuale | ogni persona ha diritto alla salute |
-| Interesse collettivo | la salute riguarda tutta la società |
-| Cure agli indigenti | lo Stato aiuta chi non può pagare |
-| Trattamenti obbligatori | possibili solo se previsti dalla legge |
-| Rispetto della persona | limite invalicabile |
+|Concetto|Significato|
+|-|-|
+|Diritto individuale|ogni persona ha diritto alla salute|
+|Interesse collettivo|la salute riguarda tutta la società|
+|Cure agli indigenti|lo Stato aiuta chi non può pagare|
+|Trattamenti obbligatori|possibili solo se previsti dalla legge|
+|Rispetto della persona|limite invalicabile|
 
 Esempi collegabili: vaccini, TSO, consenso informato, sanità pubblica.
 
@@ -3197,14 +3290,14 @@ Esempi collegabili: vaccini, TSO, consenso informato, sanità pubblica.
 
 **Artt. 35-40** — La Repubblica tutela il lavoro in tutte le sue forme. Riconosce il diritto alla retribuzione proporzionata e sufficiente. Tutela la donna lavoratrice, i minori, la sicurezza sul lavoro e il diritto di sciopero.
 
-| Articolo | Tema |
-|---|---|
-| 35 | tutela del lavoro |
-| 36 | giusta retribuzione |
-| 37 | donna lavoratrice e minori |
-| 38 | assistenza e previdenza |
-| 39 | sindacati |
-| 40 | sciopero |
+|Articolo|Tema|
+|-|-|
+|35|tutela del lavoro|
+|36|giusta retribuzione|
+|37|donna lavoratrice e minori|
+|38|assistenza e previdenza|
+|39|sindacati|
+|40|sciopero|
 
 **Art. 38** — Ogni cittadino inabile al lavoro e sprovvisto dei mezzi necessari ha diritto al mantenimento e all'assistenza sociale. I lavoratori hanno diritto alla previdenza in caso di infortunio, malattia, invalidità, vecchiaia e disoccupazione involontaria. *(Importante per capire il welfare: sanità, assistenza, pensioni, invalidità, sicurezza sociale.)*
 
@@ -3222,14 +3315,14 @@ Esempi collegabili: vaccini, TSO, consenso informato, sanità pubblica.
 
 ### Parte II: Ordinamento della Repubblica (artt. 55–139)
 
-| Organo | Potere | Note |
-|---|---|---|
-| Parlamento | Legislativo (fa le leggi) | Camera dei deputati (Montecitorio) + Senato (Palazzo Madama); **bicameralismo perfetto** |
-| Governo | Esecutivo | Presidente del Consiglio + Ministri + Consiglio dei ministri |
-| Presidente della Repubblica | Garante dell'unità | Eletto dal Parlamento; dura **7 anni** |
-| Magistratura | Giudiziario | Autonoma e indipendente da ogni altro potere |
-| Corte Costituzionale | Controllo leggi | Controlla conformità delle leggi alla Costituzione |
-| Regioni ed enti locali | Autonomie territoriali | — |
+|Organo|Potere|Note|
+|-|-|-|
+|Parlamento|Legislativo (fa le leggi)|Camera dei deputati (Montecitorio) + Senato (Palazzo Madama); **bicameralismo perfetto**|
+|Governo|Esecutivo|Presidente del Consiglio + Ministri + Consiglio dei ministri|
+|Presidente della Repubblica|Garante dell'unità|Eletto dal Parlamento; dura **7 anni**|
+|Magistratura|Giudiziario|Autonoma e indipendente da ogni altro potere|
+|Corte Costituzionale|Controllo leggi|Controlla conformità delle leggi alla Costituzione|
+|Regioni ed enti locali|Autonomie territoriali|—|
 
 **Parlamento:** Il bicameralismo perfetto significa che Camera e Senato hanno funzioni molto simili: una legge deve essere approvata da **entrambe**. Eletti ogni 5 anni.
 
@@ -3255,26 +3348,26 @@ La Costituzione è rigida. Per modificarla serve la procedura dell'articolo 138:
 
 ### Articoli più importanti da memorizzare
 
-| Articolo | Contenuto |
-|---|---|
-| 1 | Repubblica democratica fondata sul lavoro |
-| 2 | diritti inviolabili e doveri di solidarietà |
-| 3 | uguaglianza formale e sostanziale |
-| 4 | diritto al lavoro |
-| 5 | unità della Repubblica e autonomie locali |
-| 9 | cultura, ricerca, ambiente |
-| 11 | ripudio della guerra |
-| 13 | libertà personale |
-| 21 | libertà di pensiero |
-| 32 | diritto alla salute |
-| 34 | scuola aperta a tutti |
-| 36 | giusta retribuzione |
-| 38 | assistenza e previdenza |
-| 48 | diritto di voto |
-| 53 | dovere fiscale |
-| 54 | fedeltà alla Repubblica |
-| 138 | revisione costituzionale |
-| 139 | Repubblica non modificabile |
+|Articolo|Contenuto|
+|-|-|
+|1|Repubblica democratica fondata sul lavoro|
+|2|diritti inviolabili e doveri di solidarietà|
+|3|uguaglianza formale e sostanziale|
+|4|diritto al lavoro|
+|5|unità della Repubblica e autonomie locali|
+|9|cultura, ricerca, ambiente|
+|11|ripudio della guerra|
+|13|libertà personale|
+|21|libertà di pensiero|
+|32|diritto alla salute|
+|34|scuola aperta a tutti|
+|36|giusta retribuzione|
+|38|assistenza e previdenza|
+|48|diritto di voto|
+|53|dovere fiscale|
+|54|fedeltà alla Repubblica|
+|138|revisione costituzionale|
+|139|Repubblica non modificabile|
 
 **Super-sintesi:** La Costituzione italiana nasce dopo il fascismo e fonda l'Italia come Repubblica democratica. I suoi valori fondamentali sono: democrazia, lavoro, uguaglianza, solidarietà, libertà, tutela della persona, pace, autonomie locali, diritto alla salute, diritto all'istruzione, tutela del lavoro.
 
@@ -3284,12 +3377,13 @@ La Repubblica si dice presidenziale quando: il Presidente è anche capo del gove
 
 ### REATI DIVERSI CONTRO LA PUBBLICA AMMINISTRAZIONE
 
-| Reato               | Chi lo commette              | Cosa succede                                                                                                                   |
-| ------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| **Corruzione**      | Pubblico ufficiale + privato | Si mettono d'accordo: il pubblico ufficiale riceve un vantaggio in cambio di un favore.                                        |
-| **Concussione**     | Pubblico ufficiale           | Costringe o induce qualcuno a dare denaro o altri vantaggi abusando del proprio potere.                                        |
-| **Peculato**        | Pubblico ufficiale           | Si appropria di denaro o beni pubblici che gli sono stati affidati.                                                            |
-| **Abuso d'ufficio** | Pubblico ufficiale           | Usa il proprio potere violando la legge per favorire o danneggiare qualcuno. (Attenzione: in Italia è stato abolito nel 2024.) |
+|Reato|Chi lo commette|Cosa succede|
+|-|-|-|
+|**Corruzione**|Pubblico ufficiale + privato|Si mettono d'accordo: il pubblico ufficiale riceve un vantaggio in cambio di un favore.|
+|**Concussione**|Pubblico ufficiale|Costringe o induce qualcuno a dare denaro o altri vantaggi abusando del proprio potere.|
+|**Peculato**|Pubblico ufficiale|Si appropria di denaro o beni pubblici che gli sono stati affidati.|
+|**Abuso d'ufficio**|Pubblico ufficiale|Usa il proprio potere violando la legge per favorire o danneggiare qualcuno. (Attenzione: in Italia è stato abolito nel 2024.)|
+
 
 
 
@@ -3299,22 +3393,18 @@ La Repubblica si dice presidenziale quando: il Presidente è anche capo del gove
 1. Filtrano il sangue
 Questa è la funzione principale. Ogni giorno i reni filtrano circa 180 litri di filtrato, dai quali vengono prodotti 1-2 litri di urina.
 Durante la filtrazione: eliminano sostanze di rifiuto; recuperano acqua e sostanze utili; mantengono nel sangue ciò che serve all'organismo.
-
 2. Producono l'urina
 L'urina contiene: urea; acido urico; creatinina; farmaci; tossine; acqua in eccesso; sali minerali in eccesso.
 L'urina passa poi: negli ureteri; nella vescica; viene eliminata attraverso l'uretra.
-
 3. Eliminano le sostanze di rifiuto
 I reni eliminano i prodotti del metabolismo, tra cui:
 urea (deriva dalla degradazione delle proteine);
 creatinina (deriva dal metabolismo muscolare);
 acido urico (deriva dal metabolismo delle purine).
-
 4. Regolano l'acqua dell'organismo
 Se bevi molto: producono più urina.
 Se sei disidratato: trattengono acqua e producono meno urina.
 In questo modo mantengono costante la quantità di liquidi corporei.
-
 5. Regolano i sali minerali
 Mantengono il giusto equilibrio di:
 sodio (Na⁺);
@@ -3323,27 +3413,22 @@ calcio (Ca²⁺);
 magnesio (Mg²⁺);
 fosfati;
 cloro (Cl⁻).
-
-6. Mantengono il pH del sangue 
+6. Mantengono il pH del sangue
 Il sangue deve avere un pH di circa 7,35-7,45.
 I reni: eliminano gli ioni H⁺ (acidità); riassorbono bicarbonato (HCO₃⁻).
 In questo modo contribuiscono all'equilibrio acido-base.
-
-7. Regolano la pressione arteriosa 
+7. Regolano la pressione arteriosa
 Producono la renina. La renina attiva il sistema renina-angiotensina-aldosterone (RAAS), che:
 aumenta la pressione arteriosa quando è troppo bassa;
 aiuta a trattenere sodio e acqua.
-
 8. Producono eritropoietina (EPO)
 L'eritropoietina è un ormone che:
 stimola il midollo osseo;
 aumenta la produzione di globuli rossi.
 Per questo chi ha una grave insufficienza renale può sviluppare anemia.
-
 9. Attivano la vitamina D
 I reni trasformano la vitamina D nella sua forma attiva (calcitriolo).
 Il calcitriolo: favorisce l'assorbimento intestinale del calcio; contribuisce alla salute di ossa e denti.
-
 10. Mantengono l'omeostasi
 L'omeostasi è il mantenimento dell'equilibrio interno dell'organismo.
 I reni regolano:
@@ -3390,6 +3475,7 @@ encefalopatia spongiforme bovina, cioè la “mucca pazza”
 scrapie nelle pecore
 
 
+
 ### PROTEINE
 
 La maggior parte degli enzimi sono proteine, ma alcuni enzimi sono RNA catalitici (ribozimi).
@@ -3409,6 +3495,7 @@ CARPO  = polso. due file: fila prossimale e fila distale. prossimale: scafoide s
 TARSO  = piede. astragalo, calcagno, scafoide tarsale / navicolare, cuboide, tre cuneiformi
 
 
+
 ### MUTAZIONI
 
 Una mutazione del DNA è una modifica permanente della sequenza delle basi azotate del DNA.
@@ -3423,7 +3510,7 @@ GAA → acido glutammico
 GAG → acido glutammico
 Se una mutazione cambia GAA in GAG, il codone è cambiato, ma l’amminoacido resta lo stesso. Quindi la proteina finale non cambia.
 
-### POMPA SODIO-POTASSIO 
+### POMPA SODIO-POTASSIO
 
 La pompa sodio-potassio si chiama anche Na⁺/K⁺-ATPasi e fa questo:
 
@@ -3435,7 +3522,7 @@ E' una proteina transmembrana, cioè attraversa il doppio strato di fosfolipidi 
 Lavora contro gradiente di concentrazione, porta il sodio fuori dalla cellula. il potassio viene portato dentro.
 Serve a mantenere il potenziale di membrana e l’equilibrio ionico della cellula (l'interno della cellula rimane più negativo rispetto all'esterno).
 Contemporaneamente il potassio tende anche a uscire dalla cellula attraverso canali di perdita, detti canali leak del K⁺.
- 
+
 ### CODICE GENETICO
 
 Il codice genetico è il sistema di corrispondenza tra le triplette di nucleotidi dell’mRNA, dette codoni, e gli amminoacidi. E' praticamente universale, e uguale fra procarioti ed eucarioti. Non è ambiguo, perchè un codone indica un solo amminoacido (ma non viceversa).
@@ -3452,6 +3539,7 @@ Due codoni diversi, stesso amminoacido.
 L’insieme dei geni di un organismo si chiama GENOMA
 
 
+
 ### GRUPPO AMMINICO AMMIDICO e CARBONILICO
 
 Un gruppo AMMINICO primario è: −R−NH2
@@ -3461,14 +3549,14 @@ Quindi diventa: R−NH3+, cioè ione ammonio alchilico. Quindi si comporta da ba
 
 Le AMMIDI derivano invece dagli acidi carbossilici COOH. Si ottengono sostituendo il gruppo –OH del gruppo carbossilico con –NH₂, –NHR oppure –NR₂. R−CO−NH2​ oppure R−CO−NHR oppure R−CO−NR2​ . Nelle ammidi compare sempre il gruppo C=O. Quando due amminoacidi si uniscono si forma il legame peptidico, che è proprio un tipo di legame ammidico.
 
-Il gruppo CARBONILICO è: C=O 
+Il gruppo CARBONILICO è: C=O
 Nei CHETONI, quel carbonio del carbonile è legato ad altri due carboni: R−CO−R′ (es. propanone / acetone CH3−CO−CH3 ), per cui non è terminale.
 Negli ALDEIDI (CHO) , il gruppo carbonilico è terminale, perché è legato almeno a un idrogeno: R−CHO (etanale CH3−CHO )
 
 Il gruppo CARBOSSILICO è: COOH
 è presente negli acidi carbossilici (es. acido acetico)
 
-Negli alogenuri alchilici un atomo di alogeno è legato a un solo atomo di carbonio, non a due. La formula generale è R-X, dove X = F, Cl, Br, I (es. CH3​−CH2​−Cl cloroetano, il cloro è legato solo al carbonio terminale del gruppo etile). 
+Negli alogenuri alchilici un atomo di alogeno è legato a un solo atomo di carbonio, non a due. La formula generale è R-X, dove X = F, Cl, Br, I (es. CH3​−CH2​−Cl cloroetano, il cloro è legato solo al carbonio terminale del gruppo etile).
 Gli alogenuri alchilici derivano dagli alcani sostituendo un idrogeno con un alogeno:
 CH3​−CH3​ → CH3​−CH2​−Cl
 Alchilico significa: “derivato da un alcano dopo aver tolto un idrogeno” (es. metano->metile, etano->etile, propano->propile)
@@ -3526,7 +3614,7 @@ uretere sinistro: dal rene sinistro alla vescica.
 L’uretere non è un semplice “tubo passivo”: ha una parete muscolare che fa piccole contrazioni, dette peristalsi, per spingere l’urina verso la vescica.
 L'URETRA porta l’urina dalla vescica fuori dal corpo.
 
-La sindrome di Klinefelter è una condizione genetica in cui una persona di sesso maschile ha un cromosoma X in più. 
+La sindrome di Klinefelter è una condizione genetica in cui una persona di sesso maschile ha un cromosoma X in più.
 Di solito il maschio ha: 46, XY. Con Klinefelter ha 47, XXY.
 Questo può causare soprattutto problemi legati allo sviluppo dei testicoli e alla produzione di testosterone e infertilità.
 
@@ -3541,7 +3629,8 @@ Spirilli: sono batteri a forma di spirale rigida, come una piccola elica.
 Spirochete: Sono batteri a forma di spirale flessibile, più sottili e mobili degli spirilli. Esempio: Treponema pallidum, il batterio della sifilide.
 
 
-Le CELLULE EPITELIALI non rivestono soltanto superfici, ma possono anche specializzarsi nella secrezione. Le cellule delle ghiandole (es. ghiandole salivari, sudoripare, pancreas, tiroide) sono infatti cellule epiteliali. 
+
+Le CELLULE EPITELIALI non rivestono soltanto superfici, ma possono anche specializzarsi nella secrezione. Le cellule delle ghiandole (es. ghiandole salivari, sudoripare, pancreas, tiroide) sono infatti cellule epiteliali.
 Gli epiteli rivestono: la superficie esterna del corpo (epidermide), le cavità interne (bocca, stomaco, intestino, vasi sanguigni, polmoni...), e formano le ghiandole. Quindi non si trovano solo all'esterno. Poggiano su una membrana basale. Sono avascolari. alcune sono secretorie (ghiandole), altre assorbenti (intestino), protettive (pelle) o ciliate (vie respiratorie).
 
 Le cellule epiteliali sono molto vicine tra loro, unite da giunzioni cellulari, e possiedono pochissima matrice extracellulare.
@@ -3550,9 +3639,10 @@ L'abbondante matrice extracellulare è tipica del tessuto connettivo (ossa, cart
 ### MATRICE EXTRACELLULARE
 
 La MATRICE EXTRACELLULARE (MEC) è tutto il materiale che si trova tra una cellula e l'altra. Contiene principalmente:
-- Fibre di collagene → danno resistenza.
-- Fibre elastiche → permettono ai tessuti di allungarsi e tornare alla forma originale.
-- Proteoglicani e glicoproteine → trattengono acqua e formano una specie di gel che riempie gli spazi.
+
+* Fibre di collagene → danno resistenza.
+* Fibre elastiche → permettono ai tessuti di allungarsi e tornare alla forma originale.
+* Proteoglicani e glicoproteine → trattengono acqua e formano una specie di gel che riempie gli spazi.
 In pratica è una rete di proteine e sostanze gelatinose che sostiene le cellule, le tiene unite, permette il passaggio di nutrienti e segnali.
 
 Dove ce n'è tanta? Nei tessuti connettivi. Per esempio:
@@ -3567,7 +3657,9 @@ Qui la matrice rappresenta gran parte del tessuto.
 Ce n'è poca negli epiteli, le cellule epiteliali sono praticamente attaccate una all'altra.
 
 
+
 ### Ka e Kb
+
 Il pKa misura quanto è forte o debole un acido.
 HA + H₂O ⇄ A⁻ + H₃O⁺
 l’acido HA può cedere un protone H⁺ all’acqua. La costante di acidità è Ka.
@@ -3583,12 +3675,13 @@ pKb piccolo  → base più forte
 pKb grande   → base più debole
 
 
+
 ## FEGATO
 
 Il fegato è la ghiandola più grande del corpo umano ed è uno degli organi più importanti, perché svolge oltre 500 funzioni.
 
 1. Produce la bile (funzione digestiva)
-2. Regola il metabolismo dei carboidrati 
+2. Regola il metabolismo dei carboidrati
 Quando c'è troppo glucosio, lo trasforma in glicogeno (glicogenesi).
 Quando il glucosio nel sangue diminuisce, trasforma il glicogeno in glucosio (glicogenolisi).
 Può produrre glucosio da altre sostanze (gluconeogenesi).
@@ -3633,13 +3726,14 @@ Il fegato produce la bile; la colecisti la conserva; il coledoco la porta nell�
 Lo sfintere di Oddi è un anello di muscolatura liscia posto all'estremità del coledoco e del dotto pancreatico; quando è rilassato, permette a bile e succo pancreatico di entrare nel duodeno.
 
 
+
 Il MUGHETTO è una micosi della mucosa orale, cioè un’infezione da fungo che colpisce la bocca, generalmente causata da Candida albicans.
 
 ### OSSIDAZIONE
 
 OIL RIG oxidation is loss, reduction is gain (of an electron)
 
-H₂O₂, cioè perossido di idrogeno, è ossidante perché l’ossigeno che contiene “vuole” prendere elettroni e trasformarsi in una forma più stabile. 
+H₂O₂, cioè perossido di idrogeno, è ossidante perché l’ossigeno che contiene “vuole” prendere elettroni e trasformarsi in una forma più stabile.
 In H₂O₂ l’ossigeno ha numero di ossidazione −1. Nell’acqua H₂O, invece, l’ossigeno ha numero di ossidazione −2.
 Quindi H₂O₂ può trasformarsi in acqua così:
 H2O2 + 2H+ + 2e −→ 2H2O
@@ -3652,14 +3746,15 @@ Il motivo profondo è che il legame O–O nel perossido è abbastanza instabile.
 
 Come assegnare rapidamente i numeri di ossidazione:
 
-| Elemento                             | Numero di ossidazione |
-| ------------------------------------ | --------------------- |
-| Elemento puro (H₂, O₂, Cl₂, Br₂...)  | **0**                 |
-| Metalli alcalini (Na, K...)          | **+1**                |
-| Metalli alcalino-terrosi (Mg, Ca...) | **+2**                |
-| Fluoro                               | **−1**                |
-| Ossigeno                             | quasi sempre **−2**   |
-| Idrogeno                             | quasi sempre **+1**   |
+|Elemento|Numero di ossidazione|
+|-|-|
+|Elemento puro (H₂, O₂, Cl₂, Br₂...)|**0**|
+|Metalli alcalini (Na, K...)|**+1**|
+|Metalli alcalino-terrosi (Mg, Ca...)|**+2**|
+|Fluoro|**−1**|
+|Ossigeno|quasi sempre **−2**|
+|Idrogeno|quasi sempre **+1**|
+
 
 
 
@@ -3674,19 +3769,19 @@ B = mu0 * i / (2 * pi * r)
 B = campo magnetico (tesla, T)
 r = distanza dal filo
 
-legge di Coulomb: F = k | q1 x q2 | / r^2 
+legge di Coulomb: F = k | q1 x q2 | / r^2
 k = costante di Coulomb = 9×10^9 N m2/C2
 
 gravità: F = G x m1 x m2 / r^2
 
-Il campo magnetico esercita una forza su una particella carica e in movimento, la 
+Il campo magnetico esercita una forza su una particella carica e in movimento, la
 *forza di Lorentz* : F=qvBsinθ
 q = carica
 v = velocità
 B = campo magnetico
 θ = angolo tra velocità e campo.
 
-Se v è perpendicolare a B, sinθ = 1 e la forza e' perpendicolare alla velocità, è una forza centripeta, quindi il moto è circolare. Se v ha una componente parallela al campo magnetico, allora il moto é elicoidale. 
+Se v è perpendicolare a B, sinθ = 1 e la forza e' perpendicolare alla velocità, è una forza centripeta, quindi il moto è circolare. Se v ha una componente parallela al campo magnetico, allora il moto é elicoidale.
 
 
 
@@ -3696,7 +3791,7 @@ Grave malattia infettiva causata dal batterio Clostridium tetani
 Il batterio vive nel: terreno; polvere; feci di animali. Entra nell'organismo attraverso una ferita.
 Il batterio produce una tossina molto potente chiamata tetanospasmina.
 Questa tossina raggiunge il sistema nervoso e blocca i neuroni che normalmente rilassano i muscoli.
-I sintomi compaiono in genere dopo 3-21 giorni dalla ferita: 
+I sintomi compaiono in genere dopo 3-21 giorni dalla ferita:
 trisma (difficoltà ad aprire la bocca, "lockjaw");
 rigidità del collo;
 spasmi muscolari dolorosi;
@@ -3704,7 +3799,7 @@ difficoltà a deglutire;
 inarcamento della schiena (opistotono);
 difficoltà respiratoria.
 
-### MUSCHIO LIEVITO FUNGO 
+### MUSCHIO LIEVITO FUNGO
 
 Il **muschio** è una pianta (appartiene alle Briofite) e contiene clorofilla.
 I **funghi** non possiedono clorofilla. Non fanno fotosintesi, ma si nutrono assorbendo sostanze organiche già prodotte da altri organismi. Non sono piante. Sono eterotrofi: posso essere saprofiti (mangiano materia organica morta), o parassiti, o simbionti come i **licheni** (fungo + alga) o micorrize (fungo + radici di piante).
@@ -3714,9 +3809,10 @@ Le **muffe** sono funghi filamentosi, cioè costituiti da lunghi filamenti chiam
 Le muffe si riproducono producendo spore.
 
 
+
 ### PASTEUR FLEMING
 
-**Louis Pasteur** (1822–1895) è stato un chimico, biologo e microbiologo francese, universalmente riconosciuto come il padre della microbiologia moderna. 
+**Louis Pasteur** (1822–1895) è stato un chimico, biologo e microbiologo francese, universalmente riconosciuto come il padre della microbiologia moderna.
 
 La **teoria dei germi**: ha dimostrato definitivamente che le malattie infettive sono causate da specifici microrganismi, smentendo la teoria della generazione spontanea.
 
@@ -3726,9 +3822,10 @@ I **vaccini**: ha sviluppato i primi vaccini efficaci della storia contro malatt
 
 **Alexander Fleming** (1881–1955) è stato un medico, biologo e farmacologo scozzese, celebre per aver cambiato la storia della medicina moderna grazie a due scoperte fondamentali avvenute per "caso": il lisozima nel 1922 e, soprattutto, la penicillina nel 1928, il primo antibiotico della storia. Prese il Nobel nel 1945.
 
-La **Penicillina** (1928): Di ritorno nel suo laboratorio a Londra, Fleming dimenticò una piastra di coltura del batterio Staphylococcus aureus scoperta e non protetta prima di una vacanza. Al suo ritorno notò che la piastra era stata contaminata da una muffa (del genere Penicillium) che aveva ucciso tutti i batteri circostanti. Isolò la sostanza responsabile, dimostrandone il potente effetto antibatterico. 
+La **Penicillina** (1928): Di ritorno nel suo laboratorio a Londra, Fleming dimenticò una piastra di coltura del batterio Staphylococcus aureus scoperta e non protetta prima di una vacanza. Al suo ritorno notò che la piastra era stata contaminata da una muffa (del genere Penicillium) che aveva ucciso tutti i batteri circostanti. Isolò la sostanza responsabile, dimostrandone il potente effetto antibatterico.
 
 Il **Lisozima** (1922): Durante le sue ricerche scoprì questo enzima, presente naturalmente nelle lacrime, nella saliva e nel muco, capace di distruggere le pareti cellulari di molti batteri, dimostrando le prime difese naturali del corpo umano.
+
 
 
 **Jonas Salk** (1914–1995), Nazionalità: Statunitense. Professione: Medico e virologo.
@@ -3736,6 +3833,7 @@ Famoso per: Aver sviluppato nel 1955 il primo vaccino efficace contro la **polio
 
 **Andreas Vesalius** (1514–1564), Nazionalità: Fiammingo (attuale Belgio). Professione: Medico e anatomista.
 Famoso per: Aver rivoluzionato lo studio dell'**anatomia umana** grazie alla dissezione diretta dei cadaveri. Opera principale: De humani corporis fabrica, uno dei libri di anatomia più importanti della storia. Importanza: Corresse molti errori tramandati da oltre mille anni dagli studi di Galen, che aveva basato gran parte delle sue osservazioni sugli animali.
+
 
 
 **Marie Curie** (1867–1934) Nazionalità: Polacca naturalizzata francese. Professione: Fisica e chimica.
@@ -3763,6 +3861,7 @@ Al contrario, cellule con un basso fabbisogno energetico ne possiedono meno.
 ---
 
 
+
 ---
 
 ### MODELLO DELL'ATOMO
@@ -3771,9 +3870,9 @@ Il modello di Bohr (1913). Bohr immaginava gli elettroni come pianeti che girano
 
 Con la meccanica quantistica si è scoperto che:
 
-- l'elettrone non percorre una traiettoria precisa;
-- è impossibile conoscere contemporaneamente posizione e velocità (principio di indeterminazione di Heisenberg);
-- possiamo soltanto calcolare la probabilità di trovarlo in una certa regione dello spazio.
+* l'elettrone non percorre una traiettoria precisa;
+* è impossibile conoscere contemporaneamente posizione e velocità (principio di indeterminazione di Heisenberg);
+* possiamo soltanto calcolare la probabilità di trovarlo in una certa regione dello spazio.
 
 Questa regione si chiama orbitale atomico. Un orbitale è quindi una "nuvola di probabilità". È una regione dello spazio nella quale la probabilità di trovare l'elettrone è molto elevata (convenzionalmente circa il 90–95%). È proprio ciò che descrive la funzione d'onda della meccanica quantistica.
 La funzione d'onda è una formula matematica di Erwin Schrödinger (indicata con la lettera greca ψ, psi: ψ(x,y,z,t)) che descrive completamente lo stato di una particella. Essa non dice dove si trova l'elettrone, ma permette di calcolare la probabilità di trovarlo in ogni punto dello spazio.
@@ -3783,7 +3882,7 @@ La funzione d'onda è una formula matematica di Erwin Schrödinger (indicata con
 
 ### RADIAZIONE ALFA
 
-Sono nuclei di elio. Le radiazioni alfa (α) vengono emesse da alcuni nuclei atomici molto pesanti e instabili, come: 
+Sono nuclei di elio. Le radiazioni alfa (α) vengono emesse da alcuni nuclei atomici molto pesanti e instabili, come:
 Uranio-238
 Radio-226
 Polonio-210
@@ -3794,10 +3893,10 @@ Le β⁻ (beta) sono elettroni.
 
 Le γ (gamma) sono fotoni.
 
-| Isotopo | Protoni | Neutroni | Totale |
-| ------- | ------: | -------: | -----: |
-| U-235   |      92 |      143 |    235 |
-| U-238   |      92 |      146 |    238 |
+|Isotopo|Protoni|Neutroni|Totale|
+|-|-:|-:|-:|
+|U-235|92|143|235|
+|U-238|92|146|238|
 
 I tre neutroni in più dell'U-238 lo rendono leggermente più stabile.
 L'U-235 ha una vita media molto più breve, 704 milioni di anni, quindi si è consumato molto più rapidamente.
@@ -3807,10 +3906,11 @@ U235 -> Th231 + alfa -> Pb206 ; U238 -> Th234 + alfa  -> Pb207
 
 L' U235 può essere fisso da un neutrone lento in Ba + Kr + 2 o 3 neutroni + energia
 
-L' U238 (fertile) se colpito da neurone diventa U239, che è instabile e decade (beta) in Nettunio Np239 e poi Plutonio Pu239, che è ottimo materiale fissile. 
+L' U238 (fertile) se colpito da neurone diventa U239, che è instabile e decade (beta) in Nettunio Np239 e poi Plutonio Pu239, che è ottimo materiale fissile.
 L'arricchimento dell'uranio serve ad aumentare la percentuale di U-235, perché nell'uranio naturale ce n'è troppo poco per la maggior parte delle applicazioni: 99,27% U-238 , 0,72% U-235
 L'uranio viene trasformato nel gas esafluoruro di uranio (UF₆) -> centrifughe a gas -> uranio arricchito.
 L'uranio impoverito - con ancor meno U235 - può essere usato per produrre Pu239, come schermante o per applicazioni militari.
+
 
 
 ### ENERGIA DI IONIZZAZIONE
@@ -3821,10 +3921,11 @@ Questo perche' aumenta il numero di protoni, quindi l'attrazione aumenta. Ci sar
 Invece nel gruppo (dall'alto in basso) → energia di ionizzazione diminuisce.
 
 
+
 # Tavola Periodica degli Elementi
 
-| Z | Simbolo | Nome | A | Gruppo | Periodo | Tipo |
-|---:|:------:|----------------|------:|:------:|:------:|------------------------------|
+|Z|Simbolo|Nome|A|Gruppo|Periodo|Tipo|
+|-:|:-:|-|-:|:-:|:-:|-|
 |1|H|Idrogeno|1.008|1|1|Non metallo|
 |2|He|Elio|4.003|18|1|Gas nobile|
 |3|Li|Litio|6.94|1|2|Metallo alcalino|
@@ -3882,20 +3983,20 @@ Invece nel gruppo (dall'alto in basso) → energia di ionizzazione diminuisce.
 |55|Cs|Cesio|132.91|1|6|Metallo alcalino|
 |56|Ba|Bario|137.33|2|6|Metallo alcalino-terroso|
 |57|La|Lantanio|138.91|3|6|Lantanide|
-|58|Ce|Cerio|140.12|6|Lantanide|
-|59|Pr|Praseodimio|140.91|6|Lantanide|
-|60|Nd|Neodimio|144.24|6|Lantanide|
-|61|Pm|Promezio|145|6|Lantanide|
-|62|Sm|Samario|150.36|6|Lantanide|
-|63|Eu|Europio|151.96|6|Lantanide|
-|64|Gd|Gadolinio|157.25|6|Lantanide|
-|65|Tb|Terbio|158.93|6|Lantanide|
-|66|Dy|Disprosio|162.50|6|Lantanide|
-|67|Ho|Olmio|164.93|6|Lantanide|
-|68|Er|Erbio|167.26|6|Lantanide|
-|69|Tm|Tulio|168.93|6|Lantanide|
-|70|Yb|Itterbio|173.05|6|Lantanide|
-|71|Lu|Lutezio|174.97|6|Lantanide|
+|58|Ce|Cerio|140.12|6|Lantanide||
+|59|Pr|Praseodimio|140.91|6|Lantanide||
+|60|Nd|Neodimio|144.24|6|Lantanide||
+|61|Pm|Promezio|145|6|Lantanide||
+|62|Sm|Samario|150.36|6|Lantanide||
+|63|Eu|Europio|151.96|6|Lantanide||
+|64|Gd|Gadolinio|157.25|6|Lantanide||
+|65|Tb|Terbio|158.93|6|Lantanide||
+|66|Dy|Disprosio|162.50|6|Lantanide||
+|67|Ho|Olmio|164.93|6|Lantanide||
+|68|Er|Erbio|167.26|6|Lantanide||
+|69|Tm|Tulio|168.93|6|Lantanide||
+|70|Yb|Itterbio|173.05|6|Lantanide||
+|71|Lu|Lutezio|174.97|6|Lantanide||
 |72|Hf|Afnio|178.49|4|6|Metallo di transizione|
 |73|Ta|Tantalio|180.95|5|6|Metallo di transizione|
 |74|W|Tungsteno|183.84|6|6|Metallo di transizione|
@@ -3914,20 +4015,20 @@ Invece nel gruppo (dall'alto in basso) → energia di ionizzazione diminuisce.
 |87|Fr|Francio|223|1|7|Metallo alcalino|
 |88|Ra|Radio|226|2|7|Metallo alcalino-terroso|
 |89|Ac|Attinio|227|3|7|Attinide|
-|90|Th|Torio|232.04|7|Attinide|
-|91|Pa|Protoattinio|231.04|7|Attinide|
-|92|U|Uranio|238.03|7|Attinide|
-|93|Np|Nettunio|237|7|Attinide|
-|94|Pu|Plutonio|244|7|Attinide|
-|95|Am|Americio|243|7|Attinide|
-|96|Cm|Curio|247|7|Attinide|
-|97|Bk|Berkelio|247|7|Attinide|
-|98|Cf|Californio|251|7|Attinide|
-|99|Es|Einsteinio|252|7|Attinide|
-|100|Fm|Fermio|257|7|Attinide|
-|101|Md|Mendelevio|258|7|Attinide|
-|102|No|Nobelio|259|7|Attinide|
-|103|Lr|Laurenzio|266|7|Attinide|
+|90|Th|Torio|232.04|7|Attinide||
+|91|Pa|Protoattinio|231.04|7|Attinide||
+|92|U|Uranio|238.03|7|Attinide||
+|93|Np|Nettunio|237|7|Attinide||
+|94|Pu|Plutonio|244|7|Attinide||
+|95|Am|Americio|243|7|Attinide||
+|96|Cm|Curio|247|7|Attinide||
+|97|Bk|Berkelio|247|7|Attinide||
+|98|Cf|Californio|251|7|Attinide||
+|99|Es|Einsteinio|252|7|Attinide||
+|100|Fm|Fermio|257|7|Attinide||
+|101|Md|Mendelevio|258|7|Attinide||
+|102|No|Nobelio|259|7|Attinide||
+|103|Lr|Laurenzio|266|7|Attinide||
 |104|Rf|Rutherfordio|267|4|7|Metallo di transizione|
 |105|Db|Dubnio|268|5|7|Metallo di transizione|
 |106|Sg|Seaborgio|269|6|7|Metallo di transizione|
@@ -3947,7 +4048,7 @@ Invece nel gruppo (dall'alto in basso) → energia di ionizzazione diminuisce.
 ### PONTE A IDROGENO, DIPOLO, VAN DER WAALS
 
 L'ossigeno è uno degli elementi più elettronegativi della tavola periodica. Attira fortemente gli elettroni. H—O—H è molto polare.
-Lo zolfo è meno elettronegativo dell'ossigeno. La molecola H-S-H è ancora polare, ma molto meno. 
+Lo zolfo è meno elettronegativo dell'ossigeno. La molecola H-S-H è ancora polare, ma molto meno.
 
 Un ponte a idrogeno è una forza di attrazione molto forte che può formarsi quando un idrogeno è legato a:
 Fluoro (F)
@@ -3972,16 +4073,18 @@ Le forze di Van der Waals sono Forze intermolecolari (molto più deboli), tipo t
 
 ### ELETTRONEGATIVITÀ
 
-L'ELETTRONEGATIVITÀ è la tendenza di un atomo ad attrarre verso di sé gli elettroni condivisi in un legame chimico. 
+L'ELETTRONEGATIVITÀ è la tendenza di un atomo ad attrarre verso di sé gli elettroni condivisi in un legame chimico.
 Dipende principalmente da due fattori:
+
 1. Carica positiva del nucleo: Più protoni possiede il nucleo, maggiore è l'attrazione sugli elettroni.
 2. Distanza degli elettroni dal nucleo: Più gli elettroni sono lontani, meno vengono attratti.
 
 Nella Tavola degli Elementi aumenta andando da sinistra verso destra; aumenta andando dal basso verso l'alto. L'elemento più elettronegativo è il fluoro (F).
 L'elettronegatività è diversa da altre proprietà:
-- Affinità elettronica: energia liberata quando un atomo acquista un elettrone.
-- Energia di ionizzazione: energia necessaria per togliere un elettrone a un atomo.
-- Elettronegatività: capacità di attirare gli elettroni già condivisi in un legame chimico.
+
+* Affinità elettronica: energia liberata quando un atomo acquista un elettrone.
+* Energia di ionizzazione: energia necessaria per togliere un elettrone a un atomo.
+* Elettronegatività: capacità di attirare gli elettroni già condivisi in un legame chimico.
 
 ### RESPIRAZIONE CELLULARE
 
@@ -4016,7 +4119,7 @@ Gli elettroni attraversano numerose proteine della membrana mitocondriale.
 
 Alla fine vengono catturati dall'ossigeno.
 
-L'ossigeno si combina con: 
+L'ossigeno si combina con:
 elettroni
 protoni (H⁺)
 
@@ -4054,31 +4157,34 @@ La resa energetica è bassa (solo 2 ATP per molecola di glucosio), perché gran 
 
 Successivamente il lattato può:
 
-- essere riconvertito in piruvato e utilizzato come combustibile da muscoli e cuore quando l'ossigeno torna disponibile;
-- essere trasportato al fegato, dove viene riconvertito in glucosio tramite il ciclo di Cori.
+* essere riconvertito in piruvato e utilizzato come combustibile da muscoli e cuore quando l'ossigeno torna disponibile;
+* essere trasportato al fegato, dove viene riconvertito in glucosio tramite il ciclo di Cori.
+
 
 
 ** ENZIMI DELLA RESPIRAZIONE **
 
-- La catena respiratoria si trova nella membrana interna del mitocondrio. 
-- È composta da 5 complessi enzimatici.
+* La catena respiratoria si trova nella membrana interna del mitocondrio.
+* È composta da 5 complessi enzimatici.
 
-| Complesso | Enzima                      |
-| --------- | --------------------------- |
-| I         | NADH deidrogenasi           |
-| II        | Succinato deidrogenasi      |
-| III       | Complesso del citocromo bc₁ |
-| IV        | Citocromo c ossidasi        |
-| V         | ATP sintasi                 |
+|Complesso|Enzima|
+|-|-|
+|I|NADH deidrogenasi|
+|II|Succinato deidrogenasi|
+|III|Complesso del citocromo bc₁|
+|IV|Citocromo c ossidasi|
+|V|ATP sintasi|
 
 
-- I Complessi I, III e IV pompano protoni (H⁺).
-- Il Complesso II non pompa protoni.
-- Il coenzima Q e il citocromo c sono trasportatori mobili di elettroni, non enzimi.
-- L'ossigeno è l'accettore finale degli elettroni e viene ridotto ad acqua.
-- L'ATP sintasi (Complesso V) sfrutta il gradiente protonico per sintetizzare ATP.
+
+* I Complessi I, III e IV pompano protoni (H⁺).
+* Il Complesso II non pompa protoni.
+* Il coenzima Q e il citocromo c sono trasportatori mobili di elettroni, non enzimi.
+* L'ossigeno è l'accettore finale degli elettroni e viene ridotto ad acqua.
+* L'ATP sintasi (Complesso V) sfrutta il gradiente protonico per sintetizzare ATP.
 
 Un semplice trucco mnemonico
+
 ```
 I → riceve elettroni dal NADH
 II → riceve elettroni dal FADH₂
@@ -4099,20 +4205,21 @@ Questa fermentazione è usata per produrre:
 pane; birra; vino.
 
 
+
 ### VIRUS
 
 Non è una cellula: non possiede citoplasma, organelli, ribosomi o metabolismo proprio. È costituito da pochi elementi essenziali.
 La maggior parte dei virus può infettare una gamma ristretta di ospiti.
 
-1. Materiale genetico (genoma). 
+1. Materiale genetico (genoma).
 Può essere costituito da: DNA oppure RNA
 
 Il genoma può essere:
-- a singolo filamento (ssDNA o ssRNA)
-- a doppio filamento (dsDNA o dsRNA)
-- lineare o circolare
-- segmentato (diviso in più molecole)
 
+* a singolo filamento (ssDNA o ssRNA)
+* a doppio filamento (dsDNA o dsRNA)
+* lineare o circolare
+* segmentato (diviso in più molecole)
 2. Capside
 
 È il rivestimento proteico che circonda il materiale genetico.
@@ -4121,15 +4228,16 @@ Il genoma può essere:
 
 Funzioni:
 
-- protegge il genoma
-- dà forma al virus
-- aiuta il virus ad attaccarsi alle cellule
+* protegge il genoma
+* dà forma al virus
+* aiuta il virus ad attaccarsi alle cellule
 
 Le forme principali sono:
 
-- elicoidale
-- icosaedrica (simile a un poliedro con 20 facce)
-- complessa (come i batteriofagi)
+* elicoidale
+* icosaedrica (simile a un poliedro con 20 facce)
+* complessa (come i batteriofagi)
+
 
 
 3. Envelope (pericapside) – presente solo in alcuni virus
@@ -4159,9 +4267,9 @@ Sono "punte" proteiche che sporgono dalla superficie.
 
 Servono per:
 
-- riconoscere recettori specifici sulla cellula
-- agganciarsi alla cellula
-- permettere l'ingresso del virus
+* riconoscere recettori specifici sulla cellula
+* agganciarsi alla cellula
+* permettere l'ingresso del virus
 
 Sono spesso il bersaglio degli anticorpi.
 
@@ -4171,10 +4279,10 @@ Alcuni virus trasportano già enzimi indispensabili per infettare la cellula.
 
 Esempi:
 
-- trascrittasi inversa (nei retrovirus)
-- RNA-polimerasi RNA-dipendente (in molti virus a RNA)
-- proteasi
-- integrasi
+* trascrittasi inversa (nei retrovirus)
+* RNA-polimerasi RNA-dipendente (in molti virus a RNA)
+* proteasi
+* integrasi
 
 Questi enzimi permettono al virus di replicarsi una volta entrato nella cellula.
 
@@ -4182,79 +4290,85 @@ Strutture particolari dei batteriofagi
 
 I virus che infettano i batteri (batteriofagi) hanno una struttura più complessa:
 
-- testa (contenente il DNA)
-- collo
-- guaina contrattile
-- tubo centrale
-- piastra basale
-- fibre caudali
+* testa (contenente il DNA)
+* collo
+* guaina contrattile
+* tubo centrale
+* piastra basale
+* fibre caudali
 
 Le fibre riconoscono il batterio, mentre la coda inietta il DNA all'interno della cellula.
 
 ### CORDONE OMBELICALE
 
 Collega il feto alla placenta.
-- 2 arterie ombelicali, che portano sangue povero di ossigeno e ricco di scarti dal feto alla placenta
-- 1 vena ombelicale, che porta dalla placenta al feto sangue ricco di ossigeno e di nutrienti
-- una sostanza gelatinosa protettiva chiamata gelatina di Wharton, anch'essa ricca di cellule staminali.
+
+* 2 arterie ombelicali, che portano sangue povero di ossigeno e ricco di scarti dal feto alla placenta
+* 1 vena ombelicale, che porta dalla placenta al feto sangue ricco di ossigeno e di nutrienti
+* una sostanza gelatinosa protettiva chiamata gelatina di Wharton, anch'essa ricca di cellule staminali.
 
 Il cordone ombelicale e, soprattutto, il sangue che contiene sono quindi molto ricchi di cellule immature (cellule staminali)
 
 Le cellule staminali permettono di produrre continuamente:
-- globuli rossi;
-- globuli bianchi;
-- piastrine;
-- cellule del sistema immunitario.
+
+* globuli rossi;
+* globuli bianchi;
+* piastrine;
+* cellule del sistema immunitario.
 
 Contribuiscono anche alla crescita e alla riparazione dei tessuti durante lo sviluppo.
 
 Cellule staminali ematopoietiche: sono presenti nel sangue del cordone ombelicale.
 Producono tutte le cellule del sangue:
-- eritrociti (globuli rossi);
-- leucociti (globuli bianchi);
-- piastrine.
+
+* eritrociti (globuli rossi);
+* leucociti (globuli bianchi);
+* piastrine.
 
 Cellule staminali mesenchimali: sono presenti soprattutto nella gelatina di Wharton.
 Possono dare origine a:
-- osso;
-- cartilagine;
-- tessuto adiposo;
-- muscolo;
-- tessuto connettivo.
+
+* osso;
+* cartilagine;
+* tessuto adiposo;
+* muscolo;
+* tessuto connettivo.
 
 Queste cellule possono essere impiegate nel trattamento di diverse patologie, ad esempio:
 
-- alcune leucemie;
-- linfomi;
-- aplasie midollari;
-- immunodeficienze congenite;
-- alcune malattie genetiche del sangue.
+* alcune leucemie;
+* linfomi;
+* aplasie midollari;
+* immunodeficienze congenite;
+* alcune malattie genetiche del sangue.
 
 Sono una valida alternativa al trapianto di midollo osseo in molti casi.
 Rispetto alle cellule staminali dell'adulto:
 
-- sono più giovani;
-- si moltiplicano più facilmente;
-- hanno accumulato meno mutazioni;
-- provocano più raramente rigetto nei trapianti.
+* sono più giovani;
+* si moltiplicano più facilmente;
+* hanno accumulato meno mutazioni;
+* provocano più raramente rigetto nei trapianti.
+
 
 
 ### LOGARITMI
 
-log a (b) = x -> a^x = b 
+log a (b) = x -> a^x = b
 es. log 2 (8) = 3
 
 Moltiplicazione:
-log a (z x y) = log a (z) + log a (y) 
+log a (z x y) = log a (z) + log a (y)
 es. log 2 (8 x 4 ) = log 2 (8) + log 2 (4) = 3 + 2 = 5
 
 Divisione:
-log a (z / y) = log a (z) - log a (y) 
+log a (z / y) = log a (z) - log a (y)
 es. log 2 (8 / 4 ) = log 2 (8) - log 2 (4) = 3 - 2 = 1
 
 Potenza:
 log a ( x ^ n ) = n log a (x)
 es. log 4 (16) = 4 log 4 (2) = 4 1/2 = 1/2
+
 
 
 log a^m (a^n) = n/m
@@ -4270,11 +4384,12 @@ log a ( a ) = 1
 log a (b) = log (b) / log (a) = ln (a) / ln (b)
 
 
+
 ### EQUAZIONI DI SECONDO GRADO
 
 ax2 + bx + c = 0
 
-soluzioni: 
+soluzioni:
 
 x 1,2 = (- b +- sqrt(b^2 - 4ac) ) / 2a
 
@@ -4283,6 +4398,7 @@ teorema di Viète:
 x1 + x2 = - b/a
 
 x1 x x2 = c/a
+
 
 
 
@@ -4308,6 +4424,7 @@ L'IPERBOLE è un'esagerazione volontaria. (te l'ho detto 1000 volte)
 L'ANADIPLOSI consiste nel ripetere, all'inizio di una frase, l'ultima parola della frase precedente. "La paura genera odio. L'odio genera violenza."
 
 
+
 ### GONADI
 
 Gli organi riproduttivi primari, cioè gli organi che hanno due funzioni fondamentali:
@@ -4316,35 +4433,36 @@ producono gli ormoni sessuali.
 
 Sono i caratteri sessuali primari.
 
-| Sesso | Gonadi        | Producono gameti | Producono ormoni         |
-| ----- | ------------- | ---------------- | ------------------------ |
-| Uomo  | **Testicoli** | Spermatozoi      | Testosterone             |
-| Donna | **Ovaie**     | Ovociti (ovuli)  | Estrogeni e progesterone |
+|Sesso|Gonadi|Producono gameti|Producono ormoni|
+|-|-|-|-|
+|Uomo|**Testicoli**|Spermatozoi|Testosterone|
+|Donna|**Ovaie**|Ovociti (ovuli)|Estrogeni e progesterone|
+
 
 
 Nei testicoli, la produzione degli spermatozoi avviene nei tubuli seminiferi attraverso la meiosi.
 Ormoni: Le cellule di Leydig producono testosterone. Il testosterone è responsabile di:
 
-- sviluppo degli organi genitali;
-- crescita della barba;
-- voce più grave;
-- aumento della massa muscolare;
-- produzione degli spermatozoi.
+* sviluppo degli organi genitali;
+* crescita della barba;
+* voce più grave;
+* aumento della massa muscolare;
+* produzione degli spermatozoi.
 
 Le ovaie svolgono anch'esse due funzioni.
 
 Produzione degli ovociti. Attraverso la meiosi si formano gli ovociti (cellule uovo). Durante l'ovulazione uno di essi viene liberato.
 
-Produzione di ormoni: Le ovaie producono: 
+Produzione di ormoni: Le ovaie producono:
 estrogeni
 progesterone
 
 Questi ormoni regolano:
 
-- il ciclo mestruale;
-- lo sviluppo del seno;
-- la preparazione dell'utero alla gravidanza;
-- il mantenimento della gravidanza nelle fasi iniziali.
+* il ciclo mestruale;
+* lo sviluppo del seno;
+* la preparazione dell'utero alla gravidanza;
+* il mantenimento della gravidanza nelle fasi iniziali.
 
 Le gonadi appartengono al sistema endocrino perché rilasciano ormoni direttamente nel sangue.
 
@@ -4354,7 +4472,7 @@ organi riproduttivi;
 ghiandole endocrine.
 
 Funzione esocrina → producono e rilasciano i gameti attraverso i rispettivi dotti.
-Per esempio: 
+Per esempio:
 i testicoli liberano gli spermatozoi nei dotti genitali;
 le ovaie rilasciano l'ovocita nella tuba uterina durante l'ovulazione.
 
@@ -4363,11 +4481,13 @@ FSH (ormone follicolo-stimolante): stimola la formazione dei gameti.
 LH (ormone luteinizzante): stimola la produzione degli ormoni sessuali e, nella donna, induce l'ovulazione.
 
 
+
 I CARATTERI SESSUALI PRIMARI sono gli organi dell'apparato riproduttore presenti fin dalla nascita, direttamente coinvolti nella riproduzione. Sono chiamati primari perché sono essenziali per la funzione riproduttiva.
 
 UOMO testicoli (le gonadi), epididimi, dotti deferenti, vescicole seminali, prostata, pene, uretra (per la funzione riproduttiva)
 
 DONNA ovaie (le gonadi), tube di Falloppio, utero, cervice uterina, vagina, genitali esterni (vulva)
+
 
 
 I CARATTERI SESSUALI SECONDARI sono le caratteristiche che compaiono durante la pubertà grazie agli ormoni prodotti dalle gonadi.
@@ -4379,6 +4499,7 @@ Donna: sviluppo del seno; allargamento del bacino; distribuzione del grasso su f
 Questi non servono direttamente a produrre i gameti, ma distinguono i due sessi nell'aspetto e nella fisiologia.
 
 
+
 ANFIGONIA = fecondazione + unione del patrimonio genetico di due genitori. amphi = da entrambe le parti, gonia = generazione
 L'anfigonia permette: ✅ il rimescolamento dei geni dei due genitori; ✅ la variabilità genetica; ✅ una maggiore capacità della specie di adattarsi ai cambiamenti ambientali.
 
@@ -4388,18 +4509,18 @@ L'anfigonia permette: ✅ il rimescolamento dei geni dei due genitori; ✅ la va
 
 Le ossa sono organi viventi, non semplici strutture rigide. Sono costituite da diversi tipi di tessuto e svolgono molte funzioni:
 
-- sostengono il corpo;
-- proteggono organi vitali (cranio, gabbia toracica);
-- permettono il movimento insieme ai muscoli;
-- immagazzinano sali minerali, soprattutto calcio e fosforo;
-- ospitano il midollo osseo, che produce le cellule del sangue.
+* sostengono il corpo;
+* proteggono organi vitali (cranio, gabbia toracica);
+* permettono il movimento insieme ai muscoli;
+* immagazzinano sali minerali, soprattutto calcio e fosforo;
+* ospitano il midollo osseo, che produce le cellule del sangue.
 
 In un osso lungo (come il femore) distinguiamo:
 
-- Periostio: membrana esterna ricca di vasi sanguigni e nervi. Serve per nutrire l'osso e permette la crescita in spessore.
-- Osso compatto: strato duro e resistente.
-- Osso spugnoso: rete di sottili trabecole che rende l'osso leggero.
-- Midollo osseo:
+* Periostio: membrana esterna ricca di vasi sanguigni e nervi. Serve per nutrire l'osso e permette la crescita in spessore.
+* Osso compatto: strato duro e resistente.
+* Osso spugnoso: rete di sottili trabecole che rende l'osso leggero.
+* Midollo osseo:
 rosso → produce cellule del sangue;
 giallo → ricco di grasso.
 
@@ -4458,7 +4579,7 @@ Sono sottili e larghe.
 
 Esempi: Sterno, Scapola, molte ossa del Cranio.
 
-Sono costituite da: 
+Sono costituite da:
 
 uno strato di osso compatto;
 uno strato interno di osso spugnoso;
@@ -4478,21 +4599,21 @@ Le cellule dell'osso
 
 Sono quattro tipi principali:
 
-- Cellule osteoprogenitrici: cellule staminali che danno origine alle cellule ossee.
-- Osteoblasti: costruiscono nuovo osso producendo collagene e sostanza fondamentale.
-- Osteociti: osteoblasti maturi intrappolati nella matrice; mantengono vivo il tessuto osseo e ne regolano il rimodellamento.
-- Osteoclasti: grandi cellule che riassorbono l'osso vecchio, liberando calcio nel sangue.
+* Cellule osteoprogenitrici: cellule staminali che danno origine alle cellule ossee.
+* Osteoblasti: costruiscono nuovo osso producendo collagene e sostanza fondamentale.
+* Osteociti: osteoblasti maturi intrappolati nella matrice; mantengono vivo il tessuto osseo e ne regolano il rimodellamento.
+* Osteoclasti: grandi cellule che riassorbono l'osso vecchio, liberando calcio nel sangue.
 
 L'osso è quindi in continuo rimodellamento: gli osteoclasti eliminano il tessuto usurato e gli osteoblasti ne costruiscono di nuovo. Questo processo permette di riparare microfratture, adattarsi ai carichi e mantenere costante la quantità di calcio nell'organismo.
 
 Riassunto da ricordare
 
-- Lamelle ossee = sottili strati concentrici di tessuto osseo ricchi di collagene e sali minerali.
-- Osteone = unità fondamentale dell'osso compatto, formato da lamelle concentriche attorno a un canale con vasi e nervi.
-- Trabecole = sottili strutture che formano l'osso spugnoso.
-- Osso compatto = duro, denso e molto resistente.
-- Osso spugnoso = leggero, contiene il midollo osseo rosso.
-- Ossa piatte = due strati di osso compatto con uno strato centrale di osso spugnoso; proteggono gli organi e offrono ampia superficie per l'inserzione dei muscoli.
+* Lamelle ossee = sottili strati concentrici di tessuto osseo ricchi di collagene e sali minerali.
+* Osteone = unità fondamentale dell'osso compatto, formato da lamelle concentriche attorno a un canale con vasi e nervi.
+* Trabecole = sottili strutture che formano l'osso spugnoso.
+* Osso compatto = duro, denso e molto resistente.
+* Osso spugnoso = leggero, contiene il midollo osseo rosso.
+* Ossa piatte = due strati di osso compatto con uno strato centrale di osso spugnoso; proteggono gli organi e offrono ampia superficie per l'inserzione dei muscoli.
 
 ### GHIANDOLE ESOCRINE e ENDOCRINE
 
@@ -4502,7 +4623,7 @@ Il prodotto non entra nel sangue, ma raggiunge:  la superficie della pelle; la c
 ghiandole salivari → saliva, ghiandole sudoripare → sudore, ghiandole sebacee → sebo, ghiandole mammarie → latte, parte esocrina del pancreas → enzimi digestivi
 Producono: enzimi muco saliva latte sudore sebo
 
-2. Ghiandole endocrine: non possiedono dotti. 
+2. Ghiandole endocrine: non possiedono dotti.
 
 Gli ormoni vengono liberati direttamente nel sangue. Il sangue trasporta gli ormoni fino alle cellule bersaglio.
 
@@ -4526,7 +4647,7 @@ Le ghiandole surrenali si trovano sopra ciascun rene. Ogni ghiandola è composta
 
 1. CORTECCIA SURRENALE
 
-Produce:  aldosterone cortisolo androgeni 
+Produce:  aldosterone cortisolo androgeni
 
 Aldosterone ormone che regola: sodio potassio pressione arteriosa
 
@@ -4539,11 +4660,13 @@ Produce: adrenalina , noradrenalina
 Questi ormoni:  aumentano il battito cardiaco; aumentano la pressione; preparano alla risposta "attacco o fuga".
 
 
+
 LE GHIANDOLE VESTIBOLARI
 
 Con il termine ghiandole vestibolari si indicano generalmente le ghiandole vestibolari maggiori, note anche come ghiandole di Bartholin.
 Si trovano ai lati dell'apertura vaginale. Funzione: producono un liquido lubrificante; facilitano i rapporti sessuali.
 Esistono anche ghiandole vestibolari minori distribuite nel vestibolo della vagina.
+
 
 
 LE GHIANDOLE VESCICOLARI
@@ -4555,6 +4678,7 @@ Producono circa il 60–70% del liquido seminale.
 Il loro secreto contiene: fruttosio (nutrimento per gli spermatozoi), prostaglandine, proteine, sostanze alcaline
 
 Il liquido seminale si unisce poi agli spermatozoi e alle secrezioni della prostata.
+
 
 
 LA PROSTATA
@@ -4573,6 +4697,7 @@ Producono sebo, che protegge la pelle; impedisce l'eccessiva perdita di acqua; l
 Sono quasi sempre associate ai follicoli piliferi.
 
 
+
 LE GHIANDOLE SUDORIPARE
 
 Sono di due tipi.
@@ -4588,10 +4713,38 @@ Producono le lacrime.
 Le lacrime:  lubrificano l'occhio;  rimuovono polvere e detriti; contengono lisozima, un enzima con azione antibatterica.
 
 
+
 LE GHIANDOLE MAMMARIE
 
 Sono ghiandole esocrine modificate. Producono: colostro; latte.
 Il latte viene espulso attraverso i dotti galattofori fino al capezzolo.
+
+
+
+### RNA POLIMERASI
+
+La RNA polimerasi è l'enzima che sintetizza una molecola di RNA utilizzando un filamento di DNA come stampo. In altre parole, è la "macchina" che realizza la trascrizione, cioè il passaggio dell'informazione genetica da DNA → RNA.
+
+1. INIZIAZIONE La RNA polimerasi si lega a una particolare sequenza del DNA chiamata promotore, il quale indica:
+dove iniziare;
+quale filamento leggere;
+in quale direzione procedere.
+2. ALLUNGAMENTO L'enzima scorre lungo il DNA. Legge il filamento stampo in direzione: 3' → 5'
+e costruisce l'RNA in direzione: 5' → 3' aggiungendo un nucleotide alla volta.
+3. TERMINAZIONE Quando raggiunge una sequenza di terminazione, la RNA polimerasi:
+si stacca dal DNA;
+rilascia la molecola di RNA appena sintetizzata.
+
+RNA polimerasi I : Produce quasi tutti gli RNA ribosomiali (rRNA).
+RNA polimerasi II : È la più famosa. Produce:
+mRNA
+alcuni piccoli RNA regolatori (ad esempio alcuni snRNA e miRNA).
+
+RNA polimerasi III :  Produce:
+tRNA
+alcuni rRNA (come il 5S)
+altri piccoli RNA.
+
 
 
 ### DNA POLIMERASI
@@ -4608,7 +4761,7 @@ Prima legge di Mendel: LEGGE DELL'UNIFORMITÀ (O DOMINANZA)
 
 Incrociando due individui omozigoti con caratteri opposti, tutta la prima generazione (F1) è uguale.
 
-GG × gg  -> Tutti i figli sono: Gg 
+GG × gg  -> Tutti i figli sono: Gg
 
 Seconda legge di Mendel: LEGGE DELLA SEGREGAZIONE
 
@@ -4618,6 +4771,7 @@ Terza legge di Mendel: ASSORTIMENTO INDIPENDENTE
 
 Gli alleli di geni diversi si distribuiscono nei gameti indipendentemente l'uno dall'altro.
 Un individuo GgLl può produrre quattro tipi di gameti: GL Gl gL gl , tutti con uguale probabilità.
+
 
 
 ### EVOLUZIONE E SELEZIONE
@@ -4647,6 +4801,7 @@ L'EVOLUZIONE CONVERGENTE è un fenomeno per cui specie diverse, non strettamente
 
 
 
+
 ### MIELINA
 
 L'assone di molti neuroni è rivestito dalla guaina mielinica, prodotta:
@@ -4661,7 +4816,7 @@ L'impulso viene rigenerato in ciascun nodo: CONDUZIONE SALTATORIA, l'impulso ner
 
 Il CLOROPLASTO è un organulo presente nelle cellule vegetali e nelle alghe. La sua funzione è svolgere la fotosintesi clorofilliana.
 
-È circondato da due membrane. Dentro contiene un liquido chiamato STROMA. Dentro lo stroma troviamo: enzimi, DNA del cloroplasto, ribosomi, amido, i tilacoidi. 
+È circondato da due membrane. Dentro contiene un liquido chiamato STROMA. Dentro lo stroma troviamo: enzimi, DNA del cloroplasto, ribosomi, amido, i tilacoidi.
 
 I TILACOIDI sono piccoli sacchetti appiattiti costituiti da una membrana. Sembrano delle monetine. Molti tilacoidi vengono impilati uno sopra l'altro. Nella loro membrana si trovano: la clorofilla, i fotosistemi, la catena di trasporto degli elettroni, l'ATP sintasi.
 Qui avviene la fase luminosa della fotosintesi.
@@ -4690,7 +4845,7 @@ Se comprimi un gas: il volume diminuisce; la pressione aumenta. Legge di Boyle P
 La solubilità è la quantità di gas che riesce a sciogliersi in un liquido.
 Più aumenta la pressione del gas sopra un liquido, più gas si scioglie nel liquido. Legge di Henry
 
-L'ossigeno è poco solubile. Per questo nel sangue: 
+L'ossigeno è poco solubile. Per questo nel sangue:
 solo circa 1-2% dell'ossigeno è disciolto nel plasma;
 circa 98-99% è trasportato dall'emoglobina.
 
@@ -4705,10 +4860,11 @@ Formula: P tot = P1 + P2 + P3 +…   (legge di Dalton)
 
 PO2 ​= 760 × 0,21 ≈ 160mmHg ( il 21% dell'aria e' O2)
 
-Legge di Charles, Pressione costante 
+Legge di Charles, Pressione costante
 T1V1 = T2V2 	​
 Più aumenta la temperatura, più aumenta il volume.
 Legge di Gay-Lussac, Volume costante T1P1 = T2P2 Se aumenta la temperatura, aumenta la pressione.
+
 
 
 # POSTULATI DI KOCH
@@ -4716,11 +4872,8 @@ Legge di Gay-Lussac, Volume costante T1P1 = T2P2 Se aumenta la temperatura, aume
 I postulati di Koch sono quattro criteri formulati dal medico tedesco Robert Koch alla fine del XIX secolo per dimostrare che un determinato microrganismo è la causa di una specifica malattia infettiva.
 
 1. Il microrganismo deve essere presente in tutti gli individui malati. Invece, il batterio non dovrebbe essere presente negli individui sani.
-
 2. Il microrganismo deve essere isolato e coltivato. Bisogna prendere il microrganismo dal malato e farlo crescere in una coltura pura, cioè senza altri microorganismi.
-
 3. Il microrganismo deve causare la stessa malattia in un organismo sano. Il batterio coltivato viene introdotto in un organismo sano e suscettibile. Se è davvero il responsabile della malattia, anche il nuovo organismo dovrebbe sviluppare gli stessi sintomi.
-
 4. Il microrganismo deve essere nuovamente isolato. Infine bisogna recuperare il microrganismo dall'animale che si è ammalato. Se è identico a quello isolato inizialmente, si completa la dimostrazione.
 
 Robert Koch applicò questi postulati al batterio oggi noto come Mycobacterium tuberculosis.
@@ -4742,37 +4895,38 @@ una lunga catena di atomi di carbonio e idrogeno.
 
 CH3-(CH2)n-COOH ovvero COOH — C — C — C — C — C — C — CH3
 
-- SATURO significa che ogni atomo di carbonio è saturo di atomi di idrogeno, cioè tra i carboni ci sono solo legami semplici:
+* SATURO significa che ogni atomo di carbonio è saturo di atomi di idrogeno, cioè tra i carboni ci sono solo legami semplici:
 
-C—C—C—C—C . 
+C—C—C—C—C .
 
 Proprietà: catene dritte, si impacchettano molto bene, per questo motivo sono spesso solidi, come burro e strutto
 
 Esempio: Acido palmitico.
 
-- MONOINSATURO, esiste un solo doppio legame:
+* MONOINSATURO, esiste un solo doppio legame:
 
 C—C=C—C—C
 
 Esempio: Acido oleico (quello dell'olio d'oliva).
 
 
-- POLINSATURO due o più doppi legami:
+
+* POLINSATURO due o più doppi legami:
 
 C=C—C—C=C—C
 
 Esempi: Omega-3, Omega-6
 
-Il doppio legame crea una "piega" nella molecola: ////\////
+Il doppio legame crea una "piega" nella molecola: ////////
 Le molecole non riescono più a stare vicine. Per questo sono generalmente liquidi: oli vegetali, olio d'oliva
 
 Gli ACIDI GRASSI ESSENZIALI sono acidi grassi che il nostro organismo non è in grado di produrre da solo, oppure ne produce quantità insufficienti. Per questo motivo devono essere assunti con l'alimentazione:
 
-- Acido linoleico (Omega-6 18:2 (ω-6) CH3—C—C—C—C—C=C...) 18 atomi di carbonio 2 doppi legami, primo doppio legame a 6 atomi di carbonio dall'estremità omega (CH₃). Si trova in: olio di girasole, olio di mais, olio di soia, frutta secca, semi.
-
-- Acido α-linolenico (Omega-3 18:3 (ω-3) CH3—C—C=C—C—C—... ) 18 carboni, 3 doppi legami, primo doppio legame a 3 carboni dall'estremità omega. Si trova in: semi di lino, semi di chia, noci, olio di colza
+* Acido linoleico (Omega-6 18:2 (ω-6) CH3—C—C—C—C—C=C...) 18 atomi di carbonio 2 doppi legami, primo doppio legame a 6 atomi di carbonio dall'estremità omega (CH₃). Si trova in: olio di girasole, olio di mais, olio di soia, frutta secca, semi.
+* Acido α-linolenico (Omega-3 18:3 (ω-3) CH3—C—C=C—C—C—... ) 18 carboni, 3 doppi legami, primo doppio legame a 3 carboni dall'estremità omega. Si trova in: semi di lino, semi di chia, noci, olio di colza
 
 ### LIBRERIA GENOMICA e cDNA
+
 Una libreria genomica è una collezione di frammenti del DNA di un organismo, conservati in modo da poter essere studiati.
 
 Immagina di avere un libro di 3 miliardi di lettere (il genoma umano).
@@ -4808,10 +4962,11 @@ Il cDNA significa DNA complementare (complementary DNA).
 
 DNA -> trascrizione -> mRNA -> trascrittasi inversa -> cDNA
 
-L'enzima usato è la trascrittasi inversa, che compie il processo opposto alla trascrizione: invece di sintetizzare RNA dal DNA, sintetizza DNA a partire dall'RNA. 
+L'enzima usato è la trascrittasi inversa, che compie il processo opposto alla trascrizione: invece di sintetizzare RNA dal DNA, sintetizza DNA a partire dall'RNA.
 Se si produce il cDNA di tutti gli mRNA presenti in una cellula, si ottiene una libreria di cDNA.
 Questa libreria contiene solo i geni che erano espressi in quella cellula in quel momento.
 Il cDNA non contiene introni, quindi può essere inserito direttamente in batteri per produrre proteine umane (es. insulina).
+
 
 
 Le SEQUENZE INTERGENICHE sono i tratti di DNA situati tra un gene e il successivo. In altre parole, sono le regioni del genoma che non fanno parte di alcun gene. Per molti anni furono chiamate DNA spazzatura (junk DNA), ma oggi sappiamo che molte hanno funzioni fondamentali.
@@ -4830,6 +4985,7 @@ Possono contenere geni che producono: microRNA (miRNA), lncRNA (long non coding 
 Questi RNA non producono proteine ma regolano molti processi cellulari.
 
 
+
 ### TERATOGENO
 
 Il termine TERATOGENO indica qualsiasi agente capace di provocare malformazioni o alterazioni nello sviluppo dell'embrione o del feto durante la gravidanza.
@@ -4844,13 +5000,14 @@ differenziamento cellulare;
 formazione degli organi (organogenesi).
 
 Il periodo più delicato è tra la 3ª e l'8ª settimana di gravidanza, quando avviene l'organogenesi, cioè la formazione dei principali organi. Dalla 9ª settimana fino alla nascita: sono più frequenti alterazioni della crescita e dello sviluppo funzionale, soprattutto del sistema nervoso.
-Sono teratogeni: 
-- farmaci (talidomide, antitumorali, antiepilettici); 
-- alcol, che può provocare la sindrome alcolica fetale (FAS, ritardo della crescita; anomalie del volto; difficoltà cognitive e comportamentali; problemi di apprendimento.) 
-- droghe; ad esempio: cocaina; metanfetamine;
-- infezioni; alcune infezioni contratte in gravidanza possono essere teratogene, tra cui: virus della rosolia; Toxoplasma gondii (toxoplasmosi); citomegalovirus; virus Zika.
-- radiazioni; l'esposizione a elevate dosi di radiazioni ionizzanti (ad esempio raggi X ad alte dosi)
-- sostanze chimiche; ad esempio: piombo; mercurio; alcuni pesticidi; alcuni solventi industriali.
+Sono teratogeni:
+
+* farmaci (talidomide, antitumorali, antiepilettici);
+* alcol, che può provocare la sindrome alcolica fetale (FAS, ritardo della crescita; anomalie del volto; difficoltà cognitive e comportamentali; problemi di apprendimento.)
+* droghe; ad esempio: cocaina; metanfetamine;
+* infezioni; alcune infezioni contratte in gravidanza possono essere teratogene, tra cui: virus della rosolia; Toxoplasma gondii (toxoplasmosi); citomegalovirus; virus Zika.
+* radiazioni; l'esposizione a elevate dosi di radiazioni ionizzanti (ad esempio raggi X ad alte dosi)
+* sostanze chimiche; ad esempio: piombo; mercurio; alcuni pesticidi; alcuni solventi industriali.
 
 ### IPERBOLE PARABOLA ELLISSE
 
@@ -4866,6 +5023,7 @@ y=ax2+bx+c  asse verticale
 x=ay2+by+c asse orizzontale
 
 equazione di una parabola ad asse verticale con vertice in (h,k):  y = a(x−h)^2 + k
+
 
 
 ### MALATTIE AUTOIMMUNI
@@ -4884,12 +5042,13 @@ collagene
 ormoni
 
 Questi anticorpi provocano infiammazione e danni ai tessuti.
-Le cause sono: 
-1. Predisposizione genetica, 
+Le cause sono:
+
+1. Predisposizione genetica,
 2. Infezioni , alcuni virus o batteri possono "confondere" il sistema immunitario. Questo fenomeno si chiama mimetismo molecolare. Virus ha proteina molto simile a una proteina umana, il sistema immunitario attacca entrambe.
 3 Fattori ambientali.
 Possono contribuire: fumo, radiazioni UV, alcuni farmaci, sostanze chimiche, stress intenso (può influenzare il sistema immunitario, anche se da solo raramente è la causa)
-4. Fattori ormonali
+3. Fattori ormonali
 Molte malattie autoimmuni sono più frequenti nelle donne. Gli estrogeni sembrano influenzare la risposta immunitaria.
 
 Malattie autoimmuni SISTEMICHE: colpiscono molti organi. Esempi:
@@ -4900,22 +5059,23 @@ Sindrome di Sjögren
 
 Malattie autoimmuni ORGANO-SPECIFICHE: Attaccano un solo organo:
 
-| Organo          | Malattia                  |
-| --------------- | ------------------------- |
-| Tiroide         | Tiroidite di Hashimoto    |
-| Tiroide         | Malattia di Graves        |
-| Pancreas        | Diabete mellito di tipo 1 |
-| Sistema nervoso | Sclerosi multipla         |
-| Pelle           | Vitiligine                |
+|Organo|Malattia|
+|-|-|
+|Tiroide|Tiroidite di Hashimoto|
+|Tiroide|Malattia di Graves|
+|Pancreas|Diabete mellito di tipo 1|
+|Sistema nervoso|Sclerosi multipla|
+|Pelle|Vitiligine|
 
-| Autoanticorpo              | Bersaglio            | Malattia associata                |
-| -------------------------- | -------------------- | --------------------------------- |
-| ANA (anticorpi antinucleo) | Nucleo cellulare     | Lupus e altre malattie autoimmuni |
-| Anti-DNA                   | DNA                  | Lupus                             |
-| Anti-TPO                   | Enzima della tiroide | Tiroidite di Hashimoto            |
-| Anti-recettore del TSH     | Recettore del TSH    | Malattia di Graves                |
-| Anti-GAD                   | Enzima GAD           | Diabete di tipo 1                 |
-| Fattore reumatoide         | Immunoglobuline      | Artrite reumatoide                |
+|Autoanticorpo|Bersaglio|Malattia associata|
+|-|-|-|
+|ANA (anticorpi antinucleo)|Nucleo cellulare|Lupus e altre malattie autoimmuni|
+|Anti-DNA|DNA|Lupus|
+|Anti-TPO|Enzima della tiroide|Tiroidite di Hashimoto|
+|Anti-recettore del TSH|Recettore del TSH|Malattia di Graves|
+|Anti-GAD|Enzima GAD|Diabete di tipo 1|
+|Fattore reumatoide|Immunoglobuline|Artrite reumatoide|
+
 
 
 Anche i linfociti T autoreattivi possono causare danni, quindi non tutte le malattie autoimmuni sono dovute principalmente agli autoanticorpi.
@@ -4928,8 +5088,8 @@ Uniporto, simporto e antiporto sono i tre principali meccanismi con cui le prote
 
 Il uniporto trasporta una sola sostanza in una sola direzione.
 Esempio: trasportatore GLUT nelle cellule umane (trasporta solo glucosio).
-Può essere: 
-passivo (diffusione facilitata) 
+Può essere:
+passivo (diffusione facilitata)
 oppure attivo, se utilizza energia.
 
 2. Simporto
@@ -4975,12 +5135,10 @@ Proteine → Ammoniaca (NH₃) → Urina
 Vantaggi: Costa pochissima energia.
 Svantaggi: L'ammoniaca è molto tossica, deve essere diluita con tantissima acqua.
 Sono ammoniotelici soprattutto gli animali acquatici.
-
 2. Ureotelici: trasformano l'ammoniaca in urea CO(NH₂)₂ , che è molto meno tossica.
 Vantaggi: L'urea è poco tossica. Serve molta meno acqua rispetto all'ammoniaca.
 Svantaggi: per produrla bisogna spendere energia.
 Sono ureotelici: uomo, tutti i mammiferi, anfibi adulti, squali
-
 3. Uricotelici
 Trasformano l'ammoniaca in acido urico C₅H₄N₄O₃ .
 L'acido urico è pochissimo solubile e viene eliminato come una pasta bianca.
@@ -4990,6 +5148,7 @@ Sono uricotelici: uccelli, rettili, molti insetti
 
 Animali OMEOTERMI mantengono la temperatura corporea pressoché costante, indipendentemente dalla temperatura dell'ambiente.
 Gli animali PECILOTERMI (o, più correttamente, nella maggior parte dei casi, ECTOTERMI) hanno una temperatura corporea che varia con quella dell'ambiente.
+
 
 
 ### CHIMICA, VARIE
@@ -5011,7 +5170,38 @@ L'orbitale con il valore di n+l più piccolo ha energia minore e viene occupato 
 Se due orbitali hanno lo stesso valore di n+l, si riempie prima quello con n più piccolo.
 
 
-### LENTI E RIFRAZIONE 
+
+### BIOSEGNALAZIONE
+
+La biosegnalazione (o segnalazione cellulare, in inglese cell signaling) è il processo con cui le cellule comunicano tra loro o con l'ambiente circostante attraverso molecole chiamate segnali.
+
+Segnale → Recettore → Trasduzione del segnale → Risposta cellulare
+
+Una cellula produce un SEGNALE (ad esempio un ormone, un neurotrasmettitore, un fattore di crescita, una citochina). Il segnale raggiunge un'altra cellula.  La cellula bersaglio possiede un RECETTORE capace di riconoscere quel segnale; il recettore può essere sulla membrana plasmatica o all'interno della cellula. Il recettore trasmette il messaggio all'interno della cellula.
+La cellula risponde, ad esempio:
+
+* produce una proteina;
+* si divide;
+* si muove;
+* secerne una sostanza;
+* oppure smette di svolgere una certa attività.
+
+La biosegnalazione controlla praticamente tutto ciò che avviene nel nostro organismo:
+
+* crescita e sviluppo;
+* differenziamento cellulare;
+* metabolismo;
+* risposta immunitaria;
+* contrazione muscolare;
+* trasmissione degli impulsi nervosi;
+* guarigione delle ferite;
+* apoptosi.
+
+
+
+
+
+### LENTI E RIFRAZIONE
 
 **Rifrazione** : È la deviazione subita da un'onda (come la luce) quando passa da un mezzo materiale a un altro con una diversa densità ottica (ad esempio dall'aria al vetro, o dall'aria all'acqua). Il cambiamento di mezzo causa un cambio di velocità di propagazione della luce. Questo varia l'angolo del raggio luminoso secondo la **Legge di Snell**: n1 x sin(theta_1) = n_2 x sin(theta_2) con n1 e n2 gli indici di rifrazione dei due mezzi, e theta_1 theta_2 gli angoli di incidenza e rifrazione con la normale.
 
@@ -5025,12 +5215,13 @@ f = frequenza
 la velocità di propagazione è determinata dal mezzo
 
 
+
 ### CAPACITA TERMICA
 
 La **capacità termica** è la quantità di calore che bisogna fornire a un corpo per aumentare la sua temperatura di 1 °C (o 1 K). Si misura in J/K . La capacità termica C dipende dalla massa dell'oggetto e dal materiale di cui è fatto:
 C = m x c  dove:  m = massa (kg) c = calore specifico (J/kg·K)
 
-Il **calore specifico** non dipende dalla massa, ma solo dal materiale. 
+Il **calore specifico** non dipende dalla massa, ma solo dal materiale.
 
 calore Q = m x c x Delta(T) = C x Delta(T)
 
@@ -5043,6 +5234,7 @@ dati due insiemi S e N,  ∣S∪N∣ = ∣S∣ + ∣N∣ − ∣S∩N∣  ( stud
 ## DA RIVEDERE
 
 **1. Meiosi e contenuto di DNA:**
+
 > Se una cellula che in fase G1 contiene una quantità di DNA pari a x si divide per meiosi, quale sarà il contenuto di DNA di ogni singola cellula in profase II?
 
 *(Risposta: x — la meiosi I ha dimezzato i cromosomi ma in profase II ogni cromosoma ha ancora 2 cromatidi, quindi il contenuto è x)*
@@ -5073,9 +5265,11 @@ E) Fase luminosa della fotosintesi
 ---
 
 **3. Trapezio rettangolo con semicirconferenza inscritta:**
+
 > Sia ABCD un trapezio rettangolo circoscritto ad una semicirconferenza avente per diametro l'altezza AD. Quale delle seguenti relazioni è vera?
 
 **BC = AB + CD** ← risposta corretta
+
 
 
 Cinque persone (A, B, C, D, E) decidono di scambiarsi i regali di Natale di modo che ciascuno faccia
@@ -5085,12 +5279,11 @@ che riceve il regalo anche da B.
 Da chi riceve i regali E?
 
 
+
 ### REFERENZE
 
-- Mitosi https://it.wikipedia.org/wiki/Mitosi
-- Khan Academy – Phases of Meiosis: https://youtu.be/ijLc52LmFQg
-- Wikipedia – Ciclo di Krebs: https://it.wikipedia.org/wiki/Ciclo_di_Krebs
-- Preparazione al Test di Medicina https://www.youtube.com/@tdmedicina8369/videos
-
-
+* Mitosi https://it.wikipedia.org/wiki/Mitosi
+* Khan Academy – Phases of Meiosis: https://youtu.be/ijLc52LmFQg
+* Wikipedia – Ciclo di Krebs: https://it.wikipedia.org/wiki/Ciclo_di_Krebs
+* Preparazione al Test di Medicina https://www.youtube.com/@tdmedicina8369/videos
 
