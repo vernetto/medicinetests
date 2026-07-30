@@ -1144,6 +1144,16 @@ Sindrome di Down: 3 cromosomi 21. nasce da un errore casuale nella formazione de
 Morbo di Basedow, chiamato anche malattia di Graves, è una malattia autoimmune della tiroide. il sistema immunitario produce anticorpi che stimolano troppo la tiroide, come se imitassero il TSH. La tiroide quindi lavora eccessivamente e produce troppi ormoni tiroidei: T3 e T4. Il risultato è un ipertiroidismo.
 
 
+La **tossina botulinica** è una proteina altamente tossica prodotta dal batterio Clostridium botulinum. È considerata una delle sostanze più tossiche conosciute, ma in dosi estremamente piccole viene utilizzata come farmaco.
+La tossina botulinica blocca il rilascio di acetilcolina, il neurotrasmettitore che permette ai nervi di far contrarre i muscoli.
+L'intossicazione si chiama botulismo e provoca: 
+visione doppia;
+difficoltà a parlare e deglutire;
+debolezza muscolare;
+paralisi progressiva;
+nei casi gravi, paralisi dei muscoli respiratori.
+Il batterio può produrre la tossina in alimenti conservati male, soprattutto in assenza di ossigeno.
+La tossina viene distrutta dal calore: un'ebollizione di circa 10 minuti è generalmente sufficiente a inattivarla.
 
 
 
@@ -2657,6 +2667,8 @@ I polisaccaridi sono catene formate da tanti monosaccaridi uniti tra loro da leg
 
 ### Monosaccaridi, disaccaridi, polisaccaridi
 
+Carboidrati detti anche Glucidi o Saccaridi o Idrati di carbonio.
+
 **Monosaccaridi importanti:** glucosio, fruttosio, galattosio (isomeri, formula C₆H₁₂O₆, tutti esosi)
 
 Hanno molti gruppi ossidrile OH, per questo sono molto solubili in acqua, perchè OH forma legami a idrogeno con l'acqua.
@@ -2841,7 +2853,6 @@ NH₃ (ammoniaca, un idruro covalente dell'azoto)
 CH₄ (metano, un idruro del carbonio)
 
 
-
 Nel **legame dativo** entrambi gli elettroni della coppia condivisa provengono dallo stesso atomo (es. NH4)
 
 Il **LEGAME IONICO** è la forza di attrazione tra ioni di segno opposto nei composti ( e.g. Na+ Cl-). Allo stato solido il sale forma un reticolo cristallino: ogni ione Na⁺ è circondato da sei ioni Cl⁻, e ogni Cl⁻ da sei Na⁺. Il legame è di natura elettrostatica.
@@ -3024,10 +3035,12 @@ Esempi: ferro, rame, nichel, titanio, cromo.
 
 ---
 
-### Tavola periodica – Gruppi
+### Tavola periodica – Gruppi e Periodi
 
 Gruppo = colonna verticale. Gli elementi dello stesso gruppo hanno spesso proprietà chimiche simili, perché hanno lo stesso numero di elettroni di valenza, cioè gli elettroni più esterni. Le proprietà chimiche sono determinate dal numero atomico.
 Periodo = riga orizzontale. Gli elementi dello stesso periodo hanno gli elettroni distribuiti nello stesso numero di livelli energetici principali, cioè “gusci elettronici”
+
+Gli elementi dello stesso gruppo hanno lo stesso numero di elettroni di valenza e quindi proprietà chimiche simili.
 
 |Gruppo|Nome|
 |-|-|
@@ -3036,6 +3049,20 @@ Periodo = riga orizzontale. Gli elementi dello stesso periodo hanno gli elettron
 |3–12|Metalli di transizione|
 |17|Alogeni (ex VIIA)|
 |18|Gas nobili (ex VIIIA)|
+
+
+Gli elementi dello stesso periodo hanno lo stesso numero di livelli energetici (gusci elettronici) occupati.
+
+Periodo 1 → 2 elementi
+Periodo 2 → 8 elementi
+Periodo 3 → 8 elementi
+Periodo 4 → 18 elementi
+Periodo 5 → 18 elementi
+Periodo 6 → 32 elementi
+Periodo 7 → 32 elementi (non completamente riempito in natura)
+
+
+
 
 ---
 
@@ -3074,6 +3101,13 @@ L'energia di un orbitale dipende principalmente da:
 * Numero quantico principale (n) → è il fattore più importante.
 * Numero quantico secondario (l) → negli atomi con più di un elettrone diventa molto importante.
 * Carica del nucleo e schermatura dovuta agli altri elettroni.
+
+
+```
+A         12
+  X         C
+Z          6
+```
 
 Numero atomico Z = protoni
 Numero di massa A = protoni + neutroni
@@ -5441,6 +5475,7 @@ Scindono i disaccaridi in monosaccaridi.
 maltasi:  maltosio → glucosio + glucosio
 lattasi : lattosio → glucosio + galattosio
 saccarasi : saccarosio → glucosio + fruttosio
+
 
 
 ## DA RIVEDERE
