@@ -88,6 +88,9 @@ I **batteri** sono procarioti: privi di un nucleo ben definito. Il loro DNA non 
 
 I **procarioti** non fanno la mitosi. Non hanno un nucleo; non hanno cromosomi racchiusi da una membrana nucleare;
 possiedono generalmente un solo cromosoma circolare libero nel citoplasma (nella regione chiamata nucleoide). Si dividono mediante scissione binaria (o fissione binaria).
+Tutti i procarioti sono organismi unicellulari. Comprendono due grandi domini: Archaea (archei) e Bacteria (batteri).
+Gli eucarioti possono essere unicellulari (lieviti, protisti) o pluricellulari.
+
 
 ---
 
@@ -113,6 +116,43 @@ Esempi:
 * Passano con difficoltà: ioni, glucosio, molecole grandi o cariche.
 
 ---
+
+### COLESTEROLO
+
+Il colesterolo è una molecola lipidica appartenente alla famiglia degli steroli.
+È un lipide, cioè una sostanza grassa.
+La sua struttura è costituita da quattro anelli di carbonio fusi tra loro, tipici degli steroidi.
+
+```
+Colesterolo
+     │
+     ├── componente delle membrane cellulari
+     ├── precursore degli ormoni steroidei
+     ├── precursore della vitamina D
+     └── precursore degli acidi biliari
+```
+
+La **membrana cellulare** è formata principalmente da: fosfolipidi; proteine; colesterolo.
+Il colesterolo rende la membrana: più stabile; meno fragile; con la giusta fluidità.
+
+Dal colesterolo derivano: testosterone; estrogeni; progesterone; cortisolo; aldosterone.
+Quindi tutti gli **ormoni steroidei** nascono dal colesterolo.
+	 
+Nella pelle è presente un derivato del colesterolo. Quando arriva la luce UVB del Sole, questo derivato viene trasformato in **vitamina D**.
+
+Il fegato trasforma parte del colesterolo in: acido colico; acido chenodesossicolico. Gli **acidi biliari** servono per emulsionare i grassi durante la digestione.
+
+Ha 2 origini: alimentazione (carne, uova, latte, formaggi, burro) al 20-30% e produzione interna (fegato) al 70-80%.
+
+Il colesterolo non si scioglie nell'acqua. Per circolare nel sangue deve essere trasportato da particelle chiamate **lipoproteine**.
+
+LDL ("colesterolo cattivo") Low Density Lipoprotein: dal fegato ai tessuti. Se sono troppe, possono depositarsi nelle arterie formando placche aterosclerotiche (-> infarto, ictus, malattie cardiovascolari). Contengono relativamente più lipidi che proteine.
+HDL ("colesterolo buono") High Density Lipoprotein: dai tessuti al fegato. Recuperano il colesterolo in eccesso e lo riportano al fegato. Sono considerate protettive.
+
+In laboratorio, LDL e HDL si deteminano con enzimi che eliminano l'una o l'altra. Una volta di faceva di più con centrifugazione.
+Nel sangue ci sono anche VLDL che sono circa 1/5 dei trigliceridi: trasportano trigliceridi dal fegato ai tessuti, e i **chilomicroni**, che trasportano verso i tessuti (via linfa, sangue) i grassi assorbiti dall'intestino.
+Quando i trigliceridi arrivano ai muscoli, incontrano un enzima Lipoproteina lipasi (**LPL**) che rompe i trigliceridi in acidi grassi e glicerolo.
+
 
 ### Cromatina e cromosomi
 
@@ -152,6 +192,10 @@ Il DNA è una lunghissima catena di nucleotidi, ciascuno contenente una base azo
 Il ribosoma non legge una base alla volta; legge tre nucleotidi per volta -> il CODONE.
 Il ribosoma prende un codone e aggiunge un amminoacido. L'amminoacido non fa parte del DNA, ne é solo il prodotto finale.
 Il CODONE è una tripletta di nucleotidi sull'mRNA, e vengono letti dal ribosoma durante la TRADUZIONE. Sul DNA si parla piuttosto di TRIPLETTE.
+
+
+I TELOMERI sono delle sequenze ripetitive di DNA (TTAGGG) che si trovano alle estremità dei cromosomi. La loro funzione è proteggere il DNA durante la duplicazione cellulare. Puoi immaginarli come i cappucci di plastica alle estremità dei lacci delle scarpe: impediscono che il laccio si sfilacci. Allo stesso modo, i telomeri impediscono che le estremità dei cromosomi vengano danneggiate o fuse tra loro.
+
 
 ---
 
@@ -619,6 +663,17 @@ Grazie al crossing over e all'assortimento indipendente (il modo del tutto casua
 
 Se i cromosomi non si separano correttamente durante le fasi di anafase, questo errore prende il nome di **non-disgiunzione**. I gameti risultanti possono contenere troppi o troppo pochi cromosomi, una condizione che è alla base di diverse anomalie genetiche.
 
+
+La **ricombinazione** (o ricombinazione genetica) è il processo con cui il materiale genetico viene rimescolato, creando nuove combinazioni di geni.
+È uno dei motivi per cui fratelli e sorelle si assomigliano, ma non sono identici (tranne i gemelli monozigoti).
+La ricombinazione avviene durante la meiosi, cioè la divisione cellulare che produce i gameti (ovuli e spermatozoi).
+In particolare durante la profase I.
+Durante la meiosi, ogni cromosoma si affianca al suo cromosoma omologo.
+cromosoma 1 ereditato dalla madre;
+cromosoma 1 ereditato dal padre.
+I due cromosomi si appaiano e possono scambiarsi dei pezzi di DNA.
+Il crossing-over è uno dei modi in cui avviene la ricombinazione.
+
 ---
 
 ### Differenza fondamentale tra mitosi e meiosi
@@ -743,6 +798,12 @@ Causata da una mutazione nella catena beta dell'emoglobina.
 `Regno → Phylum → Classe → Ordine → Famiglia → Genere → Specie`
 
 **Mnemonica:** Re Filippo Correva Oggi Facendo Grandi Salti
+
+Quando vedi un nome scientifico scritto in corsivo con due parole: Macaca silenus, la prima parola è il genere (Macaca) e la seconda un epiteto specifico, e insieme designano la specie.
+
+Acari e zecche sono della classe degli ARACNIDI.
+
+
 
 ---
 
@@ -1268,7 +1329,7 @@ Un virus spesso si nasconde dentro le cellule. L'anticorpo può bloccare il viru
 
 Il linfocita T non riconosce di solito l'antigene libero così com'è. Ha bisogno che una cellula glielo presenti tramite molecole chiamate **MHC**.
 
-**MHC I:** Presente su quasi tutte le cellule nucleate. Dice: "Guarda cosa sto producendo dentro di me". Se una cellula è infettata da un virus, presenterà pezzi virali su MHC I. I linfociti **T citotossici** controllano MHC I.
+**MHC I:** Presente su quasi tutte le cellule nucleate - non sugli eritrociti. Dice: "Guarda cosa sto producendo dentro di me". Se una cellula è infettata da un virus, presenterà pezzi virali su MHC I. I linfociti **T citotossici** controllano MHC I.
 
 **MHC II:** Presente soprattutto sulle cellule presentanti l'antigene (macrofagi, cellule dendritiche, linfociti B). Serve a presentare antigeni ai **T helper**.
 
@@ -1598,6 +1659,8 @@ Nel plasma sono sospesi: globuli rossi, globuli bianchi, piastrine.
 
 **Coagulazione:**
 
+Le piastrine (o trombociti) sono piccoli frammenti cellulari presenti nel sangue che hanno il compito principale di fermare le emorragie. Le piastrine sono prodotte nel midollo osseo a partire da cellule giganti chiamate megacariociti.
+
 * Il **fibrinogeno** è una proteina del plasma fondamentale per la coagulazione.
 * L'enzima che trasforma il fibrinogeno in **fibrina** si chiama **trombina**.
 * La fibrina forma una rete di fili, che intrappola globuli rossi, piastrine e altre cellule del sangue → si forma il coagulo.
@@ -1617,9 +1680,6 @@ Le soluzioni fisiologiche (ad esempio NaCl 0,9%) hanno un'osmolarità molto vici
 
 *Osmole:* Una osmole è una quantità di sostanza che corrisponde a 1 mole di particelle osmoticamente attive. In biologia si usa quasi sempre mOsm/L.
 
-**Emoglobina:** = 2 catene proteiche α + 2 catene β, 4 gruppi eme. Al centro di ogni gruppo eme c'è uno ione: Fe2+. Il ferro lega una molecola di ossigeno. Quindi una molecola di emoglobina può trasportare fino a: 4 molecole di O2
-​
-La bilirubina è un prodotto del catabolismo dell'emoglobina.
 
 
 
@@ -1866,6 +1926,13 @@ Dentro ogni villo ci sono:
 * un **vaso chilifero** (i grassi entrano qui e nei vasi linfatici)
 
 ---
+
+Gli enterociti sono le principali cellule dell'epitelio dell'intestino tenue. La loro funzione è assorbire i nutrienti derivati dalla digestione e trasferirli al sangue o alla linfa.
+I microvilli ricoprono la superficie di ogni enterocita e formano il cosiddetto orletto a spazzola (brush border).
+Gli acidi grassi e i monogliceridi entrano negli enterociti, dove vengono ricostruiti in trigliceridi. Poi gli enterociti li impacchettano in chilomicroni. Producono anche enzimi che terminano la digestione sulla superficie stessa dell'enterocita.
+Vivono circa 3-5 giorni. Le cellule vengono continuamente sostituite. Le nuove cellule nascono nelle cripte di Lieberkühn.
+Gli enterociti sono collegati tra loro da giunzioni strette (tight junctions). Queste giunzioni impediscono ai batteri e a molte sostanze indesiderate di passare liberamente tra una cellula e l'altra. In questo modo l'intestino funziona come una barriera selettiva: lascia passare i nutrienti, ma ostacola il passaggio di molti microrganismi e tossine.
+
 
 ### Intestino crasso
 
@@ -2131,6 +2198,7 @@ Occhi        lingua, tiroide,
              cuoio capelluto
 ```
 
+La circolazione doppia e completa compare per la prima volta negli uccelli.
 
 
 ---
@@ -2606,6 +2674,7 @@ Classificazione per numero di carboni:
 * **fruttosio**: chetoesoso (gruppo C=O chetonico)
 
 **Disaccaridi:** saccarosio (gluc+frut), lattosio (gluc+gal), maltosio (gluc+gluc)
+la reazione Glucosio + galattosio → lattosio avviene con condensazione (o sintesi per disidratazione), si perde una molecola di H2O, si forma un legame glicosidico
 
 **Polisaccaridi:** amido, glicogeno, cellulosa, amilosio
 
@@ -2678,6 +2747,10 @@ A pH fisiologico (~7), gli amminoacidi stanno nella forma ionica **zwitterione**
 `⁺NH₃–CH(R)–COO⁻`
 
 Quasi tutti gli α-amminoacidi sono **chirali** (il carbonio α è legato a quattro gruppi diversi). Eccezione importante: **glicina** (R=H).
+
+Una molecola è CHIRALE quando non è sovrapponibile alla sua immagine allo specchio, proprio come la mano destra e la mano sinistra.
+Nella maggior parte dei casi dipende dalla presenza di un carbonio chirale (o carbonio asimmetrico), cioè un carbonio legato a quattro sostituenti diversi.
+
 
 Gruppi laterali aromatici: **Fenilalanina, Tirosina, Triptofano**
 
@@ -2760,7 +2833,18 @@ Ione idronio H₃O⁺
 
 "uro" sono anioni (cloruro Cl-, bromuro Br-, Ioduro I-, Idruro H-)
 
-Il **LEGAME IONICO** è la forza di attrazione tra ioni di segno opposto nei composti ( e.g. Na+ Cl-). Allo stato solido il sale forma un reticolo cristallino: ogni ione Na⁺ è circondato da sei ioni Cl⁻, e ogni Cl⁻ da sei Na⁺.
+Esempi di idruri: 
+NaH (idruro di sodio)
+CaH₂ (idruro di calcio)
+LiH (idruro di litio)
+NH₃ (ammoniaca, un idruro covalente dell'azoto)
+CH₄ (metano, un idruro del carbonio)
+
+
+
+Nel **legame dativo** entrambi gli elettroni della coppia condivisa provengono dallo stesso atomo (es. NH4)
+
+Il **LEGAME IONICO** è la forza di attrazione tra ioni di segno opposto nei composti ( e.g. Na+ Cl-). Allo stato solido il sale forma un reticolo cristallino: ogni ione Na⁺ è circondato da sei ioni Cl⁻, e ogni Cl⁻ da sei Na⁺. Il legame è di natura elettrostatica.
 Nel legame covalente gli atomi condividono gli elettroni (H2, O2, H₂O, CH₄, CO₂ ). Nel legame ionico, invece, gli elettroni vengono trasferiti da un atomo all'altro.
 
 ---
@@ -2823,6 +2907,12 @@ A 25°C: **Kw = 10⁻¹⁴**
 . `H₂O + H⁺ → H₃O⁺` (H2O agisce da base)
 
 **Sistema tampone del sangue:**
+
+Una soluzione tampone è una soluzione che ha una proprietà molto importante: 
+resiste alle variazioni di pH quando vengono aggiunte piccole quantità di acido o di base.
+In altre parole, il suo pH rimane quasi costante.
+E' fatta da un acido debole e la sua base coniugata (CH3COOH/CH3COONa), oppure da una base debole e il suo acido coniugato (NH3/NH4Cl).
+
 Il pH normale del sangue è: 7,35 - 7,45
 Se scende sotto 7,35 si parla di acidosi. Se sale sopra 7,45 si parla di alcalosi.
 
@@ -2832,6 +2922,7 @@ Se nel sangue arrivano molti H⁺, il pH tende a diminuire, allora gli ioni H⁺
 L'acido carbonico è instabile. Si trasforma in: H₂CO₃​ → CO₂ + H₂O e la CO₂ viene eliminata con la respirazione.
 Viceversa se il sangue diventra troppo basico H₂CO₃ -> H⁺ + HCO₃⁻ .
 Se il sangue e' acido, la respirazione accelera; se troppo basico, rallenta.
+
 
 Un acido DIPROTICO può fornire 2 H⁺ per molecola (es. H₂SO₄)
 Un acido é detto POLIPROTICO quando in acqua puô cedere più di un protone al solvente.
@@ -2848,6 +2939,8 @@ Lo stesso principio viene sfruttato per conservare alcuni alimenti con molto sal
 
 L'acqua ha pH 7 solo a 25 gradi, a 50 il pH vale 6.6 ma l'acqua resta neutra perchè [H+] = [OH−] ,
 questo perchè la dissociazione dell'acqua è una reazione endotermica, quindi l'equilibrio si sposta verso destra all'aumentare della T H2​O ⇌ H+ + OH−
+
+
 
 
 
@@ -2984,9 +3077,9 @@ L'energia di un orbitale dipende principalmente da:
 
 Numero atomico Z = protoni
 Numero di massa A = protoni + neutroni
-Massa atomica relativa (aka peso atomico) = è la media pesata delle masse degli isotopi naturali. è un rapporto.
+Massa atomica relativa (aka peso atomico) = è la media pesata delle masse degli isotopi naturali. è un rapporto, l'unità di riferimento è 1/12 della massa dell'isotopo carbonio-12.
 Massa molecolare relativa (aka peso molecolare) = la somma dei pesi atomici di tutti gli atomi costituenti una molecola
-
+Massa molare è la massa di una mole di sostanza, in g/mol : 1 mole di carbonio pesa 12,01 g, quindi la sua massa molare è 12,01 g/mol
 
 
 Un ISOTOPO è un elemento con stesso numero atomico (protoni) ma diverso numero di neutroni (Idrogeno 1 protone 0 neutroni, Deuterio = idrogeno con 1 protone e 1 neutrone, Trizio = idrogeno con 1 protone e 2 neutroni), quindi diverso numero di massa.
@@ -3063,7 +3156,7 @@ L'acqua può coesistere contemporaneamente nei tre stati solido, liquido e aerif
 |Avogadro|Numero di Avogadro; volumi uguali di gas diversi, nelle stesse condizioni di temperatura e di|
 |pressione, contengono lo stesso numero di molecole 6,022 x 10^23||
 |Charles|Legge dei gas: volume e temperatura|
-|Proust (proporzioni definite)|formulata da Joseph Louis Proust|
+|Proust (proporzioni definite)|formulata da Joseph Louis Proust: Un composto chimico puro è sempre formato dagli stessi elementi, combinati tra loro secondo rapporti di massa fissi e costanti, indipendentemente dall'origine del composto o dal metodo con cui è stato preparato.|
 
 ---
 
@@ -3118,8 +3211,11 @@ L'energia interna di un gas perfetto è la somma delle energie cinetiche delle d
 
 ### Geometria e algebra
 
-* Area cerchio: A = πr² | Circonferenza: C = 2πr
+* Volume sfera: 4/3 πr^3 Area cerchio: A = πr² | Circonferenza: C = 2πr
 * a^(1/n) = radice n-esima di a
+* a^(-n) = 1/(a^n)
+* a^m ⋅ a^n = a^(m+n)
+* (a^m)^n = a ^ (m ⋅ n)
 * **Distanza punto–retta:** se il punto è P = (x₀, y₀), la retta è ax+by+c=0:
 `d = |a·x₀ + b·y₀ + c| / √(a² + b²)`
 
@@ -3485,6 +3581,13 @@ Mioglobina → proteina muscolare che lega ossigeno
 Lisozima → enzima antibatterico
 Fibrinogeno → proteina del sangue coinvolta nella coagulazione
 
+La **mioglobina** è una proteina che immagazzina e rilascia ossigeno nei muscoli. Il suo compito principale è fare da "riserva" di ossigeno, in modo che le cellule muscolari possano continuare a produrre energia anche quando l'apporto di ossigeno dal sangue diminuisce temporaneamente.
+È costituita da una sola catena proteica (a differenza dell'emoglobina, che ne ha quattro).
+Contiene un gruppo eme, al cui centro si trova un atomo di ferro (Fe²⁺).
+È proprio il ferro che lega una molecola di ossigeno (O₂).
+
+**Emoglobina:** = 2 catene proteiche α + 2 catene β, 4 gruppi eme. Al centro di ogni gruppo eme c'è uno ione: Fe2+. Il ferro lega una molecola di ossigeno. Quindi una molecola di emoglobina può trasportare fino a: 4 molecole di O2. 
+​La bilirubina è un prodotto del catabolismo dell'emoglobina.
 
 
 
@@ -3584,8 +3687,18 @@ Quando lato maggiore² < b² + c²  → triangolo ACUTANGOLO
 Quando lato maggiore² = b² + c²  → triangolo rettangolo
 Un triangolo è ISOSCELE quando ha almeno due lati uguali.
 
+Il CIRCOCENTRO è il punto in cui si incontrano gli assi dei lati del triangolo.
+Asse è la retta perpendicolare al lato che passa per il suo punto medio.
+Una circonferenza che passa esattamente per tutti e tre i vertici del triangolo.
+Il centro della circonferenza è proprio il circocentro.
+Il circocentro è equidistante dai tre vertici.
+In un triangolo rettangolo, il circocentro è il punto medio dell'ipotenusa.
+
+
 terza legge di Keplero sul periodo di un'orbita: T² ∝ R³
 
+
+### TESSUTO SISTEMA APPARATO
 
 
 Un TESSUTO è un insieme organizzato/integrato di cellule simili, specializzate nella stessa funzione.
@@ -3868,6 +3981,9 @@ Al contrario, cellule con un basso fabbisogno energetico ne possiedono meno.
 
 Il modello di Bohr (1913). Bohr immaginava gli elettroni come pianeti che girano attorno al Sole. L'elettrone percorreva una orbita precisa, circolare.
 
+Thomson (1904) immaginava gli elettroni distribuiti all’interno di una massa sferica di carica positiva, noto anche come modello “a
+panettone”.
+
 Con la meccanica quantistica si è scoperto che:
 
 * l'elettrone non percorre una traiettoria precisa;
@@ -3878,6 +3994,29 @@ Questa regione si chiama orbitale atomico. Un orbitale è quindi una "nuvola di 
 La funzione d'onda è una formula matematica di Erwin Schrödinger (indicata con la lettera greca ψ, psi: ψ(x,y,z,t)) che descrive completamente lo stato di una particella. Essa non dice dove si trova l'elettrone, ma permette di calcolare la probabilità di trovarlo in ogni punto dello spazio.
 ψ da sola non è una probabilità. Per ottenere una probabilità bisogna fare il quadrato del suo modulo: ∣ψ∣2
 
+
+### ORBITALI, IBRIDAZIONE, LEGAMI σ e π
+Per il carbonio gli orbitali di valenza sono:
+un orbitale 2s
+tre orbitali 2p
+Gli orbitali s sono sferici. Gli orbitali p hanno invece due lobi.
+I tre orbitali p sono orientati in tre direzioni perpendicolari.
+Ibridazione : 1 s + 3 p danno 4 orbitali sp³, che si dispongono a tetraedro, con angolo 109.5 gradi.
+Metano CH4: il carbonio forma 4 legami σ.
+Se 1 s e 2 p si mescolano, ottengo sp2. Gli sp2 stanno sullo stesso piano, a 120 gradi, geometria triangolare planare, 
+Se 1 s e 1 p si mescolano, ottengo sp. Geometria 180 gradi, lineare: H—C≡C—H acetilene.
+
+Il legame sigma σ nasce quando due orbitali si sovrappongono frontalmente. legame forte e stabile, permette la rotazione.
+H—H e C-H e C-C sono a legame σ. 
+Il legame π nasce dalla sovrapposizione laterale di due orbitali p. La densità elettronica non è sulla linea dei nuclei. È sopra e sotto. π è più debole del legame σ.
+Un doppio legame è formato da σ + π , come in C=C.
+Il legame triplo C≡C è formato da σ + π + π. In acetilene H—C≡C—H abbiamo 3 sigma e 2 pi.
+
+| Ibridazione del C | Orbitali ottenuti | Geometria           | Angolo     | Rappresentazione del legame | Composizione del legame | Esempio   |
+| ----------------- | ----------------- | ------------------- | ---------- | --------------------------- | ----------------------- | --------- |
+| **sp³**           | 4 sp³             | Tetraedrica         | **109,5°** | **C—C** (legame singolo)    | **1 σ**                 | CH₄, C₂H₆ |
+| **sp²**           | 3 sp² + 1 p       | Triangolare planare | **120°**   | **C=C** (legame doppio)     | **1 σ + 1 π**           | C₂H₄      |
+| **sp**            | 2 sp + 2 p        | Lineare             | **180°**   | **C≡C** (legame triplo)     | **1 σ + 2 π**           | C₂H₂      |
 
 
 ### RADIAZIONE ALFA
@@ -4209,7 +4348,7 @@ pane; birra; vino.
 ### VIRUS
 
 Non è una cellula: non possiede citoplasma, organelli, ribosomi o metabolismo proprio. È costituito da pochi elementi essenziali.
-La maggior parte dei virus può infettare una gamma ristretta di ospiti.
+La maggior parte dei virus può infettare una gamma ristretta di ospiti. Possono infettare cellule animali vegetali batteri e archei.
 
 1. Materiale genetico (genoma).
 Può essere costituito da: DNA oppure RNA
@@ -4792,7 +4931,9 @@ Non esistono semi di dimensioni intermedie. Di conseguenza:
 ❌ gli uccelli con becco medio sono poco efficienti con entrambi i tipi di semi.
 
 La selezione naturale favorisce quindi i due estremi.
-La selezione divergente può favorire la comparsa di due popolazioni sempre più diverse, è quindi considerata uno dei meccanismi che possono contribuire alla speciazione.
+La selezione divergente può favorire la comparsa di due popolazioni sempre più diverse, è quindi considerata uno dei meccanismi che possono contribuire alla speciazione. Selezione è diverso da speciazione: nella selezione, individui diversi possono ancora accoppiarsi fra loro, nella speciazione no.
+
+La speciazione ALLOPATRICA è la formazione di una nuova specie a partire da una popolazione che viene separata geograficamente.
 
 EVOLUZIONE DIVERGENTE: Una specie ancestrale dà origine a specie diverse che, adattandosi ad ambienti differenti, diventano sempre più diverse. Un antenato comune dei mammiferi possedeva un arto anteriore. Nel tempo quell'arto è diventato: mano nell'uomo; ala nel pipistrello; pinna nella balena; zampa nel cavallo.
 
@@ -5025,6 +5166,14 @@ x=ay2+by+c asse orizzontale
 equazione di una parabola ad asse verticale con vertice in (h,k):  y = a(x−h)^2 + k
 
 
+### PRODOTTO SCALARE E VETTORIALE
+
+Prodotto scalare u⋅v = ∣u∣∣v∣cosθ
+Prodotto vettoriale u×v, che ha direzione perpendicolare al piano individuato da u e v;
+verso dato dalla regola della mano destra; modulo ∣u×v∣ = ∣u∣∣v∣sinθ
+
+
+
 
 ### MALATTIE AUTOIMMUNI
 
@@ -5230,6 +5379,69 @@ calore Q = m x c x Delta(T) = C x Delta(T)
 dati due insiemi S e N,  ∣S∪N∣ = ∣S∣ + ∣N∣ − ∣S∩N∣  ( studenti totali = studenti spagnolo + studenti nuoto - studenti spagnolo&nuoto )
 
 
+### SIMBIONTI
+
+Simbionti sono organismi che vivono in una relazione stretta e duratura con un altro organismo, chiamata simbiosi.
+La parola non implica automaticamente che entrambi ne traggano beneficio:
+1. MUTUALISMO: entrambi traggono vantaggio (api-fiori, batteri dell'intestino umano)
+2. COMMENSALISMO: uno solo trae vantaggio (remore-squali)
+3. PARASSITISMO: uno trae vantaggio, l'altro subisce danno (zecca-cane)
+
+
+### LAVORO E FORZA
+
+L = F x s  lavoro = forza per spostamento, 
+la forza è misurata in Newton 1 N = 1 Kg x m / s^2 
+il lavoro è misurato in Joule 1 J = 1 N x m
+
+energia cinetica = 1/2 m v^2 in Joule
+
+energia potenziale gravitazionale Ep ​= mgh
+
+F=ma a=dv​/dt dv/dt=dv/dx dx/dt = v dv/dx  -> F = mv dv/dx -> Fdx = mv dv -> L = integrale di mvdv = 1/2 m v^2
+
+### Campo elettrico di un piano infinito
+
+Per un piano infinito con densità superficiale di carica positiva +σ:
+E= σ / 2ε0
+
+La cosa importante è che: il campo elettrico NON dipende dalla distanza dal piano.
+Quindi, se A è a distanza d e B a distanza 2d, EA = EB
+
+### MOMENTO di una forza
+
+Il momento di una forza (o torque) misura la capacità di una forza di far ruotare un corpo attorno a un punto o a un asse.
+
+M = F d sin(θ) 
+M = momento della forza ( N x m )
+F = forza applicata (N)
+d = dispanza fra il punto O (fulcro) e il punto P dove è applicata la forza
+θ = angolo fra la forza e il segmento OP
+
+O è il fulcro, cioè il punto attorno al quale il corpo potrebbe ruotare.
+La forza è applicata in P;
+il corpo può ruotare attorno a O.
+
+
+### SVILUPPO EMBRIONALE
+
+Fecondazione , Zigote (1 cellula) , Morula (pallina di cellule), Blastula (si forma una cavità - il blastocele - piena di liquido), (gastrulazione) Gastrula
+Nella gastrula compaiono Ectoderma Mesoderma Endoderma
+
+Ectoderma -> pelle sistema nervoso capelli unghie
+Mesoderma -> muscoli ossa cuore sangue reni
+Endoderma -> apparato digerente fegato pancreas polmoni (epitelio)
+
+### SUCCO ENTERICO
+
+Il succo enterico è il liquido prodotto dalla mucosa dell'intestino tenue, soprattutto dalle ghiandole intestinali (cripte di Lieberkühn).
+La sua funzione principale è completare la digestione del cibo e facilitare l'assorbimento dei nutrienti.
+Contiene enzimi per la Disaccaridasi
+Scindono i disaccaridi in monosaccaridi.
+maltasi:  maltosio → glucosio + glucosio
+lattasi : lattosio → glucosio + galattosio
+saccarasi : saccarosio → glucosio + fruttosio
+
 
 ## DA RIVEDERE
 
@@ -5277,6 +5489,11 @@ un regalo a due persone e ne riceva da altre due persone. A fa un regalo a B e C
 e a una delle due persone che ricevono il regalo anche da E; C fa un regalo a D e alla stessa persona
 che riceve il regalo anche da B.
 Da chi riceve i regali E?
+
+
+Un oggetto di massa m = 2 kg è soggetto a un forza, misurata in newton, variabile in
+relazione allo spazio secondo la legge F(x) = 4x + 8; se l’oggetto percorre 4m partendo da
+fermo (in x = 0), qual è la velocità dell’oggetto alla fine dei 4 m?
 
 
 
