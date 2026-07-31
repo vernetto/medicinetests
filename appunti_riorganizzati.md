@@ -153,6 +153,15 @@ In laboratorio, LDL e HDL si deteminano con enzimi che eliminano l'una o l'altra
 Nel sangue ci sono anche VLDL che sono circa 1/5 dei trigliceridi: trasportano trigliceridi dal fegato ai tessuti, e i **chilomicroni**, che trasportano verso i tessuti (via linfa, sangue) i grassi assorbiti dall'intestino.
 Quando i trigliceridi arrivano ai muscoli, incontrano un enzima Lipoproteina lipasi (**LPL**) che rompe i trigliceridi in acidi grassi e glicerolo.
 
+La colesterolemia a digiuno deve essere < 200 mg/dL. LDL > 100 mg/dL. HDL > 40 mg/dL negli uomini, > 50 mg/dL nelle donne. Trigliceridi < 150 m/dL.
+Le donne, soprattutto prima della menopausa, hanno fisiologicamente valori di HDL più alti rispetto agli uomini grazie all'azione degli estrogeni.
+Gli estrogeni:
+aumentano la produzione di HDL;
+favoriscono l'eliminazione del colesterolo dalle arterie;
+tendono anche a mantenere più bassi i livelli di LDL.
+
+
+
 
 ### Cromatina e cromosomi
 
@@ -978,7 +987,7 @@ Il Complesso III riceve gli elettroni dal Coenzima Q, li passa al citocromo c, e
 
 **Citocromo c: piccolo corriere**
 
-Il citocromo c è una piccola proteina mobile. Trasporta elettroni dal Complesso III al Complesso IV. È come un fattorino che porta un elettrone alla volta.
+Il citocromo c è una piccola proteina mobile, presente nei mitocondri. Trasporta elettroni dal Complesso III al Complesso IV. È come un fattorino che porta un elettrone alla volta.
 
 **Complesso IV: qui entra l'ossigeno**
 
@@ -2851,6 +2860,8 @@ CaH₂ (idruro di calcio)
 LiH (idruro di litio)
 NH₃ (ammoniaca, un idruro covalente dell'azoto)
 CH₄ (metano, un idruro del carbonio)
+
+Regola pratica: quando l'idrogeno è scritto per primo (HCl, H₂SO₄, HNO₃...), spesso si tratta di un acido. Quando invece è legato a un metallo e la formula è scritta come NaH, CaH₂, LiH, si tratta di un idruro, non di un acido. I
 
 
 Nel **legame dativo** entrambi gli elettroni della coppia condivisa provengono dallo stesso atomo (es. NH4)
@@ -4863,6 +4874,17 @@ LE GHIANDOLE SALIVARI
 Sono tre paia principali. Parotidi Sottomandibolari Sottolinguali
 
 Producono saliva contenente: acqua, muco, sali minerali, enzima amilasi
+
+Parotidi: Le parotidi sono le più grandi ghiandole salivari e producono una saliva sierosa, cioè molto fluida e ricca di enzimi.
+Le loro principali funzioni sono:
+✅ Produzione di saliva 
+✅ Secrezione di enzimi, soprattutto amilasi salivare (ptialina) 
+✅ Inizio della digestione dei carboidrati grazie all'amilasi
+✅ Azione antimicrobica grazie a sostanze come il lisozima, la lattoferrina e le immunoglobuline presenti nella saliva 
+
+La lubrificazione della bocca e del cibo dipende soprattutto dalle mucine, proteine che rendono la saliva vischiosa.
+Le mucine sono prodotte principalmente da: ghiandole sottomandibolari; ghiandole sottolinguali.
+
 
 LE GHIANDOLE SEBACEE
 
