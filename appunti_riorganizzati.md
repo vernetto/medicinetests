@@ -15,6 +15,8 @@ Le parti principali sono:
 È il confine della cellula. Decide cosa entra e cosa esce. Composta da lipidi (fosfolipidi, colesterolo, glicolipidi) e proteine. I lipidi formano il doppio strato lipidico, mentre le proteine sono immerse o associate a questo doppio strato.
 Le proteine servono per: trasporto, recettori, enzimi, adesione cellulare, comunicazione
 
+I **glicolipidi** sono lipidi (grassi) a cui è legata una o più molecole di zucchero (glucidi). Si trovano soprattutto nella membrana plasmatica delle cellule, in particolare sulla superficie esterna.
+
 **2. Citoplasma**
 È il materiale gelatinoso interno, dove si trovano gli organuli.
 
@@ -1082,6 +1084,24 @@ Note importanti:
 * Fotosintesi = processo **anabolico**, costruisce zuccheri; respirazione = processo **catabolico**, demolisce zuccheri
 
 ---
+
+### FOTOSINTESI
+
+La fotosintesi è il processo con cui le piante, le alghe e alcuni batteri utilizzano l'energia della luce per costruire glucosio.
+Le materie prime sono:  🌬️ anidride carbonica (CO₂)  💧 acqua (H₂O)  ☀️ energia luminosa
+
+Il prodotto principale è: 🍬 glucosio (C₆H₁₂O₆)
+e come "scarto" viene liberato: 🌿 ossigeno (O₂)
+
+L'equazione è:  6CO2​ + 6H2O + luce → C6H12O6 + 6O2
+​
+Quindi la fotosintesi costruisce sostanze organiche.
+
+Costruisce glucosio → 🌿 Fotosintesi.
+Demolisce glucosio per ottenere energia → 🔋 Respirazione cellulare.
+Demolisce glucosio in due piruvati → ⚙️ Glicolisi.
+Produce energia senza ossigeno → 🍺 Fermentazione.
+
 
 ### Ciclo di Calvin (fase oscura della fotosintesi)
 
@@ -3044,6 +3064,29 @@ In generale hanno caratteristiche metalliche forti: lucentezza, buona conduzione
 
 Esempi: ferro, rame, nichel, titanio, cromo.
 
+
+### Temperature di fusione
+
+Fe (Ferro) ≈ 1538 °C
+Al (Alluminio) ≈ 660 °C
+Ga (Gallio) ≈ 30 °C ✅
+Ge (Germanio) ≈ 938 °C
+Cr (Cromo) ≈ 1907 °C
+
+Questi sono le grandi eccezioni:
+Mercurio (Hg) → è liquido già a temperatura ambiente (fonde a −39 °C).
+Gallio (Ga) → fonde a 30 °C, quindi basta il calore della mano.
+Cesio (Cs) → fonde a 28,5 °C.
+Rubidio (Rb) → fonde a 39 °C.
+
+
+Metalli di transizione (Fe, Cr, Ti, W...) → temperature di fusione molto elevate.
+Metalli leggeri (Al, Mg...) → temperature intermedie.
+Gallio, cesio, rubidio e mercurio → temperature molto basse.
+
+
+
+
 ---
 
 ### Tavola periodica – Gruppi e Periodi
@@ -4383,10 +4426,11 @@ V → produce ATP grazie al flusso dei protoni.
 Alcuni organismi, come i lieviti, trasformano invece il piruvato in:
 etanolo e anidride carbonica.
 Equazione:
-Glucosio→ 2 Etanolo + 2CO2 + 2 ATP
+Glucosio → 2 Etanolo + 2CO2 + 2 ATP
 
-Questa fermentazione è usata per produrre:
-pane; birra; vino.
+Questa fermentazione è usata per produrre: pane; birra; vino. Avviene in assenza di ossigeno (anaerobiosi).
+
+L'acido acetico è il principale componente dell'aceto ed è prodotto da batteri acetici che ossidano l'etanolo.
 
 
 
@@ -4671,6 +4715,15 @@ I CARATTERI SESSUALI PRIMARI sono gli organi dell'apparato riproduttore presenti
 UOMO testicoli (le gonadi), epididimi, dotti deferenti, vescicole seminali, prostata, pene, uretra (per la funzione riproduttiva)
 
 DONNA ovaie (le gonadi), tube di Falloppio, utero, cervice uterina, vagina, genitali esterni (vulva)
+
+
+Il dotto deferente è un condotto del sistema riproduttivo maschile che trasporta gli spermatozoi dall'epididimo sino al dotto della vescicola seminale.
+Percorso del dotto deferente:
+Testicolo → dove vengono prodotti gli spermatozoi.
+Epididimo → dove gli spermatozoi maturano e vengono immagazzinati.
+Dotto deferente → trasporta gli spermatozoi verso la pelvi.
+Si unisce al dotto della vescicola seminale formando il dotto eiaculatore.
+Il dotto eiaculatore attraversa la prostata e sbocca nell'uretra.
 
 
 
@@ -5498,6 +5551,13 @@ maltasi:  maltosio → glucosio + glucosio
 lattasi : lattosio → glucosio + galattosio
 saccarasi : saccarosio → glucosio + fruttosio
 
+
+### TESTCROSS
+
+Il testcross (o incrocio di prova) è un esperimento di genetica usato per scoprire il genotipo di un individuo che mostra un carattere dominante.
+Si incrocia l'individuo da studiare con un individuo omozigote recessivo.
+Se l'individuo è omozigote, avrà 4 figli con fenotipo dominante ( VV x vv -> Vv Vv Vv Vv)
+Se l'individuo è eterozigote, avrà 2 figli con fenotipo dominante  2 due con fenotipo recessivo ( Vv x vv -> Vv Vv vv vv)
 
 
 ## DA RIVEDERE
