@@ -18,7 +18,7 @@ Le proteine servono per: trasporto, recettori, enzimi, adesione cellulare, comun
 I **glicolipidi** sono lipidi (grassi) a cui è legata una o più molecole di zucchero (glucidi). Si trovano soprattutto nella membrana plasmatica delle cellule, in particolare sulla superficie esterna.
 
 **2. Citoplasma**
-È il materiale gelatinoso interno, dove si trovano gli organuli.
+È il materiale gelatinoso interno, dove si trovano gli organuli. È tutto il materiale contenuto all'interno della membrana cellulare ma al di fuori del nucleo.
 
 **3. Nucleo**
 Contiene il DNA, cioè le istruzioni genetiche della cellula.
@@ -365,7 +365,7 @@ Il ciclo si divide in 5 fasi principali:
 
 Il DNA si condensa e si impacchetta attorno alle proteine formando i cromosomi.
 
-A causa della duplicazione avvenuta nella fase S, i cromatidi ora sono doppi (cromatidi fratelli) e sono legati in un punto centrale detto **centromero**.
+A causa della duplicazione avvenuta nella fase S, i cromatidi ora sono doppi (cromatidi fratelli) e sono legati in un punto centrale detto **centromero** (**cinetocori** sono i punti di aggancio sul centromero).
 
 Il centrosoma si duplica e le due parti migrano ai poli opposti della cellula, iniziando a produrre i microtubuli che formeranno la rete del **fuso mitotico**.
 
@@ -545,8 +545,6 @@ Attenzione: questa replicazione avviene **una volta sola**. Poi arrivano due div
 ---
 
 **Meiosi I: divisione riduzionale**
-
-
 
 La meiosi I è la più importante da capire, perché qui il numero dei cromosomi viene dimezzato. Da 2n si passa a n. Per questo si chiama **divisione riduzionale**.
 
@@ -5776,4 +5774,6 @@ fermo (in x = 0), qual è la velocità dell’oggetto alla fine dei 4 m?
 * Khan Academy – Phases of Meiosis: https://youtu.be/ijLc52LmFQg
 * Wikipedia – Ciclo di Krebs: https://it.wikipedia.org/wiki/Ciclo_di_Krebs
 * Preparazione al Test di Medicina https://www.youtube.com/@tdmedicina8369/videos
+
+
 
