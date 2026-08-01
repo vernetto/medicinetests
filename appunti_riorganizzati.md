@@ -4653,9 +4653,9 @@ x1 x x2 = c/a
 
 ### METAFORA SIMILITUDINE SINEDDOCHE
 
-"sei bello come il sole" → NON è una metafora, ma una SIMILITUDINE, perché usa "come" per fare un paragone.
+"sei bello come il sole" → NON è una metafora, ma una **SIMILITUDINE**, perché usa "come" per fare un paragone.
 
-"quel bambino è un terremoto" → METAFORA. Il bambino non è davvero un terremoto: significa che è molto vivace e combina guai.
+"quel bambino è un terremoto" → **METAFORA**. Il bambino non è davvero un terremoto: significa che è molto vivace e combina guai.
 
 La SINEDDOCHE è una figura retorica che consiste nel sostituire una parola con un'altra che ha con essa un rapporto di quantità o appartenenza.
 
@@ -4663,13 +4663,20 @@ La SINEDDOCHE è una figura retorica che consiste nel sostituire una parola con 
 "Ci sono cento teste." "Teste" = persone.
 "Ho bisogno di nuove braccia." braccia = lavoratori
 
-"Leggo Dante." → METONIMIA (autore per l'opera).
+"Leggo Dante." → **METONIMIA** (autore per l'opera).
 
-Il CHIASMO consiste nell'incrociare l'ordine delle parole o delle idee (Bisogna mangiare per vivere, non vivere per mangiare).
+Il **CHIASMO** consiste nell'incrociare l'ordine delle parole o delle idee (Bisogna mangiare per vivere, non vivere per mangiare).
 
-L'IPERBOLE è un'esagerazione volontaria. (te l'ho detto 1000 volte)
+L'**IPERBOLE** è un'esagerazione volontaria. (te l'ho detto 1000 volte)
 
-L'ANADIPLOSI consiste nel ripetere, all'inizio di una frase, l'ultima parola della frase precedente. "La paura genera odio. L'odio genera violenza."
+L'**ANADIPLOSI** consiste nel ripetere, all'inizio di una frase, l'ultima parola della frase precedente. "La paura genera odio. L'odio genera violenza."
+
+**Allegoria** L'allegoria è quindi un insieme di simboli che trasmettono un messaggio: La bilancia rappresenta la giustizia.
+
+**Ossimoro** accostare due parole di significato opposto, creando un'espressione apparentemente contraddittoria: silenzio assordante
+
+**Sinestesia** consiste nel mescolare sensazioni appartenenti a sensi diversi. voce calda, suono vellutato
+
 
 
 
