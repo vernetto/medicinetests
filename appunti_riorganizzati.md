@@ -38,7 +38,7 @@ Si chiama rugoso perché sulla sua superficie sono attaccati moltissimi ribosomi
 Produce lipidi, cioè grassi e fosfolipidi; produce alcuni ormoni steroidei; detossifica sostanze (soprattutto nel fegato); immagazzina calcio (specialmente nelle cellule muscolari dove viene chiamato reticolo sarcoplasmatico). Si chiama liscio perché non ha ribosomi sulla superficie.
 
 **8. Apparato di Golgi**
-Modifica, impacchetta e spedisce sostanze prodotte dalla cellula.
+Modifica, impacchetta e spedisce sostanze prodotte dalla cellula. Inoltre produce i **lisosomi**, organelli che contengono enzimi digestivi.
 
 **9. Lisosomi**
 Digeriscono materiali di scarto e sostanze da eliminare.
@@ -194,11 +194,17 @@ Guanina ↔ Citosina
 
 Le basi azotate sono le "lettere" con cui è scritto il DNA.
 
-NUCLEOTIDE = base azotata + zucchero + fosfato
+NUCLEOTIDE = base azotata + zucchero (pentoso) + gruppo fosfato
+
+Nel DNA il pentoso è desossiribosio, nel RNA il pentoso è ribosio.
 
 Un NUCLEOSIDE è una molecola formata da una base azotata legata a uno zucchero, senza gruppi fosfato.
 
 Il DNA è una lunghissima catena di nucleotidi, ciascuno contenente una base azotata.
+
+
+
+
 
 Il ribosoma non legge una base alla volta; legge tre nucleotidi per volta -> il CODONE.
 Il ribosoma prende un codone e aggiunge un amminoacido. L'amminoacido non fa parte del DNA, ne é solo il prodotto finale.
@@ -337,15 +343,17 @@ Alcuni steroidi funzionano anche come ormoni (testosterone, estrogeni, cortisolo
 
 ### MITOSI
 
+
 La mitosi è il meccanismo biologico attraverso il quale il nostro organismo rimpiazza le cellule somatiche (pelle, muscoli, sangue) che ogni giorno invecchiano e muoiono (circa 50-100 miliardi al giorno). Il processo parte da una singola cellula madre e produce **due cellule figlie geneticamente identiche** tra loro e alla madre.
 
 Il ciclo si divide in 5 fasi principali:
 
+![mitosi](meiosi/mitosi.png)
+
+
 ---
 
 **1. Interfase** — fase di preparazione in cui la cellula non si moltiplica ma si duplica.
-
-
 
 * **Fase G1**: La fase più lunga. Il DNA si trova nel nucleo sotto forma di cromosomi a singolo cromatidio. La cellula produce gli enzimi necessari alla successiva duplicazione.
 * **Fase S**: Avviene la vera e propria duplicazione del DNA.
@@ -356,8 +364,6 @@ Il ciclo si divide in 5 fasi principali:
 **2. Profase**
 
 Il DNA si condensa e si impacchetta attorno alle proteine formando i cromosomi.
-
-
 
 A causa della duplicazione avvenuta nella fase S, i cromatidi ora sono doppi (cromatidi fratelli) e sono legati in un punto centrale detto **centromero**.
 
@@ -379,8 +385,6 @@ I cromosomi si allineano perfettamente al centro della cellula lungo la cosiddet
 
 I cromatidi fratelli si separano.
 
-
-
 I microtubuli iniziano ad accorciarsi e a ritirarsi, trascinando i singoli cromatidi verso i due centrosomi ai poli opposti della cellula.
 
 In questo modo, il DNA si spartisce equamente in due gruppi speculari.
@@ -391,16 +395,12 @@ In questo modo, il DNA si spartisce equamente in due gruppi speculari.
 
 È la fase conclusiva: i cromatidi raggiungono i poli e si "spacchettano", tornando allo stato di cromatina meno condensata.
 
-
-
-
 Si riformano le membrane nucleari attorno ai due nuovi set di cromatidi e il fuso mitotico scompare.
 
 Infine, lungo l'equatore della cellula si forma un anello di proteine che stringe e strozza la cellula fino a dividerla materialmente in **due cellule figlie** distinte.
 
-
-La cariocinesi è la divisione del nucleo di una cellula. Avviene durante: la mitosi (per formare due cellule identiche); la meiosi (per formare i gameti: spermatozoi e ovuli).
-Dopo la cariocinesi avviene la citocinesi. La citocinesi è la divisione del citoplasma, che separa definitivamente la cellula in due cellule figlie.
+La **cariocinesi** è la divisione del nucleo di una cellula. Avviene durante: la mitosi (per formare due cellule identiche); la meiosi (per formare i gameti: spermatozoi e ovuli).
+Dopo la cariocinesi avviene la **citocinesi** (aka **citodieresi**). La citocinesi è la divisione del citoplasma, che separa definitivamente la cellula in due cellule figlie.
 
 
 
@@ -2121,11 +2121,14 @@ Molte malattie coinvolgono direttamente le cellule gliali:
 
 ### Aree cerebrali
 
+La **corteccia cerebrale** è lo strato più esterno del cervello. È una sottile "copertura" di tessuto nervoso, spessa circa 2–4 mm, ma contiene miliardi di neuroni ed è responsabile delle funzioni più complesse dell'essere umano.
+È poi divisa in 4 lobi: frontale, parietale, temporale, occipitale.
+
 |Struttura|Funzione|
 |-|-|
-|Lobo frontale|movimento volontario, pensiero, decisioni|
+|Lobo frontale|movimento volontario, pensiero, memoria (working memory), decisioni, ragionamento, giudizio|
 |Lobo parietale|sensibilità corporea, tatto, dolore, temperatura|
-|Lobo temporale|udito, memoria, comprensione del linguaggio|
+|Lobo temporale|udito, memoria (nuovi ricordi, ippocampo), comprensione del linguaggio|
 |Lobo occipitale|vista|
 |Cervelletto|equilibrio, postura, tono muscolare, precisione dei movimenti, coordinazione motoria|
 |Midollo allungato (bulbo)|respirazione, battito cardiaco, pressione arteriosa, riflessi (tosse, vomito, deglutizione)|
@@ -2146,6 +2149,10 @@ occipitale   = vista
 temporale    = udito
 cervelletto  = equilibrio
 ```
+
+
+
+
 
 ---
 
@@ -2511,6 +2518,18 @@ L'endometrio è la mucosa che riveste l'interno dell'utero. Dopo la mestruazione
 L'endometrio diventa così pronto ad accogliere un eventuale embrione.
 Se avviene la fecondazione, l'embrione si impianta nell'endometrio. Da questo momento l'endometrio contribuisce alla formazione della placenta, che nutrirà il feto.
 Se non avviene la fecondazione, Il corpo luteo smette di produrre progesterone. L'endometrio non serve più e si sfalda. Questo sfaldamento è la mestruazione.
+
+Ciclo uterino (28 giorni):
+
+
+| Giorni    | Fase              | Ormone predominante            | Cosa succede                                                       |
+| --------- | ----------------- | ------------------------------ | ------------------------------------------------------------------ |
+| **1–5**   | Mestruale         | Estrogeni e progesterone bassi | L'endometrio si sfalda e viene eliminato.                          |
+| **6–13**  | **Proliferativa** | **Estrogeni**                  | L'endometrio si ricostruisce e si ispessisce.                      |
+| **14**    | Ovulazione        | Picco di LH                    | L'ovocita viene rilasciato.                                        |
+| **15–28** | Secretoria        | **Progesterone**               | L'endometrio diventa ricco di ghiandole e si prepara all'impianto. |
+
+
 
 
 
@@ -3671,12 +3690,15 @@ Fibrinogeno → proteina del sangue coinvolta nella coagulazione
 
 La **mioglobina** è una proteina che immagazzina e rilascia ossigeno nei muscoli. Il suo compito principale è fare da "riserva" di ossigeno, in modo che le cellule muscolari possano continuare a produrre energia anche quando l'apporto di ossigeno dal sangue diminuisce temporaneamente.
 È costituita da una sola catena proteica (a differenza dell'emoglobina, che ne ha quattro).
+Ha struttura terziaria, perchè è ripiegata in una struttura tridimensionale.
 Contiene un gruppo eme, al cui centro si trova un atomo di ferro (Fe²⁺).
 È proprio il ferro che lega una molecola di ossigeno (O₂).
 
-**Emoglobina:** = 2 catene proteiche α + 2 catene β, 4 gruppi eme. Al centro di ogni gruppo eme c'è uno ione: Fe2+. Il ferro lega una molecola di ossigeno. Quindi una molecola di emoglobina può trasportare fino a: 4 molecole di O2. 
+**Emoglobina:** = proteina con struttura quaternaria, 2 catene proteiche α + 2 catene β, 4 gruppi eme. Al centro di ogni gruppo eme c'è uno ione: Fe2+. Il ferro lega una molecola di ossigeno. Quindi una molecola di emoglobina può trasportare fino a: 4 molecole di O2. 
 ​La bilirubina è un prodotto del catabolismo dell'emoglobina.
+Attenzione, ogni subunità della emoglobina ha struttura terziaria, mentre l'insieme delle 4 subunità ha struttura quaternaria.
 
+Una proteina ha una struttura quaternaria quando è formata da più catene polipeptidiche (subunità) unite tra loro.
 
 
 
@@ -5090,10 +5112,10 @@ Più ripetizioni ci sono, più la malattia tende a comparire precocemente e a es
 
 ### GAS
 
-Se comprimi un gas: il volume diminuisce; la pressione aumenta. Legge di Boyle P1​V1​ = P2​V2​
+Se comprimi un gas: il volume diminuisce; la pressione aumenta. Legge di **Boyle** P1​V1​ = P2​V2​
 
 La solubilità è la quantità di gas che riesce a sciogliersi in un liquido.
-Più aumenta la pressione del gas sopra un liquido, più gas si scioglie nel liquido. Legge di Henry
+Più aumenta la pressione del gas sopra un liquido, più gas si scioglie nel liquido. Legge di **Henry**
 
 L'ossigeno è poco solubile. Per questo nel sangue:
 solo circa 1-2% dell'ossigeno è disciolto nel plasma;
@@ -5106,14 +5128,14 @@ una parte legata all'emoglobina;
 la maggior parte diventa bicarbonato.
 
 Quando più gas sono mescolati, ciascuno esercita una propria pressione. Questa si chiama pressione parziale.
-Formula: P tot = P1 + P2 + P3 +…   (legge di Dalton)
+Formula: P tot = P1 + P2 + P3 +…   (legge di **Dalton**)
 
 PO2 ​= 760 × 0,21 ≈ 160mmHg ( il 21% dell'aria e' O2)
 
-Legge di Charles, Pressione costante
+Legge di **Charles**, Pressione costante
 T1V1 = T2V2 	​
 Più aumenta la temperatura, più aumenta il volume.
-Legge di Gay-Lussac, Volume costante T1P1 = T2P2 Se aumenta la temperatura, aumenta la pressione.
+Legge di **Gay-Lussac**, Volume costante T1P1 = T2P2 Se aumenta la temperatura, aumenta la pressione.
 
 
 
@@ -5558,6 +5580,140 @@ Il testcross (o incrocio di prova) è un esperimento di genetica usato per scopr
 Si incrocia l'individuo da studiare con un individuo omozigote recessivo.
 Se l'individuo è omozigote, avrà 4 figli con fenotipo dominante ( VV x vv -> Vv Vv Vv Vv)
 Se l'individuo è eterozigote, avrà 2 figli con fenotipo dominante  2 due con fenotipo recessivo ( Vv x vv -> Vv Vv vv vv)
+
+### TRIGLICERIDI
+
+I trigliceridi sono il principale tipo di grassi (lipidi) presente nel nostro organismo e negli alimenti. Sono la riserva energetica del corpo.
+Un trigliceride è formato da:
+1 molecola di glicerolo
+3 acidi grassi
+
+Durante la formazione del trigliceride avviene una reazione di condensazione (esterificazione): ogni acido grasso si lega al glicerolo formando un legame estere e liberando una molecola d'acqua.
+Li troviamo: 
+🧈 nel burro
+🫒 nell'olio d'oliva
+🥜 nella frutta secca
+🥓 nel lardo e nei grassi animali
+🧀 nei formaggi
+🍰 in molti dolci
+
+Nel nostro corpo sono accumulati soprattutto nel **tessuto adiposo**.
+Immagazzinano energia, danno isolamento termico (grasso sottocutaneo), proteggono organi come reni e cuore dagli urti.
+Vengono demoliti con la lipolisi: trigliceride -> glicerolo + 3 acidi grassi. Gli acidi grassi vengono poi utilizzati per produrre ATP.
+Saturi: solidi a temperatura ambiente, come burro lardo e formaggi
+Insaturi: sono liquidi a temperatura ambiente, come olio d'oliva, olio di semi, pesce.
+
+Valori nel sangue: 
+Normali: meno di 150 mg/dL
+Borderline: 150–199 mg/dL
+Alti: 200–499 mg/dL
+Molto alti: ≥500 mg/dL
+
+Trigliceridi molto elevati aumentano il rischio di pancreatite e spesso si associano a obesità, diabete e abuso di alcol.
+
+Il **glicerolo** (o glicerina, quando è puro) è una piccola molecola organica che costituisce lo "scheletro" dei trigliceridi e di molti altri lipidi.
+Ha formula C3H8O3. Il glicerolo è un triolo, cioè un alcol con 3 gruppi OH. È presente anche nei fosfolipidi = 1 glicerolo + 2 acidi grassi + 1 gruppo fosfato.
+
+
+### ELEMENTI
+
+Macroelementi (o minerali primari)
+
+Sono necessari in quantità relativamente elevate (più di 100 mg al giorno).
+
+Sono 7:
+
+Calcio (Ca)
+Fosforo (P)
+Potassio (K)
+Sodio (Na)
+Cloro (Cl)
+Magnesio (Mg)
+Zolfo (S)
+
+
+Oligoelementi (minerali in tracce)
+
+Sono necessari in quantità molto piccole.
+
+I più importanti sono:
+
+Ferro (Fe)
+Zinco (Zn)
+Rame (Cu)
+Iodio (I)
+Selenio (Se)
+Manganese (Mn)
+Fluoro (F)
+Cromo (Cr)
+Molibdeno (Mo)
+
+
+### ENZIMI APPARATO DIGERENTE
+
+La **gastrina** è prodotta dalle cellule G dello stomaco (soprattutto nell'antro pilorico).
+
+Viene secreta quando arriva il cibo nello stomaco; lo stomaco si distende; sono presenti proteine e amminoacidi.
+La gastrina stimola:
+
+✅ la secrezione di acido cloridrico (HCl) da parte delle cellule parietali (indirettamente anche tramite l'istamina);
+✅ la secrezione di succhi gastrici;
+✅ la motilità dello stomaco.
+
+
+La **secretina** è prodotta dal duodeno quando arriva il chimo acido proveniente dallo stomaco.
+La sua funzione è opposta a quella della gastrina.
+Stimola:
+il pancreas a produrre bicarbonato;
+il fegato a produrre bile.
+
+Inoltre riduce la secrezione acida dello stomaco.
+Quindi: Secretina = protegge il duodeno dall'acidità.
+
+
+**Colecistochinina (CCK)**
+
+Anche questa è prodotta dal duodeno. 
+Viene rilasciata soprattutto quando arrivano:  grassi; proteine.
+Stimola:
+la contrazione della colecisti (cistifellea);
+il rilascio della bile;
+la secrezione degli enzimi pancreatici.
+
+Serve quindi soprattutto alla digestione dei grassi.
+
+
+### Muscolo scheletrico
+
+Il muscolo scheletrico è il tipo di muscolo che permette i movimenti volontari del corpo. È chiamato "scheletrico" perché è attaccato alle ossa mediante i tendini.
+
+Il muscolo scheletrico è:
+
+Volontario → lo controlliamo con la nostra volontà.
+Striato → al microscopio presenta bande chiare e scure.
+Riccamente vascolarizzato → riceve molto ossigeno e nutrienti.
+Innervato dai nervi motori → i motoneuroni ne controllano la contrazione.
+
+
+Muscolo - È rivestito da una membrana chiamata epimisio.
+   ↓
+Fascicoli - Ogni fascicolo è avvolto dal perimisio.
+   ↓
+Fibre muscolari (cellule) : La fibra muscolare è una cellula molto particolare: può essere lunga parecchi centimetri; è cilindrica; contiene moltissimi nuclei (è plurinucleata). È avvolta dall'endomisio.
+   ↓
+Miofibrille: Dentro ogni fibra ci sono centinaia o migliaia di miofibrille. Sono i "cilindri" che producono la contrazione.
+   ↓
+Sarcomeri : Le miofibrille sono costituite da tanti sarcomeri, uno dopo l'altro. Il sarcomero è la più piccola unità contrattile del muscolo. È delimitato da due linee Z.
+   ↓
+Actina + Miosina
+
+Il muscolo è striato perché actina e miosina sono disposte in modo molto ordinato.
+Al microscopio si osservano:
+bande A (scure)
+bande I (chiare)
+Questa alternanza produce l'aspetto striato.
+
+
 
 
 ## DA RIVEDERE
