@@ -80,6 +80,8 @@ I filamenti intermedi sono una specie di "cavi resistenti". Non servono tanto al
 
 **12. Cloroplasti** – fanno la fotosintesi; producono zuccheri grazie alla luce. Dentro i cloroplasti ci sono strutture chiamate tilacoidi, impilate in gruppi chiamati grana. Nei tilacoidi c'è la clorofilla, il pigmento verde che assorbe la luce.
 
+I **cromoplasti** sono organelli presenti nelle cellule vegetali. Appartengono alla famiglia dei **plastidi** (insieme ai cloroplasti e ai leucoplasti) e hanno il compito di sintetizzare e accumulare pigmenti carotenoidi (gialli, arancioni e rossi).
+
 **13. Grande vacuolo centrale** – contiene acqua e sostanze di riserva.
 Il vacuolo è una cavità delimitata da una membrana detta tonoplasto, presente nel citoplasma della cellula vegetale e piena di un liquido chiamato succo vacuolare.
 Nelle cellule vegetali mature occupa anche il 70-90% del volume della cellula.
@@ -228,7 +230,7 @@ I TELOMERI sono delle sequenze ripetitive di DNA (TTAGGG) che si trovano alle es
 
 **Anticodone**: sta sul **tRNA** — attenzione alla differenza!
 Servono a riconoscere i codoni dell’mRNA durante la sintesi delle proteine.
-mRNA → contiene i codoni , tRNA → contiene glii anticodoni, complementari al codone dell’mRNA.
+mRNA → contiene i codoni , tRNA → contiene gli anticodoni, complementari al codone dell’mRNA.
 
 
 
@@ -251,6 +253,7 @@ proteina
 ```
 
 Lo spliceosoma (un grande complesso formato da RNA e proteine) "legge" il pre-mRNA, taglia via gli introni e unisce gli esoni. Quel che si ottiene è l'mRNA maturo, che uscirà dal nucleo e verrà letto dai ribosomi per costruire la proteina.
+Prima dello splicing, viene aggiunto il nucleotide cap 5' , e dopo una coda poli-A viene aggiunta al lato 3'.
 
 Nello splicing alternativo, alcuni esoni vengono omessi, così da codificare proteine diverse con lo stesso gene.
 
@@ -497,7 +500,7 @@ Cellula iniziale
 
 La meiosi è il processo con cui una cellula diploide produce cellule aploidi, cioè cellule con metà dei cromosomi.
 
-Nell'uomo serve a produrre i gameti: spermatozoi nell'uomo, ovociti nella donna.
+Nell'uomo serve a produrre i gameti: spermatozoi nell'uomo, ovociti (aka oociti) nella donna.
 
 **Frase chiave: meiosi = da 2n a n**
 
@@ -1652,6 +1655,10 @@ Alla fine la linfa torna nella circolazione sanguigna vicino alle vene succlavie
 |Timo|maturazione linfociti **T**|
 |Midollo osseo|maturazione linfociti **B**|
 
+È utile distinguere tra gli organi linfoidi primari e secondari:
+
+Organi linfoidi primari: Midollo osseo, Timo
+Organi linfoidi secondari: Milza,  Linfonodi , Tonsille, Tessuto linfoide associato alle mucose (MALT)
 
 
 Il TIMO sta dietro lo sterno e davanti al cuore, nella parte superiore del torace. È molto sviluppato nei bambini e negli adolescenti, mentre nell'adulto tende a ridursi di dimensioni (processo chiamato involuzione del timo).
@@ -1664,6 +1671,18 @@ Il TIMO sta dietro lo sterno e davanti al cuore, nella parte superiore del torac
 Solo dopo questo "addestramento" diventano linfociti T maturi. Di lì, vanno in linfonodi, milza e sangue.
 
 
+### MILZA
+
+La milza è il più grande organo linfoide del corpo umano.
+
+Fa parte del sistema linfatico e del sistema immunitario.
+
+Si trova nella parte superiore sinistra dell'addome, sotto il diaframma e dietro lo stomaco.
+
+🩸 Filtra il sangue, eliminando globuli rossi vecchi o danneggiati.
+🛡️ Partecipa alla risposta immunitaria, producendo e attivando linfociti.
+🦠 Rimuove batteri e altri microrganismi dal sangue.
+🩸 Immagazzina una riserva di piastrine e di sangue, che può essere rilasciata in caso di necessità.
 
 
 
@@ -3825,7 +3844,7 @@ apparato = organi più diversi che collaborano
 Un ORGANO è una struttura formata da più tessuti diversi che lavorano insieme.
 Il cuore, in cui trovi vari tessuti: tessuto muscolare nervoso connettivo epiteliale/endoteliale
 
-bocca/naso → faringe → (epiglottide) laringe (corde vocali) → trachea → bronchi → polmoni
+
 
 I tRNA trasportano i singoli amminoacidi ai ribosomi durante la sintesi proteica
 
@@ -3856,6 +3875,21 @@ Gli epiteli rivestono: la superficie esterna del corpo (epidermide), le cavità 
 
 Le cellule epiteliali sono molto vicine tra loro, unite da giunzioni cellulari, e possiedono pochissima matrice extracellulare.
 L'abbondante matrice extracellulare è tipica del tessuto connettivo (ossa, cartilagine, tendini, derma...).
+
+### FARINGE
+
+bocca/naso → faringe → (epiglottide) laringe (corde vocali) → trachea → bronchi → polmoni
+
+La faringe è un canale muscolo-membranoso comune all'apparato respiratorio e a quello digerente.
+
+Ha una lunghezza di circa 12-14 cm ed è divisa in tre parti:
+
+Rinofaringe (o nasofaringe) → dietro il naso.
+Orofaringe → dietro la bocca.
+Laringofaringe (o ipofaringe) → davanti all'esofago e dietro la laringe.
+
+
+
 
 ### MATRICE EXTRACELLULARE
 
@@ -4677,6 +4711,8 @@ L'**ANADIPLOSI** consiste nel ripetere, all'inizio di una frase, l'ultima parola
 
 **Sinestesia** consiste nel mescolare sensazioni appartenenti a sensi diversi. voce calda, suono vellutato
 
+**ANAFORA** ripetizione delle stesse parole all'inizio di ogni linea "c'e' un tempo per vivere, c'e' un tempo per morire"
+
 
 
 
@@ -4731,10 +4767,30 @@ Per esempio:
 i testicoli liberano gli spermatozoi nei dotti genitali;
 le ovaie rilasciano l'ovocita nella tuba uterina durante l'ovulazione.
 
+1. Prima della nascita:
+- Le cellule germinali diventano ovociti primari.
+  Ognuno inizia la meiosi, ma si blocca nella profase I.
+2. Dalla pubertà in poi
+- A ogni ciclo mestruale alcuni ovociti primari riprendono la meiosi.
+  Di solito uno solo completa la meiosi I.
+3. Dopo la meiosi I
+  Si formano due cellule molto diverse:
+  un ovocita secondario, grande e ricco di citoplasma;
+  un primo globulo polare, molto piccolo, che in genere degenera.
+4. Ovulazione
+  Viene espulso l'ovocita secondario.
+  Questo è già aploide (23 cromosomi), ma è ancora fermo nella metafase II.
+5. Se arriva uno spermatozoo
+  L'ovocita secondario completa la meiosi II.
+  Si forma l'ovulo maturo e un secondo globulo polare.
+  Il nucleo dell'ovulo si unisce a quello dello spermatozoo e nasce lo zigote.
+  
+Questa è una caratteristica unica della specie umana e dei mammiferi: la meiosi dell'ovocita si completa soltanto in caso di fecondazione.
+  
+
 Le gonadi sono regolate dall'asse ipotalamo–ipofisi–gonadi.
 FSH (ormone follicolo-stimolante): stimola la formazione dei gameti.
 LH (ormone luteinizzante): stimola la produzione degli ormoni sessuali e, nella donna, induce l'ovulazione.
-
 
 
 I CARATTERI SESSUALI PRIMARI sono gli organi dell'apparato riproduttore presenti fin dalla nascita, direttamente coinvolti nella riproduzione. Sono chiamati primari perché sono essenziali per la funzione riproduttiva.
@@ -5592,8 +5648,9 @@ I trigliceridi sono il principale tipo di grassi (lipidi) presente nel nostro or
 Un trigliceride è formato da:
 1 molecola di glicerolo
 3 acidi grassi
+Possono contenere acidi grassi saturi e insaturi nella stessa molecola.
 
-Durante la formazione del trigliceride avviene una reazione di condensazione (esterificazione): ogni acido grasso si lega al glicerolo formando un legame estere e liberando una molecola d'acqua.
+Durante la formazione del trigliceride avviene una reazione di condensazione (esterificazione): ogni acido grasso si lega al glicerolo formando un legame estere e liberando una molecola d'acqua: glicerolo + 3 acidi grassi → trigliceride + 3H2​O
 Li troviamo: 
 🧈 nel burro
 🫒 nell'olio d'oliva
