@@ -878,6 +878,7 @@ L'ATP e' un nucleotide ( Adenina base azotata, Ribosio, zucchero a 5 C, uno o pi
 
 ### Ciclo di Krebs
 
+Produce GTP, NADH e CO₂.
 Demolisce molecole energetiche per ricavare energia (**catabolico**). Avviene nella **matrice mitocondriale**.
 
 `molecole energetiche → CO₂ + energia trasferita a NADH e FADH₂`
@@ -891,6 +892,11 @@ Demolisce molecole energetiche per ricavare energia (**catabolico**). Avviene ne
 **Bilancio per 1 acetil-CoA:**
 
 `1 acetil-CoA → 2 CO₂ + 3 NADH + 1 FADH₂ + 1 ATP/GTP`
+
+GTP = Guanosina Trifosfato
+Quando perde un gruppo fosfato: GTP → GDP + Pi + energia
+viene liberata energia che la cellula può utilizzare.
+il GTP può essere convertito facilmente in ATP grazie all'enzima nucleoside difosfato chinasi
 
 ---
 
@@ -1148,7 +1154,7 @@ Il fago, infettando un batterio, può "portarsi dietro" per errore un pezzo di D
 
 I **Plasmidi R** sono piccoli DNA circolari batterici che portano geni di resistenza agli antibiotici. I plasmidi R possono passare da un batterio all'altro, soprattutto tramite **coniugazione** batterica. Quindi la resistenza può diffondersi rapidamente.
 
-Un **Operone** è un gruppo di geni batterici comandati dallo stesso interruttore.
+Un **Operone** è un gruppo di geni dei procarioti che vengono controllati insieme e trascritti come un'unica molecola di mRNA. Invece di avere un promotore per ogni gene (come negli eucarioti), i batteri spesso raggruppano geni che svolgono la stessa funzione.
 
 **Agenti patogeni:**
 
@@ -1510,7 +1516,6 @@ Cellule del sangue
 ```			
 
 
-
 I granulociti prendono il nome proprio dal tipo di colorante con cui i loro granuli si colorano meglio.
 
 |Tipo|%|Categoria|Funzione principale|
@@ -1534,6 +1539,8 @@ La loro funzione principale è la fagocitosi: riconoscono i batteri, li ingloban
 Linfociti (20–40%)
 
 I linfociti appartengono agli agranulociti, cioè non possiedono granuli evidenti nel citoplasma. Sono le cellule principali dell'immunità specifica (o adattativa), cioè quella che riconosce uno specifico microrganismo e conserva memoria dell'infezione.
+I linfociti non fanno fagocitosi. La fagocitosi è svolta da cellule come:  macrofagi; neutrofili; cellule dendritiche. La fagocitosi consiste nell'inglobare il bersaglio e digerirlo.
+
 
 Esistono tre tipi principali:
 
@@ -2391,7 +2398,7 @@ Riversano il loro prodotto direttamente nel sangue.
 |Aldosterone|Corteccia surrenale, zona glomerulare|
 |Adrenalina|Midollare del surrene|
 
-
+La calcitonina abbassa la concentrazione di calcio (Ca²⁺) nel sangue.
 
 La tiroide produce gli ormoni: Tiroxina (T4) e Triiodotironina (T3)  aumentano il consumo di energia e regolano la velocità del metabolismo
 
@@ -4385,7 +4392,7 @@ Produce:
 
 Le fasi successive avvengono nei MITOCONDRI, le "centrali energetiche" della cellula.
 
-Ciclo di Krebs
+**Ciclo di Krebs**
 
 Il piruvato entra nei mitocondri e viene trasformato in Acetil-CoA. Qui viene completamente demolito.
 Produce:  CO₂ NADH FADH₂ 2 ATP
@@ -4398,13 +4405,7 @@ I NADH e i FADH₂ cedono elettroni.
 
 Gli elettroni attraversano numerose proteine della membrana mitocondriale.
 
-Alla fine vengono catturati dall'ossigeno.
-
-L'ossigeno si combina con:
-elettroni
-protoni (H⁺)
-
-formando:
+Alla fine vengono catturati dall'ossigeno. L'ossigeno si combina con: elettroni, protoni (H⁺), formando:
 
 O2 + 4H+ + 4e− → 2H2O
 
@@ -4477,13 +4478,9 @@ V → produce ATP grazie al flusso dei protoni.
 
 **FERMENTAZIONE ALCOLICA**
 
-Alcuni organismi, come i lieviti, trasformano invece il piruvato in:
-etanolo e anidride carbonica.
-Equazione:
-Glucosio → 2 Etanolo + 2CO2 + 2 ATP
-
+Alcuni organismi, come i lieviti, trasformano invece il piruvato in etanolo e anidride carbonica.
+Equazione: Glucosio → 2 Etanolo + 2CO2 + 2 ATP
 Questa fermentazione è usata per produrre: pane; birra; vino. Avviene in assenza di ossigeno (anaerobiosi).
-
 L'acido acetico è il principale componente dell'aceto ed è prodotto da batteri acetici che ossidano l'etanolo.
 
 
@@ -5771,12 +5768,27 @@ Actina + Miosina
 
 Il muscolo è striato perché actina e miosina sono disposte in modo molto ordinato.
 Al microscopio si osservano:
-bande A (scure)
-bande I (chiare)
+bande A (scure: contengono filamenti di actina - sottili - e miosina - spessi - sovrapposti, con una zona H centrale composta solo da filamenti di miosina.
+bande I (chiare): solo actina
 Questa alternanza produce l'aspetto striato.
+Z = confine del sarcomero, alle linee Z sono fissati i filamenti di actina
+M = middle, al centro del sarcomero dove sono ancorati i filamenti di miosina
 
-
-
+```
+Z      I           A             I      Z
+|------|=========================|------|
+       ↑         ↑        ↑
+    actina   actina      actina
+             +miosina
+               │
+            ----H----
+              solo
+            miosina
+               │
+               M
+```			   
+Z → I → A → H → M → H → A → I → Z
+			   
 
 ## DA RIVEDERE
 
