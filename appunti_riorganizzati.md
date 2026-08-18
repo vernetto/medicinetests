@@ -2610,19 +2610,17 @@ Fulcro      Potenza      Resistenza
 |**Ammine**|-NH₂|R-NH₂|**-ammina**|Etanammina (CH₃CH₂NH₂)|
 |**Anidride**|-CO-O-CO-|(RCO)₂O|**Anidride ...ica / ...oica**|Anidride etanoica|
 
-
-
 C=O gruppo carbonile, COOH gruppo carbossile , CHO gruppo aldeidico
 
 Regola mnemonica (in ordine crescente di "peso" degli atomi):
 
 ```
--OH → alcol
 -O- → etere
+-OH → alcOHol
+-CO- → ChetOne
 -CHO → aldeide
--CO- → chetone
--COOH → acido carbossilico
 -COO- → estere
+-COOH → acido carbossilico
 -CO-O-CO- → anidride
 -CONH₂ → ammide
 -NH₂ → ammina
@@ -2745,7 +2743,7 @@ I polisaccaridi sono catene formate da tanti monosaccaridi uniti tra loro da leg
 
 Carboidrati detti anche Glucidi o Saccaridi o Idrati di carbonio.
 
-**Monosaccaridi importanti:** glucosio, fruttosio, galattosio (isomeri, formula C₆H₁₂O₆, tutti esosi)
+**Monosaccaridi importanti:** glucosio (poliidrossialdeide), fruttosio (poliidrossichetone), galattosio (isomeri, formula C₆H₁₂O₆, tutti esosi)
 
 Hanno molti gruppi ossidrile OH, per questo sono molto solubili in acqua, perchè OH forma legami a idrogeno con l'acqua.
 
@@ -3788,7 +3786,7 @@ L’azoto ha un doppietto elettronico libero e può accettare un protone H+  dal
 R−NH2 ​ + H2O ⇌ R−NH3+ + OH−
 Quindi diventa: R−NH3+, cioè ione ammonio alchilico. Quindi si comporta da base di Brønsted, perché accetta protoni. Esempio: Metilammina CH3​−NH2​ è una ammina primaria. Dimetilammina CH3​−NH−CH3​ ammina secondaria. Trimetilammina (CH3​)3​N ammina terziaria.
 
-Le AMMIDI derivano invece dagli acidi carbossilici COOH. Si ottengono sostituendo il gruppo –OH del gruppo carbossilico con –NH₂, –NHR oppure –NR₂. R−CO−NH2​ oppure R−CO−NHR oppure R−CO−NR2​ . Nelle ammidi compare sempre il gruppo C=O. Quando due amminoacidi si uniscono si forma il legame peptidico, che è proprio un tipo di legame ammidico.
+Le AMMIDI derivano invece dagli acidi carbossilici COOH. Si ottengono sostituendo il gruppo –OH del gruppo carbossilico con –NH₂, –NHR oppure –NR₂. R−CO−NH2​ oppure R−CO−NHR oppure R−CO−NR2​ . Per riconoscere un'ammide, cerca il gruppo: CONH2. Nelle ammidi compare sempre il gruppo C=O. Quando due amminoacidi si uniscono si forma il legame peptidico, che è proprio un tipo di legame ammidico.
 
 Il gruppo CARBONILICO è: C=O
 Nei CHETONI, quel carbonio del carbonile è legato ad altri due carboni: R−CO−R′ (es. propanone / acetone CH3−CO−CH3 ), per cui non è terminale.
