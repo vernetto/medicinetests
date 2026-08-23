@@ -401,6 +401,31 @@
   const STORAGE_KEY_REVIEW = 'bio-tracker-review-v1';
   const STORAGE_KEY_ANSWERS = 'bio-tracker-answers-v1';
 
+  // Shim di persistenza: usa window.storage quando disponibile (dentro un artifact
+  // Claude.ai); se manca o fallisce (es. file aperto direttamente nel browser),
+  // ripiega su localStorage con la stessa interfaccia, cosi' i dati sopravvivono
+  // comunque a un F5. localStorage e' per-origine: se il file resta salvato sempre
+  // nello stesso percorso/dominio, i dati restano; se lo apri da percorsi diversi
+  // (file:// su cartelle diverse, o browser diversi), sono storage separati.
+  const storage = {
+    async get(key, shared){
+      if(window.storage && window.storage.get){
+        try{ return await window.storage.get(key, shared); }
+        catch(e){ /* fallback sotto */ }
+      }
+      const v = localStorage.getItem(key);
+      return v === null ? null : {key, value:v, shared:!!shared};
+    },
+    async set(key, value, shared){
+      if(window.storage && window.storage.set){
+        try{ return await window.storage.set(key, value, shared); }
+        catch(e){ /* fallback sotto */ }
+      }
+      localStorage.setItem(key, value);
+      return {key, value, shared:!!shared};
+    }
+  };
+
   let dailyLog = []; // [{date:'YYYY-MM-DD', total:number, hourly:{'HH':{tests,minutes}}}]
   let toReview = []; // numeri di test flaggati per essere rivisti
   let answers = {}; // {'3501':'D', ...} numero_quesito -> risposta A-E
@@ -454,7 +479,7 @@
 
   async function loadState(){
     try{
-      const res = await window.storage.get(STORAGE_KEY, false);
+      const res = await storage.get(STORAGE_KEY, false);
       if(res && res.value){
         state = Object.assign(defaultState(), JSON.parse(res.value));
       }
@@ -466,7 +491,7 @@
 
   async function saveState(){
     try{
-      await window.storage.set(STORAGE_KEY, JSON.stringify(state), false);
+      await storage.set(STORAGE_KEY, JSON.stringify(state), false);
     }catch(e){
       trackStatus.textContent = 'Attenzione: salvataggio non riuscito, i dati potrebbero non persistere.';
     }
@@ -474,7 +499,7 @@
 
   async function loadDailyLog(){
     try{
-      const res = await window.storage.get(STORAGE_KEY_DAILY, false);
+      const res = await storage.get(STORAGE_KEY_DAILY, false);
       if(res && res.value){
         dailyLog = JSON.parse(res.value);
       }
@@ -485,7 +510,7 @@
 
   async function saveDailyLog(){
     try{
-      await window.storage.set(STORAGE_KEY_DAILY, JSON.stringify(dailyLog), false);
+      await storage.set(STORAGE_KEY_DAILY, JSON.stringify(dailyLog), false);
     }catch(e){
       trackStatus.textContent = 'Attenzione: salvataggio del log giornaliero non riuscito.';
     }
@@ -493,7 +518,7 @@
 
   async function loadToReview(){
     try{
-      const res = await window.storage.get(STORAGE_KEY_REVIEW, false);
+      const res = await storage.get(STORAGE_KEY_REVIEW, false);
       if(res && res.value){
         toReview = JSON.parse(res.value);
       }
@@ -504,7 +529,7 @@
 
   async function saveToReview(){
     try{
-      await window.storage.set(STORAGE_KEY_REVIEW, JSON.stringify(toReview), false);
+      await storage.set(STORAGE_KEY_REVIEW, JSON.stringify(toReview), false);
     }catch(e){
       reviewStatus.textContent = 'Attenzione: salvataggio della lista da rivedere non riuscito.';
     }
@@ -512,7 +537,7 @@
 
   async function loadAnswers(){
     try{
-      const res = await window.storage.get(STORAGE_KEY_ANSWERS, false);
+      const res = await storage.get(STORAGE_KEY_ANSWERS, false);
       if(res && res.value){
         answers = JSON.parse(res.value);
       }
@@ -524,7 +549,7 @@
 
   async function saveAnswers(){
     try{
-      await window.storage.set(STORAGE_KEY_ANSWERS, JSON.stringify(answers), false);
+      await storage.set(STORAGE_KEY_ANSWERS, JSON.stringify(answers), false);
     }catch(e){
       answersStatus.textContent = 'Attenzione: salvataggio delle risposte non riuscito.';
     }
@@ -606,22 +631,46 @@
         80%{opacity:1;}
         100%{opacity:0;transform:translate(-50%,-60%) scale(1);}
       }
+      .fw-msg-big{font-size:1.9rem;color:#ffd166;
+        animation:fw-msg-pop-big 3.4s ease-out forwards;}
+      .fw-msg-epic{font-size:2.4rem;color:#ff9f43;
+        text-shadow:0 0 20px rgba(255,159,67,.8),0 0 8px rgba(0,0,0,.6);
+        animation:fw-msg-pop-epic 4.6s ease-out forwards;}
+      @keyframes fw-msg-pop-big{
+        0%{opacity:0;transform:translate(-50%,-50%) scale(0.5);}
+        12%{opacity:1;transform:translate(-50%,-50%) scale(1.15);}
+        22%{transform:translate(-50%,-50%) scale(1);}
+        85%{opacity:1;}
+        100%{opacity:0;transform:translate(-50%,-60%) scale(1);}
+      }
+      @keyframes fw-msg-pop-epic{
+        0%{opacity:0;transform:translate(-50%,-50%) scale(0.4);}
+        10%{opacity:1;transform:translate(-50%,-50%) scale(1.25);}
+        18%{transform:translate(-50%,-50%) scale(1);}
+        45%{transform:translate(-50%,-50%) scale(1.06);}
+        55%{transform:translate(-50%,-50%) scale(1);}
+        90%{opacity:1;}
+        100%{opacity:0;transform:translate(-50%,-60%) scale(1);}
+      }
     `;
     document.head.appendChild(style);
   }
 
   const FW_COLORS = ['#ff5e5e','#ffd166','#8fe3a1','#5ec8ff','#c792ea','#ff9f43','#ffffff'];
 
-  function launchFireworkBurst(container, cx, cy, delayMs){
-    const particleCount = 22 + Math.floor(Math.random()*10);
+  function launchFireworkBurst(container, cx, cy, delayMs, scale){
+    scale = scale || 1;
+    const particleCount = Math.round((22 + Math.floor(Math.random()*10)) * scale);
+    const burstDuration = (1.1 * (0.85 + scale*0.3)).toFixed(2);
     for(let i=0;i<particleCount;i++){
       const p = document.createElement('div');
       p.className = 'fw-particle';
+      p.style.animationDuration = burstDuration + 's';
       const angle = (Math.PI*2*i)/particleCount + Math.random()*0.3;
-      const dist = 60 + Math.random()*90;
+      const dist = (60 + Math.random()*90) * (0.8 + scale*0.35);
       const dx = Math.cos(angle)*dist;
       const dy = Math.sin(angle)*dist;
-      const size = 4 + Math.random()*5;
+      const size = (4 + Math.random()*5) * (0.85 + scale*0.25);
       p.style.left = cx + 'px';
       p.style.top = cy + 'px';
       p.style.width = size + 'px';
@@ -634,27 +683,44 @@
     }
   }
 
+  // Livelli di intensita' in base al traguardo raggiunto:
+  //  - multiplo di 100 -> "epic": tanti burst, particelle piu' grandi/veloci, dura di piu'
+  //  - multiplo di 50  -> "big": via di mezzo
+  //  - altrimenti      -> "normal": comportamento originale
+  function fireworksTier(totalNow){
+    if(totalNow > 0 && totalNow % 100 === 0) return 'epic';
+    if(totalNow > 0 && totalNow % 50 === 0) return 'big';
+    return 'normal';
+  }
+
   function triggerFireworks(totalNow){
     injectFireworksStyle();
     const overlay = document.createElement('div');
     overlay.className = 'fw-overlay';
     document.body.appendChild(overlay);
 
+    const tier = fireworksTier(totalNow);
+    const cfg = {
+      normal: {bursts: 3, spacing: 260, scale: 1, overlayMs: 2600, msgClass: ''},
+      big:    {bursts: 6, spacing: 220, scale: 1.4, overlayMs: 3600, msgClass: ' fw-msg-big'},
+      epic:   {bursts: 10, spacing: 190, scale: 1.9, overlayMs: 4800, msgClass: ' fw-msg-epic'}
+    }[tier];
+
     const w = window.innerWidth;
     const h = window.innerHeight;
-    const bursts = 3;
-    for(let b=0; b<bursts; b++){
-      const cx = w * (0.25 + Math.random()*0.5);
-      const cy = h * (0.2 + Math.random()*0.35);
-      launchFireworkBurst(overlay, cx, cy, b*260);
+    for(let b=0; b<cfg.bursts; b++){
+      const cx = w * (0.15 + Math.random()*0.7);
+      const cy = h * (0.15 + Math.random()*0.45);
+      launchFireworkBurst(overlay, cx, cy, b*cfg.spacing, cfg.scale);
     }
 
     const msg = document.createElement('div');
-    msg.className = 'fw-msg';
-    msg.textContent = '🎉 ' + totalNow + ' test oggi!';
+    msg.className = 'fw-msg' + cfg.msgClass;
+    const prefix = tier === 'epic' ? '🎆🎉 ' : (tier === 'big' ? '🎇🎉 ' : '🎉 ');
+    msg.textContent = prefix + totalNow + ' test oggi!';
     overlay.appendChild(msg);
 
-    setTimeout(() => overlay.remove(), 2600);
+    setTimeout(() => overlay.remove(), cfg.overlayMs);
   }
 
   function dateKey(ms){
@@ -742,6 +808,11 @@
     state.pauses = [];
     state.startTime = Date.now();
     state.startNumber = state.lastNumber;
+
+    // Se l'utente stava visualizzando un giorno storico (o comunque un giorno
+    // diverso da quello nuovo), riportiamo la vista sulla sessione live cosi'
+    // il grafico "test per ora" mostra subito la giornata appena iniziata.
+    selectedDay = null;
 
     await saveState();
     return true;
@@ -1005,6 +1076,10 @@
   // il ritmo per quella finestra viene mostrato come "—" invece di un numero fuorviante.
   const MIN_MINUTES_FOR_RATE = 10/60; // 10 secondi
 
+  // Soglia minima di esercizi svolti in una fascia oraria perche' quella fascia
+  // contribuisca al calcolo del "Ritmo medio /h" (vedi renderTable).
+  const MIN_TESTS_FOR_RATE_AVG = 5;
+
   function renderTable(){
     const {hourly, isLive} = getActiveHourlySource();
     const keys = Object.keys(hourly).sort();
@@ -1056,13 +1131,20 @@
     tableWrap.innerHTML = html;
 
     const totalTests = rows.reduce((s,r) => s + r.tests, 0);
-    let avgRate;
-    if(isLive){
-      avgRate = getSessionAverageRate();
-    } else {
-      const totalMinutes = rows.reduce((s,r) => s + r.minutes, 0);
-      avgRate = totalMinutes >= MIN_MINUTES_FOR_RATE ? (totalTests/totalMinutes)*60 : null;
-    }
+
+    // Il "Ritmo medio /h" considera tutte le fasce orarie con un tempo trascorso
+    // sufficientemente affidabile (stesso criterio MIN_MINUTES_FOR_RATE usato per il
+    // ritmo di ogni singola fascia, cioe' r.rate !== null).
+    // FIX: prima richiedeva almeno MIN_TESTS_FOR_RATE_AVG (5) test nella STESSA ora
+    // per far "qualificare" quell'ora alla media — ma chi studia con un ritmo normale
+    // raramente concentra 5+ test in una singola fascia oraria, quindi qualifyingRows
+    // restava quasi sempre vuoto e "Ritmo medio /h" mostrava "—" a tempo indeterminato,
+    // indipendentemente da quanti test totali fossero stati svolti.
+    const qualifyingRows = rows.filter(r => r.rate !== null);
+    const qualifyingTests = qualifyingRows.reduce((s,r) => s + r.tests, 0);
+    const qualifyingMinutes = qualifyingRows.reduce((s,r) => s + r.minutes, 0);
+    const avgRate = qualifyingMinutes >= MIN_MINUTES_FOR_RATE ? (qualifyingTests/qualifyingMinutes)*60 : null;
+
     const bestRow = rows.find(r => r.rate !== null && r.rate === bestRate);
 
     totalsEl.style.display = 'flex';
@@ -1137,7 +1219,14 @@
       // Tutti i test del delta vengono accreditati per intero all'ora in cui avviene
       // il click su "Track" (ora corrente), anche se l'intervallo dall'ultimo track
       // e' iniziato nell'ora precedente: niente piu' ripartizione proporzionale tra ore.
-      const activeSegments = computeActiveSegments(state.lastTime, now, state.pauses.filter(p => p.end > state.lastTime));
+      // FIX: se nel frattempo e' scattato un checkDayRollover(), state.startTime e'
+      // stato appena riportato a "adesso" mentre state.lastTime puo' ancora risalire
+      // al giorno precedente (es. ultimo track della sera prima). Senza questo cap,
+      // l'intera pausa notturna verrebbe conteggiata come tempo attivo, gonfiando
+      // a dismisura i minuti della fascia oraria (es. 1000+ minuti per pochi test) e
+      // quindi azzerando di fatto il ritmo calcolato per quella fascia.
+      const segStart = Math.max(state.lastTime, state.startTime);
+      const activeSegments = computeActiveSegments(segStart, now, state.pauses.filter(p => p.end > segStart));
       const totalActiveMs = activeSegments.reduce((s,seg) => s + (seg.end - seg.start), 0);
       const minutes = totalActiveMs > 0 ? (totalActiveMs / 60000) : 0.01;
       addToHourly(hourKey(now), delta, minutes);

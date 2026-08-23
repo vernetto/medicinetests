@@ -1,7 +1,3 @@
-4635 10.08.2026
-4841 11.08.2026
-
-
 # APPUNTI – PREPARAZIONE ESAME
 
 ---
@@ -2626,6 +2622,30 @@ Regola mnemonica (in ordine crescente di "peso" degli atomi):
 -NH₂ → ammina
 ```
 
+# Reazioni Principali dei Composti Organici
+
+| Reagente di partenza | Reazione | Prodotto principale | Note / Condizioni particolari |
+| :--- | :--- | :--- | :--- |
+| **Alcol Primario** (R-CH2OH) | Deidrogenazione | **Aldeide** + H2 | Catalizzata da Rame (Cu) a 300 °C |
+| **Alcol Secondario** (R2CH-OH) | Deidrogenazione | **Chetone** + H2 | Catalizzata da Rame (Cu) a 300 °C |
+| **Alcol Terziario** (R3C-OH) | Deidrogenazione | **Nessuna reazione** | Manca l'H sul carbonio alfa (in ambiente acido deidrata) |
+| **Alcano** (R-CH2-CH3) | Deidrogenazione | **Alchene** + H2 | Catalizzatori metallici (Pt, Pd, Ni) e alta temp |
+| **Alchene** (R-CH=CH-R) | Deidrogenazione | **Alchino** / **Diene** + H2 | Condizioni industriali ad alta temp |
+| **Alcol Primario** (R-CH2OH) | Ossidazione blanda | **Aldeide** (R-CHO) | Es. con PCC (Piridinio clorocromato) |
+| **Alcol Primario** (R-CH2OH) | Ossidazione forte | **Acido Carbossilico** (R-COOH) | Es. con KMnO4 o K2Cr2O7 |
+| **Alcol Secondario** (R2CH-OH) | Ossidazione | **Chetone** (R2C=O) | Non si ossida ulteriormente |
+| **Alcol Terziario** (R3C-OH) | Ossidazione | **Nessuna reazione** | Manca l'idrogeno sul carbonio alfa |
+| **Alcol** (R-OH) | Deidratazione intramolecolare | **Alchene** | Catalisi acida (H2SO4), alta temperatura |
+| **Alcol** (R-OH) | Deidratazione intermolecolare | **Etere** | Tra 2 molecole di alcol a temperatura moderata |
+| **Aldeide** (R-CHO) | Ossidazione | **Acido Carbossilico** | Come nel quiz dell'immagine |
+| **Aldeide** (R-CHO) | Riduzione | **Alcol Primario** | Con agenti riducenti (es. LiAlH4, NaBH4) |
+| **Chetone** (R2C=O) | Ossidazione | **Nessuna reazione** | Resiste in condizioni normali |
+| **Chetone** (R2C=O) | Riduzione | **Alcol Secondario** | Con LiAlH4 o NaBH4 |
+| **Acido Carbossilico** + **Alcol** | Esterificazione (Fischer) | **Estere** + H2O | Catalisi acida |
+| **Estere** + H2O | Idrolisi acida | **Acido Carbossilico** + **Alcol** | Reazione reversibile |
+| **Estere** + Base forte | Idrolisi basica (Saponificazione) | **Sale dell'acido** + **Alcol** | Reazione irreversibile |
+| **Etere** (R-O-R') | Scissione con acidi forti | **Alogenuro alchilico** + **Alcol** | Reagisce tipicamente con HI o HBr concentrati |
+
 
 
 **Alcoli classificati per carbonio con –OH:**
@@ -3276,6 +3296,10 @@ la pressione osmotica dipende dal numero totale di particelle, non dal numero di
 
 L'acqua può coesistere contemporaneamente nei tre stati solido, liquido e aeriforme in una condizione molto particolare chiamata PUNTO TRIPLO. Temperatura: 0,01 °C (273,16 K)  Pressione: 611,657 Pa (circa 0,006 atm o 6,11 mbar)
 
+Molarità (M) → moli di soluto / litro di soluzione
+Normalità (N) → grammo-equivalenti / litro di soluzione
+Molalità (m) → moli di soluto / kg di solvente
+grammo-equivalenti = massa in grammi / peso equivalente
 
 
 ---
@@ -3786,7 +3810,7 @@ L’azoto ha un doppietto elettronico libero e può accettare un protone H+  dal
 R−NH2 ​ + H2O ⇌ R−NH3+ + OH−
 Quindi diventa: R−NH3+, cioè ione ammonio alchilico. Quindi si comporta da base di Brønsted, perché accetta protoni. Esempio: Metilammina CH3​−NH2​ è una ammina primaria. Dimetilammina CH3​−NH−CH3​ ammina secondaria. Trimetilammina (CH3​)3​N ammina terziaria.
 
-Le AMMIDI derivano invece dagli acidi carbossilici COOH. Si ottengono sostituendo il gruppo –OH del gruppo carbossilico con –NH₂, –NHR oppure –NR₂. R−CO−NH2​ oppure R−CO−NHR oppure R−CO−NR2​ . Per riconoscere un'ammide, cerca il gruppo: CONH2. Nelle ammidi compare sempre il gruppo C=O. Quando due amminoacidi si uniscono si forma il legame peptidico, che è proprio un tipo di legame ammidico.
+Le AMMIDI R-CONH2 derivano invece dagli acidi carbossilici COOH. Si ottengono sostituendo il gruppo –OH del gruppo carbossilico con –NH₂, –NHR oppure –NR₂. R−CO−NH2​ oppure R−CO−NHR oppure R−CO−NR2​ . Per riconoscere un'ammide, cerca il gruppo: CONH2. Nelle ammidi compare sempre il gruppo C=O. Quando due amminoacidi si uniscono si forma il legame peptidico, che è proprio un tipo di legame ammidico.
 
 Il gruppo CARBONILICO è: C=O
 Nei CHETONI, quel carbonio del carbonile è legato ad altri due carboni: R−CO−R′ (es. propanone / acetone CH3−CO−CH3 ), per cui non è terminale.
