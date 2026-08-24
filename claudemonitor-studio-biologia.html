@@ -350,7 +350,7 @@
 
       <div class="card">
         <h2>Test per giorno</h2>
-        <div id="dailyWrap"><p class="empty-hint">Nessun giorno registrato ancora.</p></div>
+        <div id="dailyWrap" class="table-scroll"><p class="empty-hint">Nessun giorno registrato ancora.</p></div>
         <div class="status-line" id="dailyHint" style="display:none;">Clicca su un giorno per vederne il dettaglio orario.</div>
       </div>
 
@@ -1041,7 +1041,7 @@
       if(idx >= 0) display[idx].total += state.totalTests;
       else display.push({date:key, total:state.totalTests});
     }
-    display.sort((a,b) => a.date.localeCompare(b.date));
+    display.sort((a,b) => b.date.localeCompare(a.date));
 
     if(display.length === 0){
       dailyWrap.innerHTML = '<p class="empty-hint">Nessun giorno registrato ancora.</p>';

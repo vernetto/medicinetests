@@ -2645,7 +2645,7 @@ Regola mnemonica (in ordine crescente di "peso" degli atomi):
 | **Estere** + H2O | Idrolisi acida | **Acido Carbossilico** + **Alcol** | Reazione reversibile |
 | **Estere** + Base forte | Idrolisi basica (Saponificazione) | **Sale dell'acido** + **Alcol** | Reazione irreversibile |
 | **Etere** (R-O-R') | Scissione con acidi forti | **Alogenuro alchilico** + **Alcol** | Reagisce tipicamente con HI o HBr concentrati |
-
+| **Acido Carbossilico** + **Ammoniaca** | Amidazione | **Ammide** + H2O |  |
 
 
 **Alcoli classificati per carbonio con –OH:**
