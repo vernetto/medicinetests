@@ -1082,7 +1082,7 @@
 
   function renderTable(){
     const {hourly, isLive} = getActiveHourlySource();
-    const keys = Object.keys(hourly).sort();
+    const keys = Object.keys(hourly).sort().reverse();
     if(keys.length === 0){
       tableWrap.innerHTML = '<p class="empty-hint">' +
         (isLive ? 'Nessun dato ancora. Inizia la sessione e registra qualche track.' : 'Nessun dato orario per questo giorno.') +

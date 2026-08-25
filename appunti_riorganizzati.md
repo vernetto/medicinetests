@@ -3343,18 +3343,19 @@ L'energia interna di un gas perfetto è la somma delle energie cinetiche delle d
 | Formula | |
 |---|
 | sin(2x) = 2 sin(x) cos(x) |
-| cos(2x) = cos²x - sin²x |
-| cos(2x) = 2cos²x - 1 |
+| cos(2x) = cos²x - sin²x  = 1 - 2 sin²x = 2 cos²x - 1 |
 | cos²x = 1 − sin²x |
 | cos(a + b) = cos(a)·cos(b) – sin(a)·sin(b) |
 | sin(x) = cos(90° − x) |
 
-|Angolo|sin|
-|-|-|
-|15°|(√6 − √2)/4 ≈ 0,259|
-|30°|1/2|
-|45°|√2/2 ≈ 0,707|
-|60°|√3/2 ≈ 0,866|
+|Angolo|sin|cos|
+|-|-|-|
+|15°| (√6 − √2)/4 ≈ 0,259| 0,966|
+|30°| 1/2| √3/2 = 0,866|
+|45°| √2/2 ≈ 0,707| 0.707|
+|60°| √3/2 ≈ 0,866| 0,5|
+
+
 
 ---
 
@@ -3375,6 +3376,8 @@ L'energia interna di un gas perfetto è la somma delle energie cinetiche delle d
 * (a^m)^n = a ^ (m ⋅ n)
 * **Distanza punto–retta:** se il punto è P = (x₀, y₀), la retta è ax+by+c=0:
 `d = |a·x₀ + b·y₀ + c| / √(a² + b²)`
+
+volume del cono : V = 1/3 pi R^2 H dove H e' l'altezza e R il raggio
 
 ---
 
