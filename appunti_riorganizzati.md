@@ -3355,7 +3355,56 @@ L'energia interna di un gas perfetto è la somma delle energie cinetiche delle d
 |45°| √2/2 ≈ 0,707| 0.707|
 |60°| √3/2 ≈ 0,866| 0,5|
 
+---
 
+### LOGARITMI
+
+log a (b) = x -> a^x = b
+es. log 2 (8) = 3
+
+Moltiplicazione:
+log a (z x y) = log a (z) + log a (y)
+es. log 2 (8 x 4 ) = log 2 (8) + log 2 (4) = 3 + 2 = 5
+
+Divisione:
+log a (z / y) = log a (z) - log a (y)
+es. log 2 (8 / 4 ) = log 2 (8) - log 2 (4) = 3 - 2 = 1
+
+Potenza:
+log a ( x ^ n ) = n log a (x)
+es. log 4 (16) = 4 log 4 (2) = 4 1/2 = 1/2
+
+
+
+log a^m (a^n) = n/m
+
+es. log 16 (4) = log 2^4 (2^2) = 1/2
+
+log a ( x ^ n) = n log a (x)
+
+log a (1 ) = 0
+
+log a ( a ) = 1
+
+log a (b) = log (b) / log (a) = ln (a) / ln (b)
+
+
+
+### EQUAZIONI DI SECONDO GRADO
+
+ax2 + bx + c = 0
+
+soluzioni:
+
+x 1,2 = (- b +- sqrt(b^2 - 4ac) ) / 2a
+
+teorema di Viète:
+
+x1 + x2 = - b/a
+
+x1 x x2 = c/a
+
+discriminante = b^2 - 4ac = (x1 - x2) ^ 2
 
 ---
 
@@ -4658,54 +4707,6 @@ Rispetto alle cellule staminali dell'adulto:
 * hanno accumulato meno mutazioni;
 * provocano più raramente rigetto nei trapianti.
 
-
-
-### LOGARITMI
-
-log a (b) = x -> a^x = b
-es. log 2 (8) = 3
-
-Moltiplicazione:
-log a (z x y) = log a (z) + log a (y)
-es. log 2 (8 x 4 ) = log 2 (8) + log 2 (4) = 3 + 2 = 5
-
-Divisione:
-log a (z / y) = log a (z) - log a (y)
-es. log 2 (8 / 4 ) = log 2 (8) - log 2 (4) = 3 - 2 = 1
-
-Potenza:
-log a ( x ^ n ) = n log a (x)
-es. log 4 (16) = 4 log 4 (2) = 4 1/2 = 1/2
-
-
-
-log a^m (a^n) = n/m
-
-es. log 16 (4) = log 2^4 (2^2) = 1/2
-
-log a ( x ^ n) = n log a (x)
-
-log a (1 ) = 0
-
-log a ( a ) = 1
-
-log a (b) = log (b) / log (a) = ln (a) / ln (b)
-
-
-
-### EQUAZIONI DI SECONDO GRADO
-
-ax2 + bx + c = 0
-
-soluzioni:
-
-x 1,2 = (- b +- sqrt(b^2 - 4ac) ) / 2a
-
-teorema di Viète:
-
-x1 + x2 = - b/a
-
-x1 x x2 = c/a
 
 
 
