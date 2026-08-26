@@ -3347,6 +3347,8 @@ L'energia interna di un gas perfetto è la somma delle energie cinetiche delle d
 | cos²x = 1 − sin²x |
 | cos(a + b) = cos(a)·cos(b) – sin(a)·sin(b) |
 | sin(x) = cos(90° − x) |
+| sin(A) - sin(B) = 2 cos((A + B)/2) sin((A - B) / 2)|
+
 
 |Angolo|sin|cos|
 |-|-|-|
