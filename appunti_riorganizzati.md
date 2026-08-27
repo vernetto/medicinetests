@@ -3354,8 +3354,8 @@ L'energia interna di un gas perfetto è la somma delle energie cinetiche delle d
 |-|-|-|
 |15°| (√6 − √2)/4 ≈ 0,259| 0,966|
 |30°| 1/2| √3/2 = 0,866|
-|45°| √2/2 ≈ 0,707| 0.707|
-|60°| √3/2 ≈ 0,866| 0,5|
+|45° (π/4)| √2/2 ≈ 0,707| 0.707|
+|60° (π/3) | √3/2 ≈ 0,866| 0,5|
 
 ---
 
@@ -3420,7 +3420,8 @@ discriminante = b^2 - 4ac = (x1 - x2) ^ 2
 
 ### Geometria e algebra
 
-* Volume sfera: 4/3 πr^3 Area cerchio: A = πr² | Circonferenza: C = 2πr
+* Volume sfera: 4/3 πr^3 , superficie sfera 4πr²
+* Area cerchio: A = πr² | Circonferenza: C = 2πr
 * a^(1/n) = radice n-esima di a
 * a^(-n) = 1/(a^n)
 * a^m ⋅ a^n = a^(m+n)
@@ -3429,6 +3430,11 @@ discriminante = b^2 - 4ac = (x1 - x2) ^ 2
 `d = |a·x₀ + b·y₀ + c| / √(a² + b²)`
 
 volume del cono : V = 1/3 pi R^2 H dove H e' l'altezza e R il raggio
+
+
+La formula della circonferenza è: (x−h)^2 + (y−k)^2 = r^2  dove (h,k) sono le coordinate del centro
+
+
 
 ---
 
@@ -3452,6 +3458,8 @@ quindi R = 4 ρ L / πd^2​
 
 P = V x I    V = R x I    P = R x I^2   P = V^2 / R
 
+
+Il potenziale elettrico generato da una sfera conduttrice carica (nei punti esterni alla sfera) è: V = kQ/d dove d e' la distanza dal centro
 
 
 ---
