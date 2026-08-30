@@ -797,6 +797,7 @@ Regole chiave:
 
 ### Anemia falciforme
 
+Autosomica recessiva.
 Causata da una mutazione nella catena beta dell'emoglobina.
 
 * Emoglobina normale: HbA; falciforme: HbS
