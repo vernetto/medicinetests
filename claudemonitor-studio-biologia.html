@@ -595,13 +595,13 @@
 
   // Totale test del giorno "corrente" (giorno a cui appartiene la sessione attiva):
   // somma quanto gia' archiviato in dailyLog per quel giorno con la sessione live.
-  // Usato solo per decidere quando far scattare i fuochi d'artificio ogni multiplo di 10.
+  // Usato per i fuochi d'artificio ogni multiplo di 10 e per il pallino "Test totali".
   function getTodayTotal(){
-    if(!state.started) return 0;
-    const key = dateKey(state.startTime);
-    const entry = dailyLog.find(e => e.date === key);
+    const todayKey = dateKey(Date.now());
+    const entry = dailyLog.find(e => e.date === todayKey);
     const archived = entry ? entry.total : 0;
-    return archived + state.totalTests;
+    const live = (state.started && dateKey(state.startTime) === todayKey) ? state.totalTests : 0;
+    return archived + live;
   }
 
   // Piccolo spettacolo pirotecnico (qualche secondo), mostrato ogni volta che il
@@ -774,18 +774,46 @@
     return combined;
   }
 
+  // Combina, per la giornata odierna, quanto gia' archiviato in dailyLog (es. da un Reset
+  // precedente nella stessa giornata, o restaurato da un backup importato) con la sessione
+  // live in corso. Senza questo merge, "Test per ora" mostrerebbe solo la sessione live
+  // corrente, facendo sembrare azzerato lo storico di oggi ogni volta che si importa un
+  // backup o si ricomincia a tracciare dopo un Reset fatto in giornata.
+  // Per le ore con attivita' live viene ricalcolato il tempo realmente trascorso (al netto
+  // delle pause correnti); per le ore presenti solo nell'archivio si usano i minuti gia'
+  // salvati, dato che lo stato delle pause di quella sessione precedente non e' piu' noto.
+  function getTodayHourlySource(){
+    const todayKey = dateKey(Date.now());
+    const entry = dailyLog.find(e => e.date === todayKey);
+    const archivedHourly = (entry && entry.hourly) ? entry.hourly : {};
+    const liveHourly = (state.started && dateKey(state.startTime) === todayKey) ? state.hourly : {};
+    const keys = new Set([...Object.keys(archivedHourly), ...Object.keys(liveHourly)]);
+    const combined = {};
+    for(const k of keys){
+      const a = archivedHourly[k] || {tests:0, minutes:0};
+      const l = liveHourly[k];
+      const tests = a.tests + (l ? l.tests : 0);
+      let minutes;
+      if(l){
+        const {from, to} = hourWindowBounds(k);
+        minutes = activeMinutesInWindow(from, to) + a.minutes;
+      } else {
+        minutes = a.minutes;
+      }
+      combined[k] = {tests, minutes};
+    }
+    return combined;
+  }
+
   // Determina quale set di dati orari mostrare nei pannelli "Test per ora": la sessione
   // live (default, nessun giorno selezionato) oppure il giorno storico cliccato dall'utente.
   function getActiveHourlySource(){
+    const todayKey = dateKey(Date.now());
     if(selectedDay === null){
-      return {hourly: state.hourly, isLive: true};
+      return {hourly: getTodayHourlySource(), isLive: true};
     }
-    // Se il giorno cliccato e' lo stesso della sessione live in corso, i dati orari sono
-    // gli stessi: usiamo comunque il ricalcolo "live" dei minuti (basato sul tempo
-    // realmente trascorso adesso) invece dei minuti storici accumulati ad ogni track,
-    // che per il giorno ancora in corso possono risultare meno affidabili.
-    if(state.started && dateKey(state.startTime) === selectedDay){
-      return {hourly: state.hourly, isLive: true};
+    if(selectedDay === todayKey){
+      return {hourly: getTodayHourlySource(), isLive: true};
     }
     return {hourly: getDisplayHourlyForDate(selectedDay), isLive: false};
   }
@@ -914,7 +942,7 @@
     }
     const p1 = document.createElement('span');
     p1.className = 'pill on';
-    p1.textContent = 'Test totali: ' + state.totalTests;
+    p1.textContent = 'Test totali: ' + getTodayTotal();
     statusStrip.appendChild(p1);
 
     const p2 = document.createElement('span');
@@ -1091,19 +1119,13 @@
       return;
     }
 
-    // Per la sessione live ricalcoliamo i minuti realmente trascorsi (al netto delle
-    // pause correnti) per evitare ritmi assurdi su finestre artificialmente piccole.
-    // Per un giorno storico non abbiamo piu' lo stato di sessione/pause di quel giorno:
-    // usiamo quindi direttamente i minuti gia' accumulati e salvati per quella fascia oraria.
+    // I minuti per fascia oraria arrivano gia' correttamente calcolati da
+    // getActiveHourlySource() (ricalcolo live per le ore con attivita' nella sessione
+    // corrente, valori d'archivio per le ore gia' salvate in dailyLog): qui li usiamo
+    // cosi' come sono, senza ricalcolarli.
     const rows = keys.map(k => {
       const tests = hourly[k].tests;
-      let minutes;
-      if(isLive){
-        const {from, to} = hourWindowBounds(k);
-        minutes = activeMinutesInWindow(from, to);
-      } else {
-        minutes = hourly[k].minutes;
-      }
+      const minutes = hourly[k].minutes;
       const rate = minutes >= MIN_MINUTES_FOR_RATE ? (tests / minutes) * 60 : null;
       return {k, tests, minutes, rate};
     });
@@ -1202,39 +1224,36 @@
       return;
     }
 
-    if(val < state.lastNumber){
-      trackStatus.textContent = 'Il numero deve essere maggiore o uguale al precedente registrato (#' + state.lastNumber + ').';
-      return;
-    }
+    // Il numero in "numero test attuale" e' un riferimento libero (es. l'ID del quesito),
+    // non piu' un contatore progressivo: puo' essere qualsiasi valore, anche inferiore
+    // al precedente. Ogni click su Track vale sempre e comunque +1 test, sia sul totale
+    // della sessione sia sulla fascia oraria corrente.
 
     // Se questo e' il primo Track di un nuovo giorno, l'inizio della nuova giornata
     // corrisponde esattamente a questo click: archiviamo il giorno precedente e
-    // azzeriamo i contatori giornalieri, mantenendo pero' la numerazione dei test.
+    // azzeriamo i contatori giornalieri, mantenendo pero' la sessione attiva.
     await checkDayRollover();
 
-    const delta = val - state.lastNumber;
     const totalBefore = getTodayTotal();
 
-    if(delta > 0){
-      // Tutti i test del delta vengono accreditati per intero all'ora in cui avviene
-      // il click su "Track" (ora corrente), anche se l'intervallo dall'ultimo track
-      // e' iniziato nell'ora precedente: niente piu' ripartizione proporzionale tra ore.
-      // FIX: se nel frattempo e' scattato un checkDayRollover(), state.startTime e'
-      // stato appena riportato a "adesso" mentre state.lastTime puo' ancora risalire
-      // al giorno precedente (es. ultimo track della sera prima). Senza questo cap,
-      // l'intera pausa notturna verrebbe conteggiata come tempo attivo, gonfiando
-      // a dismisura i minuti della fascia oraria (es. 1000+ minuti per pochi test) e
-      // quindi azzerando di fatto il ritmo calcolato per quella fascia.
-      const segStart = Math.max(state.lastTime, state.startTime);
-      const activeSegments = computeActiveSegments(segStart, now, state.pauses.filter(p => p.end > segStart));
-      const totalActiveMs = activeSegments.reduce((s,seg) => s + (seg.end - seg.start), 0);
-      const minutes = totalActiveMs > 0 ? (totalActiveMs / 60000) : 0.01;
-      addToHourly(hourKey(now), delta, minutes);
-    }
+    // Il singolo test viene accreditato per intero all'ora in cui avviene il click su
+    // "Track" (ora corrente), anche se l'intervallo dall'ultimo track e' iniziato
+    // nell'ora precedente: niente ripartizione proporzionale tra ore.
+    // FIX: se nel frattempo e' scattato un checkDayRollover(), state.startTime e'
+    // stato appena riportato a "adesso" mentre state.lastTime puo' ancora risalire
+    // al giorno precedente (es. ultimo track della sera prima). Senza questo cap,
+    // l'intera pausa notturna verrebbe conteggiata come tempo attivo, gonfiando
+    // a dismisura i minuti della fascia oraria (es. 1000+ minuti per un solo test) e
+    // quindi azzerando di fatto il ritmo calcolato per quella fascia.
+    const segStart = Math.max(state.lastTime, state.startTime);
+    const activeSegments = computeActiveSegments(segStart, now, state.pauses.filter(p => p.end > segStart));
+    const totalActiveMs = activeSegments.reduce((s,seg) => s + (seg.end - seg.start), 0);
+    const minutes = totalActiveMs > 0 ? (totalActiveMs / 60000) : 0.01;
+    addToHourly(hourKey(now), 1, minutes);
 
     state.lastNumber = val;
     state.lastTime = now;
-    state.totalTests += delta;
+    state.totalTests += 1;
     trackInput.value = val + 1;
     await saveState();
     render();
@@ -1242,7 +1261,7 @@
     // Fuochi d'artificio ogni volta che il totale giornaliero raggiunge/supera
     // un multiplo di 10 (es. da 27 a 31 fa comunque scattare la festa per il 30 superato).
     const totalAfter = getTodayTotal();
-    if(delta > 0 && Math.floor(totalAfter/10) > Math.floor(totalBefore/10)){
+    if(Math.floor(totalAfter/10) > Math.floor(totalBefore/10)){
       triggerFireworks(Math.floor(totalAfter/10)*10);
     }
   });
