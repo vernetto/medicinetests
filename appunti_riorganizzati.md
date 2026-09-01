@@ -35,7 +35,7 @@ Si chiama rugoso perché sulla sua superficie sono attaccati moltissimi ribosomi
 `produrre proteine → modificarle → mandarle verso l'apparato di Golgi`
 
 **7. Reticolo endoplasmatico liscio (REL)**
-Produce lipidi, cioè grassi e fosfolipidi; produce alcuni ormoni steroidei; detossifica sostanze (soprattutto nel fegato); immagazzina calcio (specialmente nelle cellule muscolari dove viene chiamato reticolo sarcoplasmatico). Si chiama liscio perché non ha ribosomi sulla superficie.
+Produce *lipidi*, cioè grassi e fosfolipidi; produce alcuni ormoni steroidei; *detossifica* sostanze (soprattutto nel fegato); immagazzina calcio (specialmente nelle cellule muscolari dove viene chiamato reticolo sarcoplasmatico). Si chiama liscio perché non ha ribosomi sulla superficie.
 
 **8. Apparato di Golgi**
 Modifica, impacchetta e spedisce sostanze prodotte dalla cellula. Inoltre produce i **lisosomi**, organelli che contengono enzimi digestivi.
@@ -86,7 +86,7 @@ I **cromoplasti** sono organelli presenti nelle cellule vegetali. Appartengono a
 Il vacuolo è una cavità delimitata da una membrana detta tonoplasto, presente nel citoplasma della cellula vegetale e piena di un liquido chiamato succo vacuolare.
 Nelle cellule vegetali mature occupa anche il 70-90% del volume della cellula.
 
-**Il nucleolo** è una regione dentro il nucleo dove si produce soprattutto RNA ribosomiale (rRNA). Serve a preparare i componenti dei ribosomi.
+**Il nucleolo** è una regione dentro il nucleo dove si produce soprattutto RNA ribosomiale (rRNA). Non ha membrana. Serve a preparare i componenti dei ribosomi.
 
 I **batteri** sono procarioti: privi di un nucleo ben definito. Il loro DNA non è chiuso dentro un nucleo con membrana nucleare, ma si trova in una zona chiamata **nucleoide**.
 
@@ -104,7 +104,7 @@ La membrana plasmatica è la "pellicola" che delimita la cellula. È una sottile
 
 È fatta soprattutto da:
 
-1. **Fosfolipidi**: Formano un doppio strato lipidico. Immaginalo come un muro flessibile fatto di grassi.
+1. **Fosfolipidi**: Formano un doppio strato lipidico. Immaginalo come un muro flessibile fatto di grassi. Fatti da: glicerolo (3C), 2 acidi grassi (idrofobici), gruppo fosfato (idrofilo). E' anfipatico (idrofilo + idrofobo). 
 2. **Proteine**: Sono inserite nella membrana e servono per trasportare sostanze, ricevere segnali, riconoscere altre cellule, ecc.
 3. **Colesterolo**: Serve a regolare la fluidità della membrana, rendendola né troppo rigida né troppo molle.
 4. **Carboidrati**: Spesso legati a proteine o lipidi, servono anche per il riconoscimento cellulare.
@@ -5045,7 +5045,7 @@ LA PROSTATA
 
 LE GHIANDOLE SALIVARI
 
-Sono tre paia principali. Parotidi Sottomandibolari Sottolinguali
+Sono tre paia principali. Parotidi (esocrina) Sottomandibolari Sottolinguali
 
 Producono saliva contenente: acqua, muco, sali minerali, enzima amilasi
 

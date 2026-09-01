@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>Study Progress Tracker</title>
+  <style>
+    :root {
+      --bg: #121417;
+      --card-bg: #1c1f24;
+      --accent: #2563eb;
+      --accent-hover: #1d4ed8;
+      --text: #f3f4f6;
+      --muted: #9ca3af;
+      --border: #2e3440;
+      --danger: #dc2626;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      padding: 24px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      min-height: 100vh;
+    }
+
+    .container {
+      width: 100%;
+      max-width: 800px;
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+
+    /* Orologio Digitale */
+    .digital-clock-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 16px;
+      text-align: center;
+    }
+    .clock-time {
+      font-size: 2.4rem;
+      font-weight: 700;
+      letter-spacing: 2px;
+      color: #60a5fa;
+      font-family: monospace;
+    }
+    .clock-date {
+      font-size: 1rem;
+      color: var(--muted);
+      margin-top: 4px;
+      text-transform: capitalize;
+    }
+
+    /* Warning Banner */
+    #alarm-banner {
+      display: none;
+      padding: 16px;
+      background-color: var(--danger);
+      color: white;
+      text-align: center;
+      font-weight: 700;
+      font-size: 1.1rem;
+      border-radius: 8px;
+      animation: pulse 1s infinite alternate;
+    }
+
+    @keyframes pulse {
+      0% { opacity: 0.6; transform: scale(0.99); }
+      100% { opacity: 1; transform: scale(1.01); }
+    }
+
+    /* Card Layouts */
+    .card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 20px;
+    }
+
+    h2 {
+      font-size: 1.1rem;
+      color: var(--muted);
+      margin-bottom: 16px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    /* Counter Control */
+    .counter-wrapper {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 12px;
+      margin: 10px 0;
+    }
+
+    .btn {
+      background: var(--accent);
+      color: white;
+      border: none;
+      border-radius: 6px;
+      padding: 12px 20px;
+      font-size: 1.4rem;
+      cursor: pointer;
+      user-select: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover { background: var(--accent-hover); }
+
+    input[type="number"] {
+      background: #0f1115;
+      border: 1px solid var(--border);
+      color: var(--text);
+      font-size: 2rem;
+      font-weight: bold;
+      text-align: center;
+      width: 160px;
+      padding: 8px;
+      border-radius: 6px;
+    }
+    input[type="number"]::-webkit-inner-spin-button,
+    input[type="number"]::-webkit-outer-spin-button {
+      -webkit-appearance: none;
+      margin: 0;
+    }
+
+    .timer-info {
+      text-align: center;
+      margin-top: 10px;
+      font-size: 0.9rem;
+      color: var(--muted);
+    }
+
+    /* Tables */
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      text-align: left;
+      font-size: 0.95rem;
+    }
+
+    th, td {
+      padding: 10px 14px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    th {
+      color: var(--muted);
+      font-weight: 600;
+    }
+
+    tr:last-child td { border-bottom: none; }
+    .text-right { text-align: right; }
+    .badge {
+      display: inline-block;
+      padding: 2px 8px;
+      border-radius: 4px;
+      background: #2e3440;
+      font-size: 0.85rem;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <div class="digital-clock-card">
+    <div class="clock-time" id="digital-clock">00:00:00</div>
+    <div class="clock-date" id="digital-date">--</div>
+  </div>
+
+  <div id="alarm-banner">⚠️ ATTENZIONE: Nessun progresso negli ultimi 5 minuti!</div>
+
+  <div class="card">
+    <h2>Linea Corrente</h2>
+    <div class="counter-wrapper">
+      <button class="btn" onclick="adjustLine(-10)">-10</button>
+      <button class="btn" onclick="adjustLine(-1)">▼</button>
+      <input type="number" id="line-input" min="0" value="0" onchange="onManualInputChange()">
+      <button class="btn" onclick="adjustLine(1)">▲</button>
+      <button class="btn" onclick="adjustLine(10)">+10</button>
+    </div>
+    <div class="timer-info">
+      Prossimo controllo inattività: <span id="time-remaining">05:00</span>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>Progresso di Oggi per Fascia Oraria</h2>
+    <table id="hourly-table">
+      <thead>
+        <tr>
+          <th>Ora</th>
+          <th class="text-right">Linea Finale</th>
+          <th class="text-right">Linee Avanzate</th>
+        </tr>
+      </thead>
+      <tbody>
+        </tbody>
+    </table>
+  </div>
+
+  <div class="card">
+    <h2>Storico Giornaliero</h2>
+    <table id="history-table">
+      <thead>
+        <tr>
+          <th>Data</th>
+          <th class="text-right">Linea Raggiunta</th>
+          <th class="text-right">Linee Totali Lette</th>
+        </tr>
+      </thead>
+      <tbody>
+        </tbody>
+    </table>
+  </div>
+</div>
+
+<script>
+  const INACTIVITY_LIMIT_MS = 5 * 60 * 1000; // 5 minuti
+  let lastActivityTime = Date.now();
+  let currentLine = 0;
+  let audioCtx = null;
+  let alarmInterval = null;
+
+  // Caricamento dati da LocalStorage
+  let appData = JSON.parse(localStorage.getItem('study_tracker_data')) || {
+    currentLine: 0,
+    hourlyLog: {},   // { "YYYY-MM-DD": { "HH:00": { maxLine: X, linesDelta: Y } } }
+    dailyHistory: {} // { "YYYY-MM-DD": { endLine: X, totalDelta: Y } }
+  };
+
+  currentLine = appData.currentLine || 0;
+  document.getElementById('line-input').value = currentLine;
+
+  function updateClock() {
+    const now = new Date();
+    const hours = String(now.getHours()).padStart(2, '0');
+    const minutes = String(now.getMinutes()).padStart(2, '0');
+    const seconds = String(now.getSeconds()).padStart(2, '0');
+    document.getElementById('digital-clock').textContent = `${hours}:${minutes}:${seconds}`;
+
+    const dateOptions = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+    document.getElementById('digital-date').textContent = now.toLocaleDateString('it-IT', dateOptions);
+  }
+  setInterval(updateClock, 1000);
+  updateClock();
+
+  function playBeep() {
+    if (!audioCtx) {
+      audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+    }
+    const osc = audioCtx.createOscillator();
+    const gain = audioCtx.createGain();
+    osc.type = 'sawtooth';
+    osc.frequency.setValueAtTime(880, audioCtx.currentTime);
+    gain.gain.setValueAtTime(0.2, audioCtx.currentTime);
+    osc.connect(gain);
+    gain.connect(audioCtx.destination);
+    osc.start();
+    osc.stop(audioCtx.currentTime + 0.3);
+  }
+
+  function startAlarm() {
+    document.getElementById('alarm-banner').style.display = 'block';
+    if (!alarmInterval) {
+      playBeep();
+      alarmInterval = setInterval(playBeep, 2000);
+    }
+  }
+
+  function stopAlarm() {
+    document.getElementById('alarm-banner').style.display = 'none';
+    if (alarmInterval) {
+      clearInterval(alarmInterval);
+      alarmInterval = null;
+    }
+  }
+
+  function resetInactivityTimer() {
+    lastActivityTime = Date.now();
+    stopAlarm();
+  }
+
+  function updateLog(newLine, deltaToAdd = 0) {
+    const now = new Date();
+    const dateStr = now.toISOString().split('T')[0];
+    const hourStr = String(now.getHours()).padStart(2, '0') + ":00";
+
+    if (!appData.hourlyLog[dateStr]) appData.hourlyLog[dateStr] = {};
+    if (!appData.hourlyLog[dateStr][hourStr]) {
+      appData.hourlyLog[dateStr][hourStr] = { maxLine: newLine, linesDelta: 0 };
+    }
+
+    appData.hourlyLog[dateStr][hourStr].linesDelta += deltaToAdd;
+    appData.hourlyLog[dateStr][hourStr].maxLine = newLine;
+
+    if (!appData.dailyHistory[dateStr]) {
+      appData.dailyHistory[dateStr] = { endLine: newLine, totalDelta: 0 };
+    }
+    appData.dailyHistory[dateStr].endLine = newLine;
+    appData.dailyHistory[dateStr].totalDelta += deltaToAdd;
+
+    appData.currentLine = newLine;
+    localStorage.setItem('study_tracker_data', JSON.stringify(appData));
+
+    renderTables();
+  }
+
+  // Tasti freccia e +/- 10
+  function adjustLine(amount) {
+    currentLine = Math.max(0, currentLine + amount);
+    document.getElementById('line-input').value = currentLine;
+    resetInactivityTimer();
+    
+    // Somma al delta solo gli incrementi positivi provenienti dai pulsanti
+    const delta = amount > 0 ? amount : 0;
+    updateLog(currentLine, delta);
+  }
+
+  // Modifica manuale del campo di testo: aggiorna la linea attuale senza conteggiare delta
+  function onManualInputChange() {
+    const inputVal = parseInt(document.getElementById('line-input').value, 10);
+    currentLine = isNaN(inputVal) || inputVal < 0 ? 0 : inputVal;
+    document.getElementById('line-input').value = currentLine;
+    resetInactivityTimer();
+    
+    // Delta impostato a 0
+    updateLog(currentLine, 0);
+  }
+
+  function renderTables() {
+    const todayKey = new Date().toISOString().split('T')[0];
+
+    // Render Orario Odierno
+    const hourlyTbody = document.querySelector('#hourly-table tbody');
+    hourlyTbody.innerHTML = '';
+    const todayLogs = appData.hourlyLog[todayKey] || {};
+    const sortedHours = Object.keys(todayLogs).sort().reverse();
+
+    if (sortedHours.length === 0) {
+      hourlyTbody.innerHTML = `<tr><td colspan="3" style="text-align:center; color: var(--muted)">Nessun log per oggi</td></tr>`;
+    } else {
+      sortedHours.forEach(hour => {
+        const row = document.createElement('tr');
+        row.innerHTML = `
+          <td><span class="badge">${hour}</span></td>
+          <td class="text-right">${todayLogs[hour].maxLine}</td>
+          <td class="text-right" style="color: #4ade80">+${todayLogs[hour].linesDelta}</td>
+        `;
+        hourlyTbody.appendChild(row);
+      });
+    }
+
+    // Render Storico Giornaliero
+    const historyTbody = document.querySelector('#history-table tbody');
+    historyTbody.innerHTML = '';
+    const sortedDates = Object.keys(appData.dailyHistory).sort().reverse();
+
+    if (sortedDates.length === 0) {
+      historyTbody.innerHTML = `<tr><td colspan="3" style="text-align:center; color: var(--muted)">Nessuno storico presente</td></tr>`;
+    } else {
+      sortedDates.forEach(date => {
+        const row = document.createElement('tr');
+        row.innerHTML = `
+          <td>${date}</td>
+          <td class="text-right">${appData.dailyHistory[date].endLine}</td>
+          <td class="text-right" style="color: #4ade80">+${appData.dailyHistory[date].totalDelta}</td>
+        `;
+        historyTbody.appendChild(row);
+      });
+    }
+  }
+
+  // Timer di controllo inattività (1s)
+  setInterval(() => {
+    const elapsed = Date.now() - lastActivityTime;
+    const remaining = Math.max(0, INACTIVITY_LIMIT_MS - elapsed);
+
+    const mins = String(Math.floor(remaining / 60000)).padStart(2, '0');
+    const secs = String(Math.floor((remaining % 60000) / 1000)).padStart(2, '0');
+    document.getElementById('time-remaining').textContent = `${mins}:${secs}`;
+
+    if (elapsed >= INACTIVITY_LIMIT_MS) {
+      startAlarm();
+    }
+  }, 1000);
+
+  renderTables();
+</script>
+
+</body>
+</html>
