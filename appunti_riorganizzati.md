@@ -2045,18 +2045,19 @@ Nel colon vive una grande quantità di batteri. Svolgono funzioni utili: ferment
 
 **Tabella riassuntiva dell'intestino**
 
-|Tratto|Funzione principale|
-|-|-|
-|Duodeno|Digestione chimica (bile + succo pancreatico); neutralizza l'acido|
-|Digiuno|Assorbimento principale dei nutrienti|
-|Ileo|Vitamina B12, sali biliari, difesa immunitaria (placche di Peyer)|
-|Cieco|Ricezione dall'ileo; appendice|
-|Colon ascendente|Riassorbimento acqua; inizio compattazione|
-|Colon trasverso|Continuazione assorbimento + fermentazione batterica|
-|Colon discendente|Trasporto e compattazione|
-|Sigma|Deposito temporaneo feci|
-|Retto|Stimolo alla defecazione|
-|Ano|Eliminazione controllata|
+| Tratto            | Funzione principale                                                                       |
+| ----------------- | ----------------------------------------------------------------------------------------- |
+| Duodeno           | Digestione chimica (bile + succo pancreatico); neutralizza l'acido                        |
+| Digiuno           | Assorbimento principale dei nutrienti                                                     |
+| Ileo              | Assorbimento della vitamina B12 e dei sali biliari; difesa immunitaria (placche di Peyer) |
+| Cieco             | Ricezione dall'ileo; presenza dell'appendice                                              |
+| Colon ascendente  | Riassorbimento dell'acqua; inizio della compattazione                                     |
+| Colon trasverso   | Continuazione dell'assorbimento + fermentazione batterica                                 |
+| Colon discendente | Trasporto e compattazione                                                                 |
+| Sigma             | Deposito temporaneo delle feci                                                            |
+| Retto             | Stimolo alla defecazione                                                                  |
+| Ano               | Eliminazione controllata                                                                  |
+
 
 ```
 tenue = digestione finale e assorbimento dei nutrienti
@@ -2155,19 +2156,20 @@ Molte malattie coinvolgono direttamente le cellule gliali:
 
 ### Aree cerebrali
 
-La **corteccia cerebrale** è lo strato più esterno del cervello. È una sottile "copertura" di tessuto nervoso, spessa circa 2–4 mm, ma contiene miliardi di neuroni ed è responsabile delle funzioni più complesse dell'essere umano.
+La **corteccia cerebrale** è lo strato più esterno del cervello. È una sottile "copertura" di tessuto nervoso, spessa circa 2–4 mm, ma contiene 86 miliardi di neuroni ed è responsabile delle funzioni più complesse dell'essere umano.
 È poi divisa in 4 lobi: frontale, parietale, temporale, occipitale.
 
-|Struttura|Funzione|
-|-|-|
-|Lobo frontale|movimento volontario, pensiero, memoria (working memory), decisioni, ragionamento, giudizio|
-|Lobo parietale|sensibilità corporea, tatto, dolore, temperatura|
-|Lobo temporale|udito, memoria (nuovi ricordi, ippocampo), comprensione del linguaggio|
-|Lobo occipitale|vista|
-|Cervelletto|equilibrio, postura, tono muscolare, precisione dei movimenti, coordinazione motoria|
-|Midollo allungato (bulbo)|respirazione, battito cardiaco, pressione arteriosa, riflessi (tosse, vomito, deglutizione)|
-|Mesencefalo|riflessi visivi/uditivi, movimenti oculari, controllo motorio, stato di vigilanza|
-|Corpo calloso|collega i due emisferi cerebrali (emisfero destro ↔ emisfero sinistro)|
+| Struttura                 | Funzione                                                                                    |
+| ------------------------- | ------------------------------------------------------------------------------------------- |
+| Lobo frontale             | Movimento volontario, pensiero, memoria (working memory), decisioni, ragionamento, giudizio |
+| Lobo parietale            | Sensibilità corporea, tatto, dolore, temperatura                                            |
+| Lobo temporale            | Udito, memoria (nuovi ricordi, ippocampo), comprensione del linguaggio                      |
+| Lobo occipitale           | Vista                                                                                       |
+| Cervelletto               | Equilibrio, postura, tono muscolare, precisione dei movimenti, coordinazione motoria        |
+| Midollo allungato (bulbo) | Respirazione, battito cardiaco, pressione arteriosa, riflessi (tosse, vomito, deglutizione) |
+| Mesencefalo               | Riflessi visivi/uditivi, movimenti oculari, controllo motorio, stato di vigilanza           |
+| Corpo calloso             | Collega i due emisferi cerebrali (emisfero destro ↔ emisfero sinistro)                      |
+
 
 **Diencefalo** = regione profonda che comprende soprattutto:
 
@@ -2192,12 +2194,13 @@ cervelletto  = equilibrio
 
 ### Nervi cranici (esempi)
 
-|Nervo|Funzione|
-|-|-|
-|Trigemino|sensibilità della faccia, masticazione|
-|Faciale|muscoli della mimica facciale|
-|Vestibolococleare|udito ed equilibrio|
-|Ipoglosso|movimenti della lingua|
+| Nervo             | Funzione                               |
+| ----------------- | -------------------------------------- |
+| Trigemino         | Sensibilità della faccia, masticazione |
+| Facciale          | Muscoli della mimica facciale          |
+| Vestibolococleare | Udito ed equilibrio                    |
+| Ipoglosso         | Movimenti della lingua                 |
+
 
 ---
 
@@ -2300,12 +2303,13 @@ Il ventricolo sinistro ha una parete muscolare molto più spessa del destro (dev
 
 Le valvole servono a far andare il sangue in una sola direzione. Impediscono il reflusso.
 
-|Valvola|Dove si trova|Funzione|
-|-|-|-|
-|Tricuspide|tra atrio destro e ventricolo destro|fa passare sangue da atrio dx a ventricolo dx|
-|Polmonare|tra ventricolo destro e arteria polmonare|fa uscire sangue verso i polmoni|
-|Mitrale (bicuspide)|tra atrio sinistro e ventricolo sinistro|fa passare sangue da atrio sx a ventricolo sx|
-|Aortica|tra ventricolo sinistro e aorta|fa uscire sangue verso tutto il corpo|
+| Valvola             | Dove si trova                             | Funzione                                         |
+| ------------------- | ----------------------------------------- | ------------------------------------------------ |
+| Tricuspide          | Tra atrio destro e ventricolo destro      | Fa passare il sangue da atrio dx a ventricolo dx |
+| Polmonare           | Tra ventricolo destro e arteria polmonare | Fa uscire il sangue verso i polmoni              |
+| Mitrale (bicuspide) | Tra atrio sinistro e ventricolo sinistro  | Fa passare il sangue da atrio sx a ventricolo sx |
+| Aortica             | Tra ventricolo sinistro e aorta           | Fa uscire il sangue verso tutto il corpo         |
+
 
 **Valvole atrioventricolari** (tra atri e ventricoli): **tricuspide + mitrale**
 
