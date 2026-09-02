@@ -123,7 +123,7 @@ Esempi:
 
 ### COLESTEROLO
 
-Il colesterolo è una molecola lipidica appartenente alla famiglia degli steroli.
+Il colesterolo C₂₇H₄₆O è una molecola lipidica appartenente alla famiglia degli steroli.
 È un lipide, cioè una sostanza grassa.
 La sua struttura è costituita da quattro anelli di carbonio fusi tra loro, tipici degli steroidi.
 
@@ -153,18 +153,16 @@ Il colesterolo non si scioglie nell'acqua. Per circolare nel sangue deve essere 
 LDL ("colesterolo cattivo") Low Density Lipoprotein: dal fegato ai tessuti. Se sono troppe, possono depositarsi nelle arterie formando placche aterosclerotiche (-> infarto, ictus, malattie cardiovascolari). Contengono relativamente più lipidi che proteine.
 HDL ("colesterolo buono") High Density Lipoprotein: dai tessuti al fegato. Recuperano il colesterolo in eccesso e lo riportano al fegato. Sono considerate protettive.
 
-In laboratorio, LDL e HDL si deteminano con enzimi che eliminano l'una o l'altra. Una volta di faceva di più con centrifugazione.
+In laboratorio, LDL e HDL si determinano con enzimi che eliminano l'una o l'altra. Una volta si faceva di più con centrifugazione.
 Nel sangue ci sono anche VLDL che sono circa 1/5 dei trigliceridi: trasportano trigliceridi dal fegato ai tessuti, e i **chilomicroni**, che trasportano verso i tessuti (via linfa, sangue) i grassi assorbiti dall'intestino.
-Quando i trigliceridi arrivano ai muscoli, incontrano un enzima Lipoproteina lipasi (**LPL**) che rompe i trigliceridi in acidi grassi e glicerolo.
+Quando i trigliceridi arrivano ai muscoli, incontrano un enzima Lipoproteina lipasi (**LPL**) che rompe i trigliceridi in acidi grassi e glicerolo (-> energia).
 
-La colesterolemia a digiuno deve essere < 200 mg/dL. LDL > 100 mg/dL. HDL > 40 mg/dL negli uomini, > 50 mg/dL nelle donne. Trigliceridi < 150 m/dL.
+La colesterolemia a digiuno deve essere < 200 mg/dL. LDL < 116 mg/dL. HDL > 40 mg/dL negli uomini, > 50 mg/dL nelle donne. Trigliceridi < 150 m/dL.
 Le donne, soprattutto prima della menopausa, hanno fisiologicamente valori di HDL più alti rispetto agli uomini grazie all'azione degli estrogeni.
 Gli estrogeni:
 aumentano la produzione di HDL;
 favoriscono l'eliminazione del colesterolo dalle arterie;
 tendono anche a mantenere più bassi i livelli di LDL.
-
-
 
 
 ### Cromatina e cromosomi
@@ -193,6 +191,8 @@ Guanina  (G)  ↔  Citosina (C) (3 legami idrogeno)
 oppure in RNA:
 Adenina ↔ Uracile
 Guanina ↔ Citosina
+
+Uracile rimpiazza Timina (URTI)
 
 Le basi azotate sono le "lettere" con cui è scritto il DNA.
 
@@ -323,12 +323,13 @@ Un enzima accelera una reazione biologica legando il substrato nel **sito attivo
 
 Gli **inibitori competitivi** riducono l'attività di un enzima legandosi al sito attivo dell'enzima.
 
-|Proteina|Funzione|
-|-|-|
-|Dineine|proteine motrici, movimento su microtubuli|
-|Connessine|formano giunzioni comunicanti tra cellule|
-|Integrine|adesione cellula-matrice extracellulare|
-|Clatrine|vescicole/endocitosi|
+| Proteina   | Funzione                                                      |
+| ---------- | ------------------------------------------------------------- |
+| Dineine    | Proteine motrici; permettono il movimento lungo i microtubuli |
+| Connessine | Formano le giunzioni comunicanti (gap junctions) tra cellule  |
+| Integrine  | Mediano l’adesione cellula–matrice extracellulare             |
+| Clatrine   | Coinvolte nella formazione di vescicole e nell’endocitosi     |
+
 
 **Struttura primaria di una proteina**: sequenza degli amminoacidi nella catena, uniti da legami peptidici.
 
@@ -359,7 +360,7 @@ Il ciclo si divide in 5 fasi principali:
 **1. Interfase** — fase di preparazione in cui la cellula non si moltiplica ma si duplica.
 
 * **Fase G1**: La fase più lunga. Il DNA si trova nel nucleo sotto forma di cromosomi a singolo cromatidio. La cellula produce gli enzimi necessari alla successiva duplicazione.
-* **Fase S**: Avviene la vera e propria duplicazione del DNA.
+* **Fase S**: Avviene la vera e propria duplicazione del DNA. il DNA è decondensato, sotto forma di cromatina.
 * **Fase G2**: Il DNA si spiralizza di nuovo e la cellula esegue un controllo di integrità del DNA duplicato; se ci sono danni il processo si interrompe, altrimenti si passa alla mitosi vera e propria.
 
 ---
@@ -690,10 +691,11 @@ Il crossing-over è uno dei modi in cui avviene la ricombinazione.
 
 ### Differenza fondamentale tra mitosi e meiosi
 
-|Processo|Risultato|A cosa serve|
-|-|-|-|
-|Mitosi|2 cellule uguali, diploidi|crescita, riparazione, ricambio cellulare|
-|Meiosi|4 cellule diverse, aploidi|produzione di gameti|
+| Processo | Risultato                                | A cosa serve                               |
+| -------- | ---------------------------------------- | ------------------------------------------ |
+| Mitosi   | 2 cellule geneticamente uguali, diploidi | Crescita, riparazione e ricambio cellulare |
+| Meiosi   | 4 cellule geneticamente diverse, aploidi | Produzione di gameti                       |
+
 
 ```
 MITOSI
@@ -722,15 +724,24 @@ Il linkage significa: due geni stanno sullo stesso cromosoma, quindi tendono a e
 
 ### Aneuploidia e variazioni cromosomiche
 
-|Termine|Significato|
-|-|-|
-|Aneuploidia|uno o pochi cromosomi in più o in meno|
-|(auto)Poliploidia|interi assetti cromosomici in più (3n, 4n)|
-|Allopoliploidia|molte serie di cromosomi provenienti da specie diverse (frumento tenero)|
-|Diploidia|condizione normale con due serie di cromosomi (2n)|
-|Monosomia|manca un cromosoma di una coppia|
-|Aploidia|una sola serie di cromosomi (n), come nei gameti|
-|Trisomia 21|Sindrome di Down|
+| Termine           | Significato                                                                |
+| ----------------- | -------------------------------------------------------------------------- |
+| Aneuploidia       | Uno o pochi cromosomi in più o in meno rispetto al normale                 |
+| (Auto)poliploidia | Interi assetti cromosomici aggiuntivi (3n, 4n, ecc.)                       |
+| Allopoliploidia   | Più serie di cromosomi provenienti da specie diverse (es. frumento tenero) |
+| Diploidia         | Condizione con due serie di cromosomi (2n)                                 |
+| Monosomia         | Manca un cromosoma di una coppia (2n − 1)                                  |
+| Aploidia          | Una sola serie di cromosomi (n), come nei gameti                           |
+| Trisomia 21       | Presenza di tre copie del cromosoma 21; causa la sindrome di Down          |
+
+Trisomia 21 è Aneuploidia
+frumento tenero è esaploide
+
+**Fibrosi cistica** mutazione genetica nel gene CFTR; porta a muco molto denso, infezioni respiratorie, dotti ancreatici intasati; ereditaria autosomica recessiva
+
+**Sindrome di Down**: 3 cromosomi 21. nasce da un errore casuale nella formazione dell’ovulo o dello spermatozoo, chiamato non-disgiunzione: i cromosomi non si separano correttamente. Esistono anche forme più rare, come la traslocazione, che in alcuni casi può essere ereditaria.
+
+**Morbo di Basedow**, chiamato anche malattia di Graves, è una malattia autoimmune della tiroide. il sistema immunitario produce anticorpi che stimolano troppo la tiroide, come se imitassero il TSH. La tiroide quindi lavora eccessivamente e produce troppi ormoni tiroidei: T3 e T4. Il risultato è un ipertiroidismo.
 
 ---
 
@@ -742,24 +753,22 @@ Il linkage significa: due geni stanno sullo stesso cromosoma, quindi tendono a e
 
 Gruppo 0 donatore universale
 
-|Gruppo|Antigeni sui globuli rossi|Anticorpi nel plasma|
-|-|-|-|
-|**A**|A|anti-B|
-|**B**|B|anti-A|
-|**AB**|A e B|nessuno|
-|**0**|nessuno|anti-A e anti-B|
+| Gruppo | Antigeni sui globuli rossi | Anticorpi nel plasma |
+| ------ | -------------------------- | -------------------- |
+| A      | A                          | anti-B               |
+| B      | B                          | anti-A               |
+| AB     | A e B                      | nessuno              |
+| 0      | nessuno                    | anti-A e anti-B      |
 
 
 
-|Ricevente|Può ricevere da|
-|-|-|
-|**0**|0|
-|**A**|A, 0|
-|**B**|B, 0|
-|**AB**|A, B, AB, 0|
 
-
-
+| Ricevente | Può ricevere da |
+| --------- | --------------- |
+| 0         | 0               |
+| A         | A, 0            |
+| B         | B, 0            |
+| AB        | A, B, AB, 0     |
 
 
 **Eredità poligenica:** due o più geni influenzano un singolo carattere fenotipico.
@@ -777,14 +786,15 @@ XH = allele normale | Xh = allele malato
 
 
 
-|Genotipo femmina|Genotipo maschio|Possibile esito|
-|-|-|-|
-|XHXH (sana)|XhY (malato)|maschio sempre sano; può nascere femmina portatrice|
-|XHXH (sana)|XHY (sano)|tutti sani|
-|XhXH (portatrice)|XhY (malato)|può nascere maschio malato, femmina malata o portatrice|
-|XhXH (portatrice)|XHY (sano)|può nascere maschio malato, femmina portatrice|
-|XhXh (malata)|XhY (malato)|maschio sempre malato, femmina sempre malata|
-|XhXh (malata)|XHY (sano)|maschio sempre malato, femmina sempre portatrice|
+| Genotipo femmina  | Genotipo maschio | Possibile esito                                         |
+| ----------------- | ---------------- | ------------------------------------------------------- |
+| XᴴXᴴ (sana)       | XʰY (malato)     | Maschio sempre sano; femmina sana o portatrice          |
+| XᴴXᴴ (sana)       | XᴴY (sano)       | Tutti sani                                              |
+| XʰXᴴ (portatrice) | XʰY (malato)     | Può nascere maschio malato, femmina malata o portatrice |
+| XʰXᴴ (portatrice) | XᴴY (sano)       | Può nascere maschio malato, femmina sana o portatrice   |
+| XʰXʰ (malata)     | XʰY (malato)     | Maschio sempre malato, femmina sempre malata            |
+| XʰXʰ (malata)     | XᴴY (sano)       | Maschio sempre malato, femmina sempre portatrice        |
+
 
 Regole chiave:
 
@@ -871,8 +881,7 @@ L'ATP alimenta praticamente tutto ciò che richiede energia:
 Nelle cellule eucariotiche, la maggior parte dell'ATP viene prodotta nei mitocondri.
 Nei batteri, che non hanno mitocondri, l'ATP viene prodotto principalmente sulla membrana plasmatica.
 
-L'ATP e' un nucleotide ( Adenina base azotata, Ribosio, zucchero a 5 C, uno o più gruppi fosfati): ribonucleotide trifosfato.
-
+L'ATP e' un nucleotide (Adenina base azotata, Ribosio, zucchero a 5 C, uno o più gruppi fosfati): ribonucleotide trifosfato.
 
 
 ---
@@ -894,8 +903,10 @@ Demolisce molecole energetiche per ricavare energia (**catabolico**). Avviene ne
 
 `1 acetil-CoA → 2 CO₂ + 3 NADH + 1 FADH₂ + 1 ATP/GTP`
 
+1 glucosio → 2 giri di Krebs → 6 NADH + 2 FADH₂ + 2 GTP + 4 CO₂
+
 GTP = Guanosina Trifosfato
-Quando perde un gruppo fosfato: GTP → GDP + Pi + energia
+Quando perde un gruppo fosfato: GTP → GDP + Pi + energia  (Pi = fostafo inorganico)
 viene liberata energia che la cellula può utilizzare.
 il GTP può essere convertito facilmente in ATP grazie all'enzima nucleoside difosfato chinasi
 
@@ -1138,10 +1149,11 @@ Per fare un glucosio, servono grosso modo 2 G3P, quindi: 6 CO₂ → 1 glucosio
 
 ### Fermentazione
 
-|Tipo|Schema|CO₂|Prodotto|
-|-|-|-|-|
-|Lattica|piruvato → lattato|No|acido lattico|
-|Alcolica|piruvato → etanolo + CO₂|Sì|etanolo|
+| Tipo     | Schema                   | CO₂ | Prodotto      |
+| -------- | ------------------------ | --- | ------------- |
+| Lattica  | Piruvato → lattato       | No  | Acido lattico |
+| Alcolica | Piruvato → etanolo + CO₂ | Sì  | Etanolo       |
+
 
 ---
 
@@ -1159,26 +1171,22 @@ Un **Operone** è un gruppo di geni dei procarioti che vengono controllati insie
 
 **Agenti patogeni:**
 
-|Malattia|Tipo di agente|
-|-|-|
-|Vaiolo|Virus|
-|*Clostridium tetani*|Batterio|
-|*Yersinia pestis* (peste)|Batterio|
-|*Vibrio cholerae* (colera)|Batterio|
-|*Streptococcus pneumoniae*|Batterio|
-|Botulismo (*Clostridium botulinum*)|Batterio (tossina)|
-|Mononucleosi|Virus di Epstein-Barr|
-|Malaria|Protozoo *Plasmodium*|
-|Rabbia|Virus della rabbia|
-|Epatite B|Virus HBV|
-|*Saccharomyces cerevisiae*|Fungo unicellulare eucariote (lievito)|
+| Malattia / Organismo                | Tipo di agente                         |
+| ----------------------------------- | -------------------------------------- |
+| Vaiolo                              | Virus                                  |
+| *Clostridium tetani*                | Batterio                               |
+| *Yersinia pestis* (peste)           | Batterio                               |
+| *Vibrio cholerae* (colera)          | Batterio                               |
+| *Streptococcus pneumoniae*          | Batterio                               |
+| Botulismo (*Clostridium botulinum*) | Batterio (tossina)                     |
+| Mononucleosi                        | Virus di Epstein-Barr (EBV)            |
+| Malaria                             | Protozoo *Plasmodium*                  |
+| Rabbia                              | Virus della rabbia                     |
+| Epatite B                           | Virus HBV                              |
+| *Saccharomyces cerevisiae*          | Fungo unicellulare eucariote (lievito) |
+
 
 Il materiale genetico dei **retrovirus** come l'HIV è RNA a singolo filamento che viene usato come stampo per la sintesi di DNA.
-
-Fibrosi cistica mutazione genetica nel gene CFTR; porta a muco molto denso, infezioni respiratorie, dotti ancreatici intasati; ereditaria autosomica recessiva
-Sindrome di Down: 3 cromosomi 21. nasce da un errore casuale nella formazione dell’ovulo o dello spermatozoo, chiamato non-disgiunzione: i cromosomi non si separano correttamente. Esistono anche forme più rare, come la traslocazione, che in alcuni casi può essere ereditaria.
-
-Morbo di Basedow, chiamato anche malattia di Graves, è una malattia autoimmune della tiroide. il sistema immunitario produce anticorpi che stimolano troppo la tiroide, come se imitassero il TSH. La tiroide quindi lavora eccessivamente e produce troppi ormoni tiroidei: T3 e T4. Il risultato è un ipertiroidismo.
 
 
 La **tossina botulinica** è una proteina altamente tossica prodotta dal batterio Clostridium botulinum. È considerata una delle sostanze più tossiche conosciute, ma in dosi estremamente piccole viene utilizzata come farmaco.
@@ -1327,19 +1335,20 @@ La struttura classica dell'anticorpo è a forma di Y:
 
 **Classi di immunoglobuline:**
 
-|Classe|Funzione principale|
-|-|-|
-|IgG|le più abbondanti nel sangue; memoria immunitaria; attraversano la placenta|
-|IgM|prime prodotte in una risposta immunitaria|
-|IgA|presenti nelle mucose, saliva, lacrime, latte materno|
-|IgE|allergie e difesa contro parassiti|
-|IgD|presenti sui linfociti B, funzione più regolatoria|
+| Classe | Funzione principale                                                         |
+| ------ | --------------------------------------------------------------------------- |
+| IgG    | Le più abbondanti nel sangue; memoria immunitaria; attraversano la placenta |
+| IgM    | Prime prodotte in una risposta immunitaria                                  |
+| IgA    | Presenti nelle mucose, saliva, lacrime e latte materno                      |
+| IgE    | Allergie e difesa contro i parassiti                                        |
+| IgD    | Presenti sui linfociti B; funzione principalmente regolatoria               |
+
 
 ---
 
 **8. Linfociti T (Immunità cellulare)**
 
-I linfociti T non producono anticorpi. I principali tipi sono: T helper, T citotossici, T regolatori.
+I linfociti T sono cellule dell'immunità adattativa, ma non producono anticorpi. I principali tipi sono: T helper, T citotossici, T regolatori.
 
 **T helper:** coordinano la risposta con citochine; servono ad attivare linfociti B, macrofagi, linfociti T citotossici, altre cellule immunitarie.
 *Il T helper coordina la risposta immunitaria.*
@@ -1374,7 +1383,7 @@ Un virus spesso si nasconde dentro le cellule. L'anticorpo può bloccare il viru
 
 **9. Presentazione dell'antigene: il punto chiave**
 
-Il linfocita T non riconosce di solito l'antigene libero così com'è. Ha bisogno che una cellula glielo presenti tramite molecole chiamate **MHC**.
+Il linfocita T non riconosce di solito l'antigene libero così com'è. Ha bisogno che una cellula glielo presenti tramite molecole chiamate **MHC** - Major Histocompatibility Complex.
 
 **MHC I:** Presente su quasi tutte le cellule nucleate - non sugli eritrociti. Dice: "Guarda cosa sto producendo dentro di me". Se una cellula è infettata da un virus, presenterà pezzi virali su MHC I. I linfociti **T citotossici** controllano MHC I.
 
@@ -1453,7 +1462,7 @@ Le citochine sono sostanze prodotte dalle cellule immunitarie per comunicare. Tr
 
 Funzioni principali degli interferoni:
 
-* rallentano mla replicazione virale
+* rallentano la replicazione virale
 * attivano cellule difensive come macrofagi e natural killer
 * aumentano la presentazione degli antigeni
 
@@ -1519,13 +1528,13 @@ Cellule del sangue
 
 I granulociti prendono il nome proprio dal tipo di colorante con cui i loro granuli si colorano meglio.
 
-|Tipo|%|Categoria|Funzione principale|
-|-|-|-|-|
-|Neutrofili|50-70%|Granulociti|attaccano soprattutto batteri (fagocitosi), formano pus; si colorano con entrambi i coloranti|
-|Linfociti|20-40%|Agranulociti|immunità specifica: anticorpi, cellule infette, memoria|
-|Monociti|2-8%|Agranulociti|grandi; diventano macrofagi; "mangiano" patogeni e detriti|
-|Eosinofili|1-4%|Granulociti|difesa contro parassiti e allergie; si colorano con eosina (colorante acido)|
-|Basofili|<1%|Granulociti|reazioni allergiche/infiammatorie; liberano istamina ed eparina; si colorano con basi|
+| Tipo       |      % | Categoria    | Funzione principale                                                                                                  |
+| ---------- | -----: | ------------ | -------------------------------------------------------------------------------------------------------------------- |
+| Neutrofili | 50–70% | Granulociti  | Attaccano soprattutto i batteri tramite fagocitosi; formano il pus; si colorano con entrambi i coloranti             |
+| Linfociti  | 20–40% | Agranulociti | Immunità specifica: producono anticorpi, eliminano cellule infette e sviluppano memoria immunitaria                  |
+| Monociti   |   2–8% | Agranulociti | Sono grandi; diventano macrofagi e fagocitano patogeni e detriti cellulari                                           |
+| Eosinofili |   1–4% | Granulociti  | Difesa contro i parassiti e coinvolgimento nelle allergie; si colorano con eosina (colorante acido)                  |
+| Basofili   |    <1% | Granulociti  | Partecipano alle reazioni allergiche e infiammatorie; liberano istamina ed eparina; si colorano con coloranti basici |
 
 
 
@@ -1585,12 +1594,10 @@ Sono coinvolti soprattutto nelle reazioni allergiche immediate, come l'orticaria
 
 Schema riassuntivo
 Neutrofili → batteri, fagocitosi, pus.
-Linfociti → immunità specifica, anticorpi, virus, memoria immunitaria.
-Monociti → diventano macrofagi, grandi fagociti, eliminano detriti e presentano antigeni.
+Linfociti  → immunità specifica, anticorpi, virus, memoria immunitaria.
+Monociti   → diventano macrofagi, grandi fagociti, eliminano detriti e presentano antigeni.
 Eosinofili → difesa contro parassiti e partecipazione alle allergie.
-Basofili → rilasciano istamina ed eparina, responsabili delle reazioni allergiche e infiammatorie.
-
-
+Basofili   → rilasciano istamina ed eparina, responsabili delle reazioni allergiche e infiammatorie.
 
 granulociti: granuli visibili al microscopio. Agranulociti: non hanno grani visibili al microscopio.
 
@@ -1656,17 +1663,18 @@ Alla fine la linfa torna nella circolazione sanguigna vicino alle vene succlavie
 
 **Elementi principali:** linfa, capillari linfatici, vasi linfatici, linfonodi, milza, timo, tonsille, midollo osseo.
 
-|Organo|Funzione chiave|
-|-|-|
-|Linfonodi|filtrano la linfa; difesa immunitaria|
-|Milza|controlla il sangue; elimina globuli rossi vecchi; partecipa alla risposta immunitaria; conserva piastrine|
-|Timo|maturazione linfociti **T**|
-|Midollo osseo|maturazione linfociti **B**|
+| Organo        | Funzione chiave                                                                                         |
+| ------------- | ------------------------------------------------------------------------------------------------------- |
+| Linfonodi     | Filtrano la linfa; difesa immunitaria                                                                   |
+| Milza         | Controlla sangue; elimina globuli rossi vecchi; partecipa alla risposta immunitaria; conserva piastrine |
+| Timo          | Maturazione linfociti T                                                                                 |
+| Midollo osseo | Maturazione linfociti B                                                                                 |
+
 
 È utile distinguere tra gli organi linfoidi primari e secondari:
 
 Organi linfoidi primari: Midollo osseo, Timo
-Organi linfoidi secondari: Milza,  Linfonodi , Tonsille, Tessuto linfoide associato alle mucose (MALT)
+Organi linfoidi secondari: Milza, Linfonodi, Tonsille, Tessuto linfoide associato alle mucose (MALT)
 
 
 Il TIMO sta dietro lo sterno e davanti al cuore, nella parte superiore del torace. È molto sviluppato nei bambini e negli adolescenti, mentre nell'adulto tende a ridursi di dimensioni (processo chiamato involuzione del timo).
@@ -1707,7 +1715,6 @@ Si trova nella parte superiore sinistra dell'addome, sotto il diaframma e dietro
 * Produzione: nel midollo osseo rosso (eritropoiesi)
 
 Nei polmoni, la concentrazione di ossigeno è molto alta negli alveoli e nel plasma sanguigno, mentre all'interno dei globuli rossi è inizialmente più bassa. L'ossigeno e' una molevola molto piccola, attraversa direttamente il doppio strato fosfolipidico della membrana cellulare. Questo processo si chiama DIFFUSIONE semplice. Una volta entrato, l'ossigeno si lega all'emoglobina. Questo legame mantiene bassa la concentrazione di ossigeno libero nel globulo rosso, favorendo l'ingresso di altro ossigeno.
-
 
 
 **Plasma:** è la parte liquida del sangue quando il sangue non ha coagulato.
@@ -1753,17 +1760,18 @@ Le soluzioni fisiologiche (ad esempio NaCl 0,9%) hanno un'osmolarità molto vici
 
 Le vitamine sono molecole organiche essenziali. Non apportano calorie. Molte hanno ruolo di COENZIMI, cioè aiutano certi enzimi a funzionare.
 
-|Vitamina|Nome chimico|Funzione|
-|-|-|-|
-|A|Retinolo|vista, pelle, mucose|
-|B₆|Piridossale|metabolismo degli amminoacidi e delle proteine|
-|B₁₂|Cobalamina|importante per sangue e sistema nervoso|
-|C|Acido ascorbico|collagene e antiossidante; cicatrizzazione; pelle, gengive, vasi sanguigni, tendini, ossa|
-|D|Calciferolo (D₂ = ergocalciferolo, D₃ = colecalciferolo)|assorbimento intestinale di calcio e fosforo → ossa forti|
-|E|Tocoferolo|antiossidante|
-|K|Fillochinone / menachinone|coagulazione|
+| Vitamina | Nome chimico             | Funzione                                                                                  |
+| -------- | ------------------------ | ----------------------------------------------------------------------------------------- |
+| A        | Retinolo                 | Vista, pelle, mucose                                                                      |
+| B₆       | Piridossale              | Metabolismo degli amminoacidi e delle proteine                                            |
+| B₁₂      | Cobalamina               | Importante per sangue e sistema nervoso                                                   |
+| C        | Acido ascorbico          | Collagene e antiossidante; cicatrizzazione; pelle, gengive, vasi sanguigni, tendini, ossa |
+| D        | Calciferolo              | Assorbimento intestinale di calcio e fosforo → ossa forti                                 |
+| E        | Tocoferolo               | Antiossidante                                                                             |
+| K        | Fillochinone/menachinone | Coagulazione                                                                              |
 
 
+(D₂ = ergocalciferolo, D₃ = colecalciferolo)
 
 ---
 
@@ -1838,10 +1846,11 @@ Viene prodotto in forma inattiva per evitare che digerisca le cellule dello stom
 
 ## Chi produce cosa?
 
-|Cellule|Secrezione|Funzione|
-|-|-|-|
-|**Cellule principali (zimogene)**|Pepsinogeno|Precursore inattivo della pepsina|
-|**Cellule parietali (ossintiche)**|Acido cloridrico (HCl)|Acidifica lo stomaco (pH 1-2) e attiva il pepsinogeno|
+| Cellule                        | Secrezione             | Funzione                                              |
+| ------------------------------ | ---------------------- | ----------------------------------------------------- |
+| Cellule principali (zimogene)  | Pepsinogeno            | Precursore inattivo della pepsina                     |
+| Cellule parietali (ossintiche) | Acido cloridrico (HCl) | Acidifica lo stomaco (pH 1–2) e attiva il pepsinogeno |
+
 
 ---
 

@@ -9,6 +9,10 @@
       --card-bg: #1c1f24;
       --accent: #2563eb;
       --accent-hover: #1d4ed8;
+      --warning: #d97706;
+      --warning-hover: #b45309;
+      --success: #16a34a;
+      --success-hover: #15803d;
       --text: #f3f4f6;
       --muted: #9ca3af;
       --border: #2e3440;
@@ -113,6 +117,26 @@
     }
     .btn:hover { background: var(--accent-hover); }
 
+    .btn-pause {
+      background: var(--warning);
+      font-size: 1rem;
+      font-weight: 600;
+      padding: 10px 24px;
+      border-radius: 6px;
+      cursor: pointer;
+      border: none;
+      color: white;
+      transition: background 0.15s ease;
+    }
+    .btn-pause:hover { background: var(--warning-hover); }
+    
+    .btn-pause.is-paused {
+      background: var(--success);
+    }
+    .btn-pause.is-paused:hover {
+      background: var(--success-hover);
+    }
+
     input[type="number"] {
       background: #0f1115;
       border: 1px solid var(--border);
@@ -132,9 +156,62 @@
 
     .timer-info {
       text-align: center;
-      margin-top: 10px;
-      font-size: 0.9rem;
+      margin-top: 14px;
+      font-size: 0.95rem;
       color: var(--muted);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .settings-row {
+      margin-top: 14px;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: center;
+      gap: 16px;
+      font-size: 0.85rem;
+      color: var(--muted);
+      border-top: 1px solid var(--border);
+      padding-top: 12px;
+    }
+
+    .settings-group {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .settings-group input[type="number"] {
+      font-size: 1rem;
+      width: 60px;
+      padding: 4px 6px;
+    }
+
+    .settings-group input[type="file"] {
+      font-size: 0.8rem;
+      color: var(--muted);
+    }
+
+    #current-audio-name {
+      color: #60a5fa;
+      font-style: italic;
+    }
+
+    .btn-reset-audio {
+      background: transparent;
+      border: 1px solid var(--border);
+      color: var(--muted);
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-size: 0.75rem;
+      cursor: pointer;
+    }
+    .btn-reset-audio:hover {
+      color: var(--text);
+      border-color: var(--muted);
     }
 
     /* Tables */
@@ -169,13 +246,16 @@
 <body>
 
 <div class="container">
+  <!-- Orologio Digitale -->
   <div class="digital-clock-card">
     <div class="clock-time" id="digital-clock">00:00:00</div>
     <div class="clock-date" id="digital-date">--</div>
   </div>
 
-  <div id="alarm-banner">⚠️ ATTENZIONE: Nessun progresso negli ultimi 5 minuti!</div>
+  <!-- Allarme Inattività -->
+  <div id="alarm-banner">🎼 Tempo scaduto: riprendi a studiare!</div>
 
+  <!-- Tracker Linea Corrente -->
   <div class="card">
     <h2>Linea Corrente</h2>
     <div class="counter-wrapper">
@@ -185,11 +265,28 @@
       <button class="btn" onclick="adjustLine(1)">▲</button>
       <button class="btn" onclick="adjustLine(10)">+10</button>
     </div>
+    
     <div class="timer-info">
-      Prossimo controllo inattività: <span id="time-remaining">05:00</span>
+      <div>Prossimo controllo: <strong id="time-remaining" style="color: var(--text);">--:--</strong></div>
+      <button id="pause-btn" class="btn-pause" onclick="togglePause()">⏸️ Pausa</button>
+    </div>
+
+    <!-- Pannello Impostazioni -->
+    <div class="settings-row">
+      <div class="settings-group">
+        <label for="alarm-minutes">Timeout inattività (min):</label>
+        <input type="number" id="alarm-minutes" min="1" max="120" value="5" onchange="onTimeoutChange()">
+      </div>
+      <div class="settings-group">
+        <label for="custom-audio-input">File audio allarme:</label>
+        <input type="file" id="custom-audio-input" accept="audio/*" onchange="handleAudioUpload(event)">
+        <span id="current-audio-name">Beethoven - Eroica (default)</span>
+        <button id="btn-reset-audio" class="btn-reset-audio" style="display:none;" onclick="resetToDefaultAudio()">Ripristina default</button>
+      </div>
     </div>
   </div>
 
+  <!-- Progresso Odierno per Ora -->
   <div class="card">
     <h2>Progresso di Oggi per Fascia Oraria</h2>
     <table id="hourly-table">
@@ -201,10 +298,12 @@
         </tr>
       </thead>
       <tbody>
-        </tbody>
+        <!-- Popolato via JS -->
+      </tbody>
     </table>
   </div>
 
+  <!-- Storico Giornaliero -->
   <div class="card">
     <h2>Storico Giornaliero</h2>
     <table id="history-table">
@@ -216,24 +315,115 @@
         </tr>
       </thead>
       <tbody>
-        </tbody>
+        <!-- Popolato via JS -->
+      </tbody>
     </table>
   </div>
 </div>
 
+<!-- Elemento Audio HTML5 -->
+<audio id="alarm-audio" loop preload="auto"></audio>
+
 <script>
-  const INACTIVITY_LIMIT_MS = 5 * 60 * 1000; // 5 minuti
+  const DEFAULT_AUDIO_URL = "https://upload.wikimedia.org/wikipedia/commons/2/23/Ludwig_van_Beethoven_-_Symphony_No._3_in_E-flat_Major%2C_Op._55_-_I._Allegro_con_brio.ogg";
   let lastActivityTime = Date.now();
   let currentLine = 0;
-  let audioCtx = null;
-  let alarmInterval = null;
+  let isPaused = false;
+  let currentAudioUrlObject = null;
+  const audioElement = document.getElementById('alarm-audio');
 
-  // Caricamento dati da LocalStorage
+  // --- IndexedDB per memorizzazione persistente del file audio ---
+  const DB_NAME = 'StudyTrackerDB';
+  const STORE_NAME = 'AudioStore';
+
+  function openAudioDB() {
+    return new Promise((resolve, reject) => {
+      const request = indexedDB.open(DB_NAME, 1);
+      request.onupgradeneeded = (e) => {
+        const db = e.target.result;
+        if (!db.objectStoreNames.contains(STORE_NAME)) {
+          db.createObjectStore(STORE_NAME, { keyPath: 'id' });
+        }
+      };
+      request.onsuccess = (e) => resolve(e.target.result);
+      request.onerror = (e) => reject(e.target.error);
+    });
+  }
+
+  async function saveAudioBlob(blob, fileName) {
+    const db = await openAudioDB();
+    const tx = db.transaction(STORE_NAME, 'readwrite');
+    const store = tx.objectStore(STORE_NAME);
+    store.put({ id: 'saved_alarm_audio', blob, fileName });
+  }
+
+  async function getStoredAudio() {
+    const db = await openAudioDB();
+    return new Promise((resolve) => {
+      const tx = db.transaction(STORE_NAME, 'readonly');
+      const store = tx.objectStore(STORE_NAME);
+      const req = store.get('saved_alarm_audio');
+      req.onsuccess = () => resolve(req.result);
+      req.onerror = () => resolve(null);
+    });
+  }
+
+  async function deleteStoredAudio() {
+    const db = await openAudioDB();
+    const tx = db.transaction(STORE_NAME, 'readwrite');
+    const store = tx.objectStore(STORE_NAME);
+    store.delete('saved_alarm_audio');
+  }
+
+  async function initAudioSource() {
+    const stored = await getStoredAudio();
+    if (stored && stored.blob) {
+      if (currentAudioUrlObject) URL.revokeObjectURL(currentAudioUrlObject);
+      currentAudioUrlObject = URL.createObjectURL(stored.blob);
+      audioElement.src = currentAudioUrlObject;
+      document.getElementById('current-audio-name').textContent = stored.fileName || 'File personalizzato';
+      document.getElementById('btn-reset-audio').style.display = 'inline-block';
+    } else {
+      audioElement.src = DEFAULT_AUDIO_URL;
+      document.getElementById('current-audio-name').textContent = 'Beethoven - Eroica (default)';
+      document.getElementById('btn-reset-audio').style.display = 'none';
+    }
+    audioElement.load();
+  }
+
+  async function handleAudioUpload(event) {
+    const file = event.target.files[0];
+    if (file) {
+      await saveAudioBlob(file, file.name);
+      if (currentAudioUrlObject) URL.revokeObjectURL(currentAudioUrlObject);
+      currentAudioUrlObject = URL.createObjectURL(file);
+      audioElement.src = currentAudioUrlObject;
+      audioElement.currentTime = 0;
+      audioElement.load();
+
+      document.getElementById('current-audio-name').textContent = file.name;
+      document.getElementById('btn-reset-audio').style.display = 'inline-block';
+    }
+  }
+
+  async function resetToDefaultAudio() {
+    await deleteStoredAudio();
+    if (currentAudioUrlObject) URL.revokeObjectURL(currentAudioUrlObject);
+    currentAudioUrlObject = null;
+    document.getElementById('custom-audio-input').value = '';
+    initAudioSource();
+  }
+
+  // --- Caricamento Dati del Tracker ---
   let appData = JSON.parse(localStorage.getItem('study_tracker_data')) || {
     currentLine: 0,
-    hourlyLog: {},   // { "YYYY-MM-DD": { "HH:00": { maxLine: X, linesDelta: Y } } }
-    dailyHistory: {} // { "YYYY-MM-DD": { endLine: X, totalDelta: Y } }
+    inactivityMinutes: 5,
+    hourlyLog: {},
+    dailyHistory: {}
   };
+
+  let inactivityLimitMs = (appData.inactivityMinutes || 5) * 60 * 1000;
+  document.getElementById('alarm-minutes').value = appData.inactivityMinutes || 5;
 
   currentLine = appData.currentLine || 0;
   document.getElementById('line-input').value = currentLine;
@@ -251,40 +441,51 @@
   setInterval(updateClock, 1000);
   updateClock();
 
-  function playBeep() {
-    if (!audioCtx) {
-      audioCtx = new (window.AudioContext || window.webkitAudioContext)();
-    }
-    const osc = audioCtx.createOscillator();
-    const gain = audioCtx.createGain();
-    osc.type = 'sawtooth';
-    osc.frequency.setValueAtTime(880, audioCtx.currentTime);
-    gain.gain.setValueAtTime(0.2, audioCtx.currentTime);
-    osc.connect(gain);
-    gain.connect(audioCtx.destination);
-    osc.start();
-    osc.stop(audioCtx.currentTime + 0.3);
+  function onTimeoutChange() {
+    const inputVal = parseInt(document.getElementById('alarm-minutes').value, 10);
+    const validMinutes = isNaN(inputVal) || inputVal < 1 ? 5 : inputVal;
+    
+    document.getElementById('alarm-minutes').value = validMinutes;
+    appData.inactivityMinutes = validMinutes;
+    inactivityLimitMs = validMinutes * 60 * 1000;
+    
+    localStorage.setItem('study_tracker_data', JSON.stringify(appData));
+    resetInactivityTimer();
   }
 
   function startAlarm() {
+    if (isPaused) return;
     document.getElementById('alarm-banner').style.display = 'block';
-    if (!alarmInterval) {
-      playBeep();
-      alarmInterval = setInterval(playBeep, 2000);
-    }
+    audioElement.play().catch(() => {});
   }
 
   function stopAlarm() {
     document.getElementById('alarm-banner').style.display = 'none';
-    if (alarmInterval) {
-      clearInterval(alarmInterval);
-      alarmInterval = null;
-    }
+    audioElement.pause();
   }
 
   function resetInactivityTimer() {
     lastActivityTime = Date.now();
     stopAlarm();
+  }
+
+  function togglePause() {
+    isPaused = !isPaused;
+    const pauseBtn = document.getElementById('pause-btn');
+    const timeRemainingEl = document.getElementById('time-remaining');
+
+    if (isPaused) {
+      stopAlarm();
+      pauseBtn.textContent = '▶️ Riprendi';
+      pauseBtn.classList.add('is-paused');
+      timeRemainingEl.textContent = 'IN PAUSA';
+      timeRemainingEl.style.color = '#f59e0b';
+    } else {
+      pauseBtn.textContent = '⏸️ Pausa';
+      pauseBtn.classList.remove('is-paused');
+      timeRemainingEl.style.color = 'var(--text)';
+      resetInactivityTimer();
+    }
   }
 
   function updateLog(newLine, deltaToAdd = 0) {
@@ -312,25 +513,31 @@
     renderTables();
   }
 
-  // Tasti freccia e +/- 10
   function adjustLine(amount) {
     currentLine = Math.max(0, currentLine + amount);
     document.getElementById('line-input').value = currentLine;
-    resetInactivityTimer();
     
-    // Somma al delta solo gli incrementi positivi provenienti dai pulsanti
+    if (isPaused) {
+      togglePause();
+    } else {
+      resetInactivityTimer();
+    }
+    
     const delta = amount > 0 ? amount : 0;
     updateLog(currentLine, delta);
   }
 
-  // Modifica manuale del campo di testo: aggiorna la linea attuale senza conteggiare delta
   function onManualInputChange() {
     const inputVal = parseInt(document.getElementById('line-input').value, 10);
     currentLine = isNaN(inputVal) || inputVal < 0 ? 0 : inputVal;
     document.getElementById('line-input').value = currentLine;
-    resetInactivityTimer();
     
-    // Delta impostato a 0
+    if (isPaused) {
+      togglePause();
+    } else {
+      resetInactivityTimer();
+    }
+    
     updateLog(currentLine, 0);
   }
 
@@ -377,20 +584,24 @@
     }
   }
 
-  // Timer di controllo inattività (1s)
+  // Timer di inattività (1s)
   setInterval(() => {
+    if (isPaused) return;
+
     const elapsed = Date.now() - lastActivityTime;
-    const remaining = Math.max(0, INACTIVITY_LIMIT_MS - elapsed);
+    const remaining = Math.max(0, inactivityLimitMs - elapsed);
 
     const mins = String(Math.floor(remaining / 60000)).padStart(2, '0');
     const secs = String(Math.floor((remaining % 60000) / 1000)).padStart(2, '0');
     document.getElementById('time-remaining').textContent = `${mins}:${secs}`;
 
-    if (elapsed >= INACTIVITY_LIMIT_MS) {
+    if (elapsed >= inactivityLimitMs) {
       startAlarm();
     }
   }, 1000);
 
+  // Inizializzazioni
+  initAudioSource();
   renderTables();
 </script>
 
