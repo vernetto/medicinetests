@@ -3258,10 +3258,6 @@ lo stesso numero di neutroni (N).
 Si usa la notazione A.Z.X , tipo 12.6.C (6 protoni 6 neutroni)  14.6.C (6 protoni 8 neutroni), C12 e C14 sono due nuclidi differenti.
 Gli isotopi sono nuclidi dello stesso elemento che differiscono per il numero di neutroni.
 
-
-
-
-
 ---
 
 ### Osmolarità e proprietà colligative
@@ -3318,14 +3314,13 @@ grammo-equivalenti = massa in grammi / peso equivalente
 
 ### Leggi e principi chimici dei fondatori
 
-|Legge/Scienziato|Contenuto|
-|-|-|
-|Lavoisier|Conservazione della massa|
-|Dalton|Teoria atomica; proporzioni multiple (quando due elementi formano più composti, le masse di uno dei due che si combinano con una massa fissa dell'altro stanno in rapporti semplici e interi)|
-|Avogadro|Numero di Avogadro; volumi uguali di gas diversi, nelle stesse condizioni di temperatura e di|
-|pressione, contengono lo stesso numero di molecole 6,022 x 10^23||
-|Charles|Legge dei gas: volume e temperatura|
-|Proust (proporzioni definite)|formulata da Joseph Louis Proust: Un composto chimico puro è sempre formato dagli stessi elementi, combinati tra loro secondo rapporti di massa fissi e costanti, indipendentemente dall'origine del composto o dal metodo con cui è stato preparato.|
+| Legge/Scienziato | Contenuto |
+|------------------|-----------|
+| Lavoisier        | Conservazione della massa |
+| Dalton           | Teoria atomica; proporzioni multiple (quando due elementi formano più composti, le masse di uno dei due che si combinano con una massa fissa dell'altro stanno in rapporti semplici e interi) |
+| Avogadro         | Numero di Avogadro (6,022 × 10²³); volumi uguali di gas diversi, nelle stesse condizioni di temperatura e pressione, contengono lo stesso numero di molecole |
+| Charles          | Legge dei gas: a pressione costante, volume e temperatura sono direttamente proporzionali |
+| Proust           | Legge delle proporzioni definite: un composto chimico puro è sempre formato dagli stessi elementi, combinati tra loro secondo rapporti di massa fissi e costanti, indipendentemente dall'origine del composto o dal metodo con cui è stato preparato |
 
 ---
 
@@ -3352,22 +3347,22 @@ L'energia interna di un gas perfetto è la somma delle energie cinetiche delle d
 
 ### Trigonometria
 
-| Formula | |
-|---|
+| Formula |
+|---------|
 | sin(2x) = 2 sin(x) cos(x) |
-| cos(2x) = cos²x - sin²x  = 1 - 2 sin²x = 2 cos²x - 1 |
+| cos(2x) = cos²x − sin²x = 1 − 2 sin²x = 2 cos²x − 1 |
 | cos²x = 1 − sin²x |
-| cos(a + b) = cos(a)·cos(b) – sin(a)·sin(b) |
+| cos(a + b) = cos(a) · cos(b) − sin(a) · sin(b) |
 | sin(x) = cos(90° − x) |
-| sin(A) - sin(B) = 2 cos((A + B)/2) sin((A - B) / 2)|
+| sin(A) − sin(B) = 2 cos((A + B)/2) sin((A − B)/2) |
 
 
-|Angolo|sin|cos|
-|-|-|-|
-|15°| (√6 − √2)/4 ≈ 0,259| 0,966|
-|30°| 1/2| √3/2 = 0,866|
-|45° (π/4)| √2/2 ≈ 0,707| 0.707|
-|60° (π/3) | √3/2 ≈ 0,866| 0,5|
+| Angolo       | sin                    | cos |
+|--------------|------------------------|-----|
+| 15°          | (√6 − √2)/4 ≈ 0,259    | 0,966 |
+| 30°          | 1/2                    | √3/2 = 0,866 |
+| 45° (π/4)    | √2/2 ≈ 0,707           | 0,707 |
+| 60° (π/3)    | √3/2 ≈ 0,866           | 1/2 |
 
 ---
 
@@ -3443,10 +3438,7 @@ discriminante = b^2 - 4ac = (x1 - x2) ^ 2
 
 volume del cono : V = 1/3 pi R^2 H dove H e' l'altezza e R il raggio
 
-
 La formula della circonferenza è: (x−h)^2 + (y−k)^2 = r^2  dove (h,k) sono le coordinate del centro
-
-
 
 ---
 
