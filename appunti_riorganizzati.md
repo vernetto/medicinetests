@@ -2323,10 +2323,11 @@ Si chiamano semilunari perché le loro cuspidi hanno forma di mezzaluna.
 
 Funzionamento: durante la sistole ventricolare (pressione alta) si aprono → sangue esce. Durante la diastole (ventricoli rilassati) si chiudono → impediscono che il sangue torni indietro dall'aorta/arteria polmonare nei ventricoli.
 
-|Tipo di valvola|Quali sono|Posizione|
-|-|-|-|
-|Atrioventricolari|tricuspide, mitrale|tra atri e ventricoli|
-|Semilunari|polmonare, aortica|tra ventricoli e arterie|
+| Tipo di valvola   | Quali sono          | Posizione                |
+| ----------------- | ------------------- | ------------------------ |
+| Atrioventricolari | Tricuspide, mitrale | Tra atri e ventricoli    |
+| Semilunari        | Polmonare, aortica  | Tra ventricoli e arterie |
+
 
 Durante la sistole ventricolare, le valvole fra ventricoli e arterie sono aperte.
 
@@ -2336,20 +2337,28 @@ Durante la sistole ventricolare, le valvole fra ventricoli e arterie sono aperte
 
 ### Occhio
 
-|Struttura|Funzione|
-|-|-|
-|Iride|Parte colorata; regola la quantità di luce modificando il diametro della pupilla (muscolo sfintere e dilatatore). Al centro c'è un foro chiamato pupilla|
-|Pupilla|La pupilla è il foro nero che si trova al centro dell'iride. Non è una struttura solida o un tessuto: è semplicemente un'apertura attraverso cui la luce entra nell'occhio.|
-|Sclerotica|Parte bianca; membrana resistente, protettiva, dà forma al bulbo oculare|
-|Cornea|Parte trasparente davanti; fa entrare la luce; rifrazione (prima lente dell'occhio). Priva di vasi sanguigni ma ricca di terminazioni nervose|
-|Retina|Membrana interna sensibile alla luce; contiene coni e bastoncelli; trasforma luce in impulsi nervosi|
-|Cristallino|Il cristallino è una lente trasparente situata dietro la pupilla. È sospeso tramite sottili fibre chiamate zonule ed è controllato dal muscolo ciliare. Può modificare la propria forma. Per guardare lontano il cristallino diventa più piatto. Per guardare vicino il cristallino diventa più convesso. Questo processo si chiama accomodazione. Con l'età il cristallino diventa meno elastico: compare la presbiopia, cioè la difficoltà a mettere a fuoco da vicino.|
-|Nervo ottico|Trasporta il segnale al cervello|
-|Fovea|Piccola area centrale della retina, ricca di fotoricettori o coni → visione più precisa|
+| Struttura    | Funzione |
+|--------------|----------|
+| Iride        | Parte colorata; regola la quantità di luce modificando il diametro della pupilla (muscolo sfintere e dilatatore).
+|              | Al centro c'è un foro chiamato pupilla |
+| Pupilla      | Foro nero al centro dell'iride.
+|              | Non è una struttura solida o un tessuto: è semplicemente un'apertura attraverso cui la luce entra nell'occhio. |
+| Sclerotica   | Parte bianca; membrana resistente e protettiva che dà forma al bulbo oculare |
+| Cornea       | Parte trasparente anteriore; fa entrare la luce e contribuisce alla rifrazione (prima lente dell'occhio).
+|              | Priva di vasi sanguigni ma ricca di terminazioni nervose |
+| Retina       | Membrana interna sensibile alla luce; contiene coni e bastoncelli e trasforma la luce in impulsi nervosi |
+| Cristallino  | Lente trasparente situata dietro la pupilla.
+|              | È sospeso tramite sottili fibre chiamate zonule ed è controllato dal muscolo ciliare.
+|              | Può modificare la propria forma.
+|              | Per guardare lontano → diventa più piatto.
+|              | Per guardare vicino → diventa più convesso.
+|              | Questo processo si chiama accomodazione.
+|              | Con l'età diventa meno elastico → compare la presbiopia, cioè la difficoltà a mettere a fuoco da vicino |
+| Nervo ottico | Trasporta il segnale al cervello |
+| Fovea        | Piccola area centrale della retina, ricca di fotoricettori, soprattutto coni → visione più precisa |
 
 I **bastoncelli** sono più importanti per la visione con poca luce e sono più distribuiti nella periferia della retina.
 I **coni** → visione diurna e dei colori.
-
 
 
 La luce segue questo percorso:
@@ -2362,13 +2371,13 @@ Luce    ↓ Cornea    ↓ Umor acqueo    ↓ Pupilla (regolata dall'iride)    �
 
 ### Vertebre (33 totali)
 
-|Segmento|Numero|
-|-|-|
-|Cervicali|7|
-|Toraciche (dorsali)|12|
-|Lombari|5|
-|Sacrali|5 (fuse)|
-|Coccigee|3-5 (fuse)|
+| Segmento            | Numero      |
+|---------------------|-------------|
+| Cervicali           | 7           |
+| Toraciche (dorsali) | 12          |
+| Lombari             | 5           |
+| Sacrali             | 5 (fuse)    |
+| Coccigee            | 3–5 (fuse)  |
 
 Vertebre mobili: cervicali + toraciche + lombari = **24**
 Le sacrali e le coccigee sono invece saldate tra loro.
@@ -2384,33 +2393,33 @@ Riversano il loro prodotto direttamente nel sangue.
 
 `ipotalamo → ipofisi → altre ghiandole → ormoni nel sangue`
 
-|Ormone|Funzione|
-|-|-|
-|GH (ormone della crescita)|Crescita delle ossa e dei tessuti|
-|TSH|Stimola la tiroide a produrre ormoni tiroidei (metabolismo, energia, temperatura)|
-|ACTH|Stimola le ghiandole surrenali a produrre cortisolo (stress, metabolismo, pressione)|
-|FSH, LH|Gonadi: ovulazione, ciclo mestruale, spermatozoi, testosterone, estrogeni, progesterone|
-|Prolattina|Stimola la produzione di latte|
-|ADH (ipofisi posteriore)|Regola il riassorbimento di acqua nei reni; se manca, si urina moltissimo|
-|Ossitocina (ipofisi posteriore)|Contrazioni del parto; espulsione del latte; presente in maschi e femmine|
+| Ormone                    | Funzione |
+|---------------------------|----------|
+| GH (ormone della crescita) | Crescita delle ossa e dei tessuti |
+| TSH                       | Stimola la tiroide a produrre ormoni tiroidei (metabolismo, energia, temperatura) |
+| ACTH                      | Stimola le ghiandole surrenali a produrre cortisolo (stress, metabolismo, pressione) |
+| FSH, LH                   | Gonadi: ovulazione, ciclo mestruale, spermatozoi, testosterone, estrogeni, progesterone |
+| Prolattina                | Stimola la produzione di latte |
+| ADH (ipofisi posteriore)  | Regola il riassorbimento di acqua nei reni; se manca, si urina moltissimo |
+| Ossitocina (ipofisi posteriore) | Contrazioni del parto; espulsione del latte; presente in maschi e femmine |
 
 
 
 *Ipofisi = centrale di comando ormonale del corpo.*
 
-|Ghiandola|Ormoni prodotti|
-|-|-|
-|Surrene|adrenalina, noradrenalina, cortisolo, aldosterone|
-|Pancreas|insulina, glucagone, somatostatina|
-|Tiroide|T3, T4, calcitonina|
+| Ghiandola | Ormoni prodotti |
+|-----------|-----------------|
+| Surrene   | Adrenalina, noradrenalina, cortisolo, aldosterone |
+| Pancreas  | Insulina, glucagone, somatostatina |
+| Tiroide   | T3, T4, calcitonina |
 
-|Sostanza|Dove viene prodotta|
-|-|-|
-|Insulina|Pancreas endocrino, cellule β delle isole di Langerhans|
-|Progesterone|Soprattutto ovaio, in particolare corpo luteo; anche placenta in gravidanza|
-|Melanina|Non è un ormone: è un pigmento prodotto dai melanociti della pelle|
-|Aldosterone|Corteccia surrenale, zona glomerulare|
-|Adrenalina|Midollare del surrene|
+| Sostanza     | Dove viene prodotta |
+|--------------|---------------------|
+| Insulina     | Pancreas endocrino, cellule β delle isole di Langerhans |
+| Progesterone | Soprattutto ovaio, in particolare corpo luteo; anche placenta in gravidanza |
+| Melanina     | Non è un ormone: è un pigmento prodotto dai melanociti della pelle |
+| Aldosterone  | Corteccia surrenale, zona glomerulare |
+| Adrenalina   | Midollare del surrene |
 
 La calcitonina abbassa la concentrazione di calcio (Ca²⁺) nel sangue.
 
@@ -2492,17 +2501,15 @@ Un esempio è l'uso frequente di alcuni broncodilatatori per l'asma (agonisti β
 
 Anche se l'ormone si lega al recettore, il messaggio può essere interrotto lungo la cascata di segnali intracellulari.
 
-|Strategia|Cosa succede|
-|-|-|
-|**Antagonista del recettore**|Il farmaco occupa il recettore e impedisce all'ormone di legarsi.|
-|**Riduzione della produzione**|La ghiandola produce meno ormone.|
-|**Neutralizzazione dell'ormone**|L'ormone viene legato e inattivato prima di raggiungere il recettore.|
-|**Down-regulation**|La cellula riduce il numero di recettori.|
-|**Desensibilizzazione**|I recettori diventano meno sensibili.|
-|**Blocco della cascata di segnalazione**|Il recettore si attiva, ma il messaggio non viene trasmesso.|
-
-
-
+| Strategia                         | Cosa succede |
+|----------------------------------|--------------|
+| Antagonista del recettore        | Il farmaco occupa il recettore e impedisce all'ormone di legarsi. |
+| Riduzione della produzione       | La ghiandola produce meno ormone. |
+| Neutralizzazione dell'ormone     | L'ormone viene legato e inattivato prima di raggiungere il recettore. |
+| Down-regulation                  | La cellula riduce il numero di recettori. |
+| Desensibilizzazione              | I recettori diventano meno sensibili. |
+| Blocco della cascata di          | Il recettore si attiva, ma il messaggio non viene trasmesso. |
+| segnalazione                     |              |
 
 
 ---
@@ -2560,16 +2567,14 @@ Se non avviene la fecondazione, Il corpo luteo smette di produrre progesterone. 
 Ciclo uterino (28 giorni):
 
 
-| Giorni    | Fase              | Ormone predominante            | Cosa succede                                                       |
-| --------- | ----------------- | ------------------------------ | ------------------------------------------------------------------ |
-| **1–5**   | Mestruale         | Estrogeni e progesterone bassi | L'endometrio si sfalda e viene eliminato.                          |
-| **6–13**  | **Proliferativa** | **Estrogeni**                  | L'endometrio si ricostruisce e si ispessisce.                      |
-| **14**    | Ovulazione        | Picco di LH                    | L'ovocita viene rilasciato.                                        |
-| **15–28** | Secretoria        | **Progesterone**               | L'endometrio diventa ricco di ghiandole e si prepara all'impianto. |
+| Giorni | Fase          | Ormone predominante            | Cosa succede |
+|--------|---------------|--------------------------------|--------------|
+| 1–5    | Mestruale     | Estrogeni e progesterone bassi | L'endometrio si sfalda e viene eliminato. |
+| 6–13   | Proliferativa | Estrogeni                      | L'endometrio si ricostruisce e si ispessisce. |
+| 14     | Ovulazione    | Picco di LH                    | L'ovocita viene rilasciato. |
+| 15–28  | Secretoria    | Progesterone                   | L'endometrio diventa ricco di ghiandole e si prepara all'impianto. |
 
-
-
-
+![Ciclo mestruale](immagini/ciclomestruale.jpg)
 
 ### Leve
 
@@ -2580,13 +2585,11 @@ Potenza      Fulcro      Resistenza
 ---│------------▲-------------│---
 
 
-
 * **II genere**: R (resistenza) in mezzo → sempre **vantaggiosa** . Carriola, Schiaccianoci.
 
 Fulcro      Resistenza      Potenza
 ▲             ↓              ↑
 --▲-------------│--------------│---
-
 
 
 * **III genere**: P (potenza) in mezzo → sempre **svantaggiosa** . Braccio umano, Canna da pesca.
@@ -2605,20 +2608,20 @@ Fulcro      Potenza      Resistenza
 
 ### Gruppi funzionali principali
 
-|Classe di composti|Gruppo funzionale|Formula generale|Desinenza / Nome|Esempio|
-|-|-|-|-|-|
-|**Alcani**|Nessuno (solo legami singoli)|CₙH₂ₙ₊₂|**-ano**|Metano (CH₄), Etano (C₂H₆)|
-|**Alcheni**|Doppio legame C=C|R-CH=CH-R'|**-ene**|Etene (CH₂=CH₂)|
-|**Alchini**|Triplo legame C≡C|R-C≡C-R'|**-ino**|Etino (HC≡CH)|
-|**Alcoli**|-OH (ossidrile)|R-OH|**-olo**|Etanolo (CH₃CH₂OH)|
-|**Aldeidi**|-CHO|R-CHO|**-ale**|Metanale/formaldeide HCHO, Etanale/acetaldeide (CH₃CHO)|
-|**Chetoni**|>C=O|R-CO-R'|**-one**|Propanone/acetone (CH₃COCH₃)|
-|**Acidi carbossilici**|-COOH|R-COOH|**Acido ...-oico**|Acido etanoico (CH₃COOH)|
-|**Esteri**|-COO-|R-COO-R'|**...oato di ...ile**|Etanoato di etile (CH₃COOCH₂CH₃)|
-|**Eteri**|-O-|R-O-R'|...ossi... oppure etere dialchilico|Etossietano CH₃–O–CH₃|
-|**Ammidi**|-CONH₂|R-CONH₂|**-ammide**|Etanammide (CH₃CONH₂)|
-|**Ammine**|-NH₂|R-NH₂|**-ammina**|Etanammina (CH₃CH₂NH₂)|
-|**Anidride**|-CO-O-CO-|(RCO)₂O|**Anidride ...ica / ...oica**|Anidride etanoica|
+| Classe di composti     | Gruppo funzionale             | Formula generale | Desinenza / Nome              | Esempio |
+|------------------------|-------------------------------|-------------------|-------------------------------|---------|
+| Alcani                 | Nessuno (solo legami singoli) | CₙH₂ₙ₊₂          | -ano                          | Metano (CH₄), Etano (C₂H₆) |
+| Alcheni                | Doppio legame C=C             | R-CH=CH-R'        | -ene                          | Etene (CH₂=CH₂) |
+| Alchini                | Triplo legame C≡C             | R-C≡C-R'          | -ino                          | Etino (HC≡CH) |
+| Alcoli                 | -OH (ossidrile)               | R-OH              | -olo                          | Etanolo (CH₃CH₂OH) |
+| Aldeidi                | -CHO                          | R-CHO             | -ale                          | Metanale/formaldeide (HCHO), Etanale/acetaldeide (CH₃CHO) |
+| Chetoni                | >C=O                          | R-CO-R'           | -one                          | Propanone/acetone (CH₃COCH₃) |
+| Acidi carbossilici     | -COOH                         | R-COOH            | Acido ...-oico                | Acido etanoico (CH₃COOH) |
+| Esteri                 | -COO-                         | R-COO-R'          | ...oato di ...ile             | Etanoato di etile (CH₃COOCH₂CH₃) |
+| Eteri                  | -O-                           | R-O-R'            | ...ossi... oppure etere dialchilico | Etossietano (CH₃–O–CH₃) |
+| Ammidi                 | -CONH₂                        | R-CONH₂           | -ammide                       | Etanammide (CH₃CONH₂) |
+| Ammine                 | -NH₂                          | R-NH₂             | -ammina                       | Etanammina (CH₃CH₂NH₂) |
+| Anidridi               | -CO-O-CO-                     | (RCO)₂O           | Anidride ...ica / ...oica     | Anidride etanoica |
 
 C=O gruppo carbonile, COOH gruppo carbossile , CHO gruppo aldeidico
 
@@ -2638,28 +2641,28 @@ Regola mnemonica (in ordine crescente di "peso" degli atomi):
 
 # Reazioni Principali dei Composti Organici
 
-| Reagente di partenza | Reazione | Prodotto principale | Note / Condizioni particolari |
-| :--- | :--- | :--- | :--- |
-| **Alcol Primario** (R-CH2OH) | Deidrogenazione | **Aldeide** + H2 | Catalizzata da Rame (Cu) a 300 °C |
-| **Alcol Secondario** (R2CH-OH) | Deidrogenazione | **Chetone** + H2 | Catalizzata da Rame (Cu) a 300 °C |
-| **Alcol Terziario** (R3C-OH) | Deidrogenazione | **Nessuna reazione** | Manca l'H sul carbonio alfa (in ambiente acido deidrata) |
-| **Alcano** (R-CH2-CH3) | Deidrogenazione | **Alchene** + H2 | Catalizzatori metallici (Pt, Pd, Ni) e alta temp |
-| **Alchene** (R-CH=CH-R) | Deidrogenazione | **Alchino** / **Diene** + H2 | Condizioni industriali ad alta temp |
-| **Alcol Primario** (R-CH2OH) | Ossidazione blanda | **Aldeide** (R-CHO) | Es. con PCC (Piridinio clorocromato) |
-| **Alcol Primario** (R-CH2OH) | Ossidazione forte | **Acido Carbossilico** (R-COOH) | Es. con KMnO4 o K2Cr2O7 |
-| **Alcol Secondario** (R2CH-OH) | Ossidazione | **Chetone** (R2C=O) | Non si ossida ulteriormente |
-| **Alcol Terziario** (R3C-OH) | Ossidazione | **Nessuna reazione** | Manca l'idrogeno sul carbonio alfa |
-| **Alcol** (R-OH) | Deidratazione intramolecolare | **Alchene** | Catalisi acida (H2SO4), alta temperatura |
-| **Alcol** (R-OH) | Deidratazione intermolecolare | **Etere** | Tra 2 molecole di alcol a temperatura moderata |
-| **Aldeide** (R-CHO) | Ossidazione | **Acido Carbossilico** | Come nel quiz dell'immagine |
-| **Aldeide** (R-CHO) | Riduzione | **Alcol Primario** | Con agenti riducenti (es. LiAlH4, NaBH4) |
-| **Chetone** (R2C=O) | Ossidazione | **Nessuna reazione** | Resiste in condizioni normali |
-| **Chetone** (R2C=O) | Riduzione | **Alcol Secondario** | Con LiAlH4 o NaBH4 |
-| **Acido Carbossilico** + **Alcol** | Esterificazione (Fischer) | **Estere** + H2O | Catalisi acida |
-| **Estere** + H2O | Idrolisi acida | **Acido Carbossilico** + **Alcol** | Reazione reversibile |
-| **Estere** + Base forte | Idrolisi basica (Saponificazione) | **Sale dell'acido** + **Alcol** | Reazione irreversibile |
-| **Etere** (R-O-R') | Scissione con acidi forti | **Alogenuro alchilico** + **Alcol** | Reagisce tipicamente con HI o HBr concentrati |
-| **Acido Carbossilico** + **Ammoniaca** | Amidazione | **Ammide** + H2O |  |
+| Reagente di partenza             | Reazione                     | Prodotto principale                  | Note / Condizioni particolari |
+|----------------------------------|------------------------------|--------------------------------------|-------------------------------|
+| Alcol Primario (R-CH₂OH)         | Deidrogenazione              | Aldeide + H₂                         | Catalizzata da Rame (Cu) a 300 °C |
+| Alcol Secondario (R₂CH-OH)       | Deidrogenazione              | Chetone + H₂                         | Catalizzata da Rame (Cu) a 300 °C |
+| Alcol Terziario (R₃C-OH)         | Deidrogenazione              | Nessuna reazione                     | Manca l'H sul carbonio alfa (in ambiente acido deidrata) |
+| Alcano (R-CH₂-CH₃)               | Deidrogenazione              | Alchene + H₂                         | Catalizzatori metallici (Pt, Pd, Ni) e alta temp |
+| Alchene (R-CH=CH-R)              | Deidrogenazione              | Alchino / Diene + H₂                 | Condizioni industriali ad alta temp |
+| Alcol Primario (R-CH₂OH)         | Ossidazione blanda           | Aldeide (R-CHO)                      | Es. con PCC (Piridinio clorocromato) |
+| Alcol Primario (R-CH₂OH)         | Ossidazione forte            | Acido Carbossilico (R-COOH)          | Es. con KMnO₄ o K₂Cr₂O₇ |
+| Alcol Secondario (R₂CH-OH)       | Ossidazione                  | Chetone (R₂C=O)                      | Non si ossida ulteriormente |
+| Alcol Terziario (R₃C-OH)         | Ossidazione                  | Nessuna reazione                     | Manca l'idrogeno sul carbonio alfa |
+| Alcol (R-OH)                     | Deidratazione intramolecolare| Alchene                              | Catalisi acida (H₂SO₄), alta temperatura |
+| Alcol (R-OH)                     | Deidratazione intermolecolare| Etere                                | Tra 2 molecole di alcol a temperatura moderata |
+| Aldeide (R-CHO)                  | Ossidazione                  | Acido Carbossilico                   | Come nel quiz dell'immagine |
+| Aldeide (R-CHO)                  | Riduzione                    | Alcol Primario                       | Con agenti riducenti (es. LiAlH₄, NaBH₄) |
+| Chetone (R₂C=O)                  | Ossidazione                  | Nessuna reazione                     | Resiste in condizioni normali |
+| Chetone (R₂C=O)                  | Riduzione                    | Alcol Secondario                     | Con LiAlH₄ o NaBH₄ |
+| Acido Carbossilico + Alcol       | Esterificazione (Fischer)    | Estere + H₂O                         | Catalisi acida |
+| Estere + H₂O                     | Idrolisi acida               | Acido Carbossilico + Alcol           | Reazione reversibile |
+| Estere + Base forte              | Idrolisi basica (Saponificazione) | Sale dell'acido + Alcol          | Reazione irreversibile |
+| Etere (R-O-R')                   | Scissione con acidi forti    | Alogenuro alchilico + Alcol          | Reagisce tipicamente con HI o HBr concentrati |
+| Acido Carbossilico + Ammoniaca   | Amidazione                   | Ammide + H₂O                         |                               |
 
 
 **Alcoli classificati per carbonio con –OH:**
@@ -2672,14 +2675,14 @@ In un **alcol secondario**, il carbonio che porta il gruppo –OH è legato a: 2
 
 Come riconoscere un alcol:
 
-|Carboni|Prefisso|Esempio|
-|-:|-|-|
-|1|Met-    CH₃OH → metanolo||
-|2|Et-|CH₃CH₂OH → etanolo|
-|3|Prop-|CH₃CH₂CH₂OH → propanolo|
-|4|But-|CH₃CH₂CH₂CH₂OH → butanolo|
-|5|Pent-|CH3-CH2-CH2-CH2-CH2OH Pentanolo|
-|6|Es-|CH3-CH2-CH2-CH2-CH2-CH2OH Esanolo|
+| Carboni | Prefisso | Esempio |
+|---------|----------|---------|
+| 1       | Met-     | CH₃OH → metanolo |
+| 2       | Et-      | CH₃CH₂OH → etanolo |
+| 3       | Prop-    | CH₃CH₂CH₂OH → propanolo |
+| 4       | But-     | CH₃CH₂CH₂CH₂OH → butanolo |
+| 5       | Pent-    | CH₃-CH₂-CH₂-CH₂-CH₂OH → pentanolo |
+| 6       | Es-      | CH₃-CH₂-CH₂-CH₂-CH₂-CH₂OH → esanolo |
 
 Il FENOLO non è un alcol. È un composto organico formato da un anello benzenico a cui è legato direttamente un gruppo ossidrile (-OH): C6H5OH
 Nel fenolo il gruppo -OH è legato direttamente all'anello aromatico.
@@ -2693,11 +2696,11 @@ L'acido salicilico è un composto fenilico.
 
 ### Idrocarburi
 
-|Classe|Legame|Formula|Esempi|
-|-|-|-|-|
-|Alcani (saturi)|C–C semplice|CₙH₂ₙ₊₂|metano CH₄, etano C₂H₆, propano C₃H₈, butano C₄H₁₀|
-|Alcheni (insaturi)|C=C doppio|CₙH₂ₙ|etilene/etene C₂H₄, propene C₃H₆|
-|Alchini (insaturi)|C≡C triplo|CₙH₂ₙ₋₂|etino/acetilene C₂H₂|
+| Classe              | Legame       | Formula    | Esempi |
+|---------------------|--------------|------------|--------|
+| Alcani (saturi)     | C–C semplice | CₙH₂ₙ₊₂   | Metano CH₄, etano C₂H₆, propano C₃H₈, butano C₄H₁₀ |
+| Alcheni (insaturi)  | C=C doppio   | CₙH₂ₙ     | Etilene/etene C₂H₄, propene C₃H₆ |
+| Alchini (insaturi)  | C≡C triplo   | CₙH₂ₙ₋₂   | Etino/acetilene C₂H₂ |
 
 **Cicloalcani:** CₙH₂ₙ — es. metilcicloesano: cicloesano (C₆H₁₂) + metile (CH₃) = C₇H₁₄
 
@@ -2705,7 +2708,6 @@ Il METANO è alifatico (áleiphar, grasso) perché non é aromatico:
 Composti alifatici: hanno catene di atomi di carbonio (lineari, ramificate o cicliche non aromatiche).
 Composti aromatici: contengono un anello aromatico, come quello del benzene, con elettroni delocalizzati.
 Anche etano, propano e Cicloesano sono alifatici. Il Benzene e' aromatico.
-
 
 
 Un anello aromatico è un anello di atomi di carbonio che possiede una particolare distribuzione degli elettroni, che lo rende eccezionalmente stabile: 6 elettroni "π" (pi greco) che si distribuiscono su tutto l'anello.
@@ -2723,13 +2725,13 @@ Gli alcani invece ammettono:
 
 ### Reazioni organiche principali
 
-|Reazione|Schema|
-|-|-|
-|Alcol primario + ossidazione|→ Aldeide + H₂: es. etanolo → etanale/acetaldeide CH₃CH₂OH → CH₃–CHO + H₂|
-|Metanolo + ossidazione|→ metanale/formaldeide: CH₃OH → H–CHO + H₂|
-|Alcol secondario + ossidazione|→ Chetone: propan-2-olo → acetone CH₃–CHOH–CH₃ → CH₃–CO–CH₃ + H₂|
-|2 alcol + disidratazione intermolecolare|→ Etere + H₂O: etanolo + etanolo → etere dietilico CH₃CH₂OH + HOCH₂CH₃ → CH₃CH₂–O–CH₂CH₃ + H₂O|
-|Alcol + disidratazione intramolecolare|→ Alchene + H₂O: etanolo → etene CH₃–CH₂OH → CH₂=CH₂ + H₂O|
+| Reazione                                 | Schema |
+|------------------------------------------|--------|
+| Alcol primario + ossidazione             | → Aldeide + H₂: es. etanolo → etanale/acetaldeide CH₃CH₂OH → CH₃–CHO + H₂ |
+| Metanolo + ossidazione                   | → Metanale/formaldeide: CH₃OH → H–CHO + H₂ |
+| Alcol secondario + ossidazione           | → Chetone: propan-2-olo → acetone CH₃–CHOH–CH₃ → CH₃–CO–CH₃ + H₂ |
+| 2 alcol + disidratazione intermolecolare | → Etere + H₂O: etanolo + etanolo → etere dietilico CH₃CH₂OH + HOCH₂CH₃ → CH₃CH₂–O–CH₂CH₃ + H₂O |
+| Alcol + disidratazione intramolecolare   | → Alchene + H₂O: etanolo → etene CH₃–CH₂OH → CH₂=CH₂ + H₂O |
 
 **Ossidazione in organica:** + legami con O, − legami con H
 **Riduzione in organica:** − legami con O, + legami con H
@@ -2740,23 +2742,23 @@ Il carbonio *perde* un legame con H e *aumenta* il legame con O → si ossida.
 
 ### Orbitali del carbonio e ibridazione
 
-|Ibridazione|Geometria|Angolo|Tipo di legame|Esempio|
-|-|-|-|-|-|
-|sp³|Tetraedrica|109,5°|4 legami singoli|CH₄ metano|
-|sp²|Trigonale planare|120°|1 doppio legame|CH₂=CH₂ etene|
-|sp|Lineare|180°|1 triplo legame|HC≡CH etino|
+| Ibridazione | Geometria         | Angolo   | Tipo di legame   | Esempio |
+|-------------|-------------------|----------|------------------|---------|
+| sp³         | Tetraedrica       | 109,5°   | 4 legami singoli | CH₄ metano |
+| sp²         | Trigonale planare | 120°     | 1 doppio legame  | CH₂=CH₂ etene |
+| sp          | Lineare           | 180°     | 1 triplo legame  | HC≡CH etino |
 
 ---
 
 ### Legami tra biomolecole
 
-|Biomolecola|Legame|
-|-|-|
-|Carboidrati (monosaccaridi)|Glicosidico|
-|Proteine (amminoacidi)|Peptidico|
-|Acidi nucleici (nucleotidi)|Fosfodiesterico|
-|Trigliceridi (glicerolo + acidi grassi)|Estere|
-|Idrocarburi|legami C–C e C–H|
+| Biomolecola                              | Legame          |
+|------------------------------------------|-----------------|
+| Carboidrati (monosaccaridi)              | Glicosidico     |
+| Proteine (amminoacidi)                   | Peptidico       |
+| Acidi nucleici (nucleotidi)              | Fosfodiesterico |
+| Trigliceridi (glicerolo + acidi grassi)  | Estere          |
+| Idrocarburi                              | Legami C–C e C–H |
 
 **Legame glicosidico:** unisce monosaccaridi.
 
@@ -2769,26 +2771,24 @@ Quell’ossigeno in mezzo è il “ponte” del legame glicosidico.
 
 I polisaccaridi sono catene formate da tanti monosaccaridi uniti tra loro da legami glicosidici. Quando fai idrolisi, cioè “rompi con acqua” quei legami, la catena si spezza e torna ai suoi mattoncini di base: polisaccaride → monosaccaridi.
 
-
-
 ---
 
 ### Monosaccaridi, disaccaridi, polisaccaridi
 
 Carboidrati detti anche Glucidi o Saccaridi o Idrati di carbonio.
 
-**Monosaccaridi importanti:** glucosio (poliidrossialdeide), fruttosio (poliidrossichetone), galattosio (isomeri, formula C₆H₁₂O₆, tutti esosi)
+**Monosaccaridi importanti:** glucosio (poliidrossialdeide CHO), fruttosio (poliidrossichetone CO), galattosio (isomeri, formula C₆H₁₂O₆, tutti esosi)
 
 Hanno molti gruppi ossidrile OH, per questo sono molto solubili in acqua, perchè OH forma legami a idrogeno con l'acqua.
 
 Classificazione per numero di carboni:
 
-|Nome|Carboni|
-|-|-|
-|trioso|3|
-|tetroso|4|
-|pentoso|5|
-|esoso|6|
+| Nome   | Carboni |
+|--------|---------|
+| trioso | 3       |
+| tetroso| 4       |
+| pentoso| 5       |
+| esoso  | 6       |
 
 * **glucosio e galattosio**: aldoesosi (gruppo –CHO aldeidico)
 * **fruttosio**: chetoesoso (gruppo C=O chetonico)
@@ -2814,7 +2814,7 @@ Gli esseri umani non producono la cellulasi. Di conseguenza la cellulosa attrave
 
 La cellulosa fa ingrassare? No. Poiché non viene digerita: non fornisce praticamente calorie; aumenta il senso di sazietà; favorisce il transito intestinale; aiuta a prevenire la stitichezza; contribuisce a rallentare l'assorbimento di zuccheri e grassi.
 
-Nelle cellule vegetali la cellulosa è immersa in una matrice composta anche da:  emicellulose; pectine; acqua; nelle parti legnose anche lignina, che rende la parete ancora più rigida. La lignina non sostituisce la cellulosa: la "cementa" e la rinforza, soprattutto nel legno.
+Nelle cellule vegetali la cellulosa è immersa in una matrice composta anche da: emicellulose; pectine; acqua; nelle parti legnose anche lignina, che rende la parete ancora più rigida. La lignina non sostituisce la cellulosa: la "cementa" e la rinforza, soprattutto nel legno.
 
 **Amido:** (C₆H₁₀O₅)ₙ — polisaccaride formato da tante unità di glucosio.
 
@@ -2880,33 +2880,33 @@ Gli esseri umani utilizzano 20 amminoacidi proteinogenici standard per costruire
 
 I 20 amminoacidi standard
 
-|Amminoacido|Sigla (3 lettere)|Sigla (1 lettera)|Essenziale?|
-|-|-|-|-|
-|Glicina|Gly|G|No|
-|Alanina|Ala|A|No|
-|Valina|Val|V|**Sì**|
-|Leucina|Leu|L|**Sì**|
-|Isoleucina|Ile|I|**Sì**|
-|Prolina|Pro|P|No|
-|Metionina|Met|M|**Sì**|
-|Fenilalanina|Phe|F|**Sì**|
-|Triptofano|Trp|W|**Sì**|
-|Serina|Ser|S|No|
-|Treonina|Thr|T|**Sì**|
-|Cisteina|Cys|C|No*|
-|Tirosina|Tyr|Y|No*|
-|Asparagina|Asn|N|No|
-|Glutammina|Gln|Q|No|
-|Acido aspartico (Aspartato)|Asp|D|No|
-|Acido glutammico (Glutammato)|Glu|E|No|
-|Lisina|Lys|K|**Sì**|
-|Arginina|Arg|R|No**|
-|Istidina|His|H|**Sì**|
+| Amminoacido                    | Sigla (3 lettere) | Sigla (1 lettera) | Essenziale? |
+|--------------------------------|-------------------|-------------------|-------------|
+| Glicina                        | Gly               | G                 | No          |
+| Alanina                        | Ala               | A                 | No          |
+| Valina                         | Val               | V                 | Sì          |
+| Leucina                        | Leu               | L                 | Sì          |
+| Isoleucina                     | Ile               | I                 | Sì          |
+| Prolina                        | Pro               | P                 | No          |
+| Metionina                      | Met               | M                 | Sì          |
+| Fenilalanina                   | Phe               | F                 | Sì          |
+| Triptofano                     | Trp               | W                 | Sì          |
+| Serina                         | Ser               | S                 | No          |
+| Treonina                       | Thr               | T                 | Sì          |
+| Cisteina                       | Cys               | C                 | No$         |
+| Tirosina                       | Tyr               | Y                 | No$         |
+| Asparagina                     | Asn               | N                 | No          |
+| Glutammina                     | Gln               | Q                 | No          |
+| Acido aspartico (Aspartato)    | Asp               | D                 | No          |
+| Acido glutammico (Glutammato)  | Glu               | E                 | No          |
+| Lisina                         | Lys               | K                 | Sì          |
+| Arginina                       | Arg               | R                 | No$$        |
+| Istidina                       | His               | H                 | Sì          |
 
 Note
 
-* La cisteina deriva dalla metionina e la tirosina deriva dalla fenilalanina: diventano essenziali se manca il loro precursore.
-** L'arginina è considerata condizionatamente essenziale nei bambini e in alcune situazioni (crescita, traumi, ustioni, malattie).
+$ La cisteina deriva dalla metionina e la tirosina deriva dalla fenilalanina: diventano essenziali se manca il loro precursore.
+$$ L'arginina è considerata condizionatamente essenziale nei bambini e in alcune situazioni (crescita, traumi, ustioni, malattie).
 
 
 
@@ -2960,7 +2960,7 @@ LiH (idruro di litio)
 NH₃ (ammoniaca, un idruro covalente dell'azoto)
 CH₄ (metano, un idruro del carbonio)
 
-Regola pratica: quando l'idrogeno è scritto per primo (HCl, H₂SO₄, HNO₃...), spesso si tratta di un acido. Quando invece è legato a un metallo e la formula è scritta come NaH, CaH₂, LiH, si tratta di un idruro, non di un acido. I
+Regola pratica: quando l'idrogeno è scritto per primo (HCl, H₂SO₄, HNO₃...), spesso si tratta di un acido. Quando invece è legato a un metallo e la formula è scritta come NaH, CaH₂, LiH, si tratta di un idruro, non di un acido.
 
 
 Nel **legame dativo** entrambi gli elettroni della coppia condivisa provengono dallo stesso atomo (es. NH4)
@@ -2984,10 +2984,10 @@ H₂CO₃ (carbonico), H₃PO₄ (fosforico)
 
 **Idracidi** (H + non-metallo, senza O): HCl, HBr, HI
 
-|Tipo|Definizione|Esempio|
-|-|-|-|
-|Idracido|H + non metallo|HCl (acido cloridrico)|
-|Ossiacido|H + non metallo + O|HClO₃ (acido clorico)|
+| Tipo     | Definizione         | Esempio |
+|----------|---------------------|---------|
+| Idracido | H + non metallo     | HCl (acido cloridrico) |
+| Ossiacido| H + non metallo + O | HClO₃ (acido clorico)  |
 
 ---
 
@@ -2998,11 +2998,11 @@ Es. HCl -> NaCl, H2SO4 -> NaHSO4, Na2SO4
 
 I sali sono sempre elettroliti forti.
 
-|Origine del sale|Comportamento in soluzione acquosa|Esempio|
-|-|-|-|
-|Acido forte + base forte|Neutro (pH ≈ 7)|NaCl, KCl|
-|Acido forte + base debole|Acido|NH₄Cl|
-|Acido debole + base forte|Basico|CH₃COONa|
+| Origine del sale             | Comportamento in soluzione acquosa | Esempio     |
+|------------------------------|------------------------------------|-------------|
+| Acido forte + base forte     | Neutro (pH ≈ 7)                    | NaCl, KCl   |
+| Acido forte + base debole    | Acido                              | NH₄Cl       |
+| Acido debole + base forte    | Basico                             | CH₃COONa    |
 
 Esistono i **sali acidi**, in cui viene sostituito solo parte dell'idrogeno.
 
@@ -3041,12 +3041,12 @@ Se scende sotto 7,35 si parla di acidosi. Se sale sopra 7,45 si parla di alcalos
 
 Se nel sangue arrivano molti H⁺, il pH tende a diminuire, allora gli ioni H⁺ vengono catturati: H⁺ + HCO₃⁻ -> H₂CO₃
 L'acido carbonico è instabile. Si trasforma in: H₂CO₃​ → CO₂ + H₂O e la CO₂ viene eliminata con la respirazione.
-Viceversa se il sangue diventra troppo basico H₂CO₃ -> H⁺ + HCO₃⁻ .
+Viceversa se il sangue diventa troppo basico H₂CO₃ -> H⁺ + HCO₃⁻ .
 Se il sangue e' acido, la respirazione accelera; se troppo basico, rallenta.
 
 
 Un acido DIPROTICO può fornire 2 H⁺ per molecola (es. H₂SO₄)
-Un acido é detto POLIPROTICO quando in acqua puô cedere più di un protone al solvente.
+Un acido é detto POLIPROTICO quando in acqua può cedere più di un protone al solvente.
 
 Una reazione è OMOGENEA quando tutte le specie chimiche coinvolte si trovano nella stessa fase fisica (solido, liquido, gas, soluzione acquosa).
 
@@ -3060,8 +3060,6 @@ Lo stesso principio viene sfruttato per conservare alcuni alimenti con molto sal
 
 L'acqua ha pH 7 solo a 25 gradi, a 50 il pH vale 6.6 ma l'acqua resta neutra perchè [H+] = [OH−] ,
 questo perchè la dissociazione dell'acqua è una reazione endotermica, quindi l'equilibrio si sposta verso destra all'aumentare della T H2​O ⇌ H+ + OH−
-
-
 
 
 
@@ -3122,12 +3120,12 @@ Per ottenere un sale si può anche far reagire un acido e un idrossido (reazione
 
 **Conversioni di pressione:**
 
-|Unità|Valore|
-|-|-|
-|1 bar|10⁵ Pa|
-|1 atm|1,013 × 10⁵ Pa|
-|1 atm|760 torr (o mm Hg)|
-|1 Pa|1 N/m²|
+| Unità | Valore        |
+|-------|---------------|
+| 1 bar | 10⁵ Pa        |
+| 1 atm | 1,013 × 10⁵ Pa |
+| 1 atm | 760 torr (o mm Hg) |
+| 1 Pa  | 1 N/m²        |
 
 ---
 
@@ -3153,10 +3151,10 @@ Ge (Germanio) ≈ 938 °C
 Cr (Cromo) ≈ 1907 °C
 
 Questi sono le grandi eccezioni:
-Mercurio (Hg) → è liquido già a temperatura ambiente (fonde a −39 °C).
-Gallio (Ga) → fonde a 30 °C, quindi basta il calore della mano.
-Cesio (Cs) → fonde a 28,5 °C.
-Rubidio (Rb) → fonde a 39 °C.
+Mercurio (Hg, 80) → è liquido già a temperatura ambiente (fonde a −39 °C).
+Gallio (Ga, 31) → fonde a 30 °C, quindi basta il calore della mano.
+Cesio (Cs, 55) → fonde a 28,5 °C.
+Rubidio (Rb, 37) → fonde a 39 °C.
 
 
 Metalli di transizione (Fe, Cr, Ti, W...) → temperature di fusione molto elevate.
@@ -3175,13 +3173,13 @@ Periodo = riga orizzontale. Gli elementi dello stesso periodo hanno gli elettron
 
 Gli elementi dello stesso gruppo hanno lo stesso numero di elettroni di valenza e quindi proprietà chimiche simili.
 
-|Gruppo|Nome|
-|-|-|
-|1|Metalli alcalini|
-|2|Metalli alcalino-terrosi|
-|3–12|Metalli di transizione|
-|17|Alogeni (ex VIIA)|
-|18|Gas nobili (ex VIIIA)|
+| Gruppo | Nome |
+|--------|------|
+| 1      | Metalli alcalini |
+| 2      | Metalli alcalino-terrosi |
+| 3–12   | Metalli di transizione |
+| 17     | Alogeni (ex VIIA) |
+| 18     | Gas nobili (ex VIIIA) |
 
 
 Gli elementi dello stesso periodo hanno lo stesso numero di livelli energetici (gusci elettronici) occupati.
@@ -3245,7 +3243,7 @@ Z          6
 Numero atomico Z = protoni
 Numero di massa A = protoni + neutroni
 Massa atomica relativa (aka peso atomico) = è la media pesata delle masse degli isotopi naturali. è un rapporto, l'unità di riferimento è 1/12 della massa dell'isotopo carbonio-12.
-Massa molecolare relativa (aka peso molecolare) = la somma dei pesi atomici di tutti gli atomi costituenti una molecola
+Massa molecolare relativa (aka peso molecolare) = la somma dei pesi atomici (=massa atomica relativa) di tutti gli atomi costituenti una molecola
 Massa molare è la massa di una mole di sostanza, in g/mol : 1 mole di carbonio pesa 12,01 g, quindi la sua massa molare è 12,01 g/mol
 
 
