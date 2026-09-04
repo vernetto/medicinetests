@@ -5809,28 +5809,6 @@ Z → I → A → H → M → H → A → I → Z
 
 ## DA RIVEDERE
 
----
-
-**2. Quale di questi processi consuma ATP?**
-
-A) Ciclo di Calvin ← **risposta corretta**
-B) Ciclo di Krebs
-C) Fosforilazione ossidativa
-D) Trasformazione del piruvato in acido lattico
-E) Fase luminosa della fotosintesi
-
-*(Il Ciclo di Calvin consuma ATP per ridurre il CO₂ e rigenerare il RuBP)*
-
----
-
-**3. Trapezio rettangolo con semicirconferenza inscritta:**
-
-> Sia ABCD un trapezio rettangolo circoscritto ad una semicirconferenza avente per diametro l'altezza AD. Quale delle seguenti relazioni è vera?
-
-**BC = AB + CD** ← risposta corretta
-
-
-
 Cinque persone (A, B, C, D, E) decidono di scambiarsi i regali di Natale di modo che ciascuno faccia
 un regalo a due persone e ne riceva da altre due persone. A fa un regalo a B e C; D fa un regalo a B
 e a una delle due persone che ricevono il regalo anche da E; C fa un regalo a D e alla stessa persona
