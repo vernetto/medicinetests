@@ -5785,7 +5785,7 @@ Actina + Miosina
 
 Il muscolo è striato perché actina e miosina sono disposte in modo molto ordinato.
 Al microscopio si osservano:
-bande A (scure: contengono filamenti di actina - sottili - e miosina - spessi - sovrapposti, con una zona H centrale composta solo da filamenti di miosina.
+bande A (scure: contengono filamenti di actina - sottili - e miosina - spessi - sovrapposti, con una zona H centrale composta solo da filamenti di miosina.)
 bande I (chiare): solo actina
 Questa alternanza produce l'aspetto striato.
 Z = confine del sarcomero, alle linee Z sono fissati i filamenti di actina
@@ -5808,23 +5808,6 @@ Z → I → A → H → M → H → A → I → Z
 			   
 
 ## DA RIVEDERE
-
-**1. Meiosi e contenuto di DNA:**
-
-> Se una cellula che in fase G1 contiene una quantità di DNA pari a x si divide per meiosi, quale sarà il contenuto di DNA di ogni singola cellula in profase II?
-
-*(Risposta: x — la meiosi I ha dimezzato i cromosomi ma in profase II ogni cromosoma ha ancora 2 cromatidi, quindi il contenuto è x)*
-
-
-
-Quale, tra questi eventi, caratterizza la meiosi e NON la mitosi?
-A) Appaiamento dei cromosomi omologhi
-B) Dissoluzione della membrana nucleare
-C) Duplicazione del DNA prima che inizi il processo
-D) Migrazione verso i poli opposti dei cromatidi fratelli di ciascun cromosoma
-E) Allineamento dei cromosomi nella regione mediana del fuso
-
-
 
 ---
 
