@@ -3452,8 +3452,6 @@ La formula della circonferenza è: (x−h)^2 + (y−k)^2 = r^2  dove (h,k) sono 
   * C_x = coefficiente di resistenza aerodinamica
   * A = area frontale
 
-
-
 La RESISTENZA ELETTRICA di un filo si calcola con una formula molto semplice:
 R = ρ L / A
 ρ = resistività del materiale (Ω·m)
@@ -3462,7 +3460,6 @@ quindi R = 4 ρ L / πd^2​
 
 P = V x I    V = R x I    P = R x I^2   P = V^2 / R
 
-
 Il potenziale elettrico generato da una sfera conduttrice carica (nei punti esterni alla sfera) è: V = kQ/d dove d e' la distanza dal centro
 
 
@@ -3470,11 +3467,11 @@ Il potenziale elettrico generato da una sfera conduttrice carica (nei punti este
 
 ## 19. LOGICA
 
-|Regola|Schema|
-|-|-|
-|**Modus ponens**|"Se p allora q. p è vero → quindi q è vero"|
-|**Modus tollens**|"Se p allora q. q è falso → quindi p è falso"|
-|**Proposizione contronominale**|"Se p allora q" ≡ "Se non-q allora non-p"|
+| Regola                         | Schema |
+|--------------------------------|--------|
+| Modus ponens                   | "Se p allora q. p è vero → quindi q è vero" |
+| Modus tollens                  | "Se p allora q. q è falso → quindi p è falso" |
+| Proposizione contronominale    | "Se p allora q" ≡ "Se non-q allora non-p" |
 
 ∧ = AND | ∨ = OR
 
@@ -3506,11 +3503,11 @@ Una Costituzione è *flessibile* quando può essere modificata con una normale l
 
 **Struttura:** 139 articoli + disposizioni transitorie e finali
 
-|Parte|Contenuto|
-|-|-|
-|Principi fondamentali|articoli 1–12|
-|Parte I|Diritti e doveri dei cittadini, artt. 13–54|
-|Parte II|Ordinamento della Repubblica, artt. 55–139|
+| Parte                 | Contenuto |
+|-----------------------|-----------|
+| Principi fondamentali | Articoli 1–12 |
+| Parte I               | Diritti e doveri dei cittadini, artt. 13–54 |
+| Parte II              | Ordinamento della Repubblica, artt. 55–139  |
 
 ---
 
@@ -3553,12 +3550,12 @@ Quindi ci sono due tipi di uguaglianza:
 
 Si divide in quattro "titoli":
 
-|Titolo|Contenuto|
-|-|-|
-|I – Rapporti civili|libertà personali|
-|II – Rapporti etico-sociali|famiglia, salute, scuola|
-|III – Rapporti economici|lavoro, proprietà, impresa|
-|IV – Rapporti politici|voto, partiti, doveri civici|
+| Titolo                      | Contenuto                    |
+|-----------------------------|------------------------------|
+| I – Rapporti civili         | Libertà personali            |
+| II – Rapporti etico-sociali | Famiglia, salute, scuola     |
+| III – Rapporti economici    | Lavoro, proprietà, impresa   |
+| IV – Rapporti politici      | Voto, partiti, doveri civici |
 
 **Diritti civili:**
 
@@ -3593,13 +3590,13 @@ Nessuno può essere obbligato a un trattamento sanitario se non per disposizione
 
 La legge non può in nessun caso violare i limiti imposti dal rispetto della persona umana.
 
-|Concetto|Significato|
-|-|-|
-|Diritto individuale|ogni persona ha diritto alla salute|
-|Interesse collettivo|la salute riguarda tutta la società|
-|Cure agli indigenti|lo Stato aiuta chi non può pagare|
-|Trattamenti obbligatori|possibili solo se previsti dalla legge|
-|Rispetto della persona|limite invalicabile|
+| Concetto                 | Significato                    |
+|--------------------------|--------------------------------|
+| Diritto individuale      | Ogni persona ha diritto alla salute |
+| Interesse collettivo     | La salute riguarda tutta la società |
+| Cure agli indigenti      | Lo Stato aiuta chi non può pagare |
+| Trattamenti obbligatori  | Possibili solo se previsti dalla legge |
+| Rispetto della persona   | Limite invalicabile            |
 
 Esempi collegabili: vaccini, TSO, consenso informato, sanità pubblica.
 
@@ -3609,14 +3606,14 @@ Esempi collegabili: vaccini, TSO, consenso informato, sanità pubblica.
 
 **Artt. 35-40** — La Repubblica tutela il lavoro in tutte le sue forme. Riconosce il diritto alla retribuzione proporzionata e sufficiente. Tutela la donna lavoratrice, i minori, la sicurezza sul lavoro e il diritto di sciopero.
 
-|Articolo|Tema|
-|-|-|
-|35|tutela del lavoro|
-|36|giusta retribuzione|
-|37|donna lavoratrice e minori|
-|38|assistenza e previdenza|
-|39|sindacati|
-|40|sciopero|
+| Articolo | Tema                       |
+|----------|----------------------------|
+| 35       | tutela del lavoro          |
+| 36       | giusta retribuzione        |
+| 37       | donna lavoratrice e minori |
+| 38       | assistenza e previdenza    |
+| 39       | sindacati                  |
+| 40       | sciopero                   |
 
 **Art. 38** — Ogni cittadino inabile al lavoro e sprovvisto dei mezzi necessari ha diritto al mantenimento e all'assistenza sociale. I lavoratori hanno diritto alla previdenza in caso di infortunio, malattia, invalidità, vecchiaia e disoccupazione involontaria. *(Importante per capire il welfare: sanità, assistenza, pensioni, invalidità, sicurezza sociale.)*
 
@@ -3634,14 +3631,14 @@ Esempi collegabili: vaccini, TSO, consenso informato, sanità pubblica.
 
 ### Parte II: Ordinamento della Repubblica (artt. 55–139)
 
-|Organo|Potere|Note|
-|-|-|-|
-|Parlamento|Legislativo (fa le leggi)|Camera dei deputati (Montecitorio) + Senato (Palazzo Madama); **bicameralismo perfetto**|
-|Governo|Esecutivo|Presidente del Consiglio + Ministri + Consiglio dei ministri|
-|Presidente della Repubblica|Garante dell'unità|Eletto dal Parlamento; dura **7 anni**|
-|Magistratura|Giudiziario|Autonoma e indipendente da ogni altro potere|
-|Corte Costituzionale|Controllo leggi|Controlla conformità delle leggi alla Costituzione|
-|Regioni ed enti locali|Autonomie territoriali|—|
+| Organo                    | Potere                         | Note |
+|---------------------------|--------------------------------|------|
+| Parlamento                | Legislativo (fa le leggi)      | Camera dei deputati (Montecitorio) + Senato (Palazzo Madama); bicameralismo perfetto |
+| Governo                   | Esecutivo                      | Presidente del Consiglio + Ministri + Consiglio dei ministri |
+| Presidente d.  Repubblica | Garante dell'unità             | Eletto dal Parlamento; dura 7 anni |
+| Magistratura              | Giudiziario                    | Autonoma e indipendente da ogni altro potere |
+| Corte Costituzionale      | Controllo leggi                | Controlla conformità delle leggi alla Costituzione |
+| Regioni ed enti locali    | Autonomie territoriali         | — |
 
 **Parlamento:** Il bicameralismo perfetto significa che Camera e Senato hanno funzioni molto simili: una legge deve essere approvata da **entrambe**. Eletti ogni 5 anni.
 
@@ -3655,7 +3652,7 @@ Esempi collegabili: vaccini, TSO, consenso informato, sanità pubblica.
 
 **Regioni:** Le Regioni hanno competenze legislative in alcune materie. La sanità è molto legata all'organizzazione regionale. Il Servizio sanitario nazionale è nazionale nei principi, ma molte funzioni pratiche sono organizzate dalle Regioni.
 
-i **Ministeri** sono gli organi del Governo che si occupano di specifici settori della pubblica amministrazione (salute, istruzione, difesa, economia, ecc.). A capo di ogni ministero c'è un ministro, che fa parte del Consiglio dei Ministri, presieduto dal Presidente del Consiglio. Sono detti anche Dicasteri. I ministeri costituiscono la struttura fondamentale della pubblica amministrazione centrale dello Stato.
+I **Ministeri** sono gli organi del Governo che si occupano di specifici settori della pubblica amministrazione (salute, istruzione, difesa, economia, ecc.). A capo di ogni ministero c'è un ministro, che fa parte del Consiglio dei Ministri, presieduto dal Presidente del Consiglio. Sono detti anche Dicasteri. I ministeri costituiscono la struttura fondamentale della pubblica amministrazione centrale dello Stato.
 
 **Revisione costituzionale (Art. 138):**
 
@@ -3667,26 +3664,26 @@ La Costituzione è rigida. Per modificarla serve la procedura dell'articolo 138:
 
 ### Articoli più importanti da memorizzare
 
-|Articolo|Contenuto|
-|-|-|
-|1|Repubblica democratica fondata sul lavoro|
-|2|diritti inviolabili e doveri di solidarietà|
-|3|uguaglianza formale e sostanziale|
-|4|diritto al lavoro|
-|5|unità della Repubblica e autonomie locali|
-|9|cultura, ricerca, ambiente|
-|11|ripudio della guerra|
-|13|libertà personale|
-|21|libertà di pensiero|
-|32|diritto alla salute|
-|34|scuola aperta a tutti|
-|36|giusta retribuzione|
-|38|assistenza e previdenza|
-|48|diritto di voto|
-|53|dovere fiscale|
-|54|fedeltà alla Repubblica|
-|138|revisione costituzionale|
-|139|Repubblica non modificabile|
+| Articolo | Contenuto |
+|----------|-----------|
+| 1        | Repubblica democratica fondata sul lavoro |
+| 2        | diritti inviolabili e doveri di solidarietà |
+| 3        | uguaglianza formale e sostanziale |
+| 4        | diritto al lavoro |
+| 5        | unità della Repubblica e autonomie locali |
+| 9        | cultura, ricerca, ambiente |
+| 11       | ripudio della guerra |
+| 13       | libertà personale |
+| 21       | libertà di pensiero |
+| 32       | diritto alla salute |
+| 34       | scuola aperta a tutti |
+| 36       | giusta retribuzione |
+| 38       | assistenza e previdenza |
+| 48       | diritto di voto |
+| 53       | dovere fiscale |
+| 54       | fedeltà alla Repubblica |
+| 138      | revisione costituzionale |
+| 139      | Repubblica non modificabile |
 
 **Super-sintesi:** La Costituzione italiana nasce dopo il fascismo e fonda l'Italia come Repubblica democratica. I suoi valori fondamentali sono: democrazia, lavoro, uguaglianza, solidarietà, libertà, tutela della persona, pace, autonomie locali, diritto alla salute, diritto all'istruzione, tutela del lavoro.
 
@@ -3696,13 +3693,12 @@ La Repubblica si dice presidenziale quando: il Presidente è anche capo del gove
 
 ### REATI DIVERSI CONTRO LA PUBBLICA AMMINISTRAZIONE
 
-|Reato|Chi lo commette|Cosa succede|
-|-|-|-|
-|**Corruzione**|Pubblico ufficiale + privato|Si mettono d'accordo: il pubblico ufficiale riceve un vantaggio in cambio di un favore.|
-|**Concussione**|Pubblico ufficiale|Costringe o induce qualcuno a dare denaro o altri vantaggi abusando del proprio potere.|
-|**Peculato**|Pubblico ufficiale|Si appropria di denaro o beni pubblici che gli sono stati affidati.|
-|**Abuso d'ufficio**|Pubblico ufficiale|Usa il proprio potere violando la legge per favorire o danneggiare qualcuno. (Attenzione: in Italia è stato abolito nel 2024.)|
-
+| Reato                | Chi lo commette          | Cosa succede |
+|----------------------|--------------------------|--------------|
+| Corruzione           | Pubblico ufficiale + privato | Si mettono d'accordo: il pubblico ufficiale riceve un vantaggio in cambio di un favore. |
+| Concussione          | Pubblico ufficiale       | Costringe o induce qualcuno a dare denaro o altri vantaggi abusando del proprio potere. |
+| Peculato             | Pubblico ufficiale       | Si appropria di denaro o beni pubblici che gli sono stati affidati. |
+| Abuso d'ufficio      | Pubblico ufficiale       | Usa il proprio potere violando la legge per favorire o danneggiare qualcuno. (Attenzione: in Italia è stato abolito nel 2024.) |
 
 
 
@@ -3779,7 +3775,7 @@ Il GLUTAMMATO è il principale neurotrasmettitore eccitatorio del cervello.
 Le ENDORFINE sono neurotrasmettitori/neuromodulatori legati a:
 riduzione del dolore, sensazione di benessere, risposta allo sforzo fisico
 
-La trachea è il tubo che porta l’aria dalla laringe ai bronchi. Comincia sotto la laringe, più precisamente subito dopo la cartilagine cricoide, circa a livello della vertebra C6. Finisce nel torace, dove si divide in due rami:
+La **trachea** è il tubo che porta l’aria dalla laringe ai bronchi. Comincia sotto la laringe, più precisamente subito dopo la cartilagine cricoide, circa a livello della vertebra C6. Finisce nel torace, dove si divide in due rami:
 bronco principale destro e bronco principale sinistro
 Questa divisione si chiama biforcazione tracheale o carena tracheale, circa a livello di T4-T5.
 faringe → laringe → trachea → bronchi → polmoni
@@ -3794,7 +3790,6 @@ encefalopatia spongiforme bovina, cioè la “mucca pazza”
 scrapie nelle pecore
 
 
-
 ### PROTEINE
 
 La maggior parte degli enzimi sono proteine, ma alcuni enzimi sono RNA catalitici (ribozimi).
@@ -3804,7 +3799,7 @@ Mioglobina → proteina muscolare che lega ossigeno
 Lisozima → enzima antibatterico
 Fibrinogeno → proteina del sangue coinvolta nella coagulazione
 
-La **mioglobina** è una proteina che immagazzina e rilascia ossigeno nei muscoli. Il suo compito principale è fare da "riserva" di ossigeno, in modo che le cellule muscolari possano continuare a produrre energia anche quando l'apporto di ossigeno dal sangue diminuisce temporaneamente.
+La **Mioglobina** è una proteina che immagazzina e rilascia ossigeno nei muscoli. Il suo compito principale è fare da "riserva" di ossigeno, in modo che le cellule muscolari possano continuare a produrre energia anche quando l'apporto di ossigeno dal sangue diminuisce temporaneamente.
 È costituita da una sola catena proteica (a differenza dell'emoglobina, che ne ha quattro).
 Ha struttura terziaria, perchè è ripiegata in una struttura tridimensionale.
 Contiene un gruppo eme, al cui centro si trova un atomo di ferro (Fe²⁺).
