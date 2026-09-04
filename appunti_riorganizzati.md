@@ -3812,12 +3812,10 @@ Attenzione, ogni subunità della emoglobina ha struttura terziaria, mentre l'ins
 Una proteina ha una struttura quaternaria quando è formata da più catene polipeptidiche (subunità) unite tra loro.
 
 
-
 ### OSSA DI CARPO e TARSO
 
 CARPO  = polso. due file: fila prossimale e fila distale. prossimale: scafoide semilunare piramidale pisiforme. distale: trapezio trapezoide capitato uncinato
 TARSO  = piede. astragalo, calcagno, scafoide tarsale / navicolare, cuboide, tre cuneiformi
-
 
 
 ### MUTAZIONI
@@ -3828,7 +3826,7 @@ Spontaneamente, a causa di errori durante la duplicazione del DNA.
 Per effetto di agenti mutageni (radiazioni, agenti chimici, virus).
 Le modifiche possono essere: sostituzione, inserzione, delezione.
 
-Una mutazione silente è una mutazione del DNA che non cambia l’amminoacido inserito nella proteina.
+Una mutazione **silente** è una mutazione del DNA che non cambia l’amminoacido inserito nella proteina.
 Succede perché il codice genetico è ridondante: più codoni diversi possono indicare lo stesso amminoacido. Esempio:
 GAA → acido glutammico
 GAG → acido glutammico
@@ -3867,15 +3865,15 @@ L’insieme dei geni di un organismo si chiama GENOMA
 ### GRUPPO AMMINICO AMMIDICO e CARBONILICO
 
 Un gruppo AMMINICO primario è: −R−NH2
-L’azoto ha un doppietto elettronico libero e può accettare un protone H+  dall’acqua:
+L’azoto ha un doppietto elettronico libero e può accettare un protone H+ dall’acqua:
 R−NH2 ​ + H2O ⇌ R−NH3+ + OH−
-Quindi diventa: R−NH3+, cioè ione ammonio alchilico. Quindi si comporta da base di Brønsted, perché accetta protoni. Esempio: Metilammina CH3​−NH2​ è una ammina primaria. Dimetilammina CH3​−NH−CH3​ ammina secondaria. Trimetilammina (CH3​)3​N ammina terziaria.
+Quindi diventa: R−NH3+, cioè ione ammonio alchilico. Quindi si comporta da base di Brønsted, perché accetta protoni. Esempio: Metilammina CH3​−NH2​ è una ammina primaria. Dimetilammina CH3​−NH−CH3​ ammina secondaria. Trimetilammina (CH₃)₃N ammina terziaria.
 
 Le AMMIDI R-CONH2 derivano invece dagli acidi carbossilici COOH. Si ottengono sostituendo il gruppo –OH del gruppo carbossilico con –NH₂, –NHR oppure –NR₂. R−CO−NH2​ oppure R−CO−NHR oppure R−CO−NR2​ . Per riconoscere un'ammide, cerca il gruppo: CONH2. Nelle ammidi compare sempre il gruppo C=O. Quando due amminoacidi si uniscono si forma il legame peptidico, che è proprio un tipo di legame ammidico.
 
 Il gruppo CARBONILICO è: C=O
 Nei CHETONI, quel carbonio del carbonile è legato ad altri due carboni: R−CO−R′ (es. propanone / acetone CH3−CO−CH3 ), per cui non è terminale.
-Negli ALDEIDI (CHO) , il gruppo carbonilico è terminale, perché è legato almeno a un idrogeno: R−CHO (etanale CH3−CHO )
+Negli ALDEIDI (CHO), il gruppo carbonilico è terminale, perché è legato almeno a un idrogeno: R−CHO (etanale CH3−CHO )
 
 Il gruppo CARBOSSILICO è: COOH
 è presente negli acidi carbossilici (es. acido acetico)
@@ -3896,9 +3894,6 @@ Il BICARBONATO è idrogenocarbonato di sodio NaHCO3 ; CO3-- è lo ione carbonato
 Il CARBONATO di sodio è Na2CO3. Il BI non indica la presenza di DUE gruppi, è una vecchia terminologia in disuso.
 
 
-
-
-
 ### TRIANGOLI
 
 Un triangolo esiste se il lato maggiore è minore della somma degli altri due.
@@ -3915,8 +3910,7 @@ Il centro della circonferenza è proprio il circocentro.
 Il circocentro è equidistante dai tre vertici.
 In un triangolo rettangolo, il circocentro è il punto medio dell'ipotenusa.
 
-
-terza legge di Keplero sul periodo di un'orbita: T² ∝ R³
+Terza legge di Keplero sul periodo di un'orbita: T² ∝ R³
 
 
 ### TESSUTO SISTEMA APPARATO
@@ -3937,8 +3931,6 @@ apparato = organi più diversi che collaborano
 
 Un ORGANO è una struttura formata da più tessuti diversi che lavorano insieme.
 Il cuore, in cui trovi vari tessuti: tessuto muscolare nervoso connettivo epiteliale/endoteliale
-
-
 
 I tRNA trasportano i singoli amminoacidi ai ribosomi durante la sintesi proteica
 
@@ -4074,8 +4066,6 @@ Il fegato produce la bile; la colecisti la conserva; il coledoco la porta nell�
 
 Lo sfintere di Oddi è un anello di muscolatura liscia posto all'estremità del coledoco e del dotto pancreatico; quando è rilassato, permette a bile e succo pancreatico di entrare nel duodeno.
 
-
-
 Il MUGHETTO è una micosi della mucosa orale, cioè un’infezione da fungo che colpisce la bocca, generalmente causata da Candida albicans.
 
 ### OSSIDAZIONE
@@ -4085,7 +4075,7 @@ OIL RIG oxidation is loss, reduction is gain (of an electron)
 H₂O₂, cioè perossido di idrogeno, è ossidante perché l’ossigeno che contiene “vuole” prendere elettroni e trasformarsi in una forma più stabile.
 In H₂O₂ l’ossigeno ha numero di ossidazione −1. Nell’acqua H₂O, invece, l’ossigeno ha numero di ossidazione −2.
 Quindi H₂O₂ può trasformarsi in acqua così:
-H2O2 + 2H+ + 2e −→ 2H2O
+H₂O₂ + 2H+ + 2e −→ 2H₂O
 Guarda cosa succede all’ossigeno:
 O: −1 → −2
 Il numero di ossidazione diminuisce. Questo significa che l’ossigeno si riduce, cioè acquista elettroni.
@@ -4095,14 +4085,14 @@ Il motivo profondo è che il legame O–O nel perossido è abbastanza instabile.
 
 Come assegnare rapidamente i numeri di ossidazione:
 
-|Elemento|Numero di ossidazione|
-|-|-|
-|Elemento puro (H₂, O₂, Cl₂, Br₂...)|**0**|
-|Metalli alcalini (Na, K...)|**+1**|
-|Metalli alcalino-terrosi (Mg, Ca...)|**+2**|
-|Fluoro|**−1**|
-|Ossigeno|quasi sempre **−2**|
-|Idrogeno|quasi sempre **+1**|
+| Elemento                                 | Numero di ossidazione |
+|------------------------------------------|-----------------------|
+| Elemento puro (H₂, O₂, Cl₂, Br₂...)      | 0                     |
+| Metalli alcalini (Na, K...)              | +1                    |
+| Metalli alcalino-terrosi (Mg, Ca...)     | +2                    |
+| Fluoro                                   | −1                    |
+| Ossigeno                                 | quasi sempre −2       |
+| Idrogeno                                 | quasi sempre +1       |
 
 
 
@@ -4124,7 +4114,7 @@ k = costante di Coulomb = 9×10^9 N m2/C2
 gravità: F = G x m1 x m2 / r^2
 
 Il campo magnetico esercita una forza su una particella carica e in movimento, la
-*forza di Lorentz* : F=qvBsinθ
+*forza di Lorentz* : F = qvBsinθ
 q = carica
 v = velocità
 B = campo magnetico
@@ -4184,15 +4174,22 @@ Famoso per: Aver sviluppato nel 1955 il primo vaccino efficace contro la **polio
 Famoso per: Aver rivoluzionato lo studio dell'**anatomia umana** grazie alla dissezione diretta dei cadaveri. Opera principale: De humani corporis fabrica, uno dei libri di anatomia più importanti della storia. Importanza: Corresse molti errori tramandati da oltre mille anni dagli studi di Galen, che aveva basato gran parte delle sue osservazioni sugli animali.
 
 
-
 **Marie Curie** (1867–1934) Nazionalità: Polacca naturalizzata francese. Professione: Fisica e chimica.
 Famosa per: Le sue ricerche sulla radioattività. Scoperte principali: Gli elementi **Polonio e Radio**.
 Riconoscimenti: Prima persona a vincere due Premi Nobel in discipline scientifiche diverse: Fisica (1903) Chimica (1911)
 Importanza: Le sue ricerche hanno posto le basi per lo sviluppo della radioterapia contro i tumori e per molti progressi della fisica nucleare.
 
+
 ### MITOCONDRI
 
-TODO
+I mitocondri sono organelli presenti nelle cellule eucariotiche (quindi nelle cellule animali, vegetali, dei funghi ecc.) e hanno soprattutto il compito di produrre ATP, cioè la principale forma di energia chimica immediatamente utilizzabile dalla cellula.
+
+Un mitocondrio ha due membrane:
+
+membrana esterna → relativamente permeabile a piccole molecole;
+membrana interna → molto selettiva e ripiegata in numerose creste mitocondriali (cristae).
+
+All'interno della membrana interna c'è la matrice mitocondriale.
 
 Le cellule che consumano molta energia ne possiedono moltissimi.
 
@@ -4206,19 +4203,13 @@ Ad esempio:
 Al contrario, cellule con un basso fabbisogno energetico ne possiedono meno.
 
 
-
----
-
-
-
 ---
 
 ### MODELLO DELL'ATOMO
 
 Il modello di Bohr (1913). Bohr immaginava gli elettroni come pianeti che girano attorno al Sole. L'elettrone percorreva una orbita precisa, circolare.
 
-Thomson (1904) immaginava gli elettroni distribuiti all’interno di una massa sferica di carica positiva, noto anche come modello “a
-panettone”.
+Thomson (1904) immaginava gli elettroni distribuiti all’interno di una massa sferica di carica positiva, noto anche come modello “a panettone”.
 
 Con la meccanica quantistica si è scoperto che:
 
@@ -4239,7 +4230,7 @@ Gli orbitali s sono sferici. Gli orbitali p hanno invece due lobi.
 I tre orbitali p sono orientati in tre direzioni perpendicolari.
 Ibridazione : 1 s + 3 p danno 4 orbitali sp³, che si dispongono a tetraedro, con angolo 109.5 gradi.
 Metano CH4: il carbonio forma 4 legami σ.
-Se 1 s e 2 p si mescolano, ottengo sp2. Gli sp2 stanno sullo stesso piano, a 120 gradi, geometria triangolare planare, 
+Se 1 s e 2 p si mescolano, ottengo sp2. Gli sp² stanno sullo stesso piano, a 120 gradi, geometria triangolare planare, 
 Se 1 s e 1 p si mescolano, ottengo sp. Geometria 180 gradi, lineare: H—C≡C—H acetilene.
 
 Il legame sigma σ nasce quando due orbitali si sovrappongono frontalmente. legame forte e stabile, permette la rotazione.
@@ -4268,10 +4259,10 @@ Le β⁻ (beta) sono elettroni.
 
 Le γ (gamma) sono fotoni.
 
-|Isotopo|Protoni|Neutroni|Totale|
-|-|-:|-:|-:|
-|U-235|92|143|235|
-|U-238|92|146|238|
+| Isotopo | Protoni | Neutroni | Totale |
+|---------|---------|----------|--------|
+| U-235   | 92      | 143      | 235    |
+| U-238   | 92      | 146      | 238    |
 
 I tre neutroni in più dell'U-238 lo rendono leggermente più stabile.
 L'U-235 ha una vita media molto più breve, 704 milioni di anni, quindi si è consumato molto più rapidamente.
@@ -4279,9 +4270,9 @@ U-238: emivita di circa 4,47 miliardi di anni.
 Entrambi decadono lentamente emettendo una particella alfa (2 protoni e 2 neutroni).
 U235 -> Th231 + alfa -> Pb206 ; U238 -> Th234 + alfa  -> Pb207
 
-L' U235 può essere fisso da un neutrone lento in Ba + Kr + 2 o 3 neutroni + energia
+L'U235 può essere fisso da un neutrone lento in Ba + Kr + 2 o 3 neutroni + energia
 
-L' U238 (fertile) se colpito da neurone diventa U239, che è instabile e decade (beta) in Nettunio Np239 e poi Plutonio Pu239, che è ottimo materiale fissile.
+L'U238 (fertile) se colpito da neurone diventa U239, che è instabile e decade (beta) in Nettunio Np239 e poi Plutonio Pu239, che è ottimo materiale fissile.
 L'arricchimento dell'uranio serve ad aumentare la percentuale di U-235, perché nell'uranio naturale ce n'è troppo poco per la maggior parte delle applicazioni: 99,27% U-238 , 0,72% U-235
 L'uranio viene trasformato nel gas esafluoruro di uranio (UF₆) -> centrifughe a gas -> uranio arricchito.
 L'uranio impoverito - con ancor meno U235 - può essere usato per produrre Pu239, come schermante o per applicazioni militari.
@@ -4299,126 +4290,126 @@ Invece nel gruppo (dall'alto in basso) → energia di ionizzazione diminuisce.
 
 # Tavola Periodica degli Elementi
 
-|Z|Simbolo|Nome|A|Gruppo|Periodo|Tipo|
-|-:|:-:|-|-:|:-:|:-:|-|
-|1|H|Idrogeno|1.008|1|1|Non metallo|
-|2|He|Elio|4.003|18|1|Gas nobile|
-|3|Li|Litio|6.94|1|2|Metallo alcalino|
-|4|Be|Berillio|9.012|2|2|Metallo alcalino-terroso|
-|5|B|Boro|10.81|13|2|Metalloide|
-|6|C|Carbonio|12.011|14|2|Non metallo|
-|7|N|Azoto|14.007|15|2|Non metallo|
-|8|O|Ossigeno|15.999|16|2|Non metallo|
-|9|F|Fluoro|18.998|17|2|Alogeno|
-|10|Ne|Neon|20.180|18|2|Gas nobile|
-|11|Na|Sodio|22.990|1|3|Metallo alcalino|
-|12|Mg|Magnesio|24.305|2|3|Metallo alcalino-terroso|
-|13|Al|Alluminio|26.982|13|3|Metallo post-transizione|
-|14|Si|Silicio|28.085|14|3|Metalloide|
-|15|P|Fosforo|30.974|15|3|Non metallo|
-|16|S|Zolfo|32.06|16|3|Non metallo|
-|17|Cl|Cloro|35.45|17|3|Alogeno|
-|18|Ar|Argon|39.948|18|3|Gas nobile|
-|19|K|Potassio|39.098|1|4|Metallo alcalino|
-|20|Ca|Calcio|40.078|2|4|Metallo alcalino-terroso|
-|21|Sc|Scandio|44.956|3|4|Metallo di transizione|
-|22|Ti|Titanio|47.867|4|4|Metallo di transizione|
-|23|V|Vanadio|50.942|5|4|Metallo di transizione|
-|24|Cr|Cromo|51.996|6|4|Metallo di transizione|
-|25|Mn|Manganese|54.938|7|4|Metallo di transizione|
-|26|Fe|Ferro|55.845|8|4|Metallo di transizione|
-|27|Co|Cobalto|58.933|9|4|Metallo di transizione|
-|28|Ni|Nichel|58.693|10|4|Metallo di transizione|
-|29|Cu|Rame|63.546|11|4|Metallo di transizione|
-|30|Zn|Zinco|65.38|12|4|Metallo di transizione|
-|31|Ga|Gallio|69.723|13|4|Metallo post-transizione|
-|32|Ge|Germanio|72.630|14|4|Metalloide|
-|33|As|Arsenico|74.922|15|4|Metalloide|
-|34|Se|Selenio|78.971|16|4|Non metallo|
-|35|Br|Bromo|79.904|17|4|Alogeno|
-|36|Kr|Kripton|83.798|18|4|Gas nobile|
-|37|Rb|Rubidio|85.468|1|5|Metallo alcalino|
-|38|Sr|Stronzio|87.62|2|5|Metallo alcalino-terroso|
-|39|Y|Ittrio|88.906|3|5|Metallo di transizione|
-|40|Zr|Zirconio|91.224|4|5|Metallo di transizione|
-|41|Nb|Niobio|92.906|5|5|Metallo di transizione|
-|42|Mo|Molibdeno|95.95|6|5|Metallo di transizione|
-|43|Tc|Tecnezio|98|7|5|Metallo di transizione|
-|44|Ru|Rutenio|101.07|8|5|Metallo di transizione|
-|45|Rh|Rodio|102.91|9|5|Metallo di transizione|
-|46|Pd|Palladio|106.42|10|5|Metallo di transizione|
-|47|Ag|Argento|107.87|11|5|Metallo di transizione|
-|48|Cd|Cadmio|112.41|12|5|Metallo di transizione|
-|49|In|Indio|114.82|13|5|Metallo post-transizione|
-|50|Sn|Stagno|118.71|14|5|Metallo post-transizione|
-|51|Sb|Antimonio|121.76|15|5|Metalloide|
-|52|Te|Tellurio|127.60|16|5|Metalloide|
-|53|I|Iodio|126.90|17|5|Alogeno|
-|54|Xe|Xeno|131.29|18|5|Gas nobile|
-|55|Cs|Cesio|132.91|1|6|Metallo alcalino|
-|56|Ba|Bario|137.33|2|6|Metallo alcalino-terroso|
-|57|La|Lantanio|138.91|3|6|Lantanide|
-|58|Ce|Cerio|140.12|6|Lantanide||
-|59|Pr|Praseodimio|140.91|6|Lantanide||
-|60|Nd|Neodimio|144.24|6|Lantanide||
-|61|Pm|Promezio|145|6|Lantanide||
-|62|Sm|Samario|150.36|6|Lantanide||
-|63|Eu|Europio|151.96|6|Lantanide||
-|64|Gd|Gadolinio|157.25|6|Lantanide||
-|65|Tb|Terbio|158.93|6|Lantanide||
-|66|Dy|Disprosio|162.50|6|Lantanide||
-|67|Ho|Olmio|164.93|6|Lantanide||
-|68|Er|Erbio|167.26|6|Lantanide||
-|69|Tm|Tulio|168.93|6|Lantanide||
-|70|Yb|Itterbio|173.05|6|Lantanide||
-|71|Lu|Lutezio|174.97|6|Lantanide||
-|72|Hf|Afnio|178.49|4|6|Metallo di transizione|
-|73|Ta|Tantalio|180.95|5|6|Metallo di transizione|
-|74|W|Tungsteno|183.84|6|6|Metallo di transizione|
-|75|Re|Renio|186.21|7|6|Metallo di transizione|
-|76|Os|Osmio|190.23|8|6|Metallo di transizione|
-|77|Ir|Iridio|192.22|9|6|Metallo di transizione|
-|78|Pt|Platino|195.08|10|6|Metallo di transizione|
-|79|Au|Oro|196.97|11|6|Metallo di transizione|
-|80|Hg|Mercurio|200.59|12|6|Metallo di transizione|
-|81|Tl|Tallio|204.38|13|6|Metallo post-transizione|
-|82|Pb|Piombo|207.2|14|6|Metallo post-transizione|
-|83|Bi|Bismuto|208.98|15|6|Metallo post-transizione|
-|84|Po|Polonio|209|16|6|Metallo post-transizione|
-|85|At|Astato|210|17|6|Alogeno|
-|86|Rn|Radon|222|18|6|Gas nobile|
-|87|Fr|Francio|223|1|7|Metallo alcalino|
-|88|Ra|Radio|226|2|7|Metallo alcalino-terroso|
-|89|Ac|Attinio|227|3|7|Attinide|
-|90|Th|Torio|232.04|7|Attinide||
-|91|Pa|Protoattinio|231.04|7|Attinide||
-|92|U|Uranio|238.03|7|Attinide||
-|93|Np|Nettunio|237|7|Attinide||
-|94|Pu|Plutonio|244|7|Attinide||
-|95|Am|Americio|243|7|Attinide||
-|96|Cm|Curio|247|7|Attinide||
-|97|Bk|Berkelio|247|7|Attinide||
-|98|Cf|Californio|251|7|Attinide||
-|99|Es|Einsteinio|252|7|Attinide||
-|100|Fm|Fermio|257|7|Attinide||
-|101|Md|Mendelevio|258|7|Attinide||
-|102|No|Nobelio|259|7|Attinide||
-|103|Lr|Laurenzio|266|7|Attinide||
-|104|Rf|Rutherfordio|267|4|7|Metallo di transizione|
-|105|Db|Dubnio|268|5|7|Metallo di transizione|
-|106|Sg|Seaborgio|269|6|7|Metallo di transizione|
-|107|Bh|Bohrio|270|7|7|Metallo di transizione|
-|108|Hs|Hassio|277|8|7|Metallo di transizione|
-|109|Mt|Meitnerio|278|9|7|Metallo di transizione|
-|110|Ds|Darmstadtio|281|10|7|Metallo di transizione|
-|111|Rg|Roentgenio|282|11|7|Metallo di transizione|
-|112|Cn|Copernicio|285|12|7|Metallo di transizione|
-|113|Nh|Nihonio|286|13|7|Metallo post-transizione|
-|114|Fl|Flerovio|289|14|7|Metallo post-transizione|
-|115|Mc|Moscovio|290|15|7|Metallo post-transizione|
-|116|Lv|Livermorio|293|16|7|Metallo post-transizione|
-|117|Ts|Tennessino|294|17|7|Alogeno|
-|118|Og|Oganesson|294|18|7|Gas nobile (previsto)|
+|   Z | Simbolo | Nome                     |      A | Gruppo | Periodo | Tipo                       |
+|-----|---------|--------------------------|--------|--------|---------|----------------------------|
+|   1 | H       | Idrogeno                 |  1.008 |      1 |       1 | Non metallo                |
+|   2 | He      | Elio                     |  4.003 |     18 |       1 | Gas nobile                 |
+|   3 | Li      | Litio                    |   6.94 |      1 |       2 | Metallo alcalino           |
+|   4 | Be      | Berillio                 |  9.012 |      2 |       2 | Metallo alcalino-terroso   |
+|   5 | B       | Boro                     |  10.81 |     13 |       2 | Metalloide                 |
+|   6 | C       | Carbonio                 | 12.011 |     14 |       2 | Non metallo                |
+|   7 | N       | Azoto                    | 14.007 |     15 |       2 | Non metallo                |
+|   8 | O       | Ossigeno                 | 15.999 |     16 |       2 | Non metallo                |
+|   9 | F       | Fluoro                   | 18.998 |     17 |       2 | Alogeno                    |
+|  10 | Ne      | Neon                     | 20.180 |     18 |       2 | Gas nobile                 |
+|  11 | Na      | Sodio                    | 22.990 |      1 |       3 | Metallo alcalino           |
+|  12 | Mg      | Magnesio                 | 24.305 |      2 |       3 | Metallo alcalino-terroso   |
+|  13 | Al      | Alluminio                | 26.982 |     13 |       3 | Metallo post-transizione   |
+|  14 | Si      | Silicio                  | 28.085 |     14 |       3 | Metalloide                 |
+|  15 | P       | Fosforo                  | 30.974 |     15 |       3 | Non metallo                |
+|  16 | S       | Zolfo                    |  32.06 |     16 |       3 | Non metallo                |
+|  17 | Cl      | Cloro                    |  35.45 |     17 |       3 | Alogeno                    |
+|  18 | Ar      | Argon                    | 39.948 |     18 |       3 | Gas nobile                 |
+|  19 | K       | Potassio                 | 39.098 |      1 |       4 | Metallo alcalino           |
+|  20 | Ca      | Calcio                   | 40.078 |      2 |       4 | Metallo alcalino-terroso   |
+|  21 | Sc      | Scandio                  | 44.956 |      3 |       4 | Metallo di transizione     |
+|  22 | Ti      | Titanio                  | 47.867 |      4 |       4 | Metallo di transizione     |
+|  23 | V       | Vanadio                  | 50.942 |      5 |       4 | Metallo di transizione     |
+|  24 | Cr      | Cromo                    | 51.996 |      6 |       4 | Metallo di transizione     |
+|  25 | Mn      | Manganese                | 54.938 |      7 |       4 | Metallo di transizione     |
+|  26 | Fe      | Ferro                    | 55.845 |      8 |       4 | Metallo di transizione     |
+|  27 | Co      | Cobalto                  | 58.933 |      9 |       4 | Metallo di transizione     |
+|  28 | Ni      | Nichel                   | 58.693 |     10 |       4 | Metallo di transizione     |
+|  29 | Cu      | Rame                     | 63.546 |     11 |       4 | Metallo di transizione     |
+|  30 | Zn      | Zinco                    |  65.38 |     12 |       4 | Metallo di transizione     |
+|  31 | Ga      | Gallio                   | 69.723 |     13 |       4 | Metallo post-transizione   |
+|  32 | Ge      | Germanio                 | 72.630 |     14 |       4 | Metalloide                 |
+|  33 | As      | Arsenico                 | 74.922 |     15 |       4 | Metalloide                 |
+|  34 | Se      | Selenio                  | 78.971 |     16 |       4 | Non metallo                |
+|  35 | Br      | Bromo                    | 79.904 |     17 |       4 | Alogeno                    |
+|  36 | Kr      | Kripton                  | 83.798 |     18 |       4 | Gas nobile                |
+|  37 | Rb      | Rubidio                  | 85.468 |      1 |       5 | Metallo alcalino           |
+|  38 | Sr      | Stronzio                 |  87.62 |      2 |       5 | Metallo alcalino-terroso   |
+|  39 | Y       | Ittrio                   | 88.906 |      3 |       5 | Metallo di transizione     |
+|  40 | Zr      | Zirconio                 | 91.224 |      4 |       5 | Metallo di transizione     |
+|  41 | Nb      | Niobio                   | 92.906 |      5 |       5 | Metallo di transizione     |
+|  42 | Mo      | Molibdeno                |  95.95 |      6 |       5 | Metallo di transizione     |
+|  43 | Tc      | Tecnezio                 |     98 |      7 |       5 | Metallo di transizione     |
+|  44 | Ru      | Rutenio                  | 101.07 |      8 |       5 | Metallo di transizione     |
+|  45 | Rh      | Rodio                    | 102.91 |      9 |       5 | Metallo di transizione     |
+|  46 | Pd      | Palladio                 | 106.42 |     10 |       5 | Metallo di transizione     |
+|  47 | Ag      | Argento                  | 107.87 |     11 |       5 | Metallo di transizione     |
+|  48 | Cd      | Cadmio                   | 112.41 |     12 |       5 | Metallo di transizione     |
+|  49 | In      | Indio                    | 114.82 |     13 |       5 | Metallo post-transizione   |
+|  50 | Sn      | Stagno                   | 118.71 |     14 |       5 | Metallo post-transizione   |
+|  51 | Sb      | Antimonio                | 121.76 |     15 |       5 | Metalloide                 |
+|  52 | Te      | Tellurio                 | 127.60 |     16 |       5 | Metalloide                 |
+|  53 | I       | Iodio                    | 126.90 |     17 |       5 | Alogeno                    |
+|  54 | Xe      | Xeno                     | 131.29 |     18 |       5 | Gas nobile                 |
+|  55 | Cs      | Cesio                    | 132.91 |      1 |       6 | Metallo alcalino           |
+|  56 | Ba      | Bario                    | 137.33 |      2 |       6 | Metallo alcalino-terroso   |
+|  57 | La      | Lantanio                 | 138.91 |      3 |       6 | Lantanide                  |
+|  58 | Ce      | Cerio                    | 140.12 |      3 |       6 | Lantanide                  |
+|  59 | Pr      | Praseodimio              | 140.91 |      3 |       6 | Lantanide                  |
+|  60 | Nd      | Neodimio                 | 144.24 |      3 |       6 | Lantanide                  |
+|  61 | Pm      | Promezio                 | 145    |      3 |       6 | Lantanide                  |
+|  62 | Sm      | Samario                  | 150.36 |      3 |       6 | Lantanide                  |
+|  63 | Eu      | Europio                  | 151.96 |      3 |       6 | Lantanide                  |
+|  64 | Gd      | Gadolinio                | 157.25 |      3 |       6 | Lantanide                  |
+|  65 | Tb      | Terbio                   | 158.93 |      3 |       6 | Lantanide                  |
+|  66 | Dy      | Disprosio                | 162.50 |      3 |       6 | Lantanide                  |
+|  67 | Ho      | Olmio                    | 164.93 |      3 |       6 | Lantanide                  |
+|  68 | Er      | Erbio                    | 167.26 |      3 |       6 | Lantanide                  |
+|  69 | Tm      | Tulio                    | 168.93 |      3 |       6 | Lantanide                  |
+|  70 | Yb      | Itterbio                 | 173.05 |      3 |       6 | Lantanide                  |
+|  71 | Lu      | Lutezio                  | 174.97 |      3 |       6 | Lantanide                  |
+|  72 | Hf      | Afnio                    | 178.49 |      4 |       6 | Metallo di transizione     |
+|  73 | Ta      | Tantalio                 | 180.95 |      5 |       6 | Metallo di transizione     |
+|  74 | W       | Tungsteno                | 183.84 |      6 |       6 | Metallo di transizione     |
+|  75 | Re      | Renio                    | 186.21 |      7 |       6 | Metallo di transizione     |
+|  76 | Os      | Osmio                    | 190.23 |      8 |       6 | Metallo di transizione     |
+|  77 | Ir      | Iridio                   | 192.22 |      9 |       6 | Metallo di transizione     |
+|  78 | Pt      | Platino                  | 195.08 |     10 |       6 | Metallo di transizione     |
+|  79 | Au      | Oro                      | 196.97 |     11 |       6 | Metallo di transizione     |
+|  80 | Hg      | Mercurio                 | 200.59 |     12 |       6 | Metallo di transizione     |
+|  81 | Tl      | Tallio                   | 204.38 |     13 |       6 | Metallo post-transizione   |
+|  82 | Pb      | Piombo                   |  207.2 |     14 |       6 | Metallo post-transizione   |
+|  83 | Bi      | Bismuto                  | 208.98 |     15 |       6 | Metallo post-transizione   |
+|  84 | Po      | Polonio                  |     209 |     16 |       6 | Metallo post-transizione   |
+|  85 | At      | Astato                   |     210 |     17 |       6 | Alogeno                    |
+|  86 | Rn      | Radon                    |     222 |     18 |       6 | Gas nobile                |
+|  87 | Fr      | Francio                  |     223 |      1 |       7 | Metallo alcalino           |
+|  88 | Ra      | Radio                    |     226 |      2 |       7 | Metallo alcalino-terroso   |
+|  89 | Ac      | Attinio                  |     227 |      3 |       7 | Attinide                  |
+|  90 | Th      | Torio                    |  232.04 |      3 |       7 | Attinide                  |
+|  91 | Pa      | Protoattinio             |  231.04 |      3 |       7 | Attinide                  |
+|  92 | U       | Uranio                   |  238.03 |      3 |       7 | Attinide                  |
+|  93 | Np      | Nettunio                 |     237 |      3 |       7 | Attinide                  |
+|  94 | Pu      | Plutonio                 |     244 |      3 |       7 | Attinide                  |
+|  95 | Am      | Americio                 |     243 |      3 |       7 | Attinide                  |
+|  96 | Cm      | Curio                    |     247 |      3 |       7 | Attinide                  |
+|  97 | Bk      | Berkelio                 |     247 |      3 |       7 | Attinide                  |
+|  98 | Cf      | Californio               |     251 |      3 |       7 | Attinide                  |
+|  99 | Es      | Einsteinio               |     252 |      3 |       7 | Attinide                  |
+| 100 | Fm      | Fermio                   |     257 |      3 |       7 | Attinide                  |
+| 101 | Md      | Mendelevio               |     258 |      3 |       7 | Attinide                  |
+| 102 | No      | Nobelio                  |     259 |      3 |       7 | Attinide                  |
+| 103 | Lr      | Laurenzio                |     266 |      3 |       7 | Attinide                  |
+| 104 | Rf      | Rutherfordio             |     267 |      4 |       7 | Metallo di transizione     |
+| 105 | Db      | Dubnio                   |     268 |      5 |       7 | Metallo di transizione     |
+| 106 | Sg      | Seaborgio                |     269 |      6 |       7 | Metallo di transizione     |
+| 107 | Bh      | Bohrio                   |     270 |      7 |       7 | Metallo di transizione     |
+| 108 | Hs      | Hassio                   |     277 |      8 |       7 | Metallo di transizione     |
+| 109 | Mt      | Meitnerio                |     278 |      9 |       7 | Metallo di transizione     |
+| 110 | Ds      | Darmstadtio              |     281 |     10 |       7 | Metallo di transizione     |
+| 111 | Rg      | Roentgenio               |     282 |     11 |       7 | Metallo di transizione     |
+| 112 | Cn      | Copernicio               |     285 |     12 |       7 | Metallo di transizione     |
+| 113 | Nh      | Nihonio                  |     286 |     13 |       7 | Metallo post-transizione   |
+| 114 | Fl      | Flerovio                 |     289 |     14 |       7 | Metallo post-transizione   |
+| 115 | Mc      | Moscovio                 |     290 |     15 |       7 | Metallo post-transizione   |
+| 116 | Lv      | Livermorio               |     293 |     16 |       7 | Metallo post-transizione   |
+| 117 | Ts      | Tennessino               |     294 |     17 |       7 | Alogeno                    |
+| 118 | Og      | Oganesson                |     294 |     18 |       7 | Gas nobile (previsto)      |
 
 ### PONTE A IDROGENO, DIPOLO, VAN DER WAALS
 
@@ -4469,7 +4460,7 @@ Respirazione aerobica
 
 È il metodo più efficiente e viene utilizzato dalla maggior parte delle cellule del nostro organismo.
 Equazione generale
-Glucosio C6H12O6​ + 6O2 → 6CO2 + 6H2O + Energia ATP
+Glucosio C₆H₁₂O₆​ + 6O₂ → 6CO₂ + 6H₂O + Energia ATP
 
 La prima fase (GLICOLISI) avviene nel CITOPLASMA:
 Un glucosio (6 atomi di carbonio) viene spezzato in due molecole di piruvato (3 atomi di carbonio).
@@ -4494,7 +4485,7 @@ Gli elettroni attraversano numerose proteine della membrana mitocondriale.
 
 Alla fine vengono catturati dall'ossigeno. L'ossigeno si combina con: elettroni, protoni (H⁺), formando:
 
-O2 + 4H+ + 4e− → 2H2O
+O₂ + 4H⁺ + 4e− → 2H₂O
 
 L'energia liberata serve per produrre ATP.
 
@@ -4536,13 +4527,13 @@ Successivamente il lattato può:
 * La catena respiratoria si trova nella membrana interna del mitocondrio.
 * È composta da 5 complessi enzimatici.
 
-|Complesso|Enzima|
-|-|-|
-|I|NADH deidrogenasi|
-|II|Succinato deidrogenasi|
-|III|Complesso del citocromo bc₁|
-|IV|Citocromo c ossidasi|
-|V|ATP sintasi|
+| Complesso | Enzima                       |
+|-----------|------------------------------|
+| I         | NADH deidrogenasi            |
+| II        | Succinato deidrogenasi       |
+| III       | Complesso del citocromo bc₁  |
+| IV        | Citocromo c ossidasi         |
+| V         | ATP sintasi                  |
 
 
 
@@ -4586,6 +4577,7 @@ Il genoma può essere:
 * a doppio filamento (dsDNA o dsRNA)
 * lineare o circolare
 * segmentato (diviso in più molecole)
+
 2. Capside
 
 È il rivestimento proteico che circonda il materiale genetico.
@@ -4603,7 +4595,6 @@ Le forme principali sono:
 * elicoidale
 * icosaedrica (simile a un poliedro con 20 facce)
 * complessa (come i batteriofagi)
-
 
 
 3. Envelope (pericapside) – presente solo in alcuni virus
@@ -4718,9 +4709,6 @@ Rispetto alle cellule staminali dell'adulto:
 
 
 
-
-
-
 ### METAFORA SIMILITUDINE SINEDDOCHE
 
 "sei bello come il sole" → NON è una metafora, ma una **SIMILITUDINE**, perché usa "come" per fare un paragone.
@@ -4751,7 +4739,6 @@ L'**ANADIPLOSI** consiste nel ripetere, all'inizio di una frase, l'ultima parola
 
 
 
-
 ### GONADI
 
 Gli organi riproduttivi primari, cioè gli organi che hanno due funzioni fondamentali:
@@ -4760,11 +4747,10 @@ producono gli ormoni sessuali.
 
 Sono i caratteri sessuali primari.
 
-|Sesso|Gonadi|Producono gameti|Producono ormoni|
-|-|-|-|-|
-|Uomo|**Testicoli**|Spermatozoi|Testosterone|
-|Donna|**Ovaie**|Ovociti (ovuli)|Estrogeni e progesterone|
-
+| Sesso | Gonadi   | Producono gameti    | Producono ormoni        |
+|-------|----------|---------------------|-------------------------|
+| Uomo  | Testicoli| Spermatozoi         | Testosterone            |
+| Donna | Ovaie    | Ovociti (ovuli)     | Estrogeni e progesterone|
 
 
 Nei testicoli, la produzione degli spermatozoi avviene nei tubuli seminiferi attraverso la meiosi.
@@ -4822,7 +4808,7 @@ le ovaie rilasciano l'ovocita nella tuba uterina durante l'ovulazione.
   Il nucleo dell'ovulo si unisce a quello dello spermatozoo e nasce lo zigote.
   
 Questa è una caratteristica unica della specie umana e dei mammiferi: la meiosi dell'ovocita si completa soltanto in caso di fecondazione.
-  
+
 
 Le gonadi sono regolate dall'asse ipotalamo–ipofisi–gonadi.
 FSH (ormone follicolo-stimolante): stimola la formazione dei gameti.
@@ -4843,7 +4829,6 @@ Epididimo → dove gli spermatozoi maturano e vengono immagazzinati.
 Dotto deferente → trasporta gli spermatozoi verso la pelvi.
 Si unisce al dotto della vescicola seminale formando il dotto eiaculatore.
 Il dotto eiaculatore attraversa la prostata e sbocca nell'uretra.
-
 
 
 I CARATTERI SESSUALI SECONDARI sono le caratteristiche che compaiono durante la pubertà grazie agli ormoni prodotti dalle gonadi.
@@ -4891,7 +4876,7 @@ Esistono due tipi principali di tessuto osseo.
 un canale centrale con vasi sanguigni;
 tante lamelle ossee disposte come gli anelli di un tronco d'albero.
 
-Le lamelle ossee sono sottilissimi strati di tessuto osseo mineralizzato. Sono costituite da:  fibre di collagene, e sali di calcio (soprattutto idrossiapatite).
+Le lamelle ossee sono sottilissimi strati di tessuto osseo mineralizzato. Sono costituite da: fibre di collagene, e sali di calcio (soprattutto idrossiapatite).
 
 Le fibre di collagene di una lamella sono orientate in una direzione, mentre nella lamella successiva sono orientate diversamente. Questo rende l'osso molto resistente alla compressione, e resistente anche alla torsione e alla flessione.
 
@@ -4976,7 +4961,13 @@ Riassunto da ricordare
 1. Ghiandole esocrine: riversano il loro secreto attraverso un dotto (canale).
 
 Il prodotto non entra nel sangue, ma raggiunge:  la superficie della pelle; la cavità della bocca; lo stomaco; l'intestino; altri organi.
-ghiandole salivari → saliva, ghiandole sudoripare → sudore, ghiandole sebacee → sebo, ghiandole mammarie → latte, parte esocrina del pancreas → enzimi digestivi
+
+ghiandole salivari → saliva, 
+ghiandole sudoripare → sudore, 
+ghiandole sebacee → sebo, 
+ghiandole mammarie → latte, 
+parte esocrina del pancreas → enzimi digestivi
+
 Producono: enzimi muco saliva latte sudore sebo
 
 2. Ghiandole endocrine: non possiedono dotti.
@@ -5011,10 +5002,9 @@ Cortisolo: È l'ormone dello stress. Serve a:  aumentare la glicemia, ridurre l'
 
 2. Midollare surrenale
 
-Produce: adrenalina , noradrenalina
+Produce: adrenalina, noradrenalina
 
-Questi ormoni:  aumentano il battito cardiaco; aumentano la pressione; preparano alla risposta "attacco o fuga".
-
+Questi ormoni: aumentano il battito cardiaco; aumentano la pressione; preparano alla risposta "attacco o fuga".
 
 
 LE GHIANDOLE VESTIBOLARI
@@ -5022,7 +5012,6 @@ LE GHIANDOLE VESTIBOLARI
 Con il termine ghiandole vestibolari si indicano generalmente le ghiandole vestibolari maggiori, note anche come ghiandole di Bartholin.
 Si trovano ai lati dell'apertura vaginale. Funzione: producono un liquido lubrificante; facilitano i rapporti sessuali.
 Esistono anche ghiandole vestibolari minori distribuite nel vestibolo della vagina.
-
 
 
 LE GHIANDOLE VESCICOLARI
@@ -5103,21 +5092,15 @@ si stacca dal DNA;
 rilascia la molecola di RNA appena sintetizzata.
 
 RNA polimerasi I : Produce quasi tutti gli RNA ribosomiali (rRNA).
-RNA polimerasi II : È la più famosa. Produce:
-mRNA
-alcuni piccoli RNA regolatori (ad esempio alcuni snRNA e miRNA).
-
-RNA polimerasi III :  Produce:
-tRNA
-alcuni rRNA (come il 5S)
-altri piccoli RNA.
+RNA polimerasi II : È la più famosa. Produce: mRNA, alcuni piccoli RNA regolatori (ad esempio alcuni snRNA e miRNA).
+RNA polimerasi III :  Produce: tRNA, alcuni rRNA (come il 5S), altri piccoli RNA.
 
 
 
 ### DNA POLIMERASI
 
 La DNA polimerasi usa deossiribonucleotidi trifosfato, cioè: dATP dGTP dCTP dTTP
-Lavora sempre 5'→3'. Il filamento stampo viene invece letto 3'→5'.s
+Lavora sempre 5'→3'. Il filamento stampo viene invece letto 3'→5'.
 La DNA polimerasi legge il filamento stampo in direzione 3'→5' e sintetizza il nuovo filamento in direzione 5'→3'.
 
 ### MENDEL
@@ -5165,7 +5148,7 @@ La speciazione ALLOPATRICA è la formazione di una nuova specie a partire da una
 
 EVOLUZIONE DIVERGENTE: Una specie ancestrale dà origine a specie diverse che, adattandosi ad ambienti differenti, diventano sempre più diverse. Un antenato comune dei mammiferi possedeva un arto anteriore. Nel tempo quell'arto è diventato: mano nell'uomo; ala nel pipistrello; pinna nella balena; zampa nel cavallo.
 
-L'EVOLUZIONE CONVERGENTE è un fenomeno per cui specie diverse, non strettamente imparentate, evolvono caratteristiche simili perché vivono in ambienti simili o affrontano gli stessi problemi. Esempio: il corpo dello squalo è molto simile a quello del delfino, ma il primo è un pesce e il secondo un mammifero.
+EVOLUZIONE CONVERGENTE: è un fenomeno per cui specie diverse, non strettamente imparentate, evolvono caratteristiche simili perché vivono in ambienti simili o affrontano gli stessi problemi. Esempio: il corpo dello squalo è molto simile a quello del delfino, ma il primo è un pesce e il secondo un mammifero.
 
 
 
@@ -5194,7 +5177,7 @@ La CLOROFILLA è il pigmento verde delle piante. Serve ad assorbire la luce. Ass
 
 Il FOTOSISTEMA è un complesso di pigmenti e proteine presente nella membrana dei tilacoidi del cloroplasto, capace di assorbire la luce e trasformarne l'energia in energia chimica. E' costituito da clorofilla, altri pigmenti e numerose proteine.
 
-Fotosistema II (PSII): 2H2​O → O2​ + 4H+ + 4e−
+Fotosistema II (PSII): 2H₂​O → O₂​ + 4H⁺ + 4e−
 
 Fotosistema I (PSI). Riceve gli elettroni provenienti dal Fotosistema II. Li "ricarica" grazie alla luce e permette la formazione del NADPH, una molecola ricca di energia.
 
@@ -5209,7 +5192,7 @@ Più ripetizioni ci sono, più la malattia tende a comparire precocemente e a es
 
 ### GAS
 
-Se comprimi un gas: il volume diminuisce; la pressione aumenta. Legge di **Boyle** P1​V1​ = P2​V2​
+Se comprimi un gas: il volume diminuisce; la pressione aumenta. Legge di **Boyle** P₁​V₁​ = P₂​V₂​
 
 La solubilità è la quantità di gas che riesce a sciogliersi in un liquido.
 Più aumenta la pressione del gas sopra un liquido, più gas si scioglie nel liquido. Legge di **Henry**
@@ -5227,12 +5210,12 @@ la maggior parte diventa bicarbonato.
 Quando più gas sono mescolati, ciascuno esercita una propria pressione. Questa si chiama pressione parziale.
 Formula: P tot = P1 + P2 + P3 +…   (legge di **Dalton**)
 
-PO2 ​= 760 × 0,21 ≈ 160mmHg ( il 21% dell'aria e' O2)
+PO₂ ​= 760 × 0,21 ≈ 160mmHg ( il 21% dell'aria e' O₂)
 
 Legge di **Charles**, Pressione costante
-T1V1 = T2V2 	​
+T₁V₁ = T₂V₂
 Più aumenta la temperatura, più aumenta il volume.
-Legge di **Gay-Lussac**, Volume costante T1P1 = T2P2 Se aumenta la temperatura, aumenta la pressione.
+Legge di **Gay-Lussac**, Volume costante T₁P₁ = T₂P₂ Se aumenta la temperatura, aumenta la pressione.
 
 
 
