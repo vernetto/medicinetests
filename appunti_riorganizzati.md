@@ -5362,17 +5362,17 @@ Sono teratogeni:
 ### IPERBOLE PARABOLA ELLISSE
 
 Ellisse: ha sempre un segno + tra i due termini quadratici:
-x^2/a^2 + y^2/b^2 = 1
+x²/a² + y²/b² = 1
 
 Iperbole: ha sempre un segno + tra i due termini quadratici:
-x^2/a^2 - y^2/b^2 = 1   oppure
+x²/a² - y²/b² = 1   oppure
 xy = a (iperbole equilatera, asintoti coincidenti con gli assi cartesiani)
 
 Una parabola si riconosce perché solo una delle due variabili è al quadrato:
-y=ax2+bx+c  asse verticale
-x=ay2+by+c asse orizzontale
+y = ax² + bx + c  asse verticale
+x = ay² + by + c asse orizzontale
 
-equazione di una parabola ad asse verticale con vertice in (h,k):  y = a(x−h)^2 + k
+equazione di una parabola ad asse verticale con vertice in (h,k):  y = a(x−h)² + k
 
 
 ### PRODOTTO SCALARE E VETTORIALE
@@ -5402,12 +5402,10 @@ ormoni
 Questi anticorpi provocano infiammazione e danni ai tessuti.
 Le cause sono:
 
-1. Predisposizione genetica,
+1. Predisposizione genetica
 2. Infezioni , alcuni virus o batteri possono "confondere" il sistema immunitario. Questo fenomeno si chiama mimetismo molecolare. Virus ha proteina molto simile a una proteina umana, il sistema immunitario attacca entrambe.
-3 Fattori ambientali.
-Possono contribuire: fumo, radiazioni UV, alcuni farmaci, sostanze chimiche, stress intenso (può influenzare il sistema immunitario, anche se da solo raramente è la causa)
-3. Fattori ormonali
-Molte malattie autoimmuni sono più frequenti nelle donne. Gli estrogeni sembrano influenzare la risposta immunitaria.
+3. Fattori ambientali. Possono contribuire: fumo, radiazioni UV, alcuni farmaci, sostanze chimiche, stress intenso (può influenzare il sistema immunitario, anche se da solo raramente è la causa)
+4. Fattori ormonali. Molte malattie autoimmuni sono più frequenti nelle donne. Gli estrogeni sembrano influenzare la risposta immunitaria.
 
 Malattie autoimmuni SISTEMICHE: colpiscono molti organi. Esempi:
 Lupus eritematoso sistemico
@@ -5417,23 +5415,22 @@ Sindrome di Sjögren
 
 Malattie autoimmuni ORGANO-SPECIFICHE: Attaccano un solo organo:
 
-|Organo|Malattia|
-|-|-|
-|Tiroide|Tiroidite di Hashimoto|
-|Tiroide|Malattia di Graves|
-|Pancreas|Diabete mellito di tipo 1|
-|Sistema nervoso|Sclerosi multipla|
-|Pelle|Vitiligine|
+| Organo          | Malattia                  |
+|-----------------|---------------------------|
+| Tiroide         | Tiroidite di Hashimoto    |
+| Tiroide         | Malattia di Graves        |
+| Pancreas        | Diabete mellito di tipo 1 |
+| Sistema nervoso | Sclerosi multipla         |
+| Pelle           | Vitiligine                |
 
-|Autoanticorpo|Bersaglio|Malattia associata|
-|-|-|-|
-|ANA (anticorpi antinucleo)|Nucleo cellulare|Lupus e altre malattie autoimmuni|
-|Anti-DNA|DNA|Lupus|
-|Anti-TPO|Enzima della tiroide|Tiroidite di Hashimoto|
-|Anti-recettore del TSH|Recettore del TSH|Malattia di Graves|
-|Anti-GAD|Enzima GAD|Diabete di tipo 1|
-|Fattore reumatoide|Immunoglobuline|Artrite reumatoide|
-
+| Autoanticorpo                    | Bersaglio                | Malattia associata                  |
+|----------------------------------|--------------------------|-------------------------------------|
+| ANA (anticorpi antinucleo)       | Nucleo cellulare         | Lupus e altre malattie autoimmuni   |
+| Anti-DNA                         | DNA                      | Lupus                               |
+| Anti-TPO                         | Enzima della tiroide     | Tiroidite di Hashimoto              |
+| Anti-recettore del TSH           | Recettore del TSH        | Malattia di Graves                  |
+| Anti-GAD                         | Enzima GAD               | Diabete di tipo 1                   |
+| Fattore reumatoide               | Immunoglobuline          | Artrite reumatoide                  |
 
 
 Anche i linfociti T autoreattivi possono causare danni, quindi non tutte le malattie autoimmuni sono dovute principalmente agli autoanticorpi.
@@ -5513,7 +5510,7 @@ Gli animali PECILOTERMI (o, più correttamente, nella maggior parte dei casi, EC
 
 La FORMULA MINIMA (o FORMULA EMPIRICA) di un composto è la formula che indica il rapporto più semplice, espresso con numeri interi, tra gli atomi degli elementi presenti.
 Non dice il numero reale di atomi nella molecola (FORMULA MOLECOLARE), ma solo le loro proporzioni.
-Esempio: H2​O2 ha formula minima HO. C6​H12​O6​ ha CH2O. C6​H6​ -> CH
+Esempio: H₂​O₂ ha formula minima HO. C₆​H₁₂​O₆​ ha CH₂O. C₆​H₆​ -> CH
 
 Una BASE DI LEWIS è una sostanza che dona una coppia di elettroni per formare un nuovo legame chimico.
 È una definizione più ampia rispetto a Brønsted-Lowry che parla solo di H+ (protoni).
@@ -5561,7 +5558,7 @@ La biosegnalazione controlla praticamente tutto ciò che avviene nel nostro orga
 
 ### LENTI E RIFRAZIONE
 
-**Rifrazione** : È la deviazione subita da un'onda (come la luce) quando passa da un mezzo materiale a un altro con una diversa densità ottica (ad esempio dall'aria al vetro, o dall'aria all'acqua). Il cambiamento di mezzo causa un cambio di velocità di propagazione della luce. Questo varia l'angolo del raggio luminoso secondo la **Legge di Snell**: n1 x sin(theta_1) = n_2 x sin(theta_2) con n1 e n2 gli indici di rifrazione dei due mezzi, e theta_1 theta_2 gli angoli di incidenza e rifrazione con la normale.
+**Rifrazione** : È la deviazione subita da un'onda (come la luce) quando passa da un mezzo materiale a un altro con una diversa densità ottica (ad esempio dall'aria al vetro, o dall'aria all'acqua). Il cambiamento di mezzo causa un cambio di velocità di propagazione della luce. Questo varia l'angolo del raggio luminoso secondo la **Legge di Snell**: n1 x sin(θ₁) = n_2 x sin(θ₂) con n1 e n2 gli indici di rifrazione dei due mezzi, e θ₁ θ₂ gli angoli di incidenza e rifrazione con la normale.
 
 **Diffrazione** : È un fenomeno tipico della natura ondulatoria della luce che si verifica quando un'onda incontra un ostacolo o passa attraverso una fenditura di dimensioni paragonabili alla sua lunghezza d'onda. Come funziona: L'onda, anziché proseguire in linea retta, "si piega" attorno ai bordi dell'ostacolo e si diffonde oltre la fenditura, creando frange chiare e scure.
 
@@ -5600,14 +5597,14 @@ La parola non implica automaticamente che entrambi ne traggano beneficio:
 ### LAVORO E FORZA
 
 L = F x s  lavoro = forza per spostamento, 
-la forza è misurata in Newton 1 N = 1 Kg x m / s^2 
+la forza è misurata in Newton 1 N = 1 Kg x m / s² 
 il lavoro è misurato in Joule 1 J = 1 N x m
 
-energia cinetica = 1/2 m v^2 in Joule
+energia cinetica = 1/2 m v² in Joule
 
 energia potenziale gravitazionale Ep ​= mgh
 
-F=ma a=dv​/dt dv/dt=dv/dx dx/dt = v dv/dx  -> F = mv dv/dx -> Fdx = mv dv -> L = integrale di mvdv = 1/2 m v^2
+F=ma a=dv​/dt dv/dt=dv/dx dx/dt = v dv/dx  -> F = mv dv/dx -> Fdx = mv dv -> L = integrale di mvdv = 1/2 m v²
 
 ### Campo elettrico di un piano infinito
 
@@ -5624,7 +5621,7 @@ Il momento di una forza (o torque) misura la capacità di una forza di far ruota
 M = F d sin(θ) 
 M = momento della forza ( N x m )
 F = forza applicata (N)
-d = dispanza fra il punto O (fulcro) e il punto P dove è applicata la forza
+d = distanza fra il punto O (fulcro) e il punto P dove è applicata la forza
 θ = angolo fra la forza e il segmento OP
 
 O è il fulcro, cioè il punto attorno al quale il corpo potrebbe ruotare.
@@ -5667,7 +5664,7 @@ Un trigliceride è formato da:
 3 acidi grassi
 Possono contenere acidi grassi saturi e insaturi nella stessa molecola.
 
-Durante la formazione del trigliceride avviene una reazione di condensazione (esterificazione): ogni acido grasso si lega al glicerolo formando un legame estere e liberando una molecola d'acqua: glicerolo + 3 acidi grassi → trigliceride + 3H2​O
+Durante la formazione del trigliceride avviene una reazione di condensazione (esterificazione): ogni acido grasso si lega al glicerolo formando un legame estere e liberando una molecola d'acqua: glicerolo + 3 acidi grassi → trigliceride + 3H₂​O
 Li troviamo: 
 🧈 nel burro
 🫒 nell'olio d'oliva
@@ -5691,7 +5688,7 @@ Molto alti: ≥500 mg/dL
 Trigliceridi molto elevati aumentano il rischio di pancreatite e spesso si associano a obesità, diabete e abuso di alcol.
 
 Il **glicerolo** (o glicerina, quando è puro) è una piccola molecola organica che costituisce lo "scheletro" dei trigliceridi e di molti altri lipidi.
-Ha formula C3H8O3. Il glicerolo è un triolo, cioè un alcol con 3 gruppi OH. È presente anche nei fosfolipidi = 1 glicerolo + 2 acidi grassi + 1 gruppo fosfato.
+Ha formula C₃H₈O₃. Il glicerolo è un triolo, cioè un alcol con 3 gruppi OH. È presente anche nei fosfolipidi = 1 glicerolo + 2 acidi grassi + 1 gruppo fosfato.
 
 
 ### ELEMENTI
