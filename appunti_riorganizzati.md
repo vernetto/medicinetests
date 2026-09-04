@@ -5319,8 +5319,6 @@ Se si produce il cDNA di tutti gli mRNA presenti in una cellula, si ottiene una 
 Questa libreria contiene solo i geni che erano espressi in quella cellula in quel momento.
 Il cDNA non contiene introni, quindi può essere inserito direttamente in batteri per produrre proteine umane (es. insulina).
 
-
-
 Le SEQUENZE INTERGENICHE sono i tratti di DNA situati tra un gene e il successivo. In altre parole, sono le regioni del genoma che non fanno parte di alcun gene. Per molti anni furono chiamate DNA spazzatura (junk DNA), ma oggi sappiamo che molte hanno funzioni fondamentali.
 
 1. Regolano l'espressione dei geni
